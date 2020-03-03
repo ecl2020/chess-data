@@ -61,7 +61,7 @@ def pick():
         elif choice == "3":
             break
         else:
-            print("try again silly goose")
+            print("try again")
             pick()
             break
 
