@@ -9,4 +9,4 @@
 
 ## Mark Weeks: FIDE Historical Ratings
 
-[FIDE Historical Ratings](https://www.mark-weeks.com/chess/ratings/) covers 1975-2000. Data downloaded from Mark's website appears in 
+[FIDE Historical Ratings](https://www.mark-weeks.com/chess/ratings/) covers 1975-2000. Data downloaded from Mark's website appears in [fide_hist.txt](./data/fide_hist.txt)
