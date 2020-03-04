@@ -1,4 +1,4 @@
-  Name  Rating  Year
+  Name  Rating  Year
   John Cochrane  	2571	1843
   Pierre Saint-Amant  	2568	1843
   Eugène Rousseau  	2340	1843
