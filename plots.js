@@ -11,7 +11,7 @@ var cmr = d3.select("#cmr_plot")
     .attr("transform",
         "translate(" + margin.left + "," + margin.top + ")");
 
-d3.tsv("data/cmr.txt", function(data) {
+d3.tsv("./data/cmr.txt", function(data) {
     console.log(data[0])
 })
 
