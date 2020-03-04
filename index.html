@@ -1,0 +1,29 @@
+<html>
+
+<head>
+    <title>Chess Ratinng Visualization</title>
+    <!-- For jquery? not sure but it makes things work -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <!-- For d3 -->
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script>
+        $(function () {
+            InitChart();
+        });
+        function InitChart() {
+            var vis = d3.select("#svgVisualize");
+            var xRange = d3.scale.linear().range([40, 400]).domain([0, 100]);
+            var yRange = d3.scale.linear().range([40, 400]).domain([0, 100]);
+            var xAxis = d3.svg.axis().scale(xRange);
+            var yAxis = d3.svg.axis().scale(yRange);
+            vis.append("svg:g").call(xAxis);
+            vis.append("svg:g").call(yAxis);
+        }
+    </script>
+</head>
+
+<body>
+    <svg id="svgVisualize" width="500" height="500"></svg>
+</body>
+
+</html>
