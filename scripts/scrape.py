@@ -14,9 +14,6 @@ def parse(data, file):
         player = player[1:]
         rating = player[-4:]
         name = player[re.search("\D", player).start():-4]
-        # This is included because I ran into some issues with apostrophes in R
-        if "'" in name:
-            name.replace("'", "")
         file.write(name + "\t" + str(rating) + "\t" + str(data[1]) + "\n")
     print("completed year " + str(data[1]) + "\n")
 
