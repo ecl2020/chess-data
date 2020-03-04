@@ -1,4 +1,5 @@
-  John Cochrane  	2571	1843
+  Name  Rating  Year
+  John Cochrane  	2571	1843
   Pierre Saint-Amant  	2568	1843
   Eugène Rousseau  	2340	1843
   Benjamin Oliver  	2340	1843
