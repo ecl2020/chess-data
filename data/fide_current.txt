@@ -1,0 +1,3041 @@
+"FED"	"name_FED"	"ISO3"	"rating"	"name"	"players"	"year"
+"AFG"	"Afghanistan"	"AFG"	2200	"Zahiruddin, Asefi"	2	2001
+"ALB"	"Albania"	"ALB"	2483	"Cela, Altin"	25	2001
+"ALG"	"Algeria"	"DZA"	2373	"Rizouk, Aimen"	51	2001
+"AND"	"Andorra"	"AND"	2496	"De La Riva Aguado, Oscar"	13	2001
+"ANG"	"Angola"	"AGO"	2266	"Agnelio, Amorin"	19	2001
+"ARG"	"Argentina"	"ARG"	2554	"Ricardi, Pablo"	721	2001
+"ARM"	"Armenia"	"ARM"	2656	"Akopian, Vladimir"	131	2001
+"AUS"	"Australia"	"AUS"	2529	"Rogers, Ian"	159	2001
+"AUT"	"Austria"	"AUT"	2513	"Stanec, Nikolaus"	746	2001
+"AZE"	"Azerbaijan"	"AZE"	2545	"Magerramov, Elmar"	129	2001
+"BRN"	"Bahrain"	"BHR"	2230	"Janahi, Khalid"	10	2001
+"BAN"	"Bangladesh"	"BGD"	2458	"Reefat, Bin-Sattar"	106	2001
+"BAR"	"Barbados"	"BRB"	2320	"Buckmire, Ron"	15	2001
+"BLR"	"Belarus"	"BLR"	2610	"Aleksandrov, Aleksej"	178	2001
+"BEL"	"Belgium"	"BEL"	2694	"Gurevich, Mikhail"	201	2001
+"BER"	"Bermuda"	"BMU"	2264	"Black, Richard"	8	2001
+"BOL"	"Bolivia"	"BOL"	2328	"Cueto, J."	24	2001
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2659	"Sokolov, Ivan"	114	2001
+"BOT"	"Botswana"	"BWA"	2223	"Hutcheson, J."	19	2001
+"BRA"	"Brazil"	"BRA"	2608	"Milos, Gilberto"	394	2001
+"IVB"	"British Virgin Islands"	"VGB"	2220	"Jarecki, John"	3	2001
+"BRU"	"Brunei"	"BRN"	2205	"Ali, M.Z."	4	2001
+"BUL"	"Bulgaria"	"BGR"	2718	"Topalov, Veselin"	399	2001
+"CAN"	"Canada"	"CAN"	2582	"Lesiege, Alexandre"	244	2001
+"CHI"	"Chile"	"CHL"	2506	"Campos Moreno, Javier B."	382	2001
+"CHN"	"China"	"CHN"	2671	"Ye, Jiangchuan"	220	2001
+"COL"	"Colombia"	"COL"	2485	"Zapata, Alonso"	119	2001
+"CRC"	"Costa Rica"	"CRI"	2440	"Gonzalez, Bernal"	48	2001
+"CRO"	"Croatia"	"HRV"	2594	"Kozul, Zdenko"	539	2001
+"CUB"	"Cuba"	"CUB"	2584	"Bruzon, Lazaro"	437	2001
+"CYP"	"Cyprus"	"CYP"	2528	"Kotronias, Vasilios"	19	2001
+"CZE"	"Czech Republic"	"CZE"	2661	"Movsesian, Sergei"	1052	2001
+"DEN"	"Denmark"	"DNK"	2619	"Hansen, Curt"	454	2001
+"DOM"	"Dominican Republic"	"DOM"	2425	"Liao, Yuan Eu"	24	2001
+"ECU"	"Ecuador"	"ECU"	2467	"Matamoros Franco, Carlos S."	112	2001
+"EGY"	"Egypt"	"EGY"	2481	"El Taher, Fouad"	163	2001
+"ESA"	"El Salvador"	"SLV"	2428	"Leyva, Hector"	23	2001
+"EST"	"Estonia"	"EST"	2638	"Ehlvest, Jaan"	106	2001
+"ETH"	"Ethiopia"	"ETH"	2200	"Hailu, Wossenyelew"	3	2001
+"FAI"	"Faroe Islands"	"FRO"	2371	"Nilssen, John Arni"	24	2001
+"FIJ"	"Fiji"	"FJI"	2220	"Norris, Damian C"	2	2001
+"FIN"	"Finland"	"FIN"	2468	"Karttunen, Mika"	234	2001
+"FRA"	"France"	"FRA"	2672	"Tkachiev, Vladislav"	1616	2001
+"GAM"	"Gambia"	"GMB"	2205	"Jallow, A."	2	2001
+"GEO"	"Georgia"	"GEO"	2670	"Azmaiparashvili, Zurab"	163	2001
+"GER"	"Germany"	"DEU"	2645	"Jussupow, Artur"	4687	2001
+"GHA"	"Ghana"	"GHA"	2205	"Asmah, F."	2	2001
+"GRE"	"Greece"	"GRC"	2591	"Papaioannou, Ioannis"	418	2001
+"GUA"	"Guatemala"	"GTM"	2400	"Juarez Flores, Carlos A."	28	2001
+"GCI"	"Guernsey"	"GGY"	2270	"Holland, Christopher"	5	2001
+"GUY"	"Guyana"	"GUY"	2215	"Broomes, Maurice"	1	2001
+"HAI"	"Haiti"	"HTI"	2093	"Afriany, V."	1	2001
+"HON"	"Honduras"	"HND"	2302	"Guillen Ramirez, Jose Antoni"	14	2001
+"HKG"	"Hong Kong"	"HKG"	2415	"Yang, Xian"	20	2001
+"HUN"	"Hungary"	"HUN"	2745	"Leko, Peter"	1555	2001
+"ISL"	"Iceland"	"ISL"	2633	"Hjartarson, Johann"	115	2001
+"IND"	"India"	"IND"	2790	"Anand, Viswanathan"	791	2001
+"INA"	"Indonesia"	"IDN"	2589	"Adianto, Utut"	118	2001
+"IRI"	"Iran"	"IRN"	2504	"Ghaem Maghami, Ehsan"	106	2001
+"IRQ"	"Iraq"	"IRQ"	2398	"Hussein, H.A."	129	2001
+"IRL"	"Ireland"	"IRL"	2598	"Baburin, Alexander"	91	2001
+"ISR"	"Israel"	"ISR"	2712	"Gelfand, Boris"	432	2001
+"ITA"	"Italy"	"ITA"	2500	"Zilberstein, David"	710	2001
+"JAM"	"Jamaica"	"JAM"	2242	"Matthews, Shane"	18	2001
+"JPN"	"Japan"	"JPN"	2379	"Watanabe, Akira"	19	2001
+"JCI"	"Jersey"	"JEY"	2219	"Fulton, A.J."	6	2001
+"JOR"	"Jordan"	"JOR"	2407	"Khader, Sami"	48	2001
+"KAZ"	"Kazakhstan"	"KAZ"	2612	"Vladimirov, Evgeny"	153	2001
+"KEN"	"Kenya"	"KEN"	2210	"Chomu Clement, Miheso"	7	2001
+"KUW"	"Kuwait"	"KWT"	2280	"Fares, Al-Geran"	4	2001
+"KGZ"	"Kyrgyzstan"	"KGZ"	2543	"Yurtaev, Leonid"	22	2001
+"LAT"	"Latvia"	"LVA"	2586	"Kengis, Edvins"	106	2001
+"LIB"	"Lebanon"	"LBN"	2443	"Sammour-Hasbun, Jorge E."	31	2001
+"LBA"	"Libya"	"LBY"	2358	"Chahrani, Ibrahim"	13	2001
+"LIE"	"Liechtenstein"	"LIE"	2472	"Atlas, Valeri"	10	2001
+"LTU"	"Lithuania"	"LTU"	2630	"Rozentalis, Eduardas"	157	2001
+"LUX"	"Luxembourg"	"LUX"	2521	"David, Alberto"	32	2001
+"MAC"	"Macao"	"MAC"	2200	"Fesalbon, Rolando"	14	2001
+"MKD"	"Macedonia"	"MKD"	2601	"Najdoski, Toni"	160	2001
+"MAD"	"Madagascar"	"MDG"	2079	"Rabenandrasana, Liva"	2	2001
+"MAS"	"Malaysia"	"MYS"	2456	"Mas, Hafizulhelmi"	60	2001
+"MLI"	"Mali"	"MLI"	2205	"Alhousseyni, Hasseye"	8	2001
+"MLT"	"Malta"	"MLT"	2344	"Borg, Geoffrey"	17	2001
+"MRI"	"Mauritius"	"MUS"	2205	"Jooty, A."	6	2001
+"MEX"	"Mexico"	"MEX"	2569	"Hernandez, Gilberto"	265	2001
+"MDA"	"Moldova"	"MDA"	2684	"Bologan, Viktor"	117	2001
+"MNC"	"Monaco"	"MCO"	2395	"Sorm, Daniel"	10	2001
+"MGL"	"Mongolia"	"MNG"	2481	"Hatanbaatar, Bazar"	51	2001
+"MAR"	"Morocco"	"MAR"	2535	"Hamdouchi, Hichem"	19	2001
+"MOZ"	"Mozambique"	"MOZ"	2192	"Chambule, Pedro Lucas"	2	2001
+"MYA"	"Myanmar"	"MMR"	2541	"Thein, Dan Oo"	204	2001
+"NAM"	"Namibia"	"NAM"	2205	"Mueller, Leonhard"	4	2001
+"NEP"	"Nepal"	"NPL"	2180	"Shresta, Bilam Lal"	4	2001
+"NED"	"Netherlands"	"NLD"	2700	"Van Wely, Loek"	572	2001
+"AHO"	"Netherlands Antilles"	"ANT"	2221	"Neumann, Han H.W.M."	8	2001
+"NZL"	"New Zealand"	"NZL"	2411	"Dive, Russell John"	62	2001
+"NCA"	"Nicaragua"	"NIC"	2367	"Davila, Carlos"	33	2001
+"NGR"	"Nigeria"	"NGA"	2305	"Aikhoje, Odion"	23	2001
+"NOR"	"Norway"	"NOR"	2591	"Agdestein, Simen"	215	2001
+"PAK"	"Pakistan"	"PAK"	2417	"Lodhi, Mahmood"	28	2001
+"PLE"	"Palestine"	"PSE"	2218	"Moussa, Alaa-Eddine"	18	2001
+"PAN"	"Panama"	"PAN"	2285	"Paniagua, Roberto"	11	2001
+"PNG"	"Papua New Guinea"	"PNG"	2216	"Tia, Rudy Jr."	5	2001
+"PAR"	"Paraguay"	"PRY"	2366	"Valiente, Cristobal"	30	2001
+"PER"	"Peru"	"PER"	2605	"Granda Zuniga, Julio E"	95	2001
+"PHI"	"Philippines"	"PHL"	2560	"Villamayor, Buenaventura"	97	2001
+"POL"	"Poland"	"POL"	2658	"Krasenkow, Michal"	1573	2001
+"POR"	"Portugal"	"PRT"	2496	"Antunes, Antonio"	124	2001
+"PUR"	"Puerto Rico"	"PRI"	2287	"Montalvo, Alejandro"	34	2001
+"QAT"	"Qatar"	"QAT"	2490	"Al-Modiahki, Mohamad"	20	2001
+"RUS"	"Russia"	"RUS"	2849	"Kasparov, Gary"	4112	2001
+"SMR"	"San Marino"	"SMR"	2205	"Lavorgna, Giovanni"	8	2001
+"SCO"	"United Kingdom"	"GBR"	2505	"Motwani, Paul"	112	2001
+"ENG"	"United Kingdom"	"GBR"	2746	"Adams, Michael"	770	2001
+"WLS"	"United Kingdom"	"GBR"	2360	"Botterill, George S."	77	2001
+"SEN"	"Senegal"	"SEN"	2215	"Gueye, Gorgui"	3	2001
+"SEY"	"Seychelles"	"SYC"	2200	"Hoareau, Benjamin"	5	2001
+"SIN"	"Singapore"	"SGP"	2535	"Wu, Shaobin"	61	2001
+"SVK"	"Slovakia"	"SVK"	2618	"Ftacnik, Lubomir"	471	2001
+"SLO"	"Slovenia"	"SVN"	2638	"Beliavsky, Alexander G"	285	2001
+"RSA"	"South Africa"	"ZAF"	2405	"Michelakis, George"	29	2001
+"ESP"	"Spain"	"ESP"	2718	"Shirov, Alexei"	1787	2001
+"SRI"	"Sri Lanka"	"LKA"	2385	"Aturupane, Harsha"	25	2001
+"SUD"	"Sudan"	"SDN"	2215	"Hamadto, Izz El Din Faisal"	8	2001
+"SUR"	"Suriname"	"SUR"	2220	"Lindeboom, J"	9	2001
+"SWE"	"Sweden"	"SWE"	2640	"Andersson, Ulf"	498	2001
+"SUI"	"Switzerland"	"CHE"	2639	"Korchnoi, Viktor"	396	2001
+"SYR"	"Syria"	"SYR"	2440	"Hakki, Imad"	48	2001
+"TJK"	"Tajikistan"	"TJK"	2433	"Isaev, Jamshed"	8	2001
+"THA"	"Thailand"	"THA"	2373	"Sunthornpongsathorn, Verapho"	16	2001
+"TUN"	"Tunisia"	"TUN"	2371	"Kaabi, Mejdi"	20	2001
+"TUR"	"Turkey"	"TUR"	2376	"Soylu, Suat"	143	2001
+"TKM"	"Turkmenistan"	"TKM"	2533	"Annakov, Babakuli"	56	2001
+"UGA"	"Uganda"	"UGA"	2360	"Naimanye, Andrew"	17	2001
+"UKR"	"Ukraine"	"UKR"	2717	"Ivanchuk, Vassily"	822	2001
+"UAE"	"United Arab Emirates"	"ARE"	2435	"Saeed, Saeed-Ahmed"	66	2001
+"USA"	"United States"	"USA"	2780	"Fischer, Robert J"	1111	2001
+"URU"	"Uruguay"	"URY"	2493	"Rodriguez, Andres"	49	2001
+"ISV"	"US Virgin Islands"	"VIR"	2289	"Van Tilbury, Craig"	6	2001
+"UZB"	"Uzbekistan"	"UZB"	2693	"Kasimdzhanov, Rustam"	72	2001
+"VEN"	"Venezuela"	"VEN"	2403	"Gallegos, Carlos"	62	2001
+"VIE"	"Vietnam"	"VNM"	2564	"Dao, Thien Hai"	46	2001
+"YEM"	"Yemen"	"YEM"	2393	"Hatem, Ibrahim Ahamed"	17	2001
+"ZAM"	"Zambia"	"ZMB"	2462	"Simutowe, Amon"	12	2001
+"ZIM"	"Zimbabwe"	"ZWE"	2287	"Gwaze, Robert"	20	2001
+"ALB"	"Albania"	"ALB"	2525	"Dervishi, Erald"	21	2002
+"ALG"	"Algeria"	"DZA"	2467	"Rizouk, Aimen"	31	2002
+"AND"	"Andorra"	"AND"	2495	"De La Riva Aguado, Oscar"	12	2002
+"ANG"	"Angola"	"AGO"	2266	"Agnelio, Amorin"	10	2002
+"ARG"	"Argentina"	"ARG"	2551	"Sorokin, Maxim"	437	2002
+"ARM"	"Armenia"	"ARM"	2680	"Akopian, Vladimir"	105	2002
+"AUS"	"Australia"	"AUS"	2555	"Rogers, Ian"	116	2002
+"AUT"	"Austria"	"AUT"	2527	"Beim, Valery"	655	2002
+"AZE"	"Azerbaijan"	"AZE"	2599	"Radjabov, Teimour"	98	2002
+"BRN"	"Bahrain"	"BHR"	2185	"Karem, Basel"	5	2002
+"BAN"	"Bangladesh"	"BGD"	2510	"Rahman, Ziaur"	90	2002
+"BAR"	"Barbados"	"BRB"	2316	"Denny, Kevin"	11	2002
+"BLR"	"Belarus"	"BLR"	2645	"Aleksandrov, Aleksej"	172	2002
+"BEL"	"Belgium"	"BEL"	2641	"Gurevich, Mikhail"	168	2002
+"BER"	"Bermuda"	"BMU"	2246	"Black, Richard"	2	2002
+"BOL"	"Bolivia"	"BOL"	2400	"Cueto, J."	53	2002
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2659	"Sokolov, Ivan"	96	2002
+"BOT"	"Botswana"	"BWA"	2235	"Hutcheson, J."	11	2002
+"BRA"	"Brazil"	"BRA"	2590	"Vescovi, Giovanni"	301	2002
+"IVB"	"British Virgin Islands"	"VGB"	2159	"Hook, W."	1	2002
+"BRU"	"Brunei"	"BRN"	2200	"Dollah, Zaidi"	1	2002
+"BUL"	"Bulgaria"	"BGR"	2739	"Topalov, Veselin"	222	2002
+"CAN"	"Canada"	"CAN"	2572	"Lesiege, Alexandre"	160	2002
+"CHI"	"Chile"	"CHL"	2554	"Morovic Fernandez, Ivan"	248	2002
+"CHN"	"China"	"CHN"	2676	"Ye, Jiangchuan"	201	2002
+"COL"	"Colombia"	"COL"	2541	"Zapata, Alonso"	94	2002
+"CRC"	"Costa Rica"	"CRI"	2424	"Gonzalez, Bernal"	25	2002
+"CRO"	"Croatia"	"HRV"	2606	"Kozul, Zdenko"	487	2002
+"CUB"	"Cuba"	"CUB"	2594	"Dominguez, Lenier"	350	2002
+"CYP"	"Cyprus"	"CYP"	2568	"Kotronias, Vasilios"	13	2002
+"CZE"	"Czech Republic"	"CZE"	2624	"Movsesian, Sergei"	994	2002
+"DEN"	"Denmark"	"DNK"	2642	"Nielsen, Peter Heine"	345	2002
+"DOM"	"Dominican Republic"	"DOM"	2391	"Mateo, Ramon"	13	2002
+"ECU"	"Ecuador"	"ECU"	2456	"Matamoros Franco, Carlos S."	117	2002
+"EGY"	"Egypt"	"EGY"	2502	"El Taher, Fouad"	168	2002
+"ESA"	"El Salvador"	"SLV"	2393	"Leyva, Hector"	18	2002
+"EST"	"Estonia"	"EST"	2589	"Ehlvest, Jaan"	79	2002
+"ETH"	"Ethiopia"	"ETH"	2200	"Hailu, Wossenyelew"	3	2002
+"FAI"	"Faroe Islands"	"FRO"	2365	"Rodgaard, John"	20	2002
+"FIN"	"Finland"	"FIN"	2522	"Kallio, Heikki"	203	2002
+"FRA"	"France"	"FRA"	2687	"Lautier, Joel"	1525	2002
+"GEO"	"Georgia"	"GEO"	2676	"Azmaiparashvili, Zurab"	150	2002
+"GER"	"Germany"	"DEU"	2644	"Lutz, Christopher"	3760	2002
+"GRE"	"Greece"	"GRC"	2601	"Papaioannou, Ioannis"	340	2002
+"GUA"	"Guatemala"	"GTM"	2396	"Juarez Flores, Carlos A."	12	2002
+"GCI"	"Guernsey"	"GGY"	2200	"Wilson, Peter"	4	2002
+"HAI"	"Haiti"	"HTI"	2089	"Afriany, V."	1	2002
+"HON"	"Honduras"	"HND"	2320	"Guillen Ramirez, Jose Antoni"	5	2002
+"HKG"	"Hong Kong"	"HKG"	2394	"Ady, Jonathan J."	9	2002
+"HUN"	"Hungary"	"HUN"	2713	"Leko, Peter"	1157	2002
+"ISL"	"Iceland"	"ISL"	2604	"Stefansson, Hannes"	69	2002
+"IND"	"India"	"IND"	2757	"Anand, Viswanathan"	645	2002
+"INA"	"Indonesia"	"IDN"	2587	"Adianto, Utut"	34	2002
+"IRI"	"Iran"	"IRN"	2513	"Ghaem Maghami, Ehsan"	85	2002
+"IRQ"	"Iraq"	"IRQ"	2404	"Sarsam, S.A."	88	2002
+"IRL"	"Ireland"	"IRL"	2565	"Baburin, Alexander"	47	2002
+"ISR"	"Israel"	"ISR"	2703	"Gelfand, Boris"	289	2002
+"ITA"	"Italy"	"ITA"	2500	"Bellini, Fabio"	555	2002
+"JAM"	"Jamaica"	"JAM"	2275	"Elliott, Warren"	10	2002
+"JPN"	"Japan"	"JPN"	2381	"Watanabe, Akira"	17	2002
+"JCI"	"Jersey"	"JEY"	2224	"Fulton, A.J."	4	2002
+"JOR"	"Jordan"	"JOR"	2413	"Khader, Sami"	45	2002
+"KAZ"	"Kazakhstan"	"KAZ"	2592	"Vladimirov, Evgeny"	164	2002
+"KEN"	"Kenya"	"KEN"	2200	"Magana, Ben"	5	2002
+"KUW"	"Kuwait"	"KWT"	2053	"Mulla Jumma, Taher"	1	2002
+"KGZ"	"Kyrgyzstan"	"KGZ"	2532	"Yurtaev, Leonid"	23	2002
+"LAT"	"Latvia"	"LVA"	2571	"Fridman, Daniel"	92	2002
+"LIB"	"Lebanon"	"LBN"	2443	"Sammour-Hasbun, Jorge E."	22	2002
+"LBA"	"Libya"	"LBY"	2312	"Chahrani, Ibrahim"	6	2002
+"LIE"	"Liechtenstein"	"LIE"	2503	"Atlas, Valeri"	8	2002
+"LTU"	"Lithuania"	"LTU"	2598	"Rozentalis, Eduardas"	111	2002
+"LUX"	"Luxembourg"	"LUX"	2516	"David, Alberto"	29	2002
+"MAC"	"Macao"	"MAC"	2200	"Chan, Kuok"	10	2002
+"MKD"	"Macedonia"	"MKD"	2600	"Najdoski, Toni"	119	2002
+"MAS"	"Malaysia"	"MYS"	2429	"Mas, Hafizulhelmi"	19	2002
+"MLT"	"Malta"	"MLT"	2349	"Borg, Geoffrey"	6	2002
+"MRI"	"Mauritius"	"MUS"	2200	"Marie, Patrick"	4	2002
+"MEX"	"Mexico"	"MEX"	2547	"Hernandez, Gilberto"	137	2002
+"MDA"	"Moldova"	"MDA"	2651	"Bologan, Viktor"	113	2002
+"MNC"	"Monaco"	"MCO"	2261	"Kesmaecker, Philippe"	9	2002
+"MGL"	"Mongolia"	"MNG"	2453	"Hatanbaatar, Bazar"	35	2002
+"MAR"	"Morocco"	"MAR"	2522	"Hamdouchi, Hichem"	15	2002
+"MOZ"	"Mozambique"	"MOZ"	2111	"Andrade, Ivan"	1	2002
+"MYA"	"Myanmar"	"MMR"	2541	"Thein, Dan Oo"	181	2002
+"NAM"	"Namibia"	"NAM"	2201	"Mueller, Leonhard"	4	2002
+"NEP"	"Nepal"	"NPL"	2133	"Badri, Nepali"	2	2002
+"NED"	"Netherlands"	"NLD"	2697	"Van Wely, Loek"	448	2002
+"AHO"	"Netherlands Antilles"	"ANT"	2221	"Neumann, Han H.W.M."	5	2002
+"NZL"	"New Zealand"	"NZL"	2405	"Dive, Russell John"	31	2002
+"NCA"	"Nicaragua"	"NIC"	2346	"Guevara, Martin"	24	2002
+"NGR"	"Nigeria"	"NGA"	2305	"Aikhoje, Odion"	5	2002
+"NOR"	"Norway"	"NOR"	2572	"Agdestein, Simen"	151	2002
+"PAK"	"Pakistan"	"PAK"	2395	"Lodhi, Mahmood"	6	2002
+"PLE"	"Palestine"	"PSE"	2219	"Salem, Ihab"	11	2002
+"PAN"	"Panama"	"PAN"	2288	"Esquivel, Luis"	3	2002
+"PNG"	"Papua New Guinea"	"PNG"	2202	"Marko, Helmut"	3	2002
+"PAR"	"Paraguay"	"PRY"	2510	"Franco Ocampos, Zenon"	29	2002
+"PER"	"Peru"	"PER"	2482	"Urday, Henry"	80	2002
+"PHI"	"Philippines"	"PHL"	2536	"Torre, Eugenio"	48	2002
+"POL"	"Poland"	"POL"	2632	"Krasenkow, Michal"	1174	2002
+"POR"	"Portugal"	"PRT"	2521	"Galego, Luis"	113	2002
+"PUR"	"Puerto Rico"	"PRI"	2263	"Montalvo, Alejandro"	17	2002
+"QAT"	"Qatar"	"QAT"	2500	"Al-Modiahki, Mohamad"	6	2002
+"RUS"	"Russia"	"RUS"	2838	"Kasparov, Garry"	3649	2002
+"SMR"	"San Marino"	"SMR"	2200	"Renzi, Nicola"	5	2002
+"SCO"	"United Kingdom"	"GBR"	2512	"Rowson, Jonathan"	50	2002
+"ENG"	"United Kingdom"	"GBR"	2742	"Adams, Michael"	449	2002
+"WLS"	"United Kingdom"	"GBR"	2333	"Cooper, John G"	42	2002
+"SEY"	"Seychelles"	"SYC"	2018	"Payet, Amelie"	1	2002
+"SIN"	"Singapore"	"SGP"	2540	"Wu, Shaobin"	35	2002
+"SVK"	"Slovakia"	"SVK"	2574	"Ftacnik, Lubomir"	479	2002
+"SLO"	"Slovenia"	"SVN"	2649	"Beliavsky, Alexander G"	224	2002
+"RSA"	"South Africa"	"ZAF"	2412	"Kobese, Watu"	18	2002
+"ESP"	"Spain"	"ESP"	2715	"Shirov, Alexei"	1797	2002
+"SRI"	"Sri Lanka"	"LKA"	2237	"Mallawarachchi, T.S."	24	2002
+"SUD"	"Sudan"	"SDN"	2207	"Nadir, Samir"	3	2002
+"SUR"	"Suriname"	"SUR"	2205	"Dos Ramos, Ricardo"	5	2002
+"SWE"	"Sweden"	"SWE"	2598	"Andersson, Ulf"	309	2002
+"SUI"	"Switzerland"	"CHE"	2633	"Korchnoi, Viktor"	318	2002
+"SYR"	"Syria"	"SYR"	2431	"Hakki, Imad"	34	2002
+"TJK"	"Tajikistan"	"TJK"	2455	"Isaev, Jamshed"	8	2002
+"THA"	"Thailand"	"THA"	2318	"Chaivichit, Suchart"	9	2002
+"TUN"	"Tunisia"	"TUN"	2506	"Belkhodja, Slim"	13	2002
+"TUR"	"Turkey"	"TUR"	2411	"Sendur, Adnan"	123	2002
+"TKM"	"Turkmenistan"	"TKM"	2532	"Annakov, Babakuli"	61	2002
+"UGA"	"Uganda"	"UGA"	2224	"Nsubuga, Grace"	7	2002
+"UKR"	"Ukraine"	"UKR"	2727	"Ponomariov, Ruslan"	709	2002
+"UAE"	"United Arab Emirates"	"ARE"	2439	"Taleb, Moussa"	52	2002
+"USA"	"United States"	"USA"	2644	"Seirawan, Yasser"	589	2002
+"URU"	"Uruguay"	"URY"	2460	"Rodriguez, Andres"	35	2002
+"UZB"	"Uzbekistan"	"UZB"	2695	"Kasimdzhanov, Rustam"	42	2002
+"VEN"	"Venezuela"	"VEN"	2403	"Gallegos, Carlos"	39	2002
+"VIE"	"Vietnam"	"VNM"	2528	"Dao, Thien Hai"	48	2002
+"YEM"	"Yemen"	"YEM"	2334	"Al Hadarani, Hatim"	12	2002
+"ZAM"	"Zambia"	"ZMB"	2368	"Simutowe, Amon"	10	2002
+"ZIM"	"Zimbabwe"	"ZWE"	2280	"Gwaze, Robert"	6	2002
+"AFG"	"Afghanistan"	"AFG"	2064	"Zahiruddin, Asefi"	3	2003
+"ALB"	"Albania"	"ALB"	2530	"Dervishi, Erald"	27	2003
+"ALG"	"Algeria"	"DZA"	2519	"Rizouk, Aimen"	60	2003
+"AND"	"Andorra"	"AND"	2528	"De La Riva Aguado, Oscar"	14	2003
+"ANG"	"Angola"	"AGO"	2285	"Aderito, Pedro"	20	2003
+"ARG"	"Argentina"	"ARG"	2560	"Sorokin, Maxim"	839	2003
+"ARM"	"Armenia"	"ARM"	2703	"Akopian, Vladimir"	146	2003
+"AUS"	"Australia"	"AUS"	2572	"Rogers, Ian"	213	2003
+"AUT"	"Austria"	"AUT"	2553	"Beim, Valery"	897	2003
+"AZE"	"Azerbaijan"	"AZE"	2624	"Radjabov, Teimour"	144	2003
+"BRN"	"Bahrain"	"BHR"	2245	"Janahi, Zeyaad"	10	2003
+"BAN"	"Bangladesh"	"BGD"	2542	"Rahman, Ziaur"	142	2003
+"BAR"	"Barbados"	"BRB"	2320	"Buckmire, Ron"	21	2003
+"BLR"	"Belarus"	"BLR"	2633	"Aleksandrov, Aleksej"	220	2003
+"BEL"	"Belgium"	"BEL"	2634	"Gurevich, Mikhail"	242	2003
+"BER"	"Bermuda"	"BMU"	2235	"Black, Richard"	8	2003
+"BOL"	"Bolivia"	"BOL"	2392	"Cueto, J."	66	2003
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2638	"Nikolic, Predrag"	132	2003
+"BOT"	"Botswana"	"BWA"	2235	"Hutcheson, J."	28	2003
+"BRA"	"Brazil"	"BRA"	2592	"Vescovi, Giovanni"	464	2003
+"IVB"	"British Virgin Islands"	"VGB"	2220	"Jarecki, John"	3	2003
+"BRU"	"Brunei"	"BRN"	2210	"Pg, Mohd Omar Ak Hirawan"	6	2003
+"BUL"	"Bulgaria"	"BGR"	2743	"Topalov, Veselin"	435	2003
+"CAN"	"Canada"	"CAN"	2528	"Lesiege, Alexandre"	297	2003
+"CHI"	"Chile"	"CHL"	2541	"Morovic Fernandez, Ivan"	473	2003
+"CHN"	"China"	"CHN"	2682	"Ye, Jiangchuan"	271	2003
+"COL"	"Colombia"	"COL"	2566	"Zapata, Alonso"	147	2003
+"CRC"	"Costa Rica"	"CRI"	2420	"Gonzalez, Bernal"	54	2003
+"CRO"	"Croatia"	"HRV"	2591	"Palac, Mladen"	670	2003
+"CUB"	"Cuba"	"CUB"	2613	"Bruzon, Lazaro"	472	2003
+"CYP"	"Cyprus"	"CYP"	2573	"Kotronias, Vasilios"	23	2003
+"CZE"	"Czech Republic"	"CZE"	2601	"Hracek, Zbynek"	1282	2003
+"DEN"	"Denmark"	"DNK"	2620	"Nielsen, Peter Heine"	534	2003
+"DOM"	"Dominican Republic"	"DOM"	2437	"Mateo, Ramon"	38	2003
+"ECU"	"Ecuador"	"ECU"	2461	"Matamoros Franco, Carlos S"	141	2003
+"EGY"	"Egypt"	"EGY"	2493	"El Taher, Fouad"	234	2003
+"ESA"	"El Salvador"	"SLV"	2384	"Leyva, Hector"	26	2003
+"EST"	"Estonia"	"EST"	2600	"Ehlvest, Jaan"	121	2003
+"ETH"	"Ethiopia"	"ETH"	2211	"Hailu, Wossenyelew"	5	2003
+"FAI"	"Faroe Islands"	"FRO"	2369	"Nilssen, John Arni"	26	2003
+"FIJ"	"Fiji"	"FJI"	2205	"De Asa, J."	2	2003
+"FIN"	"Finland"	"FIN"	2474	"Kallio, Heikki"	285	2003
+"FRA"	"France"	"FRA"	2671	"Bacrot, Etienne"	2150	2003
+"GEO"	"Georgia"	"GEO"	2678	"Azmaiparashvili, Zurab"	166	2003
+"GER"	"Germany"	"DEU"	2640	"Lutz, Christopher"	5773	2003
+"GHA"	"Ghana"	"GHA"	2205	"Asmah, F."	2	2003
+"GRE"	"Greece"	"GRC"	2579	"Papaioannou, Ioannis"	514	2003
+"GUA"	"Guatemala"	"GTM"	2398	"Juarez Flores, Carlos A."	28	2003
+"GCI"	"Guernsey"	"GGY"	2270	"Holland, Christopher"	6	2003
+"HAI"	"Haiti"	"HTI"	2089	"Afriany, V."	1	2003
+"HON"	"Honduras"	"HND"	2295	"Guillen Ramirez, Jose Anto"	18	2003
+"HKG"	"Hong Kong"	"HKG"	2415	"Yang, Xian"	22	2003
+"HUN"	"Hungary"	"HUN"	2736	"Leko, Peter"	1746	2003
+"ISL"	"Iceland"	"ISL"	2634	"Hjartarson, Johann"	130	2003
+"IND"	"India"	"IND"	2753	"Anand, Viswanathan"	1119	2003
+"INA"	"Indonesia"	"IDN"	2562	"Adianto, Utut"	119	2003
+"IRI"	"Iran"	"IRN"	2500	"Ghaem Maghami, Ehsan"	165	2003
+"IRQ"	"Iraq"	"IRQ"	2418	"Sarsam, S.A."	140	2003
+"IRL"	"Ireland"	"IRL"	2558	"Baburin, Alexander"	94	2003
+"ISR"	"Israel"	"ISR"	2700	"Gelfand, Boris"	506	2003
+"ITA"	"Italy"	"ITA"	2524	"Godena, Michele"	827	2003
+"JAM"	"Jamaica"	"JAM"	2238	"Matthews, Shane"	21	2003
+"JPN"	"Japan"	"JPN"	2358	"Watanabe, Akira"	27	2003
+"JCI"	"Jersey"	"JEY"	2266	"Farrand, Tom"	8	2003
+"JOR"	"Jordan"	"JOR"	2413	"Khader, Sami"	61	2003
+"KAZ"	"Kazakhstan"	"KAZ"	2604	"Kazhgaleyev, Murtas"	225	2003
+"KEN"	"Kenya"	"KEN"	2210	"Chomu Clement, Miheso"	8	2003
+"KUW"	"Kuwait"	"KWT"	2280	"Fares, Al-Geran"	4	2003
+"KGZ"	"Kyrgyzstan"	"KGZ"	2547	"Yurtaev, Leonid"	30	2003
+"LIB"	"Lebanon"	"LBN"	2441	"Sammour-Hasbun, Jorge E."	36	2003
+"LBA"	"Libya"	"LBY"	2322	"Asabri, Hussien"	17	2003
+"LIE"	"Liechtenstein"	"LIE"	2477	"Atlas, Valeri"	10	2003
+"LTU"	"Lithuania"	"LTU"	2585	"Rozentalis, Eduardas"	187	2003
+"LUX"	"Luxembourg"	"LUX"	2548	"David, Alberto"	40	2003
+"MAC"	"Macao"	"MAC"	2200	"Chan, Kuok"	14	2003
+"MKD"	"Macedonia"	"MKD"	2654	"Georgiev, Kiril"	175	2003
+"MAD"	"Madagascar"	"MDG"	2079	"Rabenandrasana, Liva"	2	2003
+"MAS"	"Malaysia"	"MYS"	2421	"Mas, Hafizulhelmi"	81	2003
+"MLT"	"Malta"	"MLT"	2355	"Borg, Geoffrey"	16	2003
+"MRI"	"Mauritius"	"MUS"	2205	"Jooty, A."	6	2003
+"MEX"	"Mexico"	"MEX"	2542	"Hernandez, Gilberto"	292	2003
+"MDA"	"Moldova"	"MDA"	2630	"Bologan, Viktor"	162	2003
+"MNC"	"Monaco"	"MCO"	2270	"Van Hoolandt, Patrick"	12	2003
+"MGL"	"Mongolia"	"MNG"	2438	"Sharavdorj, Dashzeveg"	65	2003
+"MAR"	"Morocco"	"MAR"	2615	"Hamdouchi, Hichem"	21	2003
+"MOZ"	"Mozambique"	"MOZ"	2192	"Chambule, Pedro Lucas"	2	2003
+"MYA"	"Myanmar"	"MMR"	2540	"Aung Kyaw Lwynn A"	204	2003
+"NAM"	"Namibia"	"NAM"	2210	"Mueller, Leonhard"	5	2003
+"NEP"	"Nepal"	"NPL"	2180	"Shresta, Bilam Lal"	5	2003
+"NED"	"Netherlands"	"NLD"	2688	"Sokolov, Ivan"	694	2003
+"AHO"	"Netherlands Antilles"	"ANT"	2205	"Van Der, Ploe"	8	2003
+"NZL"	"New Zealand"	"NZL"	2387	"Kulashko, Aleksei"	65	2003
+"NCA"	"Nicaragua"	"NIC"	2356	"Davila, Carlos"	35	2003
+"NGR"	"Nigeria"	"NGA"	2295	"Adu, Oladapo"	23	2003
+"NOR"	"Norway"	"NOR"	2578	"Agdestein, Simen"	257	2003
+"PAK"	"Pakistan"	"PAK"	2395	"Lodhi, Mahmood"	28	2003
+"PLE"	"Palestine"	"PSE"	2207	"Moussa, Alaa-Eddine"	18	2003
+"PAN"	"Panama"	"PAN"	2314	"Esquivel, Luis"	17	2003
+"PNG"	"Papua New Guinea"	"PNG"	2214	"Tia, Rudy Jr."	5	2003
+"PAR"	"Paraguay"	"PRY"	2506	"Franco Ocampos, Zenon"	59	2003
+"PER"	"Peru"	"PER"	2623	"Granda Zuniga, Julio E"	125	2003
+"PHI"	"Philippines"	"PHL"	2521	"Antonio, Rogelio Jr"	101	2003
+"POL"	"Poland"	"POL"	2633	"Krasenkow, Michal"	1806	2003
+"POR"	"Portugal"	"PRT"	2518	"Galego, Luis"	175	2003
+"PUR"	"Puerto Rico"	"PRI"	2288	"Montalvo, Alejandro"	36	2003
+"QAT"	"Qatar"	"QAT"	2571	"Al-Modiahki, Mohamad"	23	2003
+"RUS"	"Russia"	"RUS"	2847	"Kasparov, Garry"	5382	2003
+"SMR"	"San Marino"	"SMR"	2205	"Lavorgna, Giovanni"	8	2003
+"SCO"	"United Kingdom"	"GBR"	2536	"Rowson, Jonathan"	132	2003
+"ENG"	"United Kingdom"	"GBR"	2734	"Adams, Michael"	861	2003
+"WLS"	"United Kingdom"	"GBR"	2360	"Botterill, George S."	84	2003
+"SEY"	"Seychelles"	"SYC"	2200	"Hoareau, Benjamin"	5	2003
+"SIN"	"Singapore"	"SGP"	2545	"Wu, Shaobin"	71	2003
+"SVK"	"Slovakia"	"SVK"	2663	"Movsesian, Sergei"	599	2003
+"SLO"	"Slovenia"	"SVN"	2649	"Beliavsky, Alexander G"	326	2003
+"SOM"	"Somalia"	"SOM"	1959	"Roble, Mohamad Ali"	1	2003
+"RSA"	"South Africa"	"ZAF"	2405	"Michelakis, George"	41	2003
+"ESP"	"Spain"	"ESP"	2723	"Shirov, Alexei"	2537	2003
+"SRI"	"Sri Lanka"	"LKA"	2385	"Aturupane, Harsha"	43	2003
+"SUD"	"Sudan"	"SDN"	2215	"Hamadto, Izz El Din Faisal"	9	2003
+"SUR"	"Suriname"	"SUR"	2220	"Lindeboom, J"	9	2003
+"SWE"	"Sweden"	"SWE"	2605	"Hellers, Ferdinand"	575	2003
+"SUI"	"Switzerland"	"CHE"	2642	"Korchnoi, Viktor"	493	2003
+"SYR"	"Syria"	"SYR"	2450	"Hakki, Imad"	56	2003
+"TJK"	"Tajikistan"	"TJK"	2551	"Amonatov, Farrukh"	9	2003
+"THA"	"Thailand"	"THA"	2337	"Sunthornpongsathorn, Verap"	19	2003
+"TUN"	"Tunisia"	"TUN"	2436	"Belkhodja, Slim"	26	2003
+"TUR"	"Turkey"	"TUR"	2415	"Petrov, Marian"	196	2003
+"TKM"	"Turkmenistan"	"TKM"	2527	"Annakov, Babakuli"	69	2003
+"UGA"	"Uganda"	"UGA"	2360	"Naimanye, Andrew"	17	2003
+"UKR"	"Ukraine"	"UKR"	2734	"Ponomariov, Ruslan"	1046	2003
+"UAE"	"United Arab Emirates"	"ARE"	2435	"Saeed, Saeed-Ahmed"	82	2003
+"USA"	"United States"	"USA"	2780	"Fischer, Robert J"	1267	2003
+"URU"	"Uruguay"	"URY"	2479	"Rodriguez, Andres"	54	2003
+"ISV"	"US Virgin Islands"	"VIR"	2309	"Van Tilbury, Craig"	6	2003
+"UZB"	"Uzbekistan"	"UZB"	2676	"Kasimdzhanov, Rustam"	66	2003
+"VEN"	"Venezuela"	"VEN"	2432	"Gallegos, Carlos"	71	2003
+"VIE"	"Vietnam"	"VNM"	2560	"Dao, Thien Hai"	66	2003
+"YEM"	"Yemen"	"YEM"	2385	"Alqudaimi, B.A."	20	2003
+"ZAM"	"Zambia"	"ZMB"	2408	"Simutowe, Amon"	15	2003
+"ZIM"	"Zimbabwe"	"ZWE"	2341	"Gwaze, Robert"	22	2003
+"AFG"	"Afghanistan"	"AFG"	2200	"Ayyoubi, Saifudin"	5	2004
+"ALB"	"Albania"	"ALB"	2490	"Dervishi, Erald"	32	2004
+"ALG"	"Algeria"	"DZA"	2493	"Rizouk, Aimen"	64	2004
+"AND"	"Andorra"	"AND"	2549	"De La Riva Aguado, Oscar"	19	2004
+"ANG"	"Angola"	"AGO"	2265	"Campos, Eugenio"	22	2004
+"ARG"	"Argentina"	"ARG"	2572	"Felgaer, Ruben"	247	2004
+"ARM"	"Armenia"	"ARM"	2693	"Akopian, Vladimir"	159	2004
+"ARU"	"Aruba"	"ABW"	2132	"Da Silva John"	1	2004
+"AUS"	"Australia"	"AUS"	2582	"Rogers, Ian"	269	2004
+"AUT"	"Austria"	"AUT"	2539	"Stanec, Nikolaus"	1017	2004
+"AZE"	"Azerbaijan"	"AZE"	2656	"Radjabov, Teimour"	162	2004
+"BRN"	"Bahrain"	"BHR"	2251	"Janahi, Zeyaad"	12	2004
+"BAN"	"Bangladesh"	"BGD"	2492	"Rahman, Ziaur"	183	2004
+"BAR"	"Barbados"	"BRB"	2320	"Buckmire, Ron"	25	2004
+"BLR"	"Belarus"	"BLR"	2679	"Aleksandrov, Aleksej"	214	2004
+"BEL"	"Belgium"	"BEL"	2656	"Gurevich, Mikhail"	292	2004
+"BER"	"Bermuda"	"BMU"	2235	"Black, Richard"	8	2004
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2648	"Nikolic, Predrag"	158	2004
+"BOT"	"Botswana"	"BWA"	2225	"Hutcheson, John"	22	2004
+"BRA"	"Brazil"	"BRA"	2633	"Vescovi, Giovanni"	531	2004
+"IVB"	"British Virgin Islands"	"VGB"	2220	"Jarecki, John"	3	2004
+"BRU"	"Brunei"	"BRN"	2214	"Pg, Mohd Omar Ak Hirawan"	8	2004
+"BUL"	"Bulgaria"	"BGR"	2735	"Topalov, Veselin"	450	2004
+"CAN"	"Canada"	"CAN"	2536	"Spraggett, Kevin"	327	2004
+"CHI"	"Chile"	"CHL"	2583	"Morovic Fernandez, Ivan"	557	2004
+"CHN"	"China"	"CHN"	2681	"Ye, Jiangchuan"	300	2004
+"COL"	"Colombia"	"COL"	2534	"Cabrera, Alexis"	163	2004
+"CRC"	"Costa Rica"	"CRI"	2499	"Ramirez, Alejandro"	56	2004
+"CRO"	"Croatia"	"HRV"	2605	"Kozul, Zdenko"	773	2004
+"CUB"	"Cuba"	"CUB"	2605	"Dominguez, Lenier"	552	2004
+"CYP"	"Cyprus"	"CYP"	2598	"Kotronias, Vasilios"	23	2004
+"CZE"	"Czech Republic"	"CZE"	2604	"Navara, David"	1468	2004
+"DEN"	"Denmark"	"DNK"	2638	"Nielsen, Peter Heine"	605	2004
+"DOM"	"Dominican Republic"	"DOM"	2445	"Mateo, Ramon"	61	2004
+"ECU"	"Ecuador"	"ECU"	2490	"Matamoros Franco, Carlos S"	177	2004
+"EGY"	"Egypt"	"EGY"	2502	"El Gindy, Essam"	265	2004
+"ESA"	"El Salvador"	"SLV"	2400	"Leyva, Hector"	33	2004
+"EST"	"Estonia"	"EST"	2599	"Ehlvest, Jaan"	124	2004
+"ETH"	"Ethiopia"	"ETH"	2200	"Bekele, Abenet"	6	2004
+"FAI"	"Faroe Islands"	"FRO"	2426	"Nilssen, John Arni"	35	2004
+"FIJ"	"Fiji"	"FJI"	2205	"De Asa, J."	2	2004
+"FIN"	"Finland"	"FIN"	2546	"Nyback, Tomi"	321	2004
+"FRA"	"France"	"FRA"	2676	"Lautier, Joel"	2573	2004
+"GEO"	"Georgia"	"GEO"	2679	"Azmaiparashvili, Zurab"	206	2004
+"GER"	"Germany"	"DEU"	2648	"Aronian, Levon"	6721	2004
+"GHA"	"Ghana"	"GHA"	2205	"Asmah, F."	2	2004
+"GRE"	"Greece"	"GRC"	2602	"Miladinovic, Igor"	585	2004
+"GCI"	"Guernsey"	"GGY"	2270	"Holland, Christopher"	5	2004
+"HAI"	"Haiti"	"HTI"	2085	"Afriany, V."	1	2004
+"HON"	"Honduras"	"HND"	2296	"Guillen Ramirez, Jose Anto"	28	2004
+"HKG"	"Hong Kong"	"HKG"	2415	"Yang, Xian"	23	2004
+"HUN"	"Hungary"	"HUN"	2728	"Polgar, Judit (GM)"	1929	2004
+"ISL"	"Iceland"	"ISL"	2640	"Hjartarson, Johann"	153	2004
+"IND"	"India"	"IND"	2766	"Anand, Viswanathan"	1507	2004
+"INA"	"Indonesia"	"IDN"	2591	"Adianto, Utut"	137	2004
+"IRI"	"Iran"	"IRN"	2556	"Ghaem Maghami, Ehsan"	190	2004
+"IRQ"	"Iraq"	"IRQ"	2415	"Sarsam, S.A."	146	2004
+"IRL"	"Ireland"	"IRL"	2541	"Baburin, Alexander"	101	2004
+"ISR"	"Israel"	"ISR"	2709	"Gelfand, Boris"	541	2004
+"ITA"	"Italy"	"ITA"	2515	"Godena, Michele"	1010	2004
+"JAM"	"Jamaica"	"JAM"	2264	"Matthews, Shane"	24	2004
+"JPN"	"Japan"	"JPN"	2358	"Watanabe, Akira"	33	2004
+"JCI"	"Jersey"	"JEY"	2266	"Farrand, Tom"	9	2004
+"JOR"	"Jordan"	"JOR"	2381	"Khader, Sami"	68	2004
+"KAZ"	"Kazakhstan"	"KAZ"	2621	"Vladimirov, Evgeny"	249	2004
+"KEN"	"Kenya"	"KEN"	2210	"Chomu Clement, Miheso"	9	2004
+"KUW"	"Kuwait"	"KWT"	2280	"Fares, Al-Geran"	4	2004
+"KGZ"	"Kyrgyzstan"	"KGZ"	2527	"Yurtaev, Leonid"	35	2004
+"LAT"	"Latvia"	"LVA"	2588	"Fridman, Daniel"	159	2004
+"LIB"	"Lebanon"	"LBN"	2448	"Sammour-Hasbun, Jorge E."	44	2004
+"LBA"	"Libya"	"LBY"	2300	"Chahrani, Ibrahim"	23	2004
+"LIE"	"Liechtenstein"	"LIE"	2471	"Atlas, Valeri"	10	2004
+"LTU"	"Lithuania"	"LTU"	2625	"Rozentalis, Eduardas"	216	2004
+"LUX"	"Luxembourg"	"LUX"	2580	"David, Alberto"	51	2004
+"MAC"	"Macao"	"MAC"	2200	"Chan, Kuok"	14	2004
+"MKD"	"Macedonia"	"MKD"	2637	"Georgiev, Kiril"	178	2004
+"MAD"	"Madagascar"	"MDG"	2079	"Rabenandrasana, Liva"	2	2004
+"MAS"	"Malaysia"	"MYS"	2404	"Mas, Hafizulhelmi"	88	2004
+"MLT"	"Malta"	"MLT"	2367	"Borg, Geoffrey"	19	2004
+"MRI"	"Mauritius"	"MUS"	2205	"Jooty, A."	6	2004
+"MEX"	"Mexico"	"MEX"	1952	"Castillo Delgado, Miguel A"	1	2004
+"MDA"	"Moldova"	"MDA"	2679	"Bologan, Viktor"	191	2004
+"MNC"	"Monaco"	"MCO"	2267	"Gentilleau, Jean-Philippe"	14	2004
+"MGL"	"Mongolia"	"MNG"	2426	"Hatanbaatar, Bazar"	73	2004
+"MAR"	"Morocco"	"MAR"	2588	"Hamdouchi, Hichem"	25	2004
+"MOZ"	"Mozambique"	"MOZ"	2192	"Chambule, Pedro Lucas"	2	2004
+"MYA"	"Myanmar"	"MMR"	2562	"Htun Htun, Than"	211	2004
+"NAM"	"Namibia"	"NAM"	2213	"Mueller, Leonhard"	6	2004
+"NEP"	"Nepal"	"NPL"	2217	"Digesh, Shanker Malla"	11	2004
+"NED"	"Netherlands"	"NLD"	2706	"Sokolov, Ivan"	793	2004
+"AHO"	"Netherlands Antilles"	"ANT"	2205	"Van Der, Ploe"	10	2004
+"NZL"	"New Zealand"	"NZL"	2373	"Kulashko, Aleksei"	85	2004
+"NCA"	"Nicaragua"	"NIC"	2346	"Guevara, Martin"	43	2004
+"NGR"	"Nigeria"	"NGA"	2281	"Olape, Bunmi"	24	2004
+"NOR"	"Norway"	"NOR"	2585	"Agdestein, Simen"	299	2004
+"PAK"	"Pakistan"	"PAK"	2395	"Lodhi, Mahmood"	28	2004
+"PLE"	"Palestine"	"PSE"	2449	"Ermenkov, Evgenij"	20	2004
+"PAN"	"Panama"	"PAN"	2314	"Esquivel, Luis"	19	2004
+"PNG"	"Papua New Guinea"	"PNG"	2205	"Rush, J"	6	2004
+"PAR"	"Paraguay"	"PRY"	2524	"Franco Ocampos, Zenon"	65	2004
+"PER"	"Peru"	"PER"	2581	"Granda Zuniga, Julio E"	142	2004
+"PHI"	"Philippines"	"PHL"	2529	"Paragua, Mark"	112	2004
+"POL"	"Poland"	"POL"	2653	"Macieja, Bartlomiej"	2049	2004
+"POR"	"Portugal"	"PRT"	2496	"Antunes, Antonio"	252	2004
+"PUR"	"Puerto Rico"	"PRI"	2270	"Torres, Luis J"	40	2004
+"QAT"	"Qatar"	"QAT"	2579	"Al-Modiahki, Mohamad"	24	2004
+"RUS"	"Russia"	"RUS"	2831	"Kasparov, Garry"	6253	2004
+"RWA"	"Rwanda"	"RWA"	2200	"Mutabazi, Fidele"	1	2004
+"SMR"	"San Marino"	"SMR"	2205	"Lavorgna, Giovanni"	8	2004
+"SCO"	"United Kingdom"	"GBR"	2547	"Rowson, Jonathan"	143	2004
+"ENG"	"United Kingdom"	"GBR"	2720	"Adams, Michael"	932	2004
+"WLS"	"United Kingdom"	"GBR"	2362	"Williams, Leighton"	92	2004
+"SEY"	"Seychelles"	"SYC"	2200	"Hoareau, Benjamin"	5	2004
+"SIN"	"Singapore"	"SGP"	2504	"Wu, Shaobin"	76	2004
+"SVK"	"Slovakia"	"SVK"	2639	"Movsesian, Sergei"	693	2004
+"SLO"	"Slovenia"	"SVN"	2667	"Beliavsky, Alexander G"	368	2004
+"SOM"	"Somalia"	"SOM"	2200	"Jimale, Abdulle Mohamed"	3	2004
+"RSA"	"South Africa"	"ZAF"	2432	"Michelakis, George"	53	2004
+"ESP"	"Spain"	"ESP"	2736	"Shirov, Alexei"	3045	2004
+"SUD"	"Sudan"	"SDN"	2215	"Hamadto, Izz El Din Faisal"	9	2004
+"SUR"	"Suriname"	"SUR"	2220	"Lindeboom, J"	10	2004
+"SWE"	"Sweden"	"SWE"	2616	"Agrest, Evgenij"	622	2004
+"SUI"	"Switzerland"	"CHE"	2632	"Milov, Vadim"	574	2004
+"SYR"	"Syria"	"SYR"	2444	"Hakki, Imad"	57	2004
+"TJK"	"Tajikistan"	"TJK"	2574	"Amonatov, Farrukh"	9	2004
+"THA"	"Thailand"	"THA"	2345	"Sunthornpongsathorn, Verap"	26	2004
+"TUN"	"Tunisia"	"TUN"	2445	"Belkhodja, Slim"	25	2004
+"TUR"	"Turkey"	"TUR"	2411	"Sendur, Adnan"	243	2004
+"TKM"	"Turkmenistan"	"TKM"	2513	"Annakov, Babakuli"	74	2004
+"UGA"	"Uganda"	"UGA"	2360	"Naimanye, Andrew"	18	2004
+"UKR"	"Ukraine"	"UKR"	2722	"Ponomariov, Ruslan"	1166	2004
+"UAE"	"United Arab Emirates"	"ARE"	2459	"Taleb, Moussa"	101	2004
+"USA"	"United States"	"USA"	2780	"Fischer, Robert J"	1366	2004
+"URU"	"Uruguay"	"URY"	2485	"Rodriguez, Andres"	60	2004
+"ISV"	"US Virgin Islands"	"VIR"	2309	"Van Tilbury, Craig"	6	2004
+"UZB"	"Uzbekistan"	"UZB"	2652	"Kasimdzhanov, Rustam"	84	2004
+"VEN"	"Venezuela"	"VEN"	2460	"Gallegos, Carlos"	76	2004
+"VIE"	"Vietnam"	"VNM"	2583	"Dao, Thien Hai"	77	2004
+"YEM"	"Yemen"	"YEM"	2379	"Kadhi, Hameed Mansour Ali"	23	2004
+"ZAM"	"Zambia"	"ZMB"	2433	"Simutowe, Amon"	16	2004
+"ZIM"	"Zimbabwe"	"ZWE"	2345	"Gwaze, Robert"	23	2004
+"AFG"	"Afghanistan"	"AFG"	2200	"Ibrahim, Ismail"	6	2005
+"ALB"	"Albania"	"ALB"	2485	"Cela, Altin"	35	2005
+"ALG"	"Algeria"	"DZA"	2457	"Rizouk, Aimen"	80	2005
+"AND"	"Andorra"	"AND"	2544	"De La Riva Aguado, Oscar"	20	2005
+"ARG"	"Argentina"	"ARG"	2588	"Felgaer, Ruben"	213	2005
+"ARM"	"Armenia"	"ARM"	2693	"Akopian, Vladimir"	176	2005
+"ARU"	"Aruba"	"ABW"	2132	"Da Silva John"	3	2005
+"AUS"	"Australia"	"AUS"	2594	"Rogers, Ian"	314	2005
+"AUT"	"Austria"	"AUT"	2566	"Stanec, Nikolaus"	1130	2005
+"AZE"	"Azerbaijan"	"AZE"	2667	"Radjabov, Teimour"	174	2005
+"BRN"	"Bahrain"	"BHR"	2230	"Janahi, Khalid"	12	2005
+"BAN"	"Bangladesh"	"BGD"	2523	"Rahman, Ziaur"	227	2005
+"BAR"	"Barbados"	"BRB"	2332	"Denny, Kevin"	27	2005
+"BLR"	"Belarus"	"BLR"	2635	"Aleksandrov, Aleksej"	221	2005
+"BEL"	"Belgium"	"BEL"	2634	"Gurevich, Mikhail"	351	2005
+"BER"	"Bermuda"	"BMU"	2235	"Black, Richard"	10	2005
+"BOL"	"Bolivia"	"BOL"	2472	"Zambrana, Oswaldo"	93	2005
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2676	"Nikolic, Predrag"	177	2005
+"BOT"	"Botswana"	"BWA"	2283	"Khetho, Phemelo"	30	2005
+"BRA"	"Brazil"	"BRA"	2645	"Vescovi, Giovanni"	630	2005
+"IVB"	"British Virgin Islands"	"VGB"	2303	"Van Tilbury, Craig"	6	2005
+"BRU"	"Brunei"	"BRN"	2224	"Pg, Mohd Omar Ak Hirawan"	8	2005
+"BUL"	"Bulgaria"	"BGR"	2757	"Topalov, Veselin"	491	2005
+"CAN"	"Canada"	"CAN"	2589	"Spraggett, Kevin"	376	2005
+"CHI"	"Chile"	"CHL"	2561	"Vasquez, Rodrigo"	601	2005
+"CHN"	"China"	"CHN"	2648	"Ye, Jiangchuan"	309	2005
+"COL"	"Colombia"	"COL"	2504	"Zapata, Alonso"	197	2005
+"CRC"	"Costa Rica"	"CRI"	2507	"Ramirez, Alejandro"	61	2005
+"CRO"	"Croatia"	"HRV"	2595	"Kozul, Zdenko"	898	2005
+"CUB"	"Cuba"	"CUB"	2661	"Dominguez, Lenier"	627	2005
+"CYP"	"Cyprus"	"CYP"	2257	"Martidis, Alkis"	22	2005
+"CZE"	"Czech Republic"	"CZE"	2644	"Navara, David"	1727	2005
+"DEN"	"Denmark"	"DNK"	2648	"Nielsen, Peter Heine"	714	2005
+"DOM"	"Dominican Republic"	"DOM"	2444	"Mateo, Ramon"	96	2005
+"ECU"	"Ecuador"	"ECU"	2522	"Matamoros Franco, Carlos S"	229	2005
+"EGY"	"Egypt"	"EGY"	2509	"El Gindy, Essam"	293	2005
+"ESA"	"El Salvador"	"SLV"	2406	"Leyva, Hector"	45	2005
+"EST"	"Estonia"	"EST"	2622	"Ehlvest, Jaan"	130	2005
+"ETH"	"Ethiopia"	"ETH"	2200	"Bekele, Abenet"	6	2005
+"FAI"	"Faroe Islands"	"FRO"	2390	"Nilssen, John Arni"	42	2005
+"FIJ"	"Fiji"	"FJI"	2205	"De Asa, J."	7	2005
+"FIN"	"Finland"	"FIN"	2554	"Nyback, Tomi"	355	2005
+"FRA"	"France"	"FRA"	2715	"Bacrot, Etienne"	3219	2005
+"GEO"	"Georgia"	"GEO"	2662	"Azmaiparashvili, Zurab"	248	2005
+"GER"	"Germany"	"DEU"	2637	"Graf, Alexander"	7787	2005
+"GRE"	"Greece"	"GRC"	2611	"Miladinovic, Igor"	714	2005
+"GUA"	"Guatemala"	"GTM"	2394	"Juarez Flores, Carlos A."	38	2005
+"GCI"	"Guernsey"	"GGY"	2270	"Holland, Christopher"	9	2005
+"HAI"	"Haiti"	"HTI"	2085	"Afriany, V."	1	2005
+"HON"	"Honduras"	"HND"	2274	"Guillen Ramirez, Jose Anto"	28	2005
+"HKG"	"Hong Kong"	"HKG"	2415	"Yang, Xian"	24	2005
+"HUN"	"Hungary"	"HUN"	2749	"Leko, Peter"	2118	2005
+"ISL"	"Iceland"	"ISL"	2628	"Hjartarson, Johann"	171	2005
+"IND"	"India"	"IND"	2786	"Anand, Viswanathan"	1863	2005
+"INA"	"Indonesia"	"IDN"	2588	"Adianto, Utut"	143	2005
+"IRI"	"Iran"	"IRN"	2623	"Ghaem Maghami, Ehsan"	246	2005
+"IRQ"	"Iraq"	"IRQ"	2399	"Sarsam, S.A."	156	2005
+"IRL"	"Ireland"	"IRL"	2523	"Baburin, Alexander"	101	2005
+"ISR"	"Israel"	"ISR"	2696	"Gelfand, Boris"	590	2005
+"ITA"	"Italy"	"ITA"	2544	"Godena, Michele"	1266	2005
+"JAM"	"Jamaica"	"JAM"	2249	"Matthews, Shane"	26	2005
+"JPN"	"Japan"	"JPN"	2365	"Watanabe, Akira"	37	2005
+"JCI"	"Jersey"	"JEY"	2266	"Farrand, Tom"	9	2005
+"JOR"	"Jordan"	"JOR"	2371	"Khader, Sami"	73	2005
+"KAZ"	"Kazakhstan"	"KAZ"	2635	"Sadvakasov, Darmen"	269	2005
+"KEN"	"Kenya"	"KEN"	2210	"Chomu Clement, Miheso"	12	2005
+"KUW"	"Kuwait"	"KWT"	2280	"Fares, Al-Geran"	4	2005
+"KGZ"	"Kyrgyzstan"	"KGZ"	2521	"Magai, Vladimir"	37	2005
+"LAT"	"Latvia"	"LVA"	2569	"Fridman, Daniel"	167	2005
+"LIB"	"Lebanon"	"LBN"	2352	"Eid, Fadi"	49	2005
+"LBA"	"Libya"	"LBY"	2311	"Chahrani, Ibrahim"	24	2005
+"LIE"	"Liechtenstein"	"LIE"	2297	"Atlas, Dimitry"	11	2005
+"LTU"	"Lithuania"	"LTU"	2584	"Rozentalis, Eduardas"	244	2005
+"LUX"	"Luxembourg"	"LUX"	2573	"David, Alberto"	61	2005
+"MAC"	"Macao"	"MAC"	2200	"Chan, Kuok"	14	2005
+"MKD"	"Macedonia"	"MKD"	2598	"Najdoski, Toni"	180	2005
+"MAD"	"Madagascar"	"MDG"	2079	"Rabenandrasana, Liva"	2	2005
+"MAS"	"Malaysia"	"MYS"	2413	"Mas, Hafizulhelmi"	114	2005
+"MLT"	"Malta"	"MLT"	2367	"Borg, Geoffrey"	25	2005
+"MRI"	"Mauritius"	"MUS"	2205	"Jooty, A."	7	2005
+"MEX"	"Mexico"	"MEX"	2534	"Gonzalez, Zamora Juan Carl"	381	2005
+"MDA"	"Moldova"	"MDA"	2683	"Bologan, Viktor"	223	2005
+"MNC"	"Monaco"	"MCO"	2258	"Gentilleau, Jean-Philippe"	14	2005
+"MGL"	"Mongolia"	"MNG"	2453	"Sharavdorj, Dashzeveg"	82	2005
+"MAR"	"Morocco"	"MAR"	2555	"Hamdouchi, Hichem"	33	2005
+"MYA"	"Myanmar"	"MMR"	2555	"Htun Htun Than"	228	2005
+"NAM"	"Namibia"	"NAM"	2216	"Mueller, Leonhard"	7	2005
+"NEP"	"Nepal"	"NPL"	2257	"Digesh, Shanker Malla"	19	2005
+"NED"	"Netherlands"	"NLD"	2685	"Sokolov, Ivan"	941	2005
+"AHO"	"Netherlands Antilles"	"ANT"	2205	"Van Der, Ploe"	15	2005
+"NZL"	"New Zealand"	"NZL"	2377	"Bjelobrk, Igor"	102	2005
+"NCA"	"Nicaragua"	"NIC"	2358	"Davila, Carlos"	45	2005
+"NGR"	"Nigeria"	"NGA"	2296	"Adu, Oladapo"	28	2005
+"NOR"	"Norway"	"NOR"	2586	"Agdestein, Simen"	338	2005
+"PAK"	"Pakistan"	"PAK"	2366	"Lodhi, Mahmood"	28	2005
+"PLE"	"Palestine"	"PSE"	2469	"Ermenkov, Evgenij"	22	2005
+"PAN"	"Panama"	"PAN"	2285	"Paniagua, Roberto"	22	2005
+"PNG"	"Papua New Guinea"	"PNG"	2205	"Rush, J"	6	2005
+"PAR"	"Paraguay"	"PRY"	2519	"Franco Ocampos, Zenon"	77	2005
+"PER"	"Peru"	"PER"	2599	"Granda Zuniga, Julio E"	172	2005
+"PHI"	"Philippines"	"PHL"	2586	"Paragua, Mark"	123	2005
+"POL"	"Poland"	"POL"	2672	"Krasenkow, Michal"	2358	2005
+"POR"	"Portugal"	"PRT"	2496	"Antunes, Antonio"	361	2005
+"PUR"	"Puerto Rico"	"PRI"	2270	"Torres, Luis J"	43	2005
+"QAT"	"Qatar"	"QAT"	2581	"Al-Modiahki, Mohamad"	26	2005
+"RUS"	"Russia"	"RUS"	2804	"Kasparov, Garry"	7077	2005
+"RWA"	"Rwanda"	"RWA"	2089	"Mutabazi, Fidele"	2	2005
+"SMR"	"San Marino"	"SMR"	2205	"Lavorgna, Giovanni"	8	2005
+"SCO"	"United Kingdom"	"GBR"	2572	"Rowson, Jonathan"	151	2005
+"ENG"	"United Kingdom"	"GBR"	2741	"Adams, Michael"	997	2005
+"WLS"	"United Kingdom"	"GBR"	2360	"Botterill, George S."	98	2005
+"SEY"	"Seychelles"	"SYC"	2200	"Lawen, Greg"	6	2005
+"SIN"	"Singapore"	"SGP"	2520	"Wu, Shaobin"	83	2005
+"SVK"	"Slovakia"	"SVK"	2624	"Movsesian, Sergei"	813	2005
+"SLO"	"Slovenia"	"SVN"	2635	"Beliavsky, Alexander G"	418	2005
+"SOM"	"Somalia"	"SOM"	2200	"Jimale, Abdulle Mohamed"	3	2005
+"RSA"	"South Africa"	"ZAF"	2437	"Michelakis, George"	66	2005
+"ESP"	"Spain"	"ESP"	2713	"Shirov, Alexei"	3767	2005
+"SRI"	"Sri Lanka"	"LKA"	2385	"Aturupane, Harsha"	86	2005
+"SUR"	"Suriname"	"SUR"	2220	"Lindeboom, J"	11	2005
+"SWE"	"Sweden"	"SWE"	2605	"Hellers, Ferdinand"	675	2005
+"SUI"	"Switzerland"	"CHE"	2668	"Milov, Vadim"	660	2005
+"SYR"	"Syria"	"SYR"	2458	"Hakki, Imad"	60	2005
+"TJK"	"Tajikistan"	"TJK"	2588	"Amonatov, Farrukh"	11	2005
+"THA"	"Thailand"	"THA"	2345	"Sunthornpongsathorn, Verap"	38	2005
+"TUN"	"Tunisia"	"TUN"	2478	"Belkhodja, Slim"	25	2005
+"TUR"	"Turkey"	"TUR"	2426	"Haznedaroglu, Kivanc"	289	2005
+"TKM"	"Turkmenistan"	"TKM"	2502	"Odeev, Handszar"	84	2005
+"UGA"	"Uganda"	"UGA"	2360	"Naimanye, Andrew"	19	2005
+"UKR"	"Ukraine"	"UKR"	2711	"Ivanchuk, Vassily"	1300	2005
+"UAE"	"United Arab Emirates"	"ARE"	2508	"Taleb, Moussa"	106	2005
+"USA"	"United States"	"USA"	2780	"Fischer, Robert J"	1463	2005
+"URU"	"Uruguay"	"URY"	2536	"Rodriguez, Andres"	66	2005
+"ISV"	"US Virgin Islands"	"VIR"	2270	"O'Donnell, M"	8	2005
+"UZB"	"Uzbekistan"	"UZB"	2678	"Kasimdzhanov, Rustam"	125	2005
+"VEN"	"Venezuela"	"VEN"	2432	"Sequera, Jose"	80	2005
+"VIE"	"Vietnam"	"VNM"	2604	"Dao, Thien Hai"	87	2005
+"YEM"	"Yemen"	"YEM"	2375	"Kadhi, Hameed Mansour Ali"	23	2005
+"ZAM"	"Zambia"	"ZMB"	2425	"Simutowe, Amon"	17	2005
+"AFG"	"Afghanistan"	"AFG"	2200	"undefined"	9	2006
+"ALB"	"Albania"	"ALB"	2491	"undefined"	37	2006
+"ALG"	"Algeria"	"DZA"	2500	"undefined"	89	2006
+"AND"	"Andorra"	"AND"	2541	"undefined"	23	2006
+"ANG"	"Angola"	"AGO"	2288	"undefined"	23	2006
+"ARG"	"Argentina"	"ARG"	2607	"undefined"	228	2006
+"ARM"	"Armenia"	"ARM"	2752	"undefined"	213	2006
+"ARU"	"Aruba"	"ABW"	2170	"undefined"	6	2006
+"AUS"	"Australia"	"AUS"	2547	"undefined"	371	2006
+"AUT"	"Austria"	"AUT"	2543	"undefined"	1282	2006
+"AZE"	"Azerbaijan"	"AZE"	2709	"undefined"	186	2006
+"BRN"	"Bahrain"	"BHR"	2230	"undefined"	18	2006
+"BAN"	"Bangladesh"	"BGD"	2557	"undefined"	270	2006
+"BAR"	"Barbados"	"BRB"	2365	"undefined"	31	2006
+"BLR"	"Belarus"	"BLR"	2653	"undefined"	295	2006
+"BEL"	"Belgium"	"BEL"	2535	"undefined"	426	2006
+"BER"	"Bermuda"	"BMU"	2227	"undefined"	14	2006
+"BOL"	"Bolivia"	"BOL"	2405	"undefined"	106	2006
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2596	"undefined"	194	2006
+"BOT"	"Botswana"	"BWA"	2238	"undefined"	29	2006
+"BRA"	"Brazil"	"BRA"	2633	"undefined"	756	2006
+"IVB"	"British Virgin Islands"	"VGB"	2303	"undefined"	6	2006
+"BRU"	"Brunei"	"BRN"	2448	"undefined"	42	2006
+"BUL"	"Bulgaria"	"BGR"	2801	"undefined"	522	2006
+"CAN"	"Canada"	"CAN"	2581	"undefined"	403	2006
+"CHI"	"Chile"	"CHL"	2551	"undefined"	649	2006
+"CHN"	"China"	"CHN"	2645	"undefined"	324	2006
+"COL"	"Colombia"	"COL"	2501	"undefined"	208	2006
+"CRC"	"Costa Rica"	"CRI"	2481	"undefined"	81	2006
+"CRO"	"Croatia"	"HRV"	2600	"undefined"	1021	2006
+"CUB"	"Cuba"	"CUB"	2650	"undefined"	721	2006
+"CYP"	"Cyprus"	"CYP"	2257	"undefined"	22	2006
+"CZE"	"Czech Republic"	"CZE"	2660	"undefined"	1993	2006
+"DEN"	"Denmark"	"DNK"	2644	"undefined"	808	2006
+"DOM"	"Dominican Republic"	"DOM"	2120	"undefined"	8	2006
+"ECU"	"Ecuador"	"ECU"	2510	"undefined"	318	2006
+"EGY"	"Egypt"	"EGY"	2524	"undefined"	310	2006
+"ESA"	"El Salvador"	"SLV"	2410	"undefined"	51	2006
+"EST"	"Estonia"	"EST"	2619	"undefined"	142	2006
+"ETH"	"Ethiopia"	"ETH"	2200	"undefined"	6	2006
+"FAI"	"Faroe Islands"	"FRO"	2356	"undefined"	46	2006
+"FIJ"	"Fiji"	"FJI"	2205	"undefined"	8	2006
+"FIN"	"Finland"	"FIN"	2562	"undefined"	386	2006
+"FRA"	"France"	"FRA"	2717	"undefined"	4040	2006
+"GEO"	"Georgia"	"GEO"	2658	"undefined"	289	2006
+"GER"	"Germany"	"DEU"	2657	"undefined"	8978	2006
+"GRE"	"Greece"	"GRC"	2622	"undefined"	871	2006
+"GUA"	"Guatemala"	"GTM"	2381	"undefined"	39	2006
+"GCI"	"Guernsey"	"GGY"	2270	"undefined"	11	2006
+"HON"	"Honduras"	"HND"	2290	"undefined"	29	2006
+"HKG"	"Hong Kong"	"HKG"	2415	"undefined"	28	2006
+"HUN"	"Hungary"	"HUN"	2740	"undefined"	2344	2006
+"ISL"	"Iceland"	"ISL"	2619	"undefined"	186	2006
+"IND"	"India"	"IND"	2792	"undefined"	2207	2006
+"INA"	"Indonesia"	"IDN"	2589	"undefined"	146	2006
+"IRI"	"Iran"	"IRN"	2564	"undefined"	330	2006
+"IRQ"	"Iraq"	"IRQ"	2399	"undefined"	158	2006
+"IRL"	"Ireland"	"IRL"	2511	"undefined"	117	2006
+"ISR"	"Israel"	"ISR"	2723	"undefined"	642	2006
+"ITA"	"Italy"	"ITA"	2505	"undefined"	1589	2006
+"JAM"	"Jamaica"	"JAM"	2262	"undefined"	27	2006
+"JPN"	"Japan"	"JPN"	2365	"undefined"	45	2006
+"JCI"	"Jersey"	"JEY"	2266	"undefined"	9	2006
+"JOR"	"Jordan"	"JOR"	2409	"undefined"	83	2006
+"KAZ"	"Kazakhstan"	"KAZ"	2629	"undefined"	289	2006
+"KEN"	"Kenya"	"KEN"	2210	"undefined"	12	2006
+"KUW"	"Kuwait"	"KWT"	2280	"undefined"	5	2006
+"KGZ"	"Kyrgyzstan"	"KGZ"	2521	"undefined"	38	2006
+"LAT"	"Latvia"	"LVA"	2559	"undefined"	196	2006
+"LIB"	"Lebanon"	"LBN"	2361	"undefined"	51	2006
+"LBA"	"Libya"	"LBY"	2327	"undefined"	25	2006
+"LIE"	"Liechtenstein"	"LIE"	2311	"undefined"	12	2006
+"LTU"	"Lithuania"	"LTU"	2582	"undefined"	281	2006
+"LUX"	"Luxembourg"	"LUX"	2591	"undefined"	73	2006
+"MAC"	"Macao"	"MAC"	2200	"undefined"	14	2006
+"MKD"	"Macedonia"	"MKD"	2598	"undefined"	180	2006
+"MAS"	"Malaysia"	"MYS"	2413	"undefined"	123	2006
+"MLT"	"Malta"	"MLT"	2368	"undefined"	28	2006
+"MRI"	"Mauritius"	"MUS"	2205	"undefined"	6	2006
+"MEX"	"Mexico"	"MEX"	2534	"undefined"	457	2006
+"MDA"	"Moldova"	"MDA"	2661	"undefined"	251	2006
+"MNC"	"Monaco"	"MCO"	2274	"undefined"	17	2006
+"MGL"	"Mongolia"	"MNG"	2450	"undefined"	88	2006
+"MAR"	"Morocco"	"MAR"	2575	"undefined"	48	2006
+"MOZ"	"Mozambique"	"MOZ"	2192	"undefined"	2	2006
+"MYA"	"Myanmar"	"MMR"	2549	"undefined"	233	2006
+"NAM"	"Namibia"	"NAM"	2201	"undefined"	7	2006
+"NEP"	"Nepal"	"NPL"	2257	"undefined"	19	2006
+"NED"	"Netherlands"	"NLD"	2689	"undefined"	1129	2006
+"AHO"	"Netherlands Antilles"	"ANT"	2205	"undefined"	14	2006
+"NZL"	"New Zealand"	"NZL"	2396	"undefined"	126	2006
+"NCA"	"Nicaragua"	"NIC"	2374	"undefined"	52	2006
+"NOR"	"Norway"	"NOR"	2625	"undefined"	390	2006
+"PAK"	"Pakistan"	"PAK"	2355	"undefined"	29	2006
+"PLE"	"Palestine"	"PSE"	2462	"undefined"	27	2006
+"PAN"	"Panama"	"PAN"	2285	"undefined"	22	2006
+"PNG"	"Papua New Guinea"	"PNG"	2205	"undefined"	6	2006
+"PAR"	"Paraguay"	"PRY"	2530	"undefined"	105	2006
+"PER"	"Peru"	"PER"	2631	"undefined"	198	2006
+"POL"	"Poland"	"POL"	2646	"undefined"	2764	2006
+"POR"	"Portugal"	"PRT"	2538	"undefined"	452	2006
+"PUR"	"Puerto Rico"	"PRI"	2270	"undefined"	44	2006
+"QAT"	"Qatar"	"QAT"	2579	"undefined"	27	2006
+"RUS"	"Russia"	"RUS"	2812	"undefined"	8036	2006
+"RWA"	"Rwanda"	"RWA"	2089	"undefined"	2	2006
+"SMR"	"San Marino"	"SMR"	2205	"undefined"	8	2006
+"SCO"	"United Kingdom"	"GBR"	2599	"undefined"	161	2006
+"ENG"	"United Kingdom"	"GBR"	2707	"undefined"	1045	2006
+"WLS"	"United Kingdom"	"GBR"	2365	"undefined"	105	2006
+"SEY"	"Seychelles"	"SYC"	2200	"undefined"	7	2006
+"SIN"	"Singapore"	"SGP"	2500	"undefined"	104	2006
+"SVK"	"Slovakia"	"SVK"	2632	"undefined"	934	2006
+"SLO"	"Slovenia"	"SVN"	2626	"undefined"	471	2006
+"SOM"	"Somalia"	"SOM"	2200	"undefined"	3	2006
+"RSA"	"South Africa"	"ZAF"	2425	"undefined"	76	2006
+"ESP"	"Spain"	"ESP"	2709	"undefined"	4666	2006
+"SRI"	"Sri Lanka"	"LKA"	2385	"undefined"	88	2006
+"SUD"	"Sudan"	"SDN"	2215	"undefined"	13	2006
+"SUR"	"Suriname"	"SUR"	2220	"undefined"	11	2006
+"SWE"	"Sweden"	"SWE"	2605	"undefined"	719	2006
+"SUI"	"Switzerland"	"CHE"	2638	"undefined"	778	2006
+"SYR"	"Syria"	"SYR"	2459	"undefined"	68	2006
+"TJK"	"Tajikistan"	"TJK"	2564	"undefined"	13	2006
+"THA"	"Thailand"	"THA"	2283	"undefined"	50	2006
+"TUN"	"Tunisia"	"TUN"	2488	"undefined"	28	2006
+"TUR"	"Turkey"	"TUR"	2633	"undefined"	372	2006
+"TKM"	"Turkmenistan"	"TKM"	2502	"undefined"	87	2006
+"UGA"	"Uganda"	"UGA"	2360	"undefined"	20	2006
+"UKR"	"Ukraine"	"UKR"	2729	"undefined"	1446	2006
+"UAE"	"United Arab Emirates"	"ARE"	2452	"undefined"	122	2006
+"USA"	"United States"	"USA"	2780	"Fischer, Robert J"	1584	2006
+"URU"	"Uruguay"	"URY"	2515	"undefined"	79	2006
+"ISV"	"US Virgin Islands"	"VIR"	2270	"undefined"	8	2006
+"UZB"	"Uzbekistan"	"UZB"	2670	"undefined"	145	2006
+"VEN"	"Venezuela"	"VEN"	2448	"undefined"	88	2006
+"VIE"	"Vietnam"	"VNM"	2561	"undefined"	110	2006
+"YEM"	"Yemen"	"YEM"	2396	"undefined"	24	2006
+"ZAM"	"Zambia"	"ZMB"	2445	"undefined"	18	2006
+"ZIM"	"Zimbabwe"	"ZWE"	2411	"undefined"	26	2006
+"AFG"	"Afghanistan"	"AFG"	2217	"Farazi, Khaiber"	14	2007
+"ALB"	"Albania"	"ALB"	2537	"Dervishi, Erald"	43	2007
+"ALG"	"Algeria"	"DZA"	2455	"Rizouk, Aimen"	88	2007
+"AND"	"Andorra"	"AND"	2525	"De La Riva Aguado, Oscar"	25	2007
+"ANG"	"Angola"	"AGO"	2305	"Aderito, Pedro"	23	2007
+"ARG"	"Argentina"	"ARG"	2556	"Felgaer, Ruben"	705	2007
+"ARM"	"Armenia"	"ARM"	2744	"Aronian, Levon"	232	2007
+"ARU"	"Aruba"	"ABW"	2170	"Gerard, Ferry F.J.F."	6	2007
+"AUS"	"Australia"	"AUS"	2522	"Rogers, Ian"	415	2007
+"AUT"	"Austria"	"AUT"	2532	"Kindermann, Stefan"	1368	2007
+"AZE"	"Azerbaijan"	"AZE"	2754	"Mamedyarov, Shakhriyar"	226	2007
+"BAH"	"Bahamas"	"BHS"	1946	"Franklyn Gibson"	5	2007
+"BRN"	"Bahrain"	"BHR"	2230	"Janahi, Khalid"	19	2007
+"BAN"	"Bangladesh"	"BGD"	2541	"Rahman, Ziaur"	303	2007
+"BAR"	"Barbados"	"BRB"	2360	"Denny, Kevin"	33	2007
+"BLR"	"Belarus"	"BLR"	2624	"Fedorov, Alexei"	378	2007
+"BEL"	"Belgium"	"BEL"	2604	"Malakhatko, Vadim"	532	2007
+"BER"	"Bermuda"	"BMU"	2227	"Black, Richard"	16	2007
+"BOL"	"Bolivia"	"BOL"	2495	"Zambrana, Oswaldo"	128	2007
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2626	"Nikolic, Predrag"	238	2007
+"BOT"	"Botswana"	"BWA"	2247	"Njobvu, Ignatius"	29	2007
+"BRA"	"Brazil"	"BRA"	2604	"Leitao, Rafael"	867	2007
+"IVB"	"British Virgin Islands"	"VGB"	2280	"Van Tilbury, Craig"	6	2007
+"BRU"	"Brunei"	"BRN"	2448	"Dollah, Zaidi"	42	2007
+"BUL"	"Bulgaria"	"BGR"	2783	"Topalov, Veselin"	576	2007
+"CAN"	"Canada"	"CAN"	2633	"Spraggett, Kevin"	419	2007
+"CHI"	"Chile"	"CHL"	2551	"Morovic Fernandez, Ivan"	686	2007
+"CHN"	"China"	"CHN"	2644	"Bu, Xiangzhi"	329	2007
+"COL"	"Colombia"	"COL"	2514	"Cabrera, Alexis"	241	2007
+"CRC"	"Costa Rica"	"CRI"	2489	"Ramirez, Alejandro"	87	2007
+"CRO"	"Croatia"	"HRV"	2616	"Kozul, Zdenko"	1187	2007
+"CUB"	"Cuba"	"CUB"	2677	"Dominguez Perez, Lenier"	831	2007
+"CYP"	"Cyprus"	"CYP"	2257	"Martidis, Alkis"	23	2007
+"CZE"	"Czech Republic"	"CZE"	2719	"Navara, David"	2274	2007
+"DEN"	"Denmark"	"DNK"	2651	"Nielsen, Peter Heine"	905	2007
+"DOM"	"Dominican Republic"	"DOM"	2425	"Liao, Yuan Eu"	122	2007
+"ECU"	"Ecuador"	"ECU"	2540	"Matamoros Franco, Carlos S."	362	2007
+"EGY"	"Egypt"	"EGY"	2523	"El Gindy, Essam"	332	2007
+"ESA"	"El Salvador"	"SLV"	2409	"Leyva, Hector"	52	2007
+"EST"	"Estonia"	"EST"	2526	"Kulaots, Kaido"	148	2007
+"ETH"	"Ethiopia"	"ETH"	2201	"Abera, Yimam"	9	2007
+"FAI"	"Faroe Islands"	"FRO"	2388	"Ziska, Helgi Dam"	48	2007
+"FIJ"	"Fiji"	"FJI"	2205	"De Asa, J."	8	2007
+"FIN"	"Finland"	"FIN"	2604	"Nyback, Tomi"	405	2007
+"FRA"	"France"	"FRA"	2705	"Bacrot, Etienne"	4874	2007
+"GEO"	"Georgia"	"GEO"	2650	"Jobava, Baadur"	311	2007
+"GER"	"Germany"	"DEU"	2663	"Naiditsch, Arkadij"	9988	2007
+"GRE"	"Greece"	"GRC"	2583	"Halkias, Stelios"	1041	2007
+"GUA"	"Guatemala"	"GTM"	2373	"Juarez Flores, Carlos A."	41	2007
+"GCI"	"Guernsey"	"GGY"	2270	"Holland, Christopher"	12	2007
+"HAI"	"Haiti"	"HTI"	2152	"Bazil, Joslin"	4	2007
+"HON"	"Honduras"	"HND"	2272	"Urbina, Ricardo"	28	2007
+"HKG"	"Hong Kong"	"HKG"	2415	"Yang, Xian"	35	2007
+"HUN"	"Hungary"	"HUN"	2749	"Leko, Peter"	2566	2007
+"ISL"	"Iceland"	"ISL"	2594	"Hjartarson, Johann"	216	2007
+"IND"	"India"	"IND"	2779	"Anand, Viswanathan"	2740	2007
+"INA"	"Indonesia"	"IDN"	2583	"Adianto, Utut"	152	2007
+"IRI"	"Iran"	"IRN"	2569	"Moradiabadi, Elshan"	415	2007
+"IRQ"	"Iraq"	"IRQ"	2386	"Hussein, H.A."	170	2007
+"IRL"	"Ireland"	"IRL"	2545	"Baburin, Alexander"	135	2007
+"ISR"	"Israel"	"ISR"	2733	"Gelfand, Boris"	689	2007
+"ITA"	"Italy"	"ITA"	2533	"Godena, Michele"	1992	2007
+"JAM"	"Jamaica"	"JAM"	2239	"Elliott, Warren"	31	2007
+"JPN"	"Japan"	"JPN"	2404	"Habu, Yoshiharu"	52	2007
+"JCI"	"Jersey"	"JEY"	2266	"Farrand, Tom"	9	2007
+"JOR"	"Jordan"	"JOR"	2421	"Khader, Sami"	99	2007
+"KAZ"	"Kazakhstan"	"KAZ"	2616	"Vladimirov, Evgeny"	307	2007
+"KEN"	"Kenya"	"KEN"	2210	"Chomu Clement, Miheso"	13	2007
+"KUW"	"Kuwait"	"KWT"	2280	"Fares, Al-Geran"	6	2007
+"KGZ"	"Kyrgyzstan"	"KGZ"	2521	"Magai, Vladimir"	42	2007
+"LAT"	"Latvia"	"LVA"	2626	"Fridman, Daniel"	209	2007
+"LIB"	"Lebanon"	"LBN"	2375	"Eid, Fadi"	53	2007
+"LBA"	"Libya"	"LBY"	2288	"Chahrani, Ibrahim"	24	2007
+"LIE"	"Liechtenstein"	"LIE"	2286	"Atlas, Dimitry"	12	2007
+"LTU"	"Lithuania"	"LTU"	2582	"Rozentalis, Eduardas"	309	2007
+"LUX"	"Luxembourg"	"LUX"	2528	"David, Alberto"	85	2007
+"MAC"	"Macao"	"MAC"	2200	"Chan, Kuok"	14	2007
+"MKD"	"Macedonia"	"MKD"	2598	"Najdoski, Toni"	182	2007
+"MAW"	"Malawi"	"MWI"	1968	"Chimthere, Alfred Charles"	1	2007
+"MAS"	"Malaysia"	"MYS"	2414	"Wong, Zi Jing"	142	2007
+"MLT"	"Malta"	"MLT"	2367	"Borg, Geoffrey"	29	2007
+"MRI"	"Mauritius"	"MUS"	2271	"Phillips, Roy"	8	2007
+"MEX"	"Mexico"	"MEX"	2551	"Hernandez Guerrero, Gilberto"	502	2007
+"MDA"	"Moldova"	"MDA"	2658	"Bologan, Viktor"	175	2007
+"MNC"	"Monaco"	"MCO"	2274	"Bordi, Kevin"	19	2007
+"MGL"	"Mongolia"	"MNG"	2450	"Sharavdorj, Dashzegve"	93	2007
+"MNE"	"Montenegro"	"MNE"	2543	"Drasko, Milan"	174	2007
+"MAR"	"Morocco"	"MAR"	2602	"Hamdouchi, Hichem"	66	2007
+"MOZ"	"Mozambique"	"MOZ"	2255	"Alice, Mateus Felizardo Viageir"	3	2007
+"MYA"	"Myanmar"	"MMR"	2574	"Zaw Win Lay"	234	2007
+"NAM"	"Namibia"	"NAM"	2200	"Leicher, Helmuth"	7	2007
+"NEP"	"Nepal"	"NPL"	2234	"Digesh, Shanker Malla"	24	2007
+"NED"	"Netherlands"	"NLD"	2683	"Van Wely, Loek"	1379	2007
+"AHO"	"Netherlands Antilles"	"ANT"	2205	"Van Der, Ploe"	18	2007
+"NZL"	"New Zealand"	"NZL"	2372	"Martin, Benjamin"	144	2007
+"NCA"	"Nicaragua"	"NIC"	2378	"Davila, Carlos"	59	2007
+"NGR"	"Nigeria"	"NGA"	2296	"Adu, Oladapo"	29	2007
+"NOR"	"Norway"	"NOR"	2690	"Carlsen, Magnus"	441	2007
+"PAK"	"Pakistan"	"PAK"	2367	"Lodhi, Mahmood"	29	2007
+"PLE"	"Palestine"	"PSE"	2496	"Ermenkov, Evgenij"	32	2007
+"PAN"	"Panama"	"PAN"	2285	"Paniagua, Roberto"	26	2007
+"PNG"	"Papua New Guinea"	"PNG"	2205	"Rush, J"	7	2007
+"PAR"	"Paraguay"	"PRY"	2514	"Franco Ocampos, Zenon"	125	2007
+"PER"	"Peru"	"PER"	2612	"Granda Zuniga, Julio E"	217	2007
+"PHI"	"Philippines"	"PHL"	2573	"Paragua, Mark"	153	2007
+"POL"	"Poland"	"POL"	2655	"Miton, Kamil"	3132	2007
+"POR"	"Portugal"	"PRT"	2537	"Galego, Luis"	554	2007
+"PUR"	"Puerto Rico"	"PRI"	2270	"Torres, Luis J"	48	2007
+"QAT"	"Qatar"	"QAT"	2556	"Al-Modiahki, Mohamad"	27	2007
+"RUS"	"Russia"	"RUS"	2812	"Kasparov, Garry"	8977	2007
+"RWA"	"Rwanda"	"RWA"	2089	"Mutabazi, Fidele"	4	2007
+"SMR"	"San Marino"	"SMR"	2168	"Renzi, Nicola"	6	2007
+"SCO"	"United Kingdom"	"GBR"	2592	"Rowson, Jonathan"	182	2007
+"ENG"	"United Kingdom"	"GBR"	2735	"Adams, Michael"	1115	2007
+"WLS"	"United Kingdom"	"GBR"	2420	"Cobb, James"	113	2007
+"SRB"	"Serbia"	"SRB"	2607	"Miladinovic, Igor"	2266	2007
+"SEY"	"Seychelles"	"SYC"	2200	"Lawen, Greg"	9	2007
+"SIN"	"Singapore"	"SGP"	2459	"Wu, Shaobin"	119	2007
+"SVK"	"Slovakia"	"SVK"	2637	"Movsesian, Sergei"	1039	2007
+"SLO"	"Slovenia"	"SVN"	2639	"Beliavsky, Alexander G"	507	2007
+"SOM"	"Somalia"	"SOM"	2200	"Jimale, Abdulle Mohamed"	3	2007
+"RSA"	"South Africa"	"ZAF"	2425	"Michelakis, George"	85	2007
+"KOR"	"South Korea"	"KOR"	2457	"Kim, Alexey"	26	2007
+"ESP"	"Spain"	"ESP"	2715	"Shirov, Alexei"	5663	2007
+"SRI"	"Sri Lanka"	"LKA"	2385	"Aturupane, Harsha"	107	2007
+"SUD"	"Sudan"	"SDN"	2215	"Hamadto, Izz El Din Faisal"	16	2007
+"SUR"	"Suriname"	"SUR"	2220	"Lindeboom, J"	12	2007
+"SWE"	"Sweden"	"SWE"	2605	"Hellers, Ferdinand"	752	2007
+"SUI"	"Switzerland"	"CHE"	2665	"Milov, Vadim"	875	2007
+"SYR"	"Syria"	"SYR"	2428	"Hakki, Imad"	76	2007
+"TJK"	"Tajikistan"	"TJK"	2559	"Amonatov, Farrukh"	16	2007
+"THA"	"Thailand"	"THA"	2309	"Saeheng, Boonsueb"	65	2007
+"TUN"	"Tunisia"	"TUN"	2487	"Belkhodja, Slim"	33	2007
+"TUR"	"Turkey"	"TUR"	2635	"Gurevich, Mikhail"	457	2007
+"TKM"	"Turkmenistan"	"TKM"	2483	"Odeev, Handszar"	91	2007
+"UGA"	"Uganda"	"UGA"	2360	"Naimanye, Andrew"	20	2007
+"UKR"	"Ukraine"	"UKR"	2750	"Ivanchuk, Vassily"	1539	2007
+"UAE"	"United Arab Emirates"	"ARE"	2435	"Saeed, Saeed-Ahmed"	120	2007
+"USA"	"United States"	"USA"	2780	"Fischer, Robert J"	1694	2007
+"URU"	"Uruguay"	"URY"	2543	"Rodriguez Vila, Andres"	81	2007
+"ISV"	"US Virgin Islands"	"VIR"	2270	"O'Donnell, M"	8	2007
+"UZB"	"Uzbekistan"	"UZB"	2682	"Kasimdzhanov, Rustam"	156	2007
+"VEN"	"Venezuela"	"VEN"	2439	"Prasca, Raphael"	98	2007
+"VIE"	"Vietnam"	"VNM"	2559	"Dao, Thien Hai"	108	2007
+"YEM"	"Yemen"	"YEM"	2414	"Al Qudaimi, Basheer"	31	2007
+"ZAM"	"Zambia"	"ZMB"	2417	"Simutowe, Amon"	19	2007
+"ZIM"	"Zimbabwe"	"ZWE"	2413	"Gwaze, Robert"	25	2007
+"ALB"	"Albania"	"ALB"	2543	"Dervishi, Erald"	48	2008
+"ALG"	"Algeria"	"DZA"	2498	"Rizouk, Aimen"	94	2008
+"AND"	"Andorra"	"AND"	2548	"De La Riva Aguado,"	25	2008
+"ANG"	"Angola"	"AGO"	2349	"Aderito, Pedro"	24	2008
+"ARG"	"Argentina"	"ARG"	2558	"Flores, Diego"	1291	2008
+"ARM"	"Armenia"	"ARM"	2739	"Aronian, Levon"	262	2008
+"ARU"	"Aruba"	"ABW"	2170	"Gerard, Ferry F.J."	7	2008
+"AUS"	"Australia"	"AUS"	2545	"Rogers, Ian"	482	2008
+"AUT"	"Austria"	"AUT"	2530	"Ragger, Markus"	1499	2008
+"AZE"	"Azerbaijan"	"AZE"	2760	"Mamedyarov, Shakhr"	247	2008
+"BAH"	"Bahamas"	"BHS"	1944	"Franklyn Gibson"	6	2008
+"BRN"	"Bahrain"	"BHR"	2230	"Janahi, Khalid"	21	2008
+"BAN"	"Bangladesh"	"BGD"	2522	"Hossain, Enamul"	355	2008
+"BAR"	"Barbados"	"BRB"	2367	"Denny, Kevin"	43	2008
+"BLR"	"Belarus"	"BLR"	2618	"Aleksandrov, Aleks"	433	2008
+"BEL"	"Belgium"	"BEL"	2600	"Malakhatko, Vadim"	635	2008
+"BER"	"Bermuda"	"BMU"	2227	"Black, Richard"	23	2008
+"BOL"	"Bolivia"	"BOL"	2492	"Zambrana, Oswaldo"	141	2008
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2665	"Nikolic, Predrag"	274	2008
+"BOT"	"Botswana"	"BWA"	2247	"Njobvu, Ignatius"	31	2008
+"BRA"	"Brazil"	"BRA"	2617	"Vescovi, Giovanni"	1029	2008
+"IVB"	"British Virgin Islands"	"VGB"	2280	"Van Tilbury, Craig"	6	2008
+"BRU"	"Brunei"	"BRN"	2448	"Dollah, Zaidi"	42	2008
+"BUL"	"Bulgaria"	"BGR"	2780	"Topalov, Veselin"	623	2008
+"CAN"	"Canada"	"CAN"	2588	"Spraggett, Kevin"	449	2008
+"CHN"	"China"	"CHN"	2698	"Wang, Yue"	354	2008
+"COL"	"Colombia"	"COL"	2496	"Cuartas, Jaime Ale"	400	2008
+"CRC"	"Costa Rica"	"CRI"	2509	"Ramirez, Alejandro"	88	2008
+"CRO"	"Croatia"	"HRV"	2600	"Kozul, Zdenko"	1356	2008
+"CUB"	"Cuba"	"CUB"	2691	"Dominguez Perez, L"	895	2008
+"CYP"	"Cyprus"	"CYP"	2259	"Martidis, Alkis"	26	2008
+"CZE"	"Czech Republic"	"CZE"	2680	"Navara, David"	2584	2008
+"DEN"	"Denmark"	"DNK"	2625	"Nielsen, Peter Hei"	1023	2008
+"DOM"	"Dominican Republic"	"DOM"	2484	"Mateo, Ramon"	129	2008
+"ECU"	"Ecuador"	"ECU"	2529	"Matamoros Franco,"	392	2008
+"EGY"	"Egypt"	"EGY"	2551	"Adly, Ahmed"	353	2008
+"ESA"	"El Salvador"	"SLV"	2409	"Leyva, Hector"	55	2008
+"EST"	"Estonia"	"EST"	2533	"Kulaots, Kaido"	156	2008
+"ETH"	"Ethiopia"	"ETH"	2201	"Abera, Yimam"	9	2008
+"FAI"	"Faroe Islands"	"FRO"	2406	"Ziska, Helgi Dam"	58	2008
+"FIJ"	"Fiji"	"FJI"	2205	"De Asa, J."	9	2008
+"FIN"	"Finland"	"FIN"	2579	"Nyback, Tomi"	442	2008
+"FRA"	"France"	"FRA"	2700	"Bacrot, Etienne"	5683	2008
+"GEO"	"Georgia"	"GEO"	2643	"Jobava, Baadur"	365	2008
+"GER"	"Germany"	"DEU"	2638	"Naiditsch, Arkadij"	11109	2008
+"GRE"	"Greece"	"GRC"	2628	"Kotronias, Vasilio"	1254	2008
+"GUA"	"Guatemala"	"GTM"	2373	"Juarez Flores, Car"	43	2008
+"GCI"	"Guernsey"	"GGY"	2270	"Holland, Christoph"	12	2008
+"HAI"	"Haiti"	"HTI"	2152	"Bazil, Joslin"	4	2008
+"HKG"	"Hong Kong"	"HKG"	2415	"Yang, Xian"	41	2008
+"HUN"	"Hungary"	"HUN"	2753	"Leko, Peter"	2891	2008
+"ISL"	"Iceland"	"ISL"	2596	"Hjartarson, Johann"	233	2008
+"IND"	"India"	"IND"	2799	"Anand, Viswanathan"	3341	2008
+"INA"	"Indonesia"	"IDN"	2574	"Adianto, Utut"	161	2008
+"IRI"	"Iran"	"IRN"	2589	"Ghaem Maghami, Ehs"	547	2008
+"IRQ"	"Iraq"	"IRQ"	2388	"Sarsam, S.A."	174	2008
+"IRL"	"Ireland"	"IRL"	2542	"Baburin, Alexander"	141	2008
+"ISR"	"Israel"	"ISR"	2737	"Gelfand, Boris"	729	2008
+"ITA"	"Italy"	"ITA"	2598	"Caruana, Fabiano"	2426	2008
+"JAM"	"Jamaica"	"JAM"	2264	"Elliott, Warren"	34	2008
+"JPN"	"Japan"	"JPN"	2404	"Habu, Yoshiharu"	60	2008
+"JCI"	"Jersey"	"JEY"	2266	"Farrand, Tom"	9	2008
+"JOR"	"Jordan"	"JOR"	2427	"Khader, Sami"	112	2008
+"KAZ"	"Kazakhstan"	"KAZ"	2627	"Vladimirov, Evgeny"	348	2008
+"KEN"	"Kenya"	"KEN"	2210	"Chomu Clement, Mih"	14	2008
+"KUW"	"Kuwait"	"KWT"	2280	"Fares, Al-Geran"	6	2008
+"KGZ"	"Kyrgyzstan"	"KGZ"	2521	"Magai, Vladimir"	46	2008
+"LAT"	"Latvia"	"LVA"	2553	"Miezis, Normunds"	221	2008
+"LIB"	"Lebanon"	"LBN"	2381	"Eid, Fadi"	55	2008
+"LBA"	"Libya"	"LBY"	2288	"Ben Nasser, Khaled"	29	2008
+"LIE"	"Liechtenstein"	"LIE"	2299	"Atlas, Dimitry"	11	2008
+"LTU"	"Lithuania"	"LTU"	2567	"Rozentalis, Eduard"	354	2008
+"LUX"	"Luxembourg"	"LUX"	2557	"David, Alberto"	97	2008
+"MAC"	"Macao"	"MAC"	2200	"Chan, Kuok"	15	2008
+"MKD"	"Macedonia"	"MKD"	2598	"Najdoski, Toni"	186	2008
+"MAD"	"Madagascar"	"MDG"	2061	"Ranaivoharisoa, Al"	1	2008
+"MAW"	"Malawi"	"MWI"	1966	"Chimthere, Alfred"	1	2008
+"MAS"	"Malaysia"	"MYS"	2414	"Wong, Zi Jing"	164	2008
+"MLT"	"Malta"	"MLT"	2377	"Sorensen, Torben"	34	2008
+"MRI"	"Mauritius"	"MUS"	2250	"Phillips, Roy"	10	2008
+"MEX"	"Mexico"	"MEX"	2556	"Gonzalez Zamora, J"	557	2008
+"MDA"	"Moldova"	"MDA"	2663	"Bologan, Viktor"	196	2008
+"MNC"	"Monaco"	"MCO"	2468	"Efimov, Igor"	18	2008
+"MGL"	"Mongolia"	"MNG"	2445	"Sharavdorj, Dashze"	99	2008
+"MNE"	"Montenegro"	"MNE"	2543	"Djukic, Nikola"	189	2008
+"MAR"	"Morocco"	"MAR"	2575	"Hamdouchi, Hichem"	68	2008
+"MOZ"	"Mozambique"	"MOZ"	2201	"Alice, Mateus Feli"	4	2008
+"MYA"	"Myanmar"	"MMR"	2574	"Zaw Win Lay"	235	2008
+"NAM"	"Namibia"	"NAM"	2200	"Leicher, Helmuth"	7	2008
+"NEP"	"Nepal"	"NPL"	2234	"Digesh, Shanker Ma"	29	2008
+"NED"	"Netherlands"	"NLD"	2686	"Sokolov, Ivan"	1582	2008
+"NZL"	"New Zealand"	"NZL"	2540	"Chandler, Murray G"	163	2008
+"NCA"	"Nicaragua"	"NIC"	2376	"Davila, Carlos"	63	2008
+"NGR"	"Nigeria"	"NGA"	2301	"Adu, Oladapo"	30	2008
+"NOR"	"Norway"	"NOR"	2733	"Carlsen, Magnus"	484	2008
+"PAK"	"Pakistan"	"PAK"	2397	"Lodhi, Mahmood"	33	2008
+"PLW"	"Palau"	"PLW"	1942	"Manuel, Menandro"	6	2008
+"PLE"	"Palestine"	"PSE"	2463	"Ermenkov, Evgenij"	33	2008
+"PAN"	"Panama"	"PAN"	2291	"Baules, Jorge"	28	2008
+"PNG"	"Papua New Guinea"	"PNG"	2205	"Rush, J"	7	2008
+"PAR"	"Paraguay"	"PRY"	2516	"Franco Ocampos, Ze"	146	2008
+"PER"	"Peru"	"PER"	2588	"Granda Zuniga, Jul"	258	2008
+"PHI"	"Philippines"	"PHL"	2529	"Antonio, Rogelio J"	180	2008
+"POL"	"Poland"	"POL"	2636	"Krasenkow, Michal"	3553	2008
+"POR"	"Portugal"	"PRT"	2529	"Galego, Luis"	676	2008
+"PUR"	"Puerto Rico"	"PRI"	2287	"Velasco, Santiago"	56	2008
+"QAT"	"Qatar"	"QAT"	2569	"Al-Modiahki, Moham"	33	2008
+"ROU"	"Romania"	"ROU"	2684	"Nisipeanu, Liviu-D"	1132	2008
+"RUS"	"Russia"	"RUS"	2812	"Kasparov, Garry"	10035	2008
+"RWA"	"Rwanda"	"RWA"	2089	"Mutabazi, Fidele"	4	2008
+"SMR"	"San Marino"	"SMR"	2168	"Renzi, Nicola"	6	2008
+"SCO"	"United Kingdom"	"GBR"	2580	"Rowson, Jonathan"	194	2008
+"ENG"	"United Kingdom"	"GBR"	2726	"Adams, Michael"	1223	2008
+"WLS"	"United Kingdom"	"GBR"	2412	"Cobb, James"	119	2008
+"SRB"	"Serbia"	"SRB"	2649	"Ivanisevic, Ivan"	2378	2008
+"SEY"	"Seychelles"	"SYC"	2200	"Lawen, Greg"	9	2008
+"SIN"	"Singapore"	"SGP"	2617	"Zhang, Zhong"	139	2008
+"SVK"	"Slovakia"	"SVK"	2677	"Movsesian, Sergei"	1152	2008
+"SLO"	"Slovenia"	"SVN"	2638	"Beliavsky, Alexand"	545	2008
+"SOM"	"Somalia"	"SOM"	2200	"Jimale, Abdulle Mo"	4	2008
+"RSA"	"South Africa"	"ZAF"	2425	"Michelakis, George"	99	2008
+"KOR"	"South Korea"	"KOR"	2442	"Kim, Alexey"	34	2008
+"ESP"	"Spain"	"ESP"	2755	"Shirov, Alexei"	6885	2008
+"SRI"	"Sri Lanka"	"LKA"	2385	"Aturupane, Harsha"	129	2008
+"SUD"	"Sudan"	"SDN"	2215	"Hamadto, Izz El Di"	17	2008
+"SUR"	"Suriname"	"SUR"	2220	"Lindeboom, J"	12	2008
+"SWE"	"Sweden"	"SWE"	2599	"Hellers, Ferdinand"	799	2008
+"SUI"	"Switzerland"	"CHE"	2690	"Milov, Vadim"	1008	2008
+"TJK"	"Tajikistan"	"TJK"	2649	"Amonatov, Farrukh"	19	2008
+"THA"	"Thailand"	"THA"	2318	"Saeheng, Boonsueb"	64	2008
+"TUR"	"Turkey"	"TUR"	2607	"Gurevich, Mikhail"	606	2008
+"TKM"	"Turkmenistan"	"TKM"	2471	"Batyrov, Sapar"	94	2008
+"UGA"	"Uganda"	"UGA"	2360	"Naimanye, Andrew"	20	2008
+"UKR"	"Ukraine"	"UKR"	2751	"Ivanchuk, Vassily"	1643	2008
+"UAE"	"United Arab Emirates"	"ARE"	2435	"Saeed, Saeed-Ahmed"	133	2008
+"USA"	"United States"	"USA"	2726	"Kamsky, Gata"	1816	2008
+"URU"	"Uruguay"	"URY"	2566	"Rodriguez Vila, An"	90	2008
+"ISV"	"US Virgin Islands"	"VIR"	2270	"O'Donnell, M"	8	2008
+"UZB"	"Uzbekistan"	"UZB"	2681	"Kasimdzhanov, Rust"	173	2008
+"VEN"	"Venezuela"	"VEN"	2470	"Iturrizaga, Eduard"	118	2008
+"VIE"	"Vietnam"	"VNM"	2551	"Nguyen, Ngoc Truon"	120	2008
+"YEM"	"Yemen"	"YEM"	2439	"Al Qudaimi, Bashee"	45	2008
+"ZAM"	"Zambia"	"ZMB"	2457	"Simutowe, Amon"	21	2008
+"ZIM"	"Zimbabwe"	"ZWE"	2426	"Gwaze, Robert"	25	2008
+"AFG"	"Afghanistan"	"AFG"	2173	"Sharify, Aziz"	19	2009
+"ALB"	"Albania"	"ALB"	2545	"Dervishi, Erald"	61	2009
+"ALG"	"Algeria"	"DZA"	2518	"Rizouk, Aimen"	96	2009
+"AND"	"Andorra"	"AND"	2539	"De La Riva Aguado, Oscar"	27	2009
+"ANG"	"Angola"	"AGO"	2333	"Aderito, Pedro"	31	2009
+"ARG"	"Argentina"	"ARG"	2580	"Flores, Diego"	1432	2009
+"ARM"	"Armenia"	"ARM"	2750	"Aronian, Levon"	290	2009
+"ARU"	"Aruba"	"ABW"	2132	"Da Silva John"	9	2009
+"AUS"	"Australia"	"AUS"	2577	"Zhao, Zong-Yuan"	534	2009
+"AUT"	"Austria"	"AUT"	2540	"Ragger, Markus"	1604	2009
+"AZE"	"Azerbaijan"	"AZE"	2761	"Radjabov, Teimour"	289	2009
+"BAH"	"Bahamas"	"BHS"	1932	"Franklyn Gibson"	8	2009
+"BRN"	"Bahrain"	"BHR"	2230	"Janahi, Khalid"	22	2009
+"BAN"	"Bangladesh"	"BGD"	2535	"Abdulla, Al-Rakib"	412	2009
+"BAR"	"Barbados"	"BRB"	2367	"Denny, Kevin"	47	2009
+"BLR"	"Belarus"	"BLR"	2636	"Aleksandrov, Aleksej"	475	2009
+"BEL"	"Belgium"	"BEL"	2610	"Malakhatko, Vadim"	772	2009
+"BER"	"Bermuda"	"BMU"	2227	"Black, Richard"	27	2009
+"BOL"	"Bolivia"	"BOL"	2473	"Zambrana, Oswaldo"	167	2009
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2650	"Predojevic, Borki"	322	2009
+"BOT"	"Botswana"	"BWA"	2255	"Khetho, Phemelo"	32	2009
+"BRA"	"Brazil"	"BRA"	2635	"Vescovi, Giovanni"	1164	2009
+"IVB"	"British Virgin Islands"	"VGB"	2264	"Van Tilbury, Craig"	6	2009
+"BRU"	"Brunei"	"BRN"	2448	"Dollah, Zaidi"	42	2009
+"BUL"	"Bulgaria"	"BGR"	2796	"Topalov, Veselin"	668	2009
+"CAN"	"Canada"	"CAN"	2585	"Spraggett, Kevin"	484	2009
+"CHI"	"Chile"	"CHL"	2551	"Morovic Fernandez, Ivan"	729	2009
+"CHN"	"China"	"CHN"	2739	"Wang, Yue"	376	2009
+"COL"	"Colombia"	"COL"	2515	"Zapata, Alonso"	573	2009
+"CRC"	"Costa Rica"	"CRI"	2551	"Ramirez, Alejandro"	119	2009
+"CRO"	"Croatia"	"HRV"	2594	"Kozul, Zdenko"	1502	2009
+"CUB"	"Cuba"	"CUB"	2717	"Dominguez Perez, Leinier"	978	2009
+"CYP"	"Cyprus"	"CYP"	2259	"Martidis, Alkis"	28	2009
+"CZE"	"Czech Republic"	"CZE"	2638	"Navara, David"	2940	2009
+"DEN"	"Denmark"	"DNK"	2660	"Nielsen, Peter Heine"	1180	2009
+"DOM"	"Dominican Republic"	"DOM"	2473	"Mateo, Ramon"	150	2009
+"ECU"	"Ecuador"	"ECU"	2532	"Matamoros Franco, Carlos S."	490	2009
+"EGY"	"Egypt"	"EGY"	2568	"Adly, Ahmed"	381	2009
+"ESA"	"El Salvador"	"SLV"	2406	"Arias, Lemmys A."	68	2009
+"EST"	"Estonia"	"EST"	2573	"Kulaots, Kaido"	165	2009
+"ETH"	"Ethiopia"	"ETH"	2204	"Fekadu, Desalegn Jimma"	12	2009
+"FAI"	"Faroe Islands"	"FRO"	2420	"Ziska, Helgi Dam"	66	2009
+"FIJ"	"Fiji"	"FJI"	2205	"De Asa, Virgilio Jr"	17	2009
+"FIN"	"Finland"	"FIN"	2644	"Nyback, Tomi"	477	2009
+"FRA"	"France"	"FRA"	2722	"Bacrot, Etienne"	6646	2009
+"GAB"	"Gabon"	"GAB"	2142	"Moulain Ayombo, Jean Pierre"	2	2009
+"GEO"	"Georgia"	"GEO"	2669	"Jobava, Baadur"	392	2009
+"GER"	"Germany"	"DEU"	2693	"Naiditsch, Arkadij"	12141	2009
+"GHA"	"Ghana"	"GHA"	1889	"Hoogendijk, Cornelis Willem"	3	2009
+"GRE"	"Greece"	"GRC"	2609	"Papaioannou, Ioannis"	1480	2009
+"GUA"	"Guatemala"	"GTM"	2365	"Juarez Flores, Carlos A."	47	2009
+"GCI"	"Guernsey"	"GGY"	2270	"Holland, Christopher"	12	2009
+"HAI"	"Haiti"	"HTI"	2132	"Sanon, Mondoly"	3	2009
+"HON"	"Honduras"	"HND"	2260	"Lozano, Tomas R."	32	2009
+"HKG"	"Hong Kong"	"HKG"	2415	"Yang, Xian"	48	2009
+"HUN"	"Hungary"	"HUN"	2751	"Leko, Peter"	3277	2009
+"ISL"	"Iceland"	"ISL"	2596	"Hjartarson, Johann"	252	2009
+"IND"	"India"	"IND"	2791	"Anand, Viswanathan"	3936	2009
+"INA"	"Indonesia"	"IDN"	2549	"Megaranto, Susanto"	175	2009
+"IRI"	"Iran"	"IRN"	2604	"Ghaem Maghami, Ehsan"	716	2009
+"IRQ"	"Iraq"	"IRQ"	2392	"Saad A.I.Sarsam"	185	2009
+"IRL"	"Ireland"	"IRL"	2541	"Baburin, Alexander"	154	2009
+"ISR"	"Israel"	"ISR"	2733	"Gelfand, Boris"	776	2009
+"ITA"	"Italy"	"ITA"	2646	"Caruana, Fabiano"	2933	2009
+"JAM"	"Jamaica"	"JAM"	2265	"Elliott, Warren"	39	2009
+"JPN"	"Japan"	"JPN"	2404	"Habu, Yoshiharu"	69	2009
+"JCI"	"Jersey"	"JEY"	2266	"Farrand, Tom"	12	2009
+"JOR"	"Jordan"	"JOR"	2409	"Issa, Rafat"	124	2009
+"KAZ"	"Kazakhstan"	"KAZ"	2630	"Kazhgaleyev, Murtas"	364	2009
+"KEN"	"Kenya"	"KEN"	2210	"Chomu Clement, Miheso"	15	2009
+"KGZ"	"Kyrgyzstan"	"KGZ"	2521	"Magai, Vladimir"	52	2009
+"LAT"	"Latvia"	"LVA"	2578	"Miezis, Normunds"	240	2009
+"LIB"	"Lebanon"	"LBN"	2379	"Eid, Fadi"	57	2009
+"LBA"	"Libya"	"LBY"	2286	"Chahrani, Ibrahim"	32	2009
+"LIE"	"Liechtenstein"	"LIE"	2327	"Atlas, Dimitry"	13	2009
+"LTU"	"Lithuania"	"LTU"	2590	"Rozentalis, Eduardas"	400	2009
+"LUX"	"Luxembourg"	"LUX"	2603	"David, Alberto"	110	2009
+"MAC"	"Macao"	"MAC"	2200	"Chan, Kuok"	15	2009
+"MKD"	"Macedonia"	"MKD"	2598	"Najdoski, Toni"	196	2009
+"MAD"	"Madagascar"	"MDG"	2083	"Ranaivoharisoa, Alain"	5	2009
+"MAS"	"Malaysia"	"MYS"	2421	"Mas, Hafizulhelmi"	200	2009
+"MDV"	"Maldives"	"MDV"	1940	"Abdul Rahman Ali"	8	2009
+"MLT"	"Malta"	"MLT"	2401	"Sorensen, Torben"	39	2009
+"MRI"	"Mauritius"	"MUS"	2247	"Phillips, Roy"	11	2009
+"MEX"	"Mexico"	"MEX"	2555	"Gonzalez Zamora, Juan Carlos"	598	2009
+"MDA"	"Moldova"	"MDA"	2687	"Bologan, Viktor"	219	2009
+"MNC"	"Monaco"	"MCO"	2439	"Efimov, Igor"	21	2009
+"MGL"	"Mongolia"	"MNG"	2448	"Gundavaa, Bayarsaikhan"	108	2009
+"MNE"	"Montenegro"	"MNE"	2548	"Blagojevic, Dragisa"	217	2009
+"MAR"	"Morocco"	"MAR"	2466	"Tissir, Mohamed"	68	2009
+"MOZ"	"Mozambique"	"MOZ"	2216	"Alice, Mateus Felizardo Viag"	5	2009
+"NAM"	"Namibia"	"NAM"	2200	"Leicher, Helmuth"	8	2009
+"NEP"	"Nepal"	"NPL"	2234	"Malla, Digesh Shanker"	54	2009
+"NED"	"Netherlands"	"NLD"	2685	"Tiviakov, Sergei"	1745	2009
+"AHO"	"Netherlands Antilles"	"ANT"	2205	"Van Der, Ploe"	19	2009
+"NZL"	"New Zealand"	"NZL"	2518	"Chandler, Murray G"	180	2009
+"NCA"	"Nicaragua"	"NIC"	2361	"Davila, Carlos"	73	2009
+"NGR"	"Nigeria"	"NGA"	2284	"Adebayo, Adegboyega"	35	2009
+"NOR"	"Norway"	"NOR"	2776	"Carlsen, Magnus"	552	2009
+"PAK"	"Pakistan"	"PAK"	2377	"Lodhi, Mahmood"	34	2009
+"PLW"	"Palau"	"PLW"	1942	"Manuel, Menandro"	6	2009
+"PLE"	"Palestine"	"PSE"	2460	"Sammour-Hasbun, Jorge E."	34	2009
+"PAN"	"Panama"	"PAN"	2330	"Baules, Jorge"	29	2009
+"PNG"	"Papua New Guinea"	"PNG"	2205	"Rush, J"	7	2009
+"PAR"	"Paraguay"	"PRY"	2562	"Bachmann, Axel"	167	2009
+"PER"	"Peru"	"PER"	2624	"Granda Zuniga, Julio E"	381	2009
+"PHI"	"Philippines"	"PHL"	2627	"So, Wesley"	242	2009
+"POL"	"Poland"	"POL"	2631	"Socko, Bartosz"	3974	2009
+"POR"	"Portugal"	"PRT"	2496	"Antunes, Antonio"	782	2009
+"PUR"	"Puerto Rico"	"PRI"	2283	"Velasco, Santiago"	58	2009
+"QAT"	"Qatar"	"QAT"	2580	"Al-Modiahki, Mohamad"	37	2009
+"ROU"	"Romania"	"ROU"	2675	"Nisipeanu, Liviu-Dieter"	1338	2009
+"RUS"	"Russia"	"RUS"	2812	"Kasparov, Garry"	11068	2009
+"RWA"	"Rwanda"	"RWA"	2089	"Mutabazi, Fidele"	5	2009
+"SMR"	"San Marino"	"SMR"	2168	"Renzi, Nicola"	6	2009
+"STP"	"Sao Tome and Principe"	"STP"	1786	"Daio Pires Dos Santo, Leeley"	1	2009
+"SCO"	"United Kingdom"	"GBR"	2585	"Rowson, Jonathan"	208	2009
+"ENG"	"United Kingdom"	"GBR"	2712	"Adams, Michael"	1323	2009
+"WLS"	"United Kingdom"	"GBR"	2440	"Cobb, James"	136	2009
+"SRB"	"Serbia"	"SRB"	2628	"Ivanisevic, Ivan"	2510	2009
+"SEY"	"Seychelles"	"SYC"	2200	"Lawen, Greg"	10	2009
+"SIN"	"Singapore"	"SGP"	2656	"Zhang, Zhong"	169	2009
+"SVK"	"Slovakia"	"SVK"	2751	"Movsesian, Sergei"	1277	2009
+"SLO"	"Slovenia"	"SVN"	2646	"Beliavsky, Alexander G"	588	2009
+"SOM"	"Somalia"	"SOM"	2200	"Jimale, Abdulle Mohamed"	4	2009
+"RSA"	"South Africa"	"ZAF"	2425	"Michelakis, George"	122	2009
+"KOR"	"South Korea"	"KOR"	2470	"Kim, Alexey"	45	2009
+"ESP"	"Spain"	"ESP"	2745	"Shirov, Alexei"	8215	2009
+"SRI"	"Sri Lanka"	"LKA"	2385	"Aturupane, Harsha"	189	2009
+"SUD"	"Sudan"	"SDN"	2215	"Hamadto, Izz El Din Faisal"	17	2009
+"SUR"	"Suriname"	"SUR"	2220	"Lindeboom, J"	19	2009
+"SWE"	"Sweden"	"SWE"	2606	"Berg, Emanuel"	849	2009
+"SUI"	"Switzerland"	"CHE"	2669	"Milov, Vadim"	1128	2009
+"SYR"	"Syria"	"SYR"	2418	"Hakki, Imad"	107	2009
+"TJK"	"Tajikistan"	"TJK"	2647	"Amonatov, Farrukh"	24	2009
+"THA"	"Thailand"	"THA"	2314	"Saeheng, Boonsueb"	80	2009
+"TUN"	"Tunisia"	"TUN"	2469	"Belkhodja, Slim"	53	2009
+"TUR"	"Turkey"	"TUR"	2624	"Gurevich, Mikhail"	774	2009
+"TKM"	"Turkmenistan"	"TKM"	2453	"Amanov, Mesgen"	103	2009
+"UGA"	"Uganda"	"UGA"	2360	"Naimanye, Andrew"	20	2009
+"UKR"	"Ukraine"	"UKR"	2779	"Ivanchuk, Vassily"	1790	2009
+"UAE"	"United Arab Emirates"	"ARE"	2473	"Salem, A.R. Saleh"	145	2009
+"USA"	"United States"	"USA"	2725	"Kamsky, Gata"	1969	2009
+"URU"	"Uruguay"	"URY"	2524	"Rodriguez Vila, Andres"	122	2009
+"ISV"	"US Virgin Islands"	"VIR"	2270	"O'Donnell, M"	8	2009
+"UZB"	"Uzbekistan"	"UZB"	2687	"Kasimdzhanov, Rustam"	191	2009
+"VEN"	"Venezuela"	"VEN"	2528	"Iturrizaga, Eduardo"	136	2009
+"VIE"	"Vietnam"	"VNM"	2591	"Le, Quang Liem"	159	2009
+"YEM"	"Yemen"	"YEM"	2448	"Al Qudaimi, Basheer"	54	2009
+"ZAM"	"Zambia"	"ZMB"	2485	"Simutowe, Amon"	21	2009
+"ZIM"	"Zimbabwe"	"ZWE"	2426	"Gwaze, Robert"	26	2009
+"ALB"	"Albania"	"ALB"	2557	"Dervishi, Erald"	68	2010
+"ALG"	"Algeria"	"DZA"	2532	"Rizouk, Aimen"	100	2010
+"AND"	"Andorra"	"AND"	2531	"De La Riva Aguado, Oscar"	34	2010
+"ANG"	"Angola"	"AGO"	2333	"Aderito, Pedro"	36	2010
+"ARM"	"Armenia"	"ARM"	2781	"Aronian, Levon"	333	2010
+"ARU"	"Aruba"	"ABW"	2128	"Gerard, Ferry F.J.F."	11	2010
+"AUS"	"Australia"	"AUS"	2572	"Zhao, Zong-Yuan"	615	2010
+"AUT"	"Austria"	"AUT"	2568	"Ragger, Markus"	1706	2010
+"AZE"	"Azerbaijan"	"AZE"	2759	"Gashimov, Vugar"	322	2010
+"BAH"	"Bahamas"	"BHS"	1932	"Franklyn Gibson"	15	2010
+"BRN"	"Bahrain"	"BHR"	2230	"Janahi, Khalid"	22	2010
+"BAN"	"Bangladesh"	"BGD"	2548	"Rahman, Ziaur"	451	2010
+"BLR"	"Belarus"	"BLR"	2668	"Zhigalko, Sergei"	517	2010
+"BEL"	"Belgium"	"BEL"	2595	"Chuchelov, Vladimir"	910	2010
+"BER"	"Bermuda"	"BMU"	2227	"Black, Richard"	37	2010
+"BOL"	"Bolivia"	"BOL"	2481	"Zambrana, Oswaldo"	188	2010
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2649	"Sokolov, Ivan"	360	2010
+"BOT"	"Botswana"	"BWA"	2255	"Khetho, Phemelo"	32	2010
+"BRA"	"Brazil"	"BRA"	2660	"Vescovi, Giovanni"	1356	2010
+"BRU"	"Brunei"	"BRN"	2448	"Dollah, Zaidi"	43	2010
+"BUL"	"Bulgaria"	"BGR"	2805	"Topalov, Veselin"	751	2010
+"CAN"	"Canada"	"CAN"	2586	"Spraggett, Kevin"	517	2010
+"CHI"	"Chile"	"CHL"	2561	"Morovic Fernandez, Ivan"	802	2010
+"CHN"	"China"	"CHN"	2749	"Wang, Yue"	396	2010
+"COL"	"Colombia"	"COL"	2548	"Cuartas, Jaime Alexander"	714	2010
+"CRC"	"Costa Rica"	"CRI"	2550	"Ramirez, Alejandro"	139	2010
+"CIV"	"Cote d'Ivoire"	"CIV"	2075	"Degondo, Simplice Armel"	1	2010
+"CRO"	"Croatia"	"HRV"	2617	"Kozul, Zdenko"	1631	2010
+"CUB"	"Cuba"	"CUB"	2712	"Dominguez Perez, Leinier"	1130	2010
+"CYP"	"Cyprus"	"CYP"	2225	"Klerides, Paris"	31	2010
+"CZE"	"Czech Republic"	"CZE"	2708	"Navara, David"	3287	2010
+"DEN"	"Denmark"	"DNK"	2697	"Nielsen, Peter Heine"	1314	2010
+"DOM"	"Dominican Republic"	"DOM"	2453	"Mateo, Ramon"	192	2010
+"ECU"	"Ecuador"	"ECU"	2545	"Matamoros Franco, Carlos S."	563	2010
+"EGY"	"Egypt"	"EGY"	2591	"Adly, Ahmed"	441	2010
+"ESA"	"El Salvador"	"SLV"	2395	"Leyva, Hector"	80	2010
+"ETH"	"Ethiopia"	"ETH"	2204	"Fekadu, Desalegn Jimma"	12	2010
+"FAI"	"Faroe Islands"	"FRO"	2432	"Ziska, Helgi Dam"	68	2010
+"FIN"	"Finland"	"FIN"	2643	"Nyback, Tomi"	512	2010
+"FRA"	"France"	"FRA"	2730	"Vachier-Lagrave, Maxime"	7666	2010
+"GEO"	"Georgia"	"GEO"	2704	"Jobava, Baadur"	445	2010
+"GER"	"Germany"	"DEU"	2687	"Naiditsch, Arkadij"	13298	2010
+"GHA"	"Ghana"	"GHA"	1889	"Hoogendijk, Cornelis Willem"	3	2010
+"GRE"	"Greece"	"GRC"	2625	"Papaioannou, Ioannis"	1753	2010
+"GUA"	"Guatemala"	"GTM"	2374	"Juarez Flores, Carlos A."	51	2010
+"GCI"	"Guernsey"	"GGY"	2270	"Holland, Christopher"	12	2010
+"HAI"	"Haiti"	"HTI"	2120	"Sanon, Mondoly"	3	2010
+"HKG"	"Hong Kong"	"HKG"	2415	"Yang, Xian"	53	2010
+"HUN"	"Hungary"	"HUN"	2739	"Leko, Peter"	3641	2010
+"ISL"	"Iceland"	"ISL"	2585	"Hjartarson, Johann"	272	2010
+"IND"	"India"	"IND"	2790	"Anand, Viswanathan"	4867	2010
+"IRI"	"Iran"	"IRN"	2589	"Ghaem Maghami, Ehsan"	888	2010
+"IRQ"	"Iraq"	"IRQ"	2402	"Saad A.I.Sarsam"	220	2010
+"IRL"	"Ireland"	"IRL"	2552	"Baburin, Alexander"	170	2010
+"ISR"	"Israel"	"ISR"	2761	"Gelfand, Boris"	814	2010
+"ITA"	"Italy"	"ITA"	2675	"Caruana, Fabiano"	3492	2010
+"JAM"	"Jamaica"	"JAM"	2264	"Elliott, Warren"	41	2010
+"JPN"	"Japan"	"JPN"	2404	"Habu, Yoshiharu"	78	2010
+"JCI"	"Jersey"	"JEY"	2278	"Farrand, Tom"	15	2010
+"JOR"	"Jordan"	"JOR"	2471	"Khader, Sami"	139	2010
+"KAZ"	"Kazakhstan"	"KAZ"	2643	"Kazhgaleyev, Murtas"	393	2010
+"KEN"	"Kenya"	"KEN"	2210	"Chomu Clement, Miheso"	15	2010
+"KGZ"	"Kyrgyzstan"	"KGZ"	2521	"Magai, Vladimir"	57	2010
+"LAT"	"Latvia"	"LVA"	2545	"Kengis, Edvins"	251	2010
+"LIB"	"Lebanon"	"LBN"	2387	"Eid, Fadi"	67	2010
+"LBA"	"Libya"	"LBY"	2273	"Elarbi, Abobker"	43	2010
+"LIE"	"Liechtenstein"	"LIE"	2328	"Atlas, Dimitry"	14	2010
+"LTU"	"Lithuania"	"LTU"	2623	"Rozentalis, Eduardas"	434	2010
+"LUX"	"Luxembourg"	"LUX"	2608	"David, Alberto"	122	2010
+"MAC"	"Macao"	"MAC"	2200	"Chan, Kuok"	20	2010
+"MKD"	"Macedonia"	"MKD"	2598	"Najdoski, Toni"	198	2010
+"MAD"	"Madagascar"	"MDG"	2136	"Ranaivoharisoa, Alain"	5	2010
+"MAS"	"Malaysia"	"MYS"	2420	"Mas, Hafizulhelmi"	232	2010
+"MLT"	"Malta"	"MLT"	2423	"Sorensen, Torben"	48	2010
+"MEX"	"Mexico"	"MEX"	2552	"Gonzalez Zamora, Juan Carlos"	691	2010
+"MDA"	"Moldova"	"MDA"	2692	"Bologan, Viktor"	236	2010
+"MNC"	"Monaco"	"MCO"	2462	"Efimov, Igor"	23	2010
+"MGL"	"Mongolia"	"MNG"	2471	"Gundavaa, Bayarsaikhan"	118	2010
+"MNE"	"Montenegro"	"MNE"	2537	"Drasko, Milan"	251	2010
+"MYA"	"Myanmar"	"MMR"	2382	"Wynn Zaw Htun"	194	2010
+"NEP"	"Nepal"	"NPL"	2234	"Malla, Digesh Shanker"	95	2010
+"NED"	"Netherlands"	"NLD"	2662	"Tiviakov, Sergei"	1886	2010
+"NZL"	"New Zealand"	"NZL"	2518	"Chandler, Murray G"	192	2010
+"NCA"	"Nicaragua"	"NIC"	2370	"Davila, Carlos"	97	2010
+"NGR"	"Nigeria"	"NGA"	2284	"Adebayo, Adegboyega"	35	2010
+"NOR"	"Norway"	"NOR"	2810	"Carlsen, Magnus"	631	2010
+"PLE"	"Palestine"	"PSE"	2463	"Sammour-Hasbun, Jorge E."	35	2010
+"PNG"	"Papua New Guinea"	"PNG"	2205	"Rush, J"	7	2010
+"PAR"	"Paraguay"	"PRY"	2553	"Bachmann, Axel"	185	2010
+"PER"	"Peru"	"PER"	2635	"Granda Zuniga, Julio E"	565	2010
+"PHI"	"Philippines"	"PHL"	2656	"So, Wesley"	296	2010
+"POL"	"Poland"	"POL"	2656	"Krasenkow, Michal"	4415	2010
+"POR"	"Portugal"	"PRT"	2496	"Antunes, Antonio"	897	2010
+"PUR"	"Puerto Rico"	"PRI"	2271	"Velasco, Santiago"	67	2010
+"QAT"	"Qatar"	"QAT"	2571	"Al-Modiahki, Mohamad"	37	2010
+"ROU"	"Romania"	"ROU"	2681	"Nisipeanu, Liviu-Dieter"	1541	2010
+"RUS"	"Russia"	"RUS"	2812	"Kasparov, Garry"	12035	2010
+"SMR"	"San Marino"	"SMR"	2168	"Renzi, Nicola"	7	2010
+"STP"	"Sao Tome and Principe"	"STP"	1858	"Espirito Santo, Silverio"	2	2010
+"SCO"	"United Kingdom"	"GBR"	2579	"Rowson, Jonathan"	227	2010
+"ENG"	"United Kingdom"	"GBR"	2696	"Short, Nigel D"	1435	2010
+"WLS"	"United Kingdom"	"GBR"	2415	"Cobb, James"	147	2010
+"SRB"	"Serbia"	"SRB"	2630	"Ivanisevic, Ivan"	2669	2010
+"SIN"	"Singapore"	"SGP"	2603	"Zhang, Zhong"	183	2010
+"SVK"	"Slovakia"	"SVK"	2708	"Movsesian, Sergei"	1438	2010
+"SLO"	"Slovenia"	"SVN"	2657	"Beliavsky, Alexander G"	637	2010
+"SOM"	"Somalia"	"SOM"	2200	"Jimale, Abdulle Mohamed"	4	2010
+"RSA"	"South Africa"	"ZAF"	2425	"Michelakis, George"	145	2010
+"KOR"	"South Korea"	"KOR"	2465	"Kim, Alexey"	58	2010
+"ESP"	"Spain"	"ESP"	2723	"Shirov, Alexei"	9567	2010
+"SRI"	"Sri Lanka"	"LKA"	2385	"Aturupane, Harsha"	263	2010
+"SUR"	"Suriname"	"SUR"	2220	"Lindeboom, J"	21	2010
+"SWE"	"Sweden"	"SWE"	2598	"Hellers, Ferdinand"	913	2010
+"SUI"	"Switzerland"	"CHE"	2644	"Milov, Vadim"	1248	2010
+"SYR"	"Syria"	"SYR"	2400	"Hakki, Imad"	118	2010
+"TJK"	"Tajikistan"	"TJK"	2634	"Amonatov, Farrukh"	31	2010
+"THA"	"Thailand"	"THA"	2300	"Teerapabpaisit, Wisuwat"	84	2010
+"TUN"	"Tunisia"	"TUN"	2456	"Belkhodja, Slim"	64	2010
+"TUR"	"Turkey"	"TUR"	2607	"Atalik, Suat"	996	2010
+"UGA"	"Uganda"	"UGA"	2360	"Naimanye, Andrew"	20	2010
+"UKR"	"Ukraine"	"UKR"	2749	"Ivanchuk, Vassily"	1987	2010
+"UAE"	"United Arab Emirates"	"ARE"	2484	"Salem, A.R. Saleh"	155	2010
+"USA"	"United States"	"USA"	2708	"Nakamura, Hikaru"	2140	2010
+"URU"	"Uruguay"	"URY"	2521	"Rodriguez Vila, Andres"	148	2010
+"ISV"	"US Virgin Islands"	"VIR"	2270	"O'Donnell, M"	10	2010
+"UZB"	"Uzbekistan"	"UZB"	2702	"Kasimdzhanov, Rustam"	223	2010
+"VEN"	"Venezuela"	"VEN"	2616	"Iturrizaga, Eduardo"	158	2010
+"VIE"	"Vietnam"	"VNM"	2647	"Le, Quang Liem"	193	2010
+"YEM"	"Yemen"	"YEM"	2417	"Al Qudaimi, Basheer"	66	2010
+"ZIM"	"Zimbabwe"	"ZWE"	2426	"Gwaze, Robert"	26	2010
+"AFG"	"Afghanistan"	"AFG"	2173	"Sharify, Aziz"	21	2011
+"AND"	"Andorra"	"AND"	2541	"De La Riva Aguado, Oscar"	42	2011
+"ANG"	"Angola"	"AGO"	2339	"Aderito, Pedro"	40	2011
+"ARG"	"Argentina"	"ARG"	2629	"Kovalyov, Anton"	1793	2011
+"ARM"	"Armenia"	"ARM"	2805	"Aronian, Levon"	368	2011
+"ARU"	"Aruba"	"ABW"	2128	"Gerard, Ferry F.J.F."	11	2011
+"AUS"	"Australia"	"AUS"	2586	"Zhao, Zong-Yuan"	697	2011
+"AUT"	"Austria"	"AUT"	2615	"Ragger, Markus"	1820	2011
+"AZE"	"Azerbaijan"	"AZE"	2772	"Mamedyarov, Shakhriyar"	358	2011
+"BAH"	"Bahamas"	"BHS"	1958	"Franklyn Gibson"	16	2011
+"BAN"	"Bangladesh"	"BGD"	2528	"Rahman, Ziaur"	494	2011
+"BAR"	"Barbados"	"BRB"	2320	"Buckmire, Ron"	60	2011
+"BLR"	"Belarus"	"BLR"	2671	"Zhigalko, Sergei"	503	2011
+"BEL"	"Belgium"	"BEL"	2563	"Chuchelov, Vladimir"	1069	2011
+"BER"	"Bermuda"	"BMU"	2227	"Black, Richard"	41	2011
+"BOL"	"Bolivia"	"BOL"	2513	"Zambrana, Oswaldo"	207	2011
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2626	"Predojevic, Borki"	402	2011
+"BOT"	"Botswana"	"BWA"	2235	"Khetho, Phemelo"	37	2011
+"BRA"	"Brazil"	"BRA"	2631	"Vescovi, Giovanni"	1576	2011
+"IVB"	"British Virgin Islands"	"VGB"	2220	"Jarecki, John"	3	2011
+"BRU"	"Brunei"	"BRN"	2448	"Dollah, Zaidi"	44	2011
+"BUL"	"Bulgaria"	"BGR"	2775	"Topalov, Veselin"	831	2011
+"BDI"	"Burundi"	"BDI"	2088	"Ndikumana, Yves"	1	2011
+"CMR"	"Cameroon"	"CMR"	2011	"Banlock, Benjamin Didier"	2	2011
+"CAN"	"Canada"	"CAN"	2590	"Bluvshtein, Mark"	574	2011
+"CHI"	"Chile"	"CHL"	2582	"Morovic Fernandez, Ivan"	860	2011
+"CHN"	"China"	"CHN"	2734	"Wang, Yue"	425	2011
+"COL"	"Colombia"	"COL"	2609	"Delgado Ramirez, Neuris"	857	2011
+"CRC"	"Costa Rica"	"CRI"	2430	"Gonzalez, Bernal"	147	2011
+"CIV"	"Cote d'Ivoire"	"CIV"	2063	"Degondo, Simplice Armel"	1	2011
+"CRO"	"Croatia"	"HRV"	2621	"Stevic, Hrvoje"	1757	2011
+"CYP"	"Cyprus"	"CYP"	2209	"Martidis, Alkis"	36	2011
+"CZE"	"Czech Republic"	"CZE"	2708	"Navara, David"	3707	2011
+"DEN"	"Denmark"	"DNK"	2670	"Nielsen, Peter Heine"	1489	2011
+"DOM"	"Dominican Republic"	"DOM"	2446	"Mateo, Ramon"	213	2011
+"EGY"	"Egypt"	"EGY"	2640	"Adly, Ahmed"	494	2011
+"ESA"	"El Salvador"	"SLV"	2393	"Leyva, Hector"	87	2011
+"EST"	"Estonia"	"EST"	2577	"Kulaots, Kaido"	185	2011
+"ETH"	"Ethiopia"	"ETH"	2200	"Bekele, Abenet"	14	2011
+"FAI"	"Faroe Islands"	"FRO"	2428	"Ziska, Helgi Dam"	75	2011
+"FIJ"	"Fiji"	"FJI"	2205	"De Asa, Virgilio Jr"	19	2011
+"FIN"	"Finland"	"FIN"	2656	"Nyback, Tomi"	555	2011
+"FRA"	"France"	"FRA"	2723	"Bacrot, Etienne"	8764	2011
+"GAB"	"Gabon"	"GAB"	2142	"Moulain Ayombo, Jean Pierre"	2	2011
+"GEO"	"Georgia"	"GEO"	2707	"Jobava, Baadur"	491	2011
+"GER"	"Germany"	"DEU"	2685	"Naiditsch, Arkadij"	14419	2011
+"GRE"	"Greece"	"GRC"	2605	"Papaioannou, Ioannis"	2048	2011
+"GUA"	"Guatemala"	"GTM"	2340	"Juarez Flores, Carlos A."	56	2011
+"GCI"	"Guernsey"	"GGY"	2270	"Holland, Christopher"	13	2011
+"GUY"	"Guyana"	"GUY"	1727	"Khan, Taffin"	6	2011
+"HAI"	"Haiti"	"HTI"	2088	"Sanon, Mondoly"	5	2011
+"HKG"	"Hong Kong"	"HKG"	2415	"Yang, Xian"	61	2011
+"HUN"	"Hungary"	"HUN"	2719	"Almasi, Zoltan"	3954	2011
+"ISL"	"Iceland"	"ISL"	2582	"Hjartarson, Johann"	284	2011
+"IND"	"India"	"IND"	2810	"Anand, Viswanathan"	6234	2011
+"INA"	"Indonesia"	"IDN"	2548	"Adianto, Utut"	190	2011
+"IRI"	"Iran"	"IRN"	2604	"Ghaem Maghami, Ehsan"	1140	2011
+"IRQ"	"Iraq"	"IRQ"	2393	"Noah, A .H. Al-Ali"	249	2011
+"IRL"	"Ireland"	"IRL"	2539	"Baburin, Alexander"	186	2011
+"ISR"	"Israel"	"ISR"	2733	"Gelfand, Boris"	861	2011
+"ITA"	"Italy"	"ITA"	2721	"Caruana, Fabiano"	4087	2011
+"JAM"	"Jamaica"	"JAM"	2263	"Pitterson, Jomo"	46	2011
+"JPN"	"Japan"	"JPN"	2404	"Habu, Yoshiharu"	83	2011
+"JCI"	"Jersey"	"JEY"	2256	"Farrand, Tom"	15	2011
+"JOR"	"Jordan"	"JOR"	2450	"Khader, Sami"	153	2011
+"KAZ"	"Kazakhstan"	"KAZ"	2637	"Kazhgaleyev, Murtas"	439	2011
+"KEN"	"Kenya"	"KEN"	2210	"Chomu Clement, Miheso"	20	2011
+"LAT"	"Latvia"	"LVA"	2546	"Miezis, Normunds"	273	2011
+"LIB"	"Lebanon"	"LBN"	2378	"Eid, Fadi"	70	2011
+"LIE"	"Liechtenstein"	"LIE"	2325	"Atlas, Dimitry"	13	2011
+"LTU"	"Lithuania"	"LTU"	2588	"Rozentalis, Eduardas"	467	2011
+"LUX"	"Luxembourg"	"LUX"	2580	"David, Alberto"	134	2011
+"MAC"	"Macao"	"MAC"	2200	"Chan, Kuok"	21	2011
+"MKD"	"Macedonia"	"MKD"	2598	"Najdoski, Toni"	205	2011
+"MAD"	"Madagascar"	"MDG"	2147	"Ranaivoharisoa, Alain"	13	2011
+"MAW"	"Malawi"	"MWI"	2122	"Mbedza, Richard"	7	2011
+"MAS"	"Malaysia"	"MYS"	2418	"Mas, Hafizulhelmi"	293	2011
+"MDV"	"Maldives"	"MDV"	1912	"Abdul Rahman Ali"	8	2011
+"MLI"	"Mali"	"MLI"	2139	"Traore, Bakary"	3	2011
+"MLT"	"Malta"	"MLT"	2403	"Sorensen, Torben"	49	2011
+"MRI"	"Mauritius"	"MUS"	2266	"Phillips, Roy"	11	2011
+"MEX"	"Mexico"	"MEX"	2565	"Leon Hoyos, Manuel"	759	2011
+"MDA"	"Moldova"	"MDA"	2693	"Bologan, Viktor"	269	2011
+"MNC"	"Monaco"	"MCO"	2413	"Efimov, Igor"	30	2011
+"MGL"	"Mongolia"	"MNG"	2493	"Gundavaa, Bayarsaikhan"	126	2011
+"MNE"	"Montenegro"	"MNE"	2524	"Blagojevic, Dragisa"	267	2011
+"MAR"	"Morocco"	"MAR"	2464	"Tissir, Mohamed"	74	2011
+"MYA"	"Myanmar"	"MMR"	2382	"Wynn Zaw Htun"	194	2011
+"NED"	"Netherlands"	"NLD"	2686	"Giri, Anish"	2028	2011
+"NZL"	"New Zealand"	"NZL"	2518	"Chandler, Murray G"	202	2011
+"NCA"	"Nicaragua"	"NIC"	2319	"Davila, Carlos"	120	2011
+"NOR"	"Norway"	"NOR"	2814	"Carlsen, Magnus"	705	2011
+"PLW"	"Palau"	"PLW"	1942	"Montel Jr, Cyril Tomas"	13	2011
+"PLE"	"Palestine"	"PSE"	2463	"Sammour-Hasbun, Jorge E."	40	2011
+"PAN"	"Panama"	"PAN"	2380	"Baules, Jorge"	33	2011
+"PNG"	"Papua New Guinea"	"PNG"	2205	"Rush, J"	7	2011
+"PAR"	"Paraguay"	"PRY"	2548	"Bachmann, Axel"	198	2011
+"PER"	"Peru"	"PER"	2615	"Granda Zuniga, Julio E"	723	2011
+"PHI"	"Philippines"	"PHL"	2673	"So, Wesley"	330	2011
+"POL"	"Poland"	"POL"	2726	"Wojtaszek, Radoslaw"	4879	2011
+"POR"	"Portugal"	"PRT"	2500	"Galego, Luis"	991	2011
+"PUR"	"Puerto Rico"	"PRI"	2289	"Velasco, Santiago"	70	2011
+"QAT"	"Qatar"	"QAT"	2564	"Al-Modiahki, Mohamad"	38	2011
+"ROU"	"Romania"	"ROU"	2678	"Nisipeanu, Liviu-Dieter"	1713	2011
+"RUS"	"Russia"	"RUS"	2812	"Kasparov, Garry"	13169	2011
+"SMR"	"San Marino"	"SMR"	2168	"Renzi, Nicola"	7	2011
+"STP"	"Sao Tome and Principe"	"STP"	1831	"Espirito Santo, Silverio"	4	2011
+"SCO"	"United Kingdom"	"GBR"	2576	"Rowson, Jonathan"	247	2011
+"ENG"	"United Kingdom"	"GBR"	2723	"Adams, Michael"	1536	2011
+"WLS"	"United Kingdom"	"GBR"	2402	"Williams, Leighton"	165	2011
+"SRB"	"Serbia"	"SRB"	2630	"Ivanisevic, Ivan"	2822	2011
+"SIN"	"Singapore"	"SGP"	2592	"Zhang, Zhong"	191	2011
+"SVK"	"Slovakia"	"SVK"	2578	"Ftacnik, Lubomir"	1606	2011
+"SLO"	"Slovenia"	"SVN"	2634	"Beliavsky, Alexander G"	705	2011
+"SOM"	"Somalia"	"SOM"	2200	"Jimale, Abdulle Mohamed"	4	2011
+"RSA"	"South Africa"	"ZAF"	2425	"Michelakis, George"	170	2011
+"KOR"	"South Korea"	"KOR"	2473	"Kim, Alexey"	84	2011
+"ESP"	"Spain"	"ESP"	2722	"Shirov, Alexei"	10834	2011
+"SRI"	"Sri Lanka"	"LKA"	2385	"Aturupane, Harsha"	356	2011
+"SUR"	"Suriname"	"SUR"	2220	"Lindeboom, J"	27	2011
+"SWE"	"Sweden"	"SWE"	2627	"Berg, Emanuel"	997	2011
+"SUI"	"Switzerland"	"CHE"	2653	"Milov, Vadim"	1355	2011
+"SYR"	"Syria"	"SYR"	2375	"Shadarevian, Michael"	129	2011
+"TJK"	"Tajikistan"	"TJK"	2590	"Amonatov, Farrukh"	35	2011
+"THA"	"Thailand"	"THA"	2310	"Pitirotjirathon, Jirapak"	91	2011
+"TUR"	"Turkey"	"TUR"	2616	"Atalik, Suat"	1183	2011
+"UGA"	"Uganda"	"UGA"	2360	"Naimanye, Andrew"	22	2011
+"UKR"	"Ukraine"	"UKR"	2764	"Ivanchuk, Vassily"	2201	2011
+"UAE"	"United Arab Emirates"	"ARE"	2512	"Salem, A.R. Saleh"	170	2011
+"USA"	"United States"	"USA"	2751	"Nakamura, Hikaru"	2390	2011
+"URU"	"Uruguay"	"URY"	2511	"Rodriguez Vila, Andres"	158	2011
+"ISV"	"US Virgin Islands"	"VIR"	2205	"Mctigue, James"	4	2011
+"UZB"	"Uzbekistan"	"UZB"	2681	"Kasimdzhanov, Rustam"	246	2011
+"VEN"	"Venezuela"	"VEN"	2611	"Iturrizaga, Eduardo"	179	2011
+"VIE"	"Vietnam"	"VNM"	2664	"Le, Quang Liem"	256	2011
+"YEM"	"Yemen"	"YEM"	2399	"Al-Zendani, Zendan"	72	2011
+"ALB"	"Albania"	"ALB"	2540	"Dervishi, Erald"	85	2012
+"ALG"	"Algeria"	"DZA"	2539	"Rizouk, Aimen"	132	2012
+"AND"	"Andorra"	"AND"	2545	"De La Riva Aguado, Oscar"	47	2012
+"ANG"	"Angola"	"AGO"	2320	"Aderito, Pedro"	47	2012
+"ARG"	"Argentina"	"ARG"	2619	"Kovalyov, Anton"	1935	2012
+"ARM"	"Armenia"	"ARM"	2805	"Aronian, Levon"	422	2012
+"ARU"	"Aruba"	"ABW"	2138	"Lopez, Jasel"	12	2012
+"AUS"	"Australia"	"AUS"	2568	"Zhao, Zong-Yuan"	791	2012
+"AUT"	"Austria"	"AUT"	2655	"Ragger, Markus"	1987	2012
+"AZE"	"Azerbaijan"	"AZE"	2773	"Radjabov, Teimour"	428	2012
+"BAH"	"Bahamas"	"BHS"	1958	"Franklyn Gibson"	18	2012
+"BRN"	"Bahrain"	"BHR"	2230	"Janahi, Khalid"	31	2012
+"BAN"	"Bangladesh"	"BGD"	2523	"Rahman, Ziaur"	505	2012
+"BAR"	"Barbados"	"BRB"	2320	"Buckmire, Ron"	71	2012
+"BLR"	"Belarus"	"BLR"	2667	"Azarov, Sergei"	545	2012
+"BEL"	"Belgium"	"BEL"	2551	"Dgebuadze, Alexandre"	1229	2012
+"BER"	"Bermuda"	"BMU"	2227	"Black, Richard"	41	2012
+"BOL"	"Bolivia"	"BOL"	2492	"Zambrana, Oswaldo"	234	2012
+"BRA"	"Brazil"	"BRA"	2640	"Leitao, Rafael"	1885	2012
+"BRU"	"Brunei"	"BRN"	2448	"Dollah, Zaidi"	45	2012
+"BUL"	"Bulgaria"	"BGR"	2770	"Topalov, Veselin"	930	2012
+"BDI"	"Burundi"	"BDI"	2088	"Ndikumana, Yves"	1	2012
+"CMR"	"Cameroon"	"CMR"	1995	"Banlock, Benjamin Didier"	3	2012
+"CAN"	"Canada"	"CAN"	2590	"Bluvshtein, Mark"	631	2012
+"CHI"	"Chile"	"CHL"	2582	"Morovic Fernandez, Ivan"	916	2012
+"CHN"	"China"	"CHN"	2733	"Wang, Hao"	468	2012
+"COL"	"Colombia"	"COL"	2575	"Delgado Ramirez, Neuris"	1088	2012
+"CRC"	"Costa Rica"	"CRI"	2424	"Gonzalez, Bernal"	156	2012
+"CIV"	"Cote d'Ivoire"	"CIV"	2063	"Degondo, Simplice Armel"	1	2012
+"CRO"	"Croatia"	"HRV"	2651	"Saric, Ivan"	1884	2012
+"CUB"	"Cuba"	"CUB"	2730	"Dominguez Perez, Leinier"	1310	2012
+"CYP"	"Cyprus"	"CYP"	2205	"Hadjittofis, Yiannis"	44	2012
+"CZE"	"Czech Republic"	"CZE"	2712	"Navara, David"	4053	2012
+"DEN"	"Denmark"	"DNK"	2693	"Nielsen, Peter Heine"	1663	2012
+"DOM"	"Dominican Republic"	"DOM"	2427	"Mateo, Ramon"	227	2012
+"ECU"	"Ecuador"	"ECU"	2552	"Matamoros Franco, Carlos S."	706	2012
+"EGY"	"Egypt"	"EGY"	2608	"Amin, Bassem"	566	2012
+"ESA"	"El Salvador"	"SLV"	2384	"Leyva, Hector"	95	2012
+"EST"	"Estonia"	"EST"	2581	"Kulaots, Kaido"	193	2012
+"FAI"	"Faroe Islands"	"FRO"	2460	"Ziska, Helgi Dam"	79	2012
+"FIJ"	"Fiji"	"FJI"	2205	"De Asa, Virgilio Jr"	22	2012
+"FIN"	"Finland"	"FIN"	2634	"Nyback, Tomi"	586	2012
+"FRA"	"France"	"FRA"	2704	"Bacrot, Etienne"	10098	2012
+"GEO"	"Georgia"	"GEO"	2704	"Jobava, Baadur"	528	2012
+"GER"	"Germany"	"DEU"	2702	"Naiditsch, Arkadij"	15439	2012
+"GHA"	"Ghana"	"GHA"	1992	"Anquandah, Francis Eric"	6	2012
+"GRE"	"Greece"	"GRC"	2631	"Mastrovasilis, Dimitrios"	2375	2012
+"GCI"	"Guernsey"	"GGY"	2270	"Holland, Christopher"	15	2012
+"GUY"	"Guyana"	"GUY"	1809	"Khan, Taffin"	6	2012
+"HAI"	"Haiti"	"HTI"	2088	"Sanon, Mondoly"	6	2012
+"HON"	"Honduras"	"HND"	2260	"Lozano, Tomas R."	41	2012
+"HKG"	"Hong Kong"	"HKG"	2415	"Yang, Xian"	69	2012
+"HUN"	"Hungary"	"HUN"	2720	"Leko, Peter"	4216	2012
+"ISL"	"Iceland"	"ISL"	2585	"Hjartarson, Johann"	312	2012
+"IND"	"India"	"IND"	2799	"Anand, Viswanathan"	7954	2012
+"INA"	"Indonesia"	"IDN"	2548	"Adianto, Utut"	212	2012
+"IRI"	"Iran"	"IRN"	2570	"Ghaem Maghami, Ehsan"	1640	2012
+"IRQ"	"Iraq"	"IRQ"	2380	"Taha, Mohamad"	276	2012
+"IRL"	"Ireland"	"IRL"	2535	"Baburin, Alexander"	217	2012
+"ISR"	"Israel"	"ISR"	2739	"Gelfand, Boris"	905	2012
+"ITA"	"Italy"	"ITA"	2736	"Caruana, Fabiano"	4673	2012
+"JAM"	"Jamaica"	"JAM"	2251	"Elliott, Warren"	54	2012
+"JPN"	"Japan"	"JPN"	2404	"Habu, Yoshiharu"	95	2012
+"JCI"	"Jersey"	"JEY"	2212	"Farrand, Tom"	15	2012
+"JOR"	"Jordan"	"JOR"	2409	"Issa, Rafat"	169	2012
+"KAZ"	"Kazakhstan"	"KAZ"	2629	"Sadvakasov, Darmen"	480	2012
+"KEN"	"Kenya"	"KEN"	2210	"Chomu Clement, Miheso"	20	2012
+"LAT"	"Latvia"	"LVA"	2710	"Shirov, Alexei"	294	2012
+"LIB"	"Lebanon"	"LBN"	2377	"Eid, Fadi"	73	2012
+"LBA"	"Libya"	"LBY"	2285	"Sorial, Hanna"	53	2012
+"LIE"	"Liechtenstein"	"LIE"	2144	"Ferster, Fabian"	12	2012
+"LTU"	"Lithuania"	"LTU"	2595	"Sulskis, Sarunas"	522	2012
+"LUX"	"Luxembourg"	"LUX"	2598	"David, Alberto"	144	2012
+"MAC"	"Macao"	"MAC"	2200	"Chan, Kuok"	24	2012
+"MKD"	"Macedonia"	"MKD"	2598	"Najdoski, Toni"	220	2012
+"MAD"	"Madagascar"	"MDG"	2135	"Ranaivoharisoa, Alain"	14	2012
+"MAW"	"Malawi"	"MWI"	2116	"Chipanga, Chiletso"	7	2012
+"MAS"	"Malaysia"	"MYS"	2410	"Wong, Zi Jing"	369	2012
+"MLT"	"Malta"	"MLT"	2367	"Borg, Geoffrey"	51	2012
+"MTN"	"Mauritania"	"MRT"	2047	"Hamam, Brahim"	4	2012
+"MEX"	"Mexico"	"MEX"	2569	"Leon Hoyos, Manuel"	835	2012
+"MDA"	"Moldova"	"MDA"	2680	"Bologan, Viktor"	298	2012
+"MNC"	"Monaco"	"MCO"	2421	"Efimov, Igor"	32	2012
+"MGL"	"Mongolia"	"MNG"	2503	"Batchuluun, Tsegmed"	134	2012
+"MNE"	"Montenegro"	"MNE"	2528	"Kosic, Dragan"	279	2012
+"MOZ"	"Mozambique"	"MOZ"	2194	"Mucongoma, Miguel Jose Maconi"	10	2012
+"MYA"	"Myanmar"	"MMR"	2414	"Wynn Zaw Htun"	196	2012
+"NED"	"Netherlands"	"NLD"	2714	"Giri, Anish"	2190	2012
+"NZL"	"New Zealand"	"NZL"	2518	"Chandler, Murray G"	210	2012
+"NCA"	"Nicaragua"	"NIC"	2314	"Davila, Carlos"	134	2012
+"NOR"	"Norway"	"NOR"	2835	"Carlsen, Magnus"	794	2012
+"PLW"	"Palau"	"PLW"	1943	"Montel Jr, Cyril Tomas"	26	2012
+"PLE"	"Palestine"	"PSE"	2463	"Sammour-Hasbun, Jorge E."	42	2012
+"PNG"	"Papua New Guinea"	"PNG"	2205	"Rush, J"	7	2012
+"PAR"	"Paraguay"	"PRY"	2560	"Bachmann, Axel"	207	2012
+"PER"	"Peru"	"PER"	2640	"Granda Zuniga, Julio E"	871	2012
+"PHI"	"Philippines"	"PHL"	2653	"So, Wesley"	350	2012
+"POL"	"Poland"	"POL"	2706	"Wojtaszek, Radoslaw"	5416	2012
+"POR"	"Portugal"	"PRT"	2496	"Antunes, Antonio"	1060	2012
+"PUR"	"Puerto Rico"	"PRI"	2302	"Vazquez Reyes, Raul"	120	2012
+"QAT"	"Qatar"	"QAT"	2567	"Al-Modiahki, Mohamad"	38	2012
+"ROU"	"Romania"	"ROU"	2650	"Parligras, Mircea-Emilian"	1896	2012
+"RUS"	"Russia"	"RUS"	2812	"Kasparov, Garry"	14420	2012
+"SMR"	"San Marino"	"SMR"	2168	"Renzi, Nicola"	7	2012
+"SCO"	"United Kingdom"	"GBR"	2581	"Rowson, Jonathan"	270	2012
+"ENG"	"United Kingdom"	"GBR"	2724	"Adams, Michael"	1640	2012
+"WLS"	"United Kingdom"	"GBR"	2411	"Cobb, James"	172	2012
+"SRB"	"Serbia"	"SRB"	2648	"Ivanisevic, Ivan"	3044	2012
+"SIN"	"Singapore"	"SGP"	2593	"Zhang, Zhong"	206	2012
+"SVK"	"Slovakia"	"SVK"	2576	"Markos, Jan"	1811	2012
+"SLO"	"Slovenia"	"SVN"	2637	"Lenic, Luka"	794	2012
+"RSA"	"South Africa"	"ZAF"	2461	"Solomon, Kenny"	186	2012
+"KOR"	"South Korea"	"KOR"	2470	"Kim, Alexey"	120	2012
+"ESP"	"Spain"	"ESP"	2705	"Vallejo Pons, Francisco"	12053	2012
+"SRI"	"Sri Lanka"	"LKA"	2385	"Aturupane, Harsha"	520	2012
+"SUD"	"Sudan"	"SDN"	2219	"John, Henry"	22	2012
+"SUR"	"Suriname"	"SUR"	2220	"Lindeboom, J"	33	2012
+"SWE"	"Sweden"	"SWE"	2599	"Agrest, Evgenij"	1109	2012
+"SUI"	"Switzerland"	"CHE"	2653	"Milov, Vadim"	1476	2012
+"TJK"	"Tajikistan"	"TJK"	2604	"Amonatov, Farrukh"	37	2012
+"THA"	"Thailand"	"THA"	2281	"Jiravorasuk, Banjuab"	99	2012
+"TUN"	"Tunisia"	"TUN"	2445	"Belkhodja, Slim"	88	2012
+"TUR"	"Turkey"	"TUR"	2613	"Solak, Dragan"	1468	2012
+"TKM"	"Turkmenistan"	"TKM"	2526	"Amanov, Mesgen"	159	2012
+"UKR"	"Ukraine"	"UKR"	2766	"Ivanchuk, Vassily"	2350	2012
+"UAE"	"United Arab Emirates"	"ARE"	2505	"Salem, A.R. Saleh"	189	2012
+"USA"	"United States"	"USA"	2759	"Nakamura, Hikaru"	2692	2012
+"URU"	"Uruguay"	"URY"	2492	"Rodriguez Vila, Andres"	182	2012
+"ISV"	"US Virgin Islands"	"VIR"	2205	"Mctigue, James"	5	2012
+"UZB"	"Uzbekistan"	"UZB"	2689	"Kasimdzhanov, Rustam"	292	2012
+"VEN"	"Venezuela"	"VEN"	2649	"Iturrizaga, Eduardo"	229	2012
+"VIE"	"Vietnam"	"VNM"	2714	"Le, Quang Liem"	295	2012
+"YEM"	"Yemen"	"YEM"	2395	"Al Qudaimi, Basheer"	72	2012
+"ALB"	"Albania"	"ALB"	2546	"Dervishi, Erald"	97	2013
+"ALG"	"Algeria"	"DZA"	2531	"Rizouk, Aimen"	164	2013
+"AND"	"Andorra"	"AND"	2522	"De La Riva Aguado, Oscar"	47	2013
+"ANG"	"Angola"	"AGO"	2333	"Aderito, Pedro"	48	2013
+"ARM"	"Armenia"	"ARM"	2802	"Aronian, Levon"	466	2013
+"ARU"	"Aruba"	"ABW"	2128	"Gerard, Ferry F.J.F."	18	2013
+"AUS"	"Australia"	"AUS"	2545	"Rogers, Ian"	881	2013
+"AUT"	"Austria"	"AUT"	2655	"Ragger, Markus"	2139	2013
+"AZE"	"Azerbaijan"	"AZE"	2793	"Radjabov, Teimour"	494	2013
+"BAH"	"Bahamas"	"BHS"	1958	"Gibson, Franklyn"	19	2013
+"BRN"	"Bahrain"	"BHR"	2230	"Janahi, Khalid"	33	2013
+"BAN"	"Bangladesh"	"BGD"	2526	"Rahman, Ziaur"	559	2013
+"BAR"	"Barbados"	"BRB"	2320	"Buckmire, Ron"	78	2013
+"BLR"	"Belarus"	"BLR"	2651	"Zhigalko, Sergei"	582	2013
+"BEL"	"Belgium"	"BEL"	2550	"Malakhatko, Vadim"	1385	2013
+"BER"	"Bermuda"	"BMU"	2222	"Black, Richard"	41	2013
+"BOL"	"Bolivia"	"BOL"	2488	"Zambrana, Oswaldo"	260	2013
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2619	"Nikolic, Predrag"	468	2013
+"BRA"	"Brazil"	"BRA"	2618	"Leitao, Rafael"	2187	2013
+"IVB"	"British Virgin Islands"	"VGB"	2220	"Jarecki, John"	3	2013
+"BRU"	"Brunei"	"BRN"	2408	"Dollah, Zaidi"	49	2013
+"BUL"	"Bulgaria"	"BGR"	2771	"Topalov, Veselin"	1008	2013
+"BDI"	"Burundi"	"BDI"	2088	"Ndikumana, Yves"	2	2013
+"CMR"	"Cameroon"	"CMR"	1995	"Banlock, Benjamin Didier"	3	2013
+"CAN"	"Canada"	"CAN"	2590	"Bluvshtein, Mark"	707	2013
+"CHI"	"Chile"	"CHL"	2560	"Morovic Fernandez, Ivan"	976	2013
+"CHN"	"China"	"CHN"	2752	"Wang, Hao"	526	2013
+"COL"	"Colombia"	"COL"	2574	"Delgado Ramirez, Neuris"	1248	2013
+"CRC"	"Costa Rica"	"CRI"	2445	"Gonzalez, Bernal"	180	2013
+"CIV"	"Cote d'Ivoire"	"CIV"	2063	"Degondo, Simplice Armel"	1	2013
+"CRO"	"Croatia"	"HRV"	2637	"Kozul, Zdenko"	2001	2013
+"CUB"	"Cuba"	"CUB"	2723	"Dominguez Perez, Leinier"	1413	2013
+"CYP"	"Cyprus"	"CYP"	2206	"Antoniou, Antonis"	61	2013
+"CZE"	"Czech Republic"	"CZE"	2710	"Navara, David"	4442	2013
+"DEN"	"Denmark"	"DNK"	2656	"Nielsen, Peter Heine"	1849	2013
+"DOM"	"Dominican Republic"	"DOM"	2433	"Munoz Santana, Jose Lisandro"	246	2013
+"EGY"	"Egypt"	"EGY"	2631	"Amin, Bassem"	651	2013
+"ESA"	"El Salvador"	"SLV"	2389	"Leyva, Hector"	109	2013
+"EST"	"Estonia"	"EST"	2587	"Kulaots, Kaido"	200	2013
+"ETH"	"Ethiopia"	"ETH"	2200	"Bekele, Abenet"	17	2013
+"FAI"	"Faroe Islands"	"FRO"	2474	"Ziska, Helgi Dam"	87	2013
+"FIJ"	"Fiji"	"FJI"	2205	"De Asa, Virgilio Jr"	24	2013
+"FIN"	"Finland"	"FIN"	2601	"Nyback, Tomi"	639	2013
+"FRA"	"France"	"FRA"	2713	"Vachier-Lagrave, Maxime"	11216	2013
+"GEO"	"Georgia"	"GEO"	2702	"Jobava, Baadur"	568	2013
+"GER"	"Germany"	"DEU"	2708	"Naiditsch, Arkadij"	16431	2013
+"GHA"	"Ghana"	"GHA"	2112	"Hasford, John Kojo"	6	2013
+"GRE"	"Greece"	"GRC"	2630	"Papaioannou, Ioannis"	2676	2013
+"GUM"	"Guam"	"GUM"	1974	"Manuel, Efren"	13	2013
+"GUA"	"Guatemala"	"GTM"	2372	"Juarez Flores, Carlos A."	67	2013
+"GCI"	"Guernsey"	"GGY"	2270	"Holland, Christopher"	14	2013
+"GUY"	"Guyana"	"GUY"	1798	"Khan, Taffin"	7	2013
+"HAI"	"Haiti"	"HTI"	2068	"Afriany, V."	6	2013
+"HKG"	"Hong Kong"	"HKG"	2415	"Yang, Xian"	75	2013
+"HUN"	"Hungary"	"HUN"	2735	"Leko, Peter"	4496	2013
+"ISL"	"Iceland"	"ISL"	2592	"Hjartarson, Johann"	341	2013
+"IND"	"India"	"IND"	2772	"Anand, Viswanathan"	9529	2013
+"INA"	"Indonesia"	"IDN"	2548	"Adianto, Utut"	229	2013
+"IRI"	"Iran"	"IRN"	2575	"Moradiabadi, Elshan"	2152	2013
+"IRQ"	"Iraq"	"IRQ"	2381	"Saad A.I.Sarsam"	305	2013
+"IRL"	"Ireland"	"IRL"	2534	"Baburin, Alexander"	251	2013
+"ISR"	"Israel"	"ISR"	2740	"Gelfand, Boris"	973	2013
+"ITA"	"Italy"	"ITA"	2781	"Caruana, Fabiano"	5195	2013
+"JAM"	"Jamaica"	"JAM"	2257	"Rowe, Duane"	68	2013
+"JPN"	"Japan"	"JPN"	2404	"Habu, Yoshiharu"	103	2013
+"JCI"	"Jersey"	"JEY"	2200	"Romeril, Stuart Paul"	16	2013
+"JOR"	"Jordan"	"JOR"	2409	"Issa, Rafat"	189	2013
+"KAZ"	"Kazakhstan"	"KAZ"	2629	"Sadvakasov, Darmen"	541	2013
+"KEN"	"Kenya"	"KEN"	2207	"Chomu Clement, Miheso"	28	2013
+"LAT"	"Latvia"	"LVA"	2708	"Shirov, Alexei"	334	2013
+"LIB"	"Lebanon"	"LBN"	2367	"Eid, Fadi"	83	2013
+"LBA"	"Libya"	"LBY"	2285	"Sorial, Hanna"	78	2013
+"LIE"	"Liechtenstein"	"LIE"	2158	"Zier, Oliver"	13	2013
+"LTU"	"Lithuania"	"LTU"	2611	"Rozentalis, Eduardas"	580	2013
+"LUX"	"Luxembourg"	"LUX"	2475	"Wiedenkeller, Michael"	160	2013
+"MAC"	"Macao"	"MAC"	2200	"Chan, Kuok"	26	2013
+"MKD"	"Macedonia"	"MKD"	2598	"Najdoski, Toni"	223	2013
+"MAS"	"Malaysia"	"MYS"	2410	"Wong, Zi Jing"	428	2013
+"MDV"	"Maldives"	"MDV"	1904	"Abdul Rahman Ali"	10	2013
+"MLI"	"Mali"	"MLI"	2217	"Bah, Brema"	4	2013
+"MLT"	"Malta"	"MLT"	2367	"Borg, Geoffrey"	56	2013
+"MTN"	"Mauritania"	"MRT"	2077	"Boydia, Sidi"	16	2013
+"MEX"	"Mexico"	"MEX"	2591	"Leon Hoyos, Manuel"	906	2013
+"MDA"	"Moldova"	"MDA"	2681	"Bologan, Viktor"	331	2013
+"MNC"	"Monaco"	"MCO"	2424	"Efimov, Igor"	36	2013
+"MGL"	"Mongolia"	"MNG"	2522	"Gundavaa, Bayarsaikhan"	153	2013
+"MOZ"	"Mozambique"	"MOZ"	2194	"Mucongoma, Miguel Jose Maconi"	15	2013
+"NEP"	"Nepal"	"NPL"	2234	"Malla, Digesh Shanker"	291	2013
+"NED"	"Netherlands"	"NLD"	2726	"Giri, Anish"	2362	2013
+"NZL"	"New Zealand"	"NZL"	2518	"Chandler, Murray G"	230	2013
+"NCA"	"Nicaragua"	"NIC"	2308	"Sirias, Danilo"	152	2013
+"NGR"	"Nigeria"	"NGA"	2306	"Olape, Bunmi"	55	2013
+"NOR"	"Norway"	"NOR"	2861	"Carlsen, Magnus"	901	2013
+"PLW"	"Palau"	"PLW"	1943	"Montel Jr, Cyril Tomas"	26	2013
+"PAN"	"Panama"	"PAN"	2307	"Baules, Jorge"	63	2013
+"PNG"	"Papua New Guinea"	"PNG"	2205	"Rush, Joe"	7	2013
+"PAR"	"Paraguay"	"PRY"	2537	"Cubas, Jose Fernando"	216	2013
+"PER"	"Peru"	"PER"	2636	"Granda Zuniga, Julio E"	1007	2013
+"POL"	"Poland"	"POL"	2723	"Wojtaszek, Radoslaw"	5931	2013
+"POR"	"Portugal"	"PRT"	2496	"Antunes, Antonio"	1177	2013
+"PUR"	"Puerto Rico"	"PRI"	2332	"Machin Rivera, Mark"	166	2013
+"ROU"	"Romania"	"ROU"	2677	"Nisipeanu, Liviu-Dieter"	2111	2013
+"RUS"	"Russia"	"RUS"	2812	"Kasparov, Garry"	15648	2013
+"SMR"	"San Marino"	"SMR"	2168	"Renzi, Nicola"	8	2013
+"SCO"	"United Kingdom"	"GBR"	2586	"Rowson, Jonathan"	290	2013
+"ENG"	"United Kingdom"	"GBR"	2725	"Adams, Michael"	1812	2013
+"WLS"	"United Kingdom"	"GBR"	2427	"Cobb, James"	188	2013
+"SRB"	"Serbia"	"SRB"	2644	"Ivanisevic, Ivan"	3239	2013
+"SIN"	"Singapore"	"SGP"	2600	"Zhang, Zhong"	237	2013
+"SVK"	"Slovakia"	"SVK"	2584	"Markos, Jan"	2016	2013
+"SLO"	"Slovenia"	"SVN"	2637	"Beliavsky, Alexander G"	902	2013
+"SOM"	"Somalia"	"SOM"	2200	"Jimale, Abdulle Mohamed"	4	2013
+"RSA"	"South Africa"	"ZAF"	2432	"Solomon, Kenny"	246	2013
+"KOR"	"South Korea"	"KOR"	2477	"Kim, Alexey"	151	2013
+"ESP"	"Spain"	"ESP"	2694	"Vallejo Pons, Francisco"	13305	2013
+"SRI"	"Sri Lanka"	"LKA"	2385	"Aturupane, Harsha"	702	2013
+"SWE"	"Sweden"	"SWE"	2599	"Agrest, Evgenij"	1236	2013
+"SUI"	"Switzerland"	"CHE"	2643	"Milov, Vadim"	1581	2013
+"SYR"	"Syria"	"SYR"	2375	"Shadarevian, Michael"	152	2013
+"TJK"	"Tajikistan"	"TJK"	2625	"Amonatov, Farrukh"	40	2013
+"THA"	"Thailand"	"THA"	2284	"Teerapabpaisit, Wisuwat"	105	2013
+"TUN"	"Tunisia"	"TUN"	2441	"Belkhodja, Slim"	109	2013
+"TUR"	"Turkey"	"TUR"	2603	"Solak, Dragan"	1747	2013
+"TKM"	"Turkmenistan"	"TKM"	2510	"Amanov, Mesgen"	163	2013
+"UGA"	"Uganda"	"UGA"	2360	"Naimanye, Andrew"	31	2013
+"UKR"	"Ukraine"	"UKR"	2758	"Ivanchuk, Vassily"	2549	2013
+"UAE"	"United Arab Emirates"	"ARE"	2538	"Salem, A.R. Saleh"	224	2013
+"USA"	"United States"	"USA"	2769	"Nakamura, Hikaru"	2997	2013
+"URU"	"Uruguay"	"URY"	2508	"Rodriguez Vila, Andres"	209	2013
+"ISV"	"US Virgin Islands"	"VIR"	2205	"Mctigue, James"	9	2013
+"UZB"	"Uzbekistan"	"UZB"	2709	"Kasimdzhanov, Rustam"	319	2013
+"VEN"	"Venezuela"	"VEN"	2650	"Iturrizaga, Eduardo"	475	2013
+"VIE"	"Vietnam"	"VNM"	2705	"Le, Quang Liem"	355	2013
+"YEM"	"Yemen"	"YEM"	2395	"Al Qudaimi, Basheer"	72	2013
+"AFG"	"Afghanistan"	"AFG"	2173	"Sharify, Aziz"	28	2014
+"ALB"	"Albania"	"ALB"	2576	"Dervishi, Erald"	105	2014
+"ALG"	"Algeria"	"DZA"	2527	"Rizouk, Aimen"	204	2014
+"AND"	"Andorra"	"AND"	2526	"De La Riva Aguado, Oscar"	49	2014
+"ANG"	"Angola"	"AGO"	2323	"Aderito, Pedro"	59	2014
+"ARG"	"Argentina"	"ARG"	2603	"Peralta, Fernando"	2238	2014
+"ARM"	"Armenia"	"ARM"	2812	"Aronian, Levon"	504	2014
+"ARU"	"Aruba"	"ABW"	2197	"Lopez, Jasel"	19	2014
+"AUS"	"Australia"	"AUS"	2573	"Zhao, Zong-Yuan"	987	2014
+"AUT"	"Austria"	"AUT"	2656	"Ragger, Markus"	2316	2014
+"AZE"	"Azerbaijan"	"AZE"	2757	"Mamedyarov, Shakhriyar"	574	2014
+"BAH"	"Bahamas"	"BHS"	1971	"Gibson, Franklyn"	21	2014
+"BRN"	"Bahrain"	"BHR"	2230	"Janahi, Khalid"	36	2014
+"BAN"	"Bangladesh"	"BGD"	2518	"Abdulla, Al-Rakib"	614	2014
+"BAR"	"Barbados"	"BRB"	2320	"Buckmire, Ron"	88	2014
+"BLR"	"Belarus"	"BLR"	2682	"Zhigalko, Sergei"	634	2014
+"BEL"	"Belgium"	"BEL"	2554	"Chuchelov, Vladimir"	1636	2014
+"BER"	"Bermuda"	"BMU"	2222	"Black, Richard"	41	2014
+"BOL"	"Bolivia"	"BOL"	2470	"Zambrana, Oswaldo"	301	2014
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2622	"Nikolic, Predrag"	525	2014
+"BOT"	"Botswana"	"BWA"	2223	"Njobvu, Ignatius"	91	2014
+"BRA"	"Brazil"	"BRA"	2645	"Leitao, Rafael"	2464	2014
+"IVB"	"British Virgin Islands"	"VGB"	2220	"Jarecki, John"	3	2014
+"BRU"	"Brunei"	"BRN"	2408	"Dollah, Zaidi"	50	2014
+"BUL"	"Bulgaria"	"BGR"	2785	"Topalov, Veselin"	1070	2014
+"BDI"	"Burundi"	"BDI"	2030	"Ndikumana, Yves"	2	2014
+"CMR"	"Cameroon"	"CMR"	1976	"Banlock, Benjamin Didier"	3	2014
+"CAN"	"Canada"	"CAN"	2617	"Kovalyov, Anton"	777	2014
+"CHI"	"Chile"	"CHL"	2568	"Morovic Fernandez, Ivan"	1048	2014
+"CHN"	"China"	"CHN"	2734	"Wang, Hao"	569	2014
+"COL"	"Colombia"	"COL"	2500	"Zapata, Alonso"	1369	2014
+"CRC"	"Costa Rica"	"CRI"	2464	"Gonzalez Acosta, Bernal"	206	2014
+"CRO"	"Croatia"	"HRV"	2637	"Saric, Ivan"	2131	2014
+"CUB"	"Cuba"	"CUB"	2754	"Dominguez Perez, Leinier"	1437	2014
+"CYP"	"Cyprus"	"CYP"	2224	"Kelires, Andreas"	61	2014
+"CZE"	"Czech Republic"	"CZE"	2702	"Navara, David"	4854	2014
+"DEN"	"Denmark"	"DNK"	2652	"Nielsen, Peter Heine"	2074	2014
+"DOM"	"Dominican Republic"	"DOM"	2430	"Munoz Santana, Jose Lisandro"	285	2014
+"EGY"	"Egypt"	"EGY"	2665	"Amin, Bassem"	710	2014
+"ESA"	"El Salvador"	"SLV"	2351	"Leyva, Hector"	118	2014
+"EST"	"Estonia"	"EST"	2560	"Kulaots, Kaido"	211	2014
+"ETH"	"Ethiopia"	"ETH"	2200	"Bekele, Abenet"	17	2014
+"FAI"	"Faroe Islands"	"FRO"	2484	"Ziska, Helgi Dam"	93	2014
+"FIJ"	"Fiji"	"FJI"	2205	"De Asa, Virgilio Jr"	27	2014
+"FIN"	"Finland"	"FIN"	2589	"Nyback, Tomi"	696	2014
+"FRA"	"France"	"FRA"	2745	"Vachier-Lagrave, Maxime"	12511	2014
+"GAB"	"Gabon"	"GAB"	2142	"Moulain Ayombo, Jean Pierre"	2	2014
+"GAM"	"Gambia"	"GMB"	2205	"Njie, Momodou"	5	2014
+"GEO"	"Georgia"	"GEO"	2710	"Jobava, Baadur"	627	2014
+"GER"	"Germany"	"DEU"	2718	"Naiditsch, Arkadij"	17538	2014
+"GHA"	"Ghana"	"GHA"	2112	"Hasford, John Kojo"	6	2014
+"GRE"	"Greece"	"GRC"	2645	"Banikas, Hristos"	3052	2014
+"GUM"	"Guam"	"GUM"	1950	"Manuel, Efren"	13	2014
+"GUA"	"Guatemala"	"GTM"	2404	"Juarez Flores, Carlos A."	71	2014
+"GCI"	"Guernsey"	"GGY"	2270	"Holland, Christopher"	15	2014
+"GUY"	"Guyana"	"GUY"	1982	"Fredericks, Jason"	10	2014
+"HAI"	"Haiti"	"HTI"	2068	"Afriany, V."	6	2014
+"HON"	"Honduras"	"HND"	2244	"Guillen Ramirez, Jose Antonio"	60	2014
+"HKG"	"Hong Kong"	"HKG"	2415	"Yang, Xian"	87	2014
+"HUN"	"Hungary"	"HUN"	2730	"Leko, Peter"	4779	2014
+"ISL"	"Iceland"	"ISL"	2580	"Hjartarson, Johann"	376	2014
+"IND"	"India"	"IND"	2773	"Anand, Viswanathan"	12098	2014
+"INA"	"Indonesia"	"IDN"	2556	"Adianto, Utut"	258	2014
+"IRI"	"Iran"	"IRN"	2571	"Moradiabadi, Elshan"	2674	2014
+"IRQ"	"Iraq"	"IRQ"	2395	"Noah, A .H. Al-Ali"	333	2014
+"IRL"	"Ireland"	"IRL"	2503	"Baburin, Alexander"	284	2014
+"ISR"	"Israel"	"ISR"	2777	"Gelfand, Boris"	1052	2014
+"ITA"	"Italy"	"ITA"	2782	"Caruana, Fabiano"	5687	2014
+"JAM"	"Jamaica"	"JAM"	2240	"Elliott, Warren"	86	2014
+"JPN"	"Japan"	"JPN"	2404	"Habu, Yoshiharu"	117	2014
+"JCI"	"Jersey"	"JEY"	2200	"Romeril, Stuart Paul"	16	2014
+"JOR"	"Jordan"	"JOR"	2409	"Issa, Rafat"	226	2014
+"KAZ"	"Kazakhstan"	"KAZ"	2629	"Sadvakasov, Darmen"	619	2014
+"KEN"	"Kenya"	"KEN"	2207	"Chomu Clement, Miheso"	35	2014
+"KUW"	"Kuwait"	"KWT"	2280	"Al Geran, Fares"	19	2014
+"KGZ"	"Kyrgyzstan"	"KGZ"	2521	"Magai, Vladimir"	108	2014
+"LAT"	"Latvia"	"LVA"	2711	"Shirov, Alexei"	391	2014
+"LIB"	"Lebanon"	"LBN"	2352	"Eid, Fadi"	92	2014
+"LBA"	"Libya"	"LBY"	2282	"Elarbi, Abobker"	102	2014
+"LIE"	"Liechtenstein"	"LIE"	2149	"Zier, Oliver"	13	2014
+"LTU"	"Lithuania"	"LTU"	2618	"Rozentalis, Eduardas"	621	2014
+"LUX"	"Luxembourg"	"LUX"	2476	"Wiedenkeller, Michael"	171	2014
+"MAC"	"Macao"	"MAC"	2200	"Chan, Kuok"	32	2014
+"MKD"	"Macedonia"	"MKD"	2598	"Najdoski, Toni"	233	2014
+"MAD"	"Madagascar"	"MDG"	2183	"Ranaivoharisoa, Alain"	19	2014
+"MAW"	"Malawi"	"MWI"	2115	"Nyambalo, Joseph Xavier"	9	2014
+"MAS"	"Malaysia"	"MYS"	2410	"Wong, Zi Jing"	479	2014
+"MDV"	"Maldives"	"MDV"	1921	"Abdul Rahman Ali"	11	2014
+"MLI"	"Mali"	"MLI"	2165	"Traore, Bakary"	4	2014
+"MLT"	"Malta"	"MLT"	2367	"Borg, Geoffrey"	60	2014
+"MTN"	"Mauritania"	"MRT"	2063	"Boydia, Sidi"	25	2014
+"MRI"	"Mauritius"	"MUS"	2272	"Phillips, Roy"	14	2014
+"MEX"	"Mexico"	"MEX"	2534	"Gonzalez Zamora, Juan Carlos"	988	2014
+"MDA"	"Moldova"	"MDA"	2661	"Bologan, Viktor"	352	2014
+"MNC"	"Monaco"	"MCO"	2381	"Efimov, Igor"	40	2014
+"MGL"	"Mongolia"	"MNG"	2529	"Batchuluun, Tsegmed"	176	2014
+"MNE"	"Montenegro"	"MNE"	2542	"Djukic, Nikola"	300	2014
+"MAR"	"Morocco"	"MAR"	2401	"Onkoud, Abdelaziz"	77	2014
+"MOZ"	"Mozambique"	"MOZ"	2218	"Calicoca, Wilton Inacio"	15	2014
+"MYA"	"Myanmar"	"MMR"	2408	"Wynn Zaw Htun"	198	2014
+"NAM"	"Namibia"	"NAM"	2200	"Leicher, Helmuth"	13	2014
+"NEP"	"Nepal"	"NPL"	2235	"Malla, Digesh Shanker"	335	2014
+"NED"	"Netherlands"	"NLD"	2734	"Giri, Anish"	2529	2014
+"AHO"	"Netherlands Antilles"	"ANT"	2205	"Van Der, Ploe"	33	2014
+"NZL"	"New Zealand"	"NZL"	2518	"Chandler, Murray G"	240	2014
+"NCA"	"Nicaragua"	"NIC"	2308	"Sirias, Danilo"	166	2014
+"NGR"	"Nigeria"	"NGA"	2291	"Olape, Bunmi"	59	2014
+"NOR"	"Norway"	"NOR"	2872	"Carlsen, Magnus"	1021	2014
+"PAK"	"Pakistan"	"PAK"	2358	"Lodhi, Mahmood"	40	2014
+"PLW"	"Palau"	"PLW"	1895	"Montel Jr, Cyril Tomas"	56	2014
+"PLE"	"Palestine"	"PSE"	2317	"Michel Yunis, Christian D."	50	2014
+"PAN"	"Panama"	"PAN"	2296	"Baules, Jorge"	78	2014
+"PNG"	"Papua New Guinea"	"PNG"	2205	"Rush, Joe"	7	2014
+"PAR"	"Paraguay"	"PRY"	2589	"Delgado Ramirez, Neuris"	229	2014
+"PER"	"Peru"	"PER"	2680	"Granda Zuniga, Julio E"	1121	2014
+"PHI"	"Philippines"	"PHL"	2719	"So, Wesley"	420	2014
+"POL"	"Poland"	"POL"	2711	"Wojtaszek, Radoslaw"	6465	2014
+"POR"	"Portugal"	"PRT"	2496	"Antunes, Antonio"	1251	2014
+"PUR"	"Puerto Rico"	"PRI"	2359	"Machin Rivera, Mark"	187	2014
+"QAT"	"Qatar"	"QAT"	2549	"Al-Modiahki, Mohamad"	38	2014
+"ROU"	"Romania"	"ROU"	2691	"Nisipeanu, Liviu-Dieter"	2349	2014
+"RUS"	"Russia"	"RUS"	2812	"Kasparov, Garry"	16804	2014
+"RWA"	"Rwanda"	"RWA"	2089	"Mutabazi, Fidele"	6	2014
+"SMR"	"San Marino"	"SMR"	2168	"Renzi, Nicola"	8	2014
+"STP"	"Sao Tome and Principe"	"STP"	1819	"Espirito Santo, Silverio"	6	2014
+"KSA"	"Saudi Arabia"	"SAU"	2171	"Al Ghamdi, Ahmed M"	32	2014
+"SCO"	"United Kingdom"	"GBR"	2569	"Rowson, Jonathan"	304	2014
+"ENG"	"United Kingdom"	"GBR"	2754	"Adams, Michael"	2011	2014
+"WLS"	"United Kingdom"	"GBR"	2424	"Cobb, James"	212	2014
+"SEN"	"Senegal"	"SEN"	2089	"Mansour, Gbedo Sy"	2	2014
+"SRB"	"Serbia"	"SRB"	2626	"Ivanisevic, Ivan"	3457	2014
+"SEY"	"Seychelles"	"SYC"	2200	"Lawen, Greg"	12	2014
+"SLE"	"Sierra Leone"	"SLE"	2074	"Kamara, Ansumana"	4	2014
+"SIN"	"Singapore"	"SGP"	2600	"Zhang, Zhong"	257	2014
+"SVK"	"Slovakia"	"SVK"	2586	"Markos, Jan"	2227	2014
+"SLO"	"Slovenia"	"SVN"	2656	"Lenic, Luka"	970	2014
+"SOL"	"Solomon Islands"	"SLB"	1932	"Tangaibasa, Brandon"	12	2014
+"SOM"	"Somalia"	"SOM"	2200	"Jimale, Abdulle Mohamed"	4	2014
+"RSA"	"South Africa"	"ZAF"	2425	"Michelakis, George"	281	2014
+"KOR"	"South Korea"	"KOR"	2488	"Kim, Alexey"	204	2014
+"ESP"	"Spain"	"ESP"	2707	"Vallejo Pons, Francisco"	14523	2014
+"SRI"	"Sri Lanka"	"LKA"	2385	"Aturupane, Harsha"	984	2014
+"SUD"	"Sudan"	"SDN"	2261	"Eltigani, Omar"	36	2014
+"SUR"	"Suriname"	"SUR"	2220	"Lindeboom, J"	51	2014
+"SWE"	"Sweden"	"SWE"	2599	"Hellers, Ferdinand"	1414	2014
+"SUI"	"Switzerland"	"CHE"	2622	"Milov, Vadim"	1705	2014
+"SYR"	"Syria"	"SYR"	2375	"Shadarevian, Michael"	163	2014
+"TJK"	"Tajikistan"	"TJK"	2613	"Amonatov, Farrukh"	45	2014
+"THA"	"Thailand"	"THA"	2281	"Jiravorasuk, Banjuab"	118	2014
+"TOG"	"Togo"	"TGO"	1859	"Fumey, Enyonam Sewa"	2	2014
+"TTO"	"Trinidad and Tobago"	"TTO"	2302	"Harper, Ryan"	103	2014
+"TUN"	"Tunisia"	"TUN"	2442	"Belkhodja, Slim"	124	2014
+"TUR"	"Turkey"	"TUR"	2615	"Ipatov, Alexander"	2215	2014
+"TKM"	"Turkmenistan"	"TKM"	2471	"Atabayev, Maksat"	168	2014
+"UGA"	"Uganda"	"UGA"	2360	"Naimanye, Andrew"	35	2014
+"UKR"	"Ukraine"	"UKR"	2739	"Ivanchuk, Vassily"	2750	2014
+"UAE"	"United Arab Emirates"	"ARE"	2564	"Salem, A.R. Saleh"	247	2014
+"USA"	"United States"	"USA"	2789	"Nakamura, Hikaru"	3312	2014
+"URU"	"Uruguay"	"URY"	2437	"Rodriguez Vila, Andres"	234	2014
+"ISV"	"US Virgin Islands"	"VIR"	2205	"Mctigue, James"	9	2014
+"UZB"	"Uzbekistan"	"UZB"	2698	"Kasimdzhanov, Rustam"	349	2014
+"VEN"	"Venezuela"	"VEN"	2645	"Iturrizaga Bonelli, Eduardo"	590	2014
+"VIE"	"Vietnam"	"VNM"	2703	"Le, Quang Liem"	366	2014
+"YEM"	"Yemen"	"YEM"	2396	"Al Qudaimi, Basheer"	82	2014
+"ZAM"	"Zambia"	"ZMB"	2449	"Simutowe, Amon"	40	2014
+"ZIM"	"Zimbabwe"	"ZWE"	2422	"Gwaze, Robert"	46	2014
+"AFG"	"Afghanistan"	"AFG"	2173	"Sharify, Aziz"	36	2015
+"ALB"	"Albania"	"ALB"	2568	"Dervishi, Erald"	128	2015
+"ALG"	"Algeria"	"DZA"	2524	"Haddouche, Mohamed"	257	2015
+"AND"	"Andorra"	"AND"	2507	"De La Riva Aguado, Oscar"	48	2015
+"ANG"	"Angola"	"AGO"	2276	"Aderito, Pedro"	101	2015
+"ARG"	"Argentina"	"ARG"	2592	"Peralta, Fernando"	2548	2015
+"ARM"	"Armenia"	"ARM"	2797	"Aronian, Levon"	596	2015
+"ARU"	"Aruba"	"ABW"	2206	"Lopez, Jasel"	27	2015
+"AUS"	"Australia"	"AUS"	2564	"Zhao, Zong-Yuan"	1131	2015
+"AUT"	"Austria"	"AUT"	2651	"Ragger, Markus"	2510	2015
+"AZE"	"Azerbaijan"	"AZE"	2759	"Mamedyarov, Shakhriyar"	747	2015
+"BAH"	"Bahamas"	"BHS"	1971	"Gibson, Franklyn"	24	2015
+"BRN"	"Bahrain"	"BHR"	2230	"Janahi, Khalid"	38	2015
+"BAN"	"Bangladesh"	"BGD"	2522	"Abdulla, Al-Rakib"	683	2015
+"BAR"	"Barbados"	"BRB"	2320	"Buckmire, Ron"	101	2015
+"BLR"	"Belarus"	"BLR"	2681	"Zhigalko, Sergei"	706	2015
+"BEL"	"Belgium"	"BEL"	2563	"Michiels, Bart"	1829	2015
+"BER"	"Bermuda"	"BMU"	2222	"Black, Richard"	42	2015
+"BHU"	"Bhutan"	"BTN"	1804	"Karma, Sonam"	2	2015
+"BOL"	"Bolivia"	"BOL"	2465	"Zambrana, Oswaldo"	359	2015
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2614	"Predojevic, Borki"	591	2015
+"BOT"	"Botswana"	"BWA"	2205	"Hamley, P."	112	2015
+"BRA"	"Brazil"	"BRA"	2636	"Leitao, Rafael"	2861	2015
+"IVB"	"British Virgin Islands"	"VGB"	2220	"Jarecki, John"	4	2015
+"BRU"	"Brunei"	"BRN"	2408	"Dollah, Zaidi"	55	2015
+"BUL"	"Bulgaria"	"BGR"	2800	"Topalov, Veselin"	1183	2015
+"BDI"	"Burundi"	"BDI"	1949	"Ndikumana, Yves"	3	2015
+"CAM"	"Cambodia"	"KHM"	2335	"Truong, H. Paul"	1	2015
+"CMR"	"Cameroon"	"CMR"	2078	"Banlock, Benjamin Didier"	8	2015
+"CAN"	"Canada"	"CAN"	2619	"Kovalyov, Anton"	867	2015
+"CHI"	"Chile"	"CHL"	2568	"Morovic Fernandez, Ivan"	1153	2015
+"CHN"	"China"	"CHN"	2732	"Ding, Liren"	653	2015
+"COL"	"Colombia"	"COL"	2511	"Escobar Forero, Alder"	1530	2015
+"CRC"	"Costa Rica"	"CRI"	2502	"Gonzalez Acosta, Bernal"	263	2015
+"CIV"	"Cote d'Ivoire"	"CIV"	2145	"Degondo, Simplice Armel"	4	2015
+"CRO"	"Croatia"	"HRV"	2666	"Saric, Ivan"	2300	2015
+"CUB"	"Cuba"	"CUB"	2726	"Dominguez Perez, Leinier"	1565	2015
+"CYP"	"Cyprus"	"CYP"	2384	"Kelires, Andreas"	70	2015
+"CZE"	"Czech Republic"	"CZE"	2729	"Navara, David"	5327	2015
+"DEN"	"Denmark"	"DNK"	2654	"Nielsen, Peter Heine"	2369	2015
+"DOM"	"Dominican Republic"	"DOM"	2439	"Munoz Santana, Jose Lisandro"	360	2015
+"ECU"	"Ecuador"	"ECU"	2523	"Matamoros Franco, Carlos S."	840	2015
+"EGY"	"Egypt"	"EGY"	2634	"Amin, Bassem"	959	2015
+"ESA"	"El Salvador"	"SLV"	2340	"Leyva, Hector"	153	2015
+"EST"	"Estonia"	"EST"	2556	"Kulaots, Kaido"	244	2015
+"ETH"	"Ethiopia"	"ETH"	2200	"Bekele, Abenet"	21	2015
+"FAI"	"Faroe Islands"	"FRO"	2510	"Ziska, Helgi Dam"	104	2015
+"FIJ"	"Fiji"	"FJI"	2205	"de Asa Jr, Virgilio"	28	2015
+"FIN"	"Finland"	"FIN"	2599	"Nyback, Tomi"	746	2015
+"FRA"	"France"	"FRA"	2757	"Vachier-Lagrave, Maxime"	14072	2015
+"GAB"	"Gabon"	"GAB"	2142	"Moulain Ayombo, Jean Pierre"	2	2015
+"GAM"	"Gambia"	"GMB"	2205	"Njie, Momodou"	6	2015
+"GEO"	"Georgia"	"GEO"	2727	"Jobava, Baadur"	739	2015
+"GER"	"Germany"	"DEU"	2694	"Naiditsch, Arkadij"	18869	2015
+"GHA"	"Ghana"	"GHA"	2033	"Hasford, John Kojo"	12	2015
+"GRE"	"Greece"	"GRC"	2632	"Papaioannou, Ioannis"	3481	2015
+"GUM"	"Guam"	"GUM"	1940	"Manuel, Enofre Efren D."	15	2015
+"GUA"	"Guatemala"	"GTM"	2435	"Juarez Flores, Carlos A."	82	2015
+"GCI"	"Guernsey"	"GGY"	2213	"Holland, Christopher"	16	2015
+"GUY"	"Guyana"	"GUY"	1965	"Fredericks, Jason"	15	2015
+"HAI"	"Haiti"	"HTI"	2068	"Afriany, V."	8	2015
+"HON"	"Honduras"	"HND"	2278	"Urbina, Ricardo"	80	2015
+"HKG"	"Hong Kong"	"HKG"	2415	"Yang, Xian"	114	2015
+"HUN"	"Hungary"	"HUN"	2716	"Rapport, Richard"	5012	2015
+"ISL"	"Iceland"	"ISL"	2576	"Hjartarson, Johann"	410	2015
+"IND"	"India"	"IND"	2797	"Anand, Viswanathan"	16722	2015
+"INA"	"Indonesia"	"IDN"	2556	"Adianto, Utut"	291	2015
+"IRI"	"Iran"	"IRN"	2569	"Moradiabadi, Elshan"	3416	2015
+"IRQ"	"Iraq"	"IRQ"	2396	"Obada, Ahmad AzeezJawad"	371	2015
+"IRL"	"Ireland"	"IRL"	2490	"Collins, Sam E."	323	2015
+"ISR"	"Israel"	"ISR"	2747	"Gelfand, Boris"	1144	2015
+"ITA"	"Italy"	"ITA"	2820	"Caruana, Fabiano"	6330	2015
+"JAM"	"Jamaica"	"JAM"	2240	"Elliott, Warren"	96	2015
+"JPN"	"Japan"	"JPN"	2415	"Habu, Yoshiharu"	133	2015
+"JCI"	"Jersey"	"JEY"	2200	"Romeril, Stuart Paul"	16	2015
+"JOR"	"Jordan"	"JOR"	2409	"Issa, Rafat"	271	2015
+"KAZ"	"Kazakhstan"	"KAZ"	2629	"Sadvakasov, Darmen"	752	2015
+"KEN"	"Kenya"	"KEN"	2207	"Chomu Clement, Miheso"	58	2015
+"KUW"	"Kuwait"	"KWT"	2280	"Al Geran, Fares"	27	2015
+"KGZ"	"Kyrgyzstan"	"KGZ"	2521	"Magai, Vladimir"	113	2015
+"LAT"	"Latvia"	"LVA"	2689	"Shirov, Alexei"	436	2015
+"LIB"	"Lebanon"	"LBN"	2352	"Eid, Fadi"	106	2015
+"LES"	"Lesotho"	"LSO"	1836	"Khalema, Sechaba"	8	2015
+"LBA"	"Libya"	"LBY"	2282	"Elarbi, Abobker"	176	2015
+"LIE"	"Liechtenstein"	"LIE"	2154	"Zier, Oliver"	13	2015
+"LTU"	"Lithuania"	"LTU"	2577	"Rozentalis, Eduardas"	700	2015
+"LUX"	"Luxembourg"	"LUX"	2470	"Wiedenkeller, Michael"	182	2015
+"MAC"	"Macao"	"MAC"	2200	"Chan, Kuok"	35	2015
+"MKD"	"Macedonia"	"MKD"	2598	"Najdoski, Toni"	246	2015
+"MAD"	"Madagascar"	"MDG"	2276	"Rakotomaharo, Fy Antenaina"	104	2015
+"MAW"	"Malawi"	"MWI"	2094	"Mwale Joseph"	20	2015
+"MAS"	"Malaysia"	"MYS"	2410	"Wong, Zi Jing"	578	2015
+"MDV"	"Maldives"	"MDV"	1866	"Ayoob, Ali"	15	2015
+"MLI"	"Mali"	"MLI"	2178	"Traore, Bakary"	4	2015
+"MLT"	"Malta"	"MLT"	2367	"Borg, Geoffrey"	78	2015
+"MTN"	"Mauritania"	"MRT"	2097	"Boydia, Sidi"	33	2015
+"MRI"	"Mauritius"	"MUS"	2241	"Phillips, Roy"	15	2015
+"MEX"	"Mexico"	"MEX"	2527	"Gonzalez Zamora, Juan Carlos"	1138	2015
+"MDA"	"Moldova"	"MDA"	2608	"Bologan, Viktor"	386	2015
+"MNC"	"Monaco"	"MCO"	2493	"Marciano, David"	50	2015
+"MGL"	"Mongolia"	"MNG"	2525	"Batchuluun, Tsegmed"	191	2015
+"MNE"	"Montenegro"	"MNE"	2529	"Djukic, Nikola"	315	2015
+"MAR"	"Morocco"	"MAR"	2400	"Ali, Sebbar"	82	2015
+"MOZ"	"Mozambique"	"MOZ"	2190	"Calicoca, Wilton Inacio"	20	2015
+"MYA"	"Myanmar"	"MMR"	2382	"Wynn Zaw Htun"	206	2015
+"NAM"	"Namibia"	"NAM"	2200	"Leicher, Helmuth"	19	2015
+"NEP"	"Nepal"	"NPL"	2235	"Malla, Digesh Shanker"	383	2015
+"NED"	"Netherlands"	"NLD"	2784	"Giri, Anish"	2726	2015
+"AHO"	"Netherlands Antilles"	"ANT"	2216	"Blijstra, Wim"	34	2015
+"NZL"	"New Zealand"	"NZL"	2518	"Chandler, Murray G"	253	2015
+"NCA"	"Nicaragua"	"NIC"	2308	"Sirias, Danilo"	196	2015
+"NGR"	"Nigeria"	"NGA"	2288	"Kigigha, Bomo"	100	2015
+"NOR"	"Norway"	"NOR"	2862	"Carlsen, Magnus"	1261	2015
+"OMA"	"Oman"	"OMN"	2221	"Amer Said Salim Al Maashani"	8	2015
+"PAK"	"Pakistan"	"PAK"	2354	"Syed Ahmad, Ali"	47	2015
+"PLW"	"Palau"	"PLW"	1870	"Omega, Jose"	87	2015
+"PLE"	"Palestine"	"PSE"	2335	"Michel Yunis, Christian D."	63	2015
+"PAN"	"Panama"	"PAN"	2338	"Baules, Jorge"	80	2015
+"PNG"	"Papua New Guinea"	"PNG"	2205	"Rush, Joe"	7	2015
+"PAR"	"Paraguay"	"PRY"	2629	"Bachmann, Axel"	240	2015
+"PER"	"Peru"	"PER"	2640	"Granda Zuniga, Julio E"	1225	2015
+"PHI"	"Philippines"	"PHL"	2575	"Sadorra, Julio Catalino"	464	2015
+"POL"	"Poland"	"POL"	2744	"Wojtaszek, Radoslaw"	7192	2015
+"POR"	"Portugal"	"PRT"	2496	"Antunes, Antonio"	1362	2015
+"PUR"	"Puerto Rico"	"PRI"	2352	"Machin Rivera, Mark"	208	2015
+"QAT"	"Qatar"	"QAT"	2550	"Al-Modiahki, Mohamad"	44	2015
+"ROU"	"Romania"	"ROU"	2626	"Lupulescu, Constantin"	2665	2015
+"RUS"	"Russia"	"RUS"	2812	"Kasparov, Garry"	19394	2015
+"RWA"	"Rwanda"	"RWA"	2089	"Mutabazi, Fidele"	8	2015
+"SMR"	"San Marino"	"SMR"	2168	"Renzi, Nicola"	8	2015
+"STP"	"Sao Tome and Principe"	"STP"	1960	"Santos da Costa, Jose Manuel"	9	2015
+"KSA"	"Saudi Arabia"	"SAU"	2186	"Al Ghamdi, Ahmed M"	52	2015
+"SCO"	"United Kingdom"	"GBR"	2569	"Rowson, Jonathan"	318	2015
+"ENG"	"United Kingdom"	"GBR"	2738	"Adams, Michael"	2309	2015
+"WLS"	"United Kingdom"	"GBR"	2423	"Cobb, James"	247	2015
+"SEN"	"Senegal"	"SEN"	2089	"Mansour, Gbedo Sy"	5	2015
+"SRB"	"Serbia"	"SRB"	2634	"Ivanisevic, Ivan"	3723	2015
+"SEY"	"Seychelles"	"SYC"	2200	"Lawen, Greg"	12	2015
+"SLE"	"Sierra Leone"	"SLE"	2074	"Kamara, Ansumana"	4	2015
+"SIN"	"Singapore"	"SGP"	2614	"Zhang, Zhong"	288	2015
+"SVK"	"Slovakia"	"SVK"	2591	"Markos, Jan"	2457	2015
+"SLO"	"Slovenia"	"SVN"	2646	"Lenic, Luka"	1054	2015
+"SOL"	"Solomon Islands"	"SLB"	1932	"Tangaibasa, Brandon"	14	2015
+"SOM"	"Somalia"	"SOM"	2200	"Jimale, Abdulle Mohamed"	5	2015
+"RSA"	"South Africa"	"ZAF"	2428	"Cawdery, Daniel"	409	2015
+"KOR"	"South Korea"	"KOR"	2477	"Kim, Alexey"	273	2015
+"ESP"	"Spain"	"ESP"	2706	"Vallejo Pons, Francisco"	15788	2015
+"SRI"	"Sri Lanka"	"LKA"	2385	"Aturupane, Harsha"	1480	2015
+"SUD"	"Sudan"	"SDN"	2237	"Eltigani, Omar"	43	2015
+"SUR"	"Suriname"	"SUR"	2220	"Lindeboom, J"	62	2015
+"SWZ"	"Swaziland"	"SWZ"	1641	"Mavuso, Lunga"	1	2015
+"SWE"	"Sweden"	"SWE"	2602	"Grandelius, Nils"	1660	2015
+"SUI"	"Switzerland"	"CHE"	2619	"Milov, Vadim"	1862	2015
+"SYR"	"Syria"	"SYR"	2375	"Shadarevian, Michael"	185	2015
+"TJK"	"Tajikistan"	"TJK"	2592	"Amonatov, Farrukh"	51	2015
+"TAN"	"Tanzania"	"TZA"	1885	"Mwanyika, Geoffrey"	6	2015
+"THA"	"Thailand"	"THA"	2304	"Kongsee, Uaychai"	146	2015
+"TOG"	"Togo"	"TGO"	1880	"Dongo, Wezou Henri"	8	2015
+"TTO"	"Trinidad and Tobago"	"TTO"	2246	"Harper, Ryan"	132	2015
+"TUN"	"Tunisia"	"TUN"	2422	"Belkhodja, Slim"	167	2015
+"TUR"	"Turkey"	"TUR"	2607	"Solak, Dragan"	2937	2015
+"TKM"	"Turkmenistan"	"TKM"	2496	"Atabayev, Maksat"	179	2015
+"UGA"	"Uganda"	"UGA"	2360	"Naimanye, Andrew"	45	2015
+"UKR"	"Ukraine"	"UKR"	2727	"Eljanov, Pavel"	2921	2015
+"UAE"	"United Arab Emirates"	"ARE"	2603	"Salem, A.R. Saleh"	294	2015
+"USA"	"United States"	"USA"	2776	"Nakamura, Hikaru"	3713	2015
+"URU"	"Uruguay"	"URY"	2444	"Rodriguez Vila, Andres"	273	2015
+"ISV"	"US Virgin Islands"	"VIR"	2205	"Mctigue, James"	9	2015
+"UZB"	"Uzbekistan"	"UZB"	2705	"Kasimdzhanov, Rustam"	389	2015
+"VEN"	"Venezuela"	"VEN"	2649	"Iturrizaga Bonelli, Eduardo"	828	2015
+"VIE"	"Vietnam"	"VNM"	2678	"Le, Quang Liem"	376	2015
+"YEM"	"Yemen"	"YEM"	2405	"Al Qudaimi, Basheer"	84	2015
+"ZAM"	"Zambia"	"ZMB"	2449	"Simutowe, Amon"	73	2015
+"ZIM"	"Zimbabwe"	"ZWE"	2422	"Gwaze, Robert"	59	2015
+"AFG"	"Afghanistan"	"AFG"	2173	"Sharify, Aziz"	41	2016
+"ALB"	"Albania"	"ALB"	2564	"Dervishi, Erald"	122	2016
+"ALG"	"Algeria"	"DZA"	2511	"Rizouk, Aimen"	344	2016
+"AND"	"Andorra"	"AND"	2502	"Norwood, David R"	49	2016
+"ANG"	"Angola"	"AGO"	2264	"Domingos, Catarino"	142	2016
+"ARG"	"Argentina"	"ARG"	2625	"Mareco, Sandro"	3078	2016
+"ARM"	"Armenia"	"ARM"	2792	"Aronian, Levon"	732	2016
+"ARU"	"Aruba"	"ABW"	2209	"Lopez, Jasel"	32	2016
+"AUS"	"Australia"	"AUS"	2546	"Zhao, Zong-Yuan"	1306	2016
+"AUT"	"Austria"	"AUT"	2689	"Ragger, Markus"	2862	2016
+"AZE"	"Azerbaijan"	"AZE"	2747	"Mamedyarov, Shakhriyar"	998	2016
+"BAH"	"Bahamas"	"BHS"	1971	"Gibson, Franklyn"	28	2016
+"BRN"	"Bahrain"	"BHR"	2230	"Janahi, Khalid"	42	2016
+"BAN"	"Bangladesh"	"BGD"	2502	"Rahman, Ziaur"	839	2016
+"BAR"	"Barbados"	"BRB"	2320	"Buckmire, Ron"	117	2016
+"BLR"	"Belarus"	"BLR"	2655	"Zhigalko, Sergei"	803	2016
+"BEL"	"Belgium"	"BEL"	2565	"Winants, Luc"	2161	2016
+"BER"	"Bermuda"	"BMU"	2222	"Black, Richard"	42	2016
+"BHU"	"Bhutan"	"BTN"	1804	"Karma, Sonam"	4	2016
+"BOL"	"Bolivia"	"BOL"	2455	"Zambrana, Oswaldo"	462	2016
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2643	"Predojevic, Borki"	673	2016
+"BOT"	"Botswana"	"BWA"	2309	"Oatlhotse, Providence"	149	2016
+"BRA"	"Brazil"	"BRA"	2633	"Leitao, Rafael"	3560	2016
+"IVB"	"British Virgin Islands"	"VGB"	2220	"Jarecki, John"	4	2016
+"BRU"	"Brunei"	"BRN"	2365	"Dollah, Zaidi"	66	2016
+"BUL"	"Bulgaria"	"BGR"	2780	"Topalov, Veselin"	1387	2016
+"BUR"	"Burkina Faso"	"BFA"	1769	"Tchokomakou Gilles Arnaud"	12	2016
+"BDI"	"Burundi"	"BDI"	1949	"Ndikumana, Yves"	4	2016
+"CAM"	"Cambodia"	"KHM"	2335	"Truong, H. Paul"	2	2016
+"CMR"	"Cameroon"	"CMR"	2073	"Banlock, Benjamin Didier"	10	2016
+"CAN"	"Canada"	"CAN"	2675	"Bareev, Evgeny"	1034	2016
+"CHI"	"Chile"	"CHL"	2570	"Morovic Fernandez, Ivan"	1354	2016
+"CHN"	"China"	"CHN"	2766	"Ding, Liren"	777	2016
+"COL"	"Colombia"	"COL"	2517	"Escobar Forero, Alder"	1800	2016
+"CRC"	"Costa Rica"	"CRI"	2481	"Gonzalez Acosta, Bernal"	365	2016
+"CIV"	"Cote d'Ivoire"	"CIV"	2107	"Degondo, Simplice Armel"	13	2016
+"CRO"	"Croatia"	"HRV"	2650	"Saric, Ivan"	2535	2016
+"CUB"	"Cuba"	"CUB"	2732	"Dominguez Perez, Leinier"	1696	2016
+"CYP"	"Cyprus"	"CYP"	2444	"Kelires, Andreas"	91	2016
+"CZE"	"Czech Republic"	"CZE"	2730	"Navara, David"	6081	2016
+"DEN"	"Denmark"	"DNK"	2649	"Nielsen, Peter Heine"	2831	2016
+"DOM"	"Dominican Republic"	"DOM"	2425	"Liao, Yuan Eu"	472	2016
+"ECU"	"Ecuador"	"ECU"	2529	"Matamoros Franco, Carlos S."	918	2016
+"EGY"	"Egypt"	"EGY"	2665	"Amin, Bassem"	1235	2016
+"ESA"	"El Salvador"	"SLV"	2327	"Leyva, Hector"	189	2016
+"EST"	"Estonia"	"EST"	2572	"Kulaots, Kaido"	296	2016
+"ETH"	"Ethiopia"	"ETH"	2200	"Bekele, Abenet"	34	2016
+"FAI"	"Faroe Islands"	"FRO"	2534	"Ziska, Helgi Dam"	125	2016
+"FIJ"	"Fiji"	"FJI"	2205	"de Asa Jr, Virgilio"	37	2016
+"FIN"	"Finland"	"FIN"	2575	"Nyback, Tomi"	818	2016
+"FRA"	"France"	"FRA"	2785	"Vachier-Lagrave, Maxime"	16359	2016
+"GAB"	"Gabon"	"GAB"	2142	"Moulain Ayombo, Jean Pierre"	2	2016
+"GAM"	"Gambia"	"GMB"	2205	"Njie, Momodou"	6	2016
+"GEO"	"Georgia"	"GEO"	2673	"Jobava, Baadur"	839	2016
+"GER"	"Germany"	"DEU"	2679	"Nisipeanu, Liviu-Dieter"	20676	2016
+"GHA"	"Ghana"	"GHA"	1993	"Anquandah, Francis Eric"	28	2016
+"GRE"	"Greece"	"GRC"	2631	"Papaioannou, Ioannis"	4008	2016
+"GUM"	"Guam"	"GUM"	2095	"Mafnas, Peter"	21	2016
+"GUA"	"Guatemala"	"GTM"	2425	"Juarez Flores, Carlos A."	88	2016
+"GCI"	"Guernsey"	"GGY"	2189	"Holland, Christopher"	21	2016
+"GUY"	"Guyana"	"GUY"	1965	"Fredericks, Jason"	16	2016
+"HAI"	"Haiti"	"HTI"	2068	"Afriany, V."	9	2016
+"HON"	"Honduras"	"HND"	2253	"Guillen Ramirez, Jose Antonio"	97	2016
+"HKG"	"Hong Kong"	"HKG"	2415	"Yang, Xian"	152	2016
+"HUN"	"Hungary"	"HUN"	2721	"Rapport, Richard"	5415	2016
+"ISL"	"Iceland"	"ISL"	2600	"Stefansson, Hannes"	477	2016
+"IND"	"India"	"IND"	2784	"Anand, Viswanathan"	20123	2016
+"INA"	"Indonesia"	"IDN"	2556	"Adianto, Utut"	386	2016
+"IRI"	"Iran"	"IRN"	2594	"Ghaem Maghami, Ehsan"	4511	2016
+"IRQ"	"Iraq"	"IRQ"	2401	"Obada, Ahmad AzeezJawad"	444	2016
+"IRL"	"Ireland"	"IRL"	2490	"Baburin, Alexander"	415	2016
+"ISR"	"Israel"	"ISR"	2735	"Gelfand, Boris"	1363	2016
+"ITA"	"Italy"	"ITA"	2597	"David, Alberto"	7203	2016
+"JAM"	"Jamaica"	"JAM"	2259	"Elliott, Warren"	127	2016
+"JPN"	"Japan"	"JPN"	2400	"Kojima, Shinya"	152	2016
+"JCI"	"Jersey"	"JEY"	2200	"Romeril, Stuart Paul"	16	2016
+"JOR"	"Jordan"	"JOR"	2409	"Issa, Rafat"	340	2016
+"KAZ"	"Kazakhstan"	"KAZ"	2629	"Sadvakasov, Darmen"	950	2016
+"KEN"	"Kenya"	"KEN"	2205	"Adam, A"	169	2016
+"KUW"	"Kuwait"	"KWT"	2280	"Al Geran, Fares"	65	2016
+"KGZ"	"Kyrgyzstan"	"KGZ"	2521	"Magai, Vladimir"	131	2016
+"LAO"	"Laos"	"LAO"	1525	"Thatsanee Sanaban"	8	2016
+"LAT"	"Latvia"	"LVA"	2680	"Kovalenko, Igor"	506	2016
+"LIB"	"Lebanon"	"LBN"	2352	"Eid, Fadi"	143	2016
+"LES"	"Lesotho"	"LSO"	1760	"Khalema, Sechaba"	23	2016
+"LBA"	"Libya"	"LBY"	2282	"Elarbi, Abobker"	204	2016
+"LIE"	"Liechtenstein"	"LIE"	2170	"Ferster, Fabian"	14	2016
+"LTU"	"Lithuania"	"LTU"	2572	"Rozentalis, Eduardas"	801	2016
+"LUX"	"Luxembourg"	"LUX"	2442	"Wiedenkeller, Michael"	216	2016
+"MAC"	"Macao"	"MAC"	2200	"Chan, Kuok"	36	2016
+"MKD"	"Macedonia"	"MKD"	2598	"Najdoski, Toni"	263	2016
+"MAD"	"Madagascar"	"MDG"	2438	"Rakotomaharo, Fy Antenaina"	136	2016
+"MAW"	"Malawi"	"MWI"	2099	"Chipanga, Chiletso"	83	2016
+"MAS"	"Malaysia"	"MYS"	2410	"Wong, Zi Jing"	723	2016
+"MDV"	"Maldives"	"MDV"	1877	"Ahmed, Ashraf"	21	2016
+"MLI"	"Mali"	"MLI"	2201	"Diallo, Moustaph"	6	2016
+"MLT"	"Malta"	"MLT"	2367	"Borg, Geoffrey"	96	2016
+"MTN"	"Mauritania"	"MRT"	2054	"Boidiya, Sidi"	42	2016
+"MRI"	"Mauritius"	"MUS"	2223	"Phillips, Roy"	15	2016
+"MEX"	"Mexico"	"MEX"	2514	"Hernandez Guerrero, Gilberto"	1270	2016
+"MDA"	"Moldova"	"MDA"	2654	"Bologan, Viktor"	440	2016
+"MNC"	"Monaco"	"MCO"	2471	"Marciano, David"	59	2016
+"MGL"	"Mongolia"	"MNG"	2507	"Gundavaa, Bayarsaikhan"	285	2016
+"MNE"	"Montenegro"	"MNE"	2565	"Djukic, Nikola"	337	2016
+"MAR"	"Morocco"	"MAR"	2397	"El Adnani, Mokliss"	156	2016
+"MOZ"	"Mozambique"	"MOZ"	2190	"Calicoca, Wilton Inacio"	20	2016
+"MYA"	"Myanmar"	"MMR"	2431	"Wynn Zaw Htun"	263	2016
+"NAM"	"Namibia"	"NAM"	2204	"Mueller, Leonhard"	27	2016
+"NEP"	"Nepal"	"NPL"	2235	"Malla, Digesh Shanker"	409	2016
+"NED"	"Netherlands"	"NLD"	2798	"Giri, Anish"	3128	2016
+"AHO"	"Netherlands Antilles"	"ANT"	2216	"Blijstra, Wim"	37	2016
+"NZL"	"New Zealand"	"NZL"	2518	"Chandler, Murray G"	298	2016
+"NCA"	"Nicaragua"	"NIC"	2355	"Ampie, Mauro"	234	2016
+"NGR"	"Nigeria"	"NGA"	2305	"Kigigha, Bomo"	155	2016
+"NOR"	"Norway"	"NOR"	2844	"Carlsen, Magnus"	1715	2016
+"OMA"	"Oman"	"OMN"	2128	"Amer Said Salim Al Maashani"	16	2016
+"PAK"	"Pakistan"	"PAK"	2343	"Syed Ahmad, Ali"	67	2016
+"PLW"	"Palau"	"PLW"	1870	"Omega, Jose"	103	2016
+"PLE"	"Palestine"	"PSE"	2256	"Michel Yunis, Christian D."	112	2016
+"PAN"	"Panama"	"PAN"	2401	"Baules, Jorge"	125	2016
+"PNG"	"Papua New Guinea"	"PNG"	2205	"Rush, Joe"	7	2016
+"PAR"	"Paraguay"	"PRY"	2610	"Bachmann, Axel"	297	2016
+"PER"	"Peru"	"PER"	2683	"Granda Zuniga, Julio E"	1449	2016
+"PHI"	"Philippines"	"PHL"	2510	"Paragua, Mark"	612	2016
+"POL"	"Poland"	"POL"	2727	"Wojtaszek, Radoslaw"	7999	2016
+"POR"	"Portugal"	"PRT"	2496	"Antunes, Antonio"	1548	2016
+"PUR"	"Puerto Rico"	"PRI"	2352	"Machin Rivera, Mark"	255	2016
+"QAT"	"Qatar"	"QAT"	2550	"Al-Modiahki, Mohamad"	49	2016
+"ROU"	"Romania"	"ROU"	2623	"Lupulescu, Constantin"	3077	2016
+"RUS"	"Russia"	"RUS"	2812	"Kasparov, Garry"	23555	2016
+"RWA"	"Rwanda"	"RWA"	1936	"Mutabazi, Fidele"	20	2016
+"SMR"	"San Marino"	"SMR"	2168	"Renzi, Nicola"	8	2016
+"STP"	"Sao Tome and Principe"	"STP"	1960	"Santos da Costa, Jose Manuel"	11	2016
+"KSA"	"Saudi Arabia"	"SAU"	2195	"Al Ghamdi, Ahmed M"	61	2016
+"SCO"	"United Kingdom"	"GBR"	2565	"Rowson, Jonathan"	354	2016
+"ENG"	"United Kingdom"	"GBR"	2744	"Adams, Michael"	2567	2016
+"WLS"	"United Kingdom"	"GBR"	2494	"Davies, Nigel R"	288	2016
+"SEN"	"Senegal"	"SEN"	2089	"Mansour, Gbedo Sy"	5	2016
+"SRB"	"Serbia"	"SRB"	2665	"Ivanisevic, Ivan"	4103	2016
+"SEY"	"Seychelles"	"SYC"	2200	"Lawen, Greg"	13	2016
+"SLE"	"Sierra Leone"	"SLE"	2015	"Kamara, Ansumana"	4	2016
+"SIN"	"Singapore"	"SGP"	2633	"Zhang, Zhong"	368	2016
+"SVK"	"Slovakia"	"SVK"	2582	"Michalik, Peter"	2849	2016
+"SLO"	"Slovenia"	"SVN"	2630	"Beliavsky, Alexander G"	1190	2016
+"SOL"	"Solomon Islands"	"SLB"	1932	"Tangaibasa, Brandon"	14	2016
+"SOM"	"Somalia"	"SOM"	2200	"Jimale, Abdulle Mohamed"	5	2016
+"RSA"	"South Africa"	"ZAF"	2425	"Michelakis, George"	564	2016
+"KOR"	"South Korea"	"KOR"	2460	"Kim, Alexey"	362	2016
+"ESP"	"Spain"	"ESP"	2675	"Vallejo Pons, Francisco"	17384	2016
+"SRI"	"Sri Lanka"	"LKA"	2385	"Aturupane, Harsha"	2010	2016
+"SUD"	"Sudan"	"SDN"	2237	"Eltigani, Omar"	72	2016
+"SUR"	"Suriname"	"SUR"	2220	"Lindeboom, J"	86	2016
+"SWZ"	"Swaziland"	"SWZ"	1639	"Simelane Wandile"	15	2016
+"SWE"	"Sweden"	"SWE"	2635	"Grandelius, Nils"	2116	2016
+"SUI"	"Switzerland"	"CHE"	2615	"Milov, Vadim"	2026	2016
+"SYR"	"Syria"	"SYR"	2375	"Shadarevian, Michael"	217	2016
+"TJK"	"Tajikistan"	"TJK"	2596	"Amonatov, Farrukh"	64	2016
+"TAN"	"Tanzania"	"TZA"	1875	"Mwanyika, Geoffrey"	14	2016
+"THA"	"Thailand"	"THA"	2292	"Saeheng, Boonsueb"	181	2016
+"TLS"	"Timor-Leste"	"TLS"	1779	"Guterres, Luis"	6	2016
+"TOG"	"Togo"	"TGO"	1875	"Dongo, Wezou Henri"	15	2016
+"TTO"	"Trinidad and Tobago"	"TTO"	2231	"Harper, Ryan"	163	2016
+"TUN"	"Tunisia"	"TUN"	2408	"Njili, Kamel"	268	2016
+"TUR"	"Turkey"	"TUR"	2648	"Ipatov, Alexander"	4003	2016
+"TKM"	"Turkmenistan"	"TKM"	2483	"Atabayev, Maksat"	190	2016
+"UGA"	"Uganda"	"UGA"	2360	"Naimanye, Andrew"	49	2016
+"UKR"	"Ukraine"	"UKR"	2760	"Eljanov, Pavel"	3200	2016
+"UAE"	"United Arab Emirates"	"ARE"	2627	"Salem, A.R. Saleh"	345	2016
+"USA"	"United States"	"USA"	2787	"Caruana, Fabiano"	4258	2016
+"URU"	"Uruguay"	"URY"	2487	"Rodriguez Vila, Andres"	344	2016
+"ISV"	"US Virgin Islands"	"VIR"	2205	"Mctigue, James"	10	2016
+"UZB"	"Uzbekistan"	"UZB"	2702	"Kasimdzhanov, Rustam"	462	2016
+"VEN"	"Venezuela"	"VEN"	2624	"Iturrizaga Bonelli, Eduardo"	1101	2016
+"VIE"	"Vietnam"	"VNM"	2718	"Le, Quang Liem"	424	2016
+"YEM"	"Yemen"	"YEM"	2419	"Al Qudaimi, Basheer"	90	2016
+"ZAM"	"Zambia"	"ZMB"	2449	"Simutowe, Amon"	136	2016
+"ZIM"	"Zimbabwe"	"ZWE"	2422	"Gwaze, Robert"	107	2016
+"AFG"	"Afghanistan"	"AFG"	2185	"Haidary, Hameedullah"	52	2017
+"ALB"	"Albania"	"ALB"	2552	"Dervishi, Erald"	134	2017
+"ALG"	"Algeria"	"DZA"	2490	"Haddouche, Mohamed"	417	2017
+"AND"	"Andorra"	"AND"	2505	"Norwood, David R"	55	2017
+"ANG"	"Angola"	"AGO"	2320	"Aderito, Pedro"	180	2017
+"ARG"	"Argentina"	"ARG"	2645	"Mareco, Sandro"	3578	2017
+"ARM"	"Armenia"	"ARM"	2780	"Aronian, Levon"	889	2017
+"ARU"	"Aruba"	"ABW"	2272	"Lopez, Jasel"	33	2017
+"AUS"	"Australia"	"AUS"	2545	"Rogers, Ian"	1492	2017
+"AUT"	"Austria"	"AUT"	2697	"Ragger, Markus"	3136	2017
+"AZE"	"Azerbaijan"	"AZE"	2766	"Mamedyarov, Shakhriyar"	1250	2017
+"BAH"	"Bahamas"	"BHS"	1923	"Gibson, Franklyn"	29	2017
+"BRN"	"Bahrain"	"BHR"	2230	"Janahi, Khalid"	43	2017
+"BAN"	"Bangladesh"	"BGD"	2517	"Rahman, Ziaur"	985	2017
+"BAR"	"Barbados"	"BRB"	2320	"Buckmire, Ron"	128	2017
+"BLR"	"Belarus"	"BLR"	2662	"Zhigalko, Sergei"	882	2017
+"BEL"	"Belgium"	"BEL"	2554	"Chuchelov, Vladimir"	2493	2017
+"BER"	"Bermuda"	"BMU"	2222	"Black, Richard"	48	2017
+"BHU"	"Bhutan"	"BTN"	1661	"Karma, Sonam"	7	2017
+"BOL"	"Bolivia"	"BOL"	2455	"Zambrana, Oswaldo"	616	2017
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2611	"Predojevic, Borki"	744	2017
+"BOT"	"Botswana"	"BWA"	2205	"Hamley, P."	192	2017
+"BRA"	"Brazil"	"BRA"	2618	"Leitao, Rafael"	4034	2017
+"IVB"	"British Virgin Islands"	"VGB"	2220	"Jarecki, John"	4	2017
+"BRU"	"Brunei"	"BRN"	2365	"Dollah, Zaidi"	69	2017
+"BUL"	"Bulgaria"	"BGR"	2739	"Topalov, Veselin"	1559	2017
+"BUR"	"Burkina Faso"	"BFA"	1692	"Nicolas Carbonell"	11	2017
+"BDI"	"Burundi"	"BDI"	1985	"Ezra Paul Chambers"	6	2017
+"CAM"	"Cambodia"	"KHM"	2335	"Truong, H. Paul"	2	2017
+"CMR"	"Cameroon"	"CMR"	2058	"Banlock, Benjamin Didier"	11	2017
+"CAN"	"Canada"	"CAN"	2666	"Bareev, Evgeny"	1180	2017
+"CHI"	"Chile"	"CHL"	2554	"Vasquez Schroeder, Rodrigo"	1622	2017
+"CHN"	"China"	"CHN"	2760	"Ding, Liren"	930	2017
+"COL"	"Colombia"	"COL"	2493	"Escobar Forero, Alder"	2037	2017
+"CGO"	"Congo"	"COG"	1922	"Gamba, Karim Felix"	5	2017
+"CRC"	"Costa Rica"	"CRI"	2489	"Gonzalez Acosta, Bernal"	451	2017
+"CIV"	"Cote d'Ivoire"	"CIV"	2142	"Degondo, Simplice Armel"	18	2017
+"CRO"	"Croatia"	"HRV"	2648	"Saric, Ivan"	2788	2017
+"CUB"	"Cuba"	"CUB"	2739	"Dominguez Perez, Leinier"	1813	2017
+"CYP"	"Cyprus"	"CYP"	2205	"Hadjittofis, Yiannis"	96	2017
+"CZE"	"Czech Republic"	"CZE"	2735	"Navara, David"	6649	2017
+"DEN"	"Denmark"	"DNK"	2645	"Nielsen, Peter Heine"	3239	2017
+"DOM"	"Dominican Republic"	"DOM"	2433	"Munoz Santana, Jose Lisandro"	527	2017
+"ECU"	"Ecuador"	"ECU"	2486	"Matamoros Franco, Carlos S."	1053	2017
+"EGY"	"Egypt"	"EGY"	2666	"Amin, Bassem"	1563	2017
+"ESA"	"El Salvador"	"SLV"	2327	"Leyva, Hector"	234	2017
+"EST"	"Estonia"	"EST"	2579	"Kulaots, Kaido"	346	2017
+"ETH"	"Ethiopia"	"ETH"	2200	"Bekele, Abenet"	40	2017
+"FAI"	"Faroe Islands"	"FRO"	2555	"Ziska, Helgi Dam"	147	2017
+"FIJ"	"Fiji"	"FJI"	2205	"de Asa Jr, Virgilio"	42	2017
+"FIN"	"Finland"	"FIN"	2582	"Nyback, Tomi"	905	2017
+"FRA"	"France"	"FRA"	2796	"Vachier-Lagrave, Maxime"	18514	2017
+"GAB"	"Gabon"	"GAB"	2142	"Moulain Ayombo, Jean Pierre"	2	2017
+"GAM"	"Gambia"	"GMB"	2205	"Njie, Momodou"	8	2017
+"GEO"	"Georgia"	"GEO"	2701	"Jobava, Baadur"	976	2017
+"GER"	"Germany"	"DEU"	2680	"Nisipeanu, Liviu-Dieter"	22254	2017
+"GHA"	"Ghana"	"GHA"	2006	"Hasford, John Kojo"	37	2017
+"GRE"	"Greece"	"GRC"	2638	"Papaioannou, Ioannis"	4529	2017
+"GUM"	"Guam"	"GUM"	2002	"Mafnas, Peter"	23	2017
+"GUA"	"Guatemala"	"GTM"	2376	"Juarez Flores, Carlos A."	115	2017
+"GCI"	"Guernsey"	"GGY"	2189	"Holland, Christopher"	22	2017
+"GUY"	"Guyana"	"GUY"	1967	"Meusa, Wendell"	22	2017
+"HAI"	"Haiti"	"HTI"	2068	"Afriany, V."	9	2017
+"HON"	"Honduras"	"HND"	2257	"Guillen Ramirez, Jose Antonio"	127	2017
+"HKG"	"Hong Kong"	"HKG"	2415	"Yang, Xian"	173	2017
+"HUN"	"Hungary"	"HUN"	2702	"Rapport, Richard"	5734	2017
+"ISL"	"Iceland"	"ISL"	2570	"Stefansson, Hannes"	538	2017
+"IND"	"India"	"IND"	2786	"Anand, Viswanathan"	23660	2017
+"INA"	"Indonesia"	"IDN"	2566	"Adianto, Utut"	549	2017
+"IRI"	"Iran"	"IRN"	2584	"Maghsoodloo, Parham"	6114	2017
+"IRQ"	"Iraq"	"IRQ"	2400	"Obada, Ahmad AzeezJawad"	514	2017
+"IRL"	"Ireland"	"IRL"	2481	"Baburin, Alexander"	499	2017
+"ISR"	"Israel"	"ISR"	2721	"Gelfand, Boris"	1715	2017
+"ITA"	"Italy"	"ITA"	2606	"Vocaturo, Daniele"	7978	2017
+"JAM"	"Jamaica"	"JAM"	2263	"Elliott, Warren"	148	2017
+"JPN"	"Japan"	"JPN"	2403	"Kojima, Shinya"	173	2017
+"JCI"	"Jersey"	"JEY"	2200	"Romeril, Stuart Paul"	19	2017
+"JOR"	"Jordan"	"JOR"	2398	"Issa, Rafat"	390	2017
+"KAZ"	"Kazakhstan"	"KAZ"	2629	"Sadvakasov, Darmen"	1208	2017
+"KEN"	"Kenya"	"KEN"	2205	"Adam, A"	245	2017
+"KUW"	"Kuwait"	"KWT"	2280	"Al Geran, Fares"	79	2017
+"KGZ"	"Kyrgyzstan"	"KGZ"	2521	"Magai, Vladimir"	159	2017
+"LAO"	"Laos"	"LAO"	1525	"Thatsanee Sanaban"	8	2017
+"LAT"	"Latvia"	"LVA"	2684	"Kovalenko, Igor"	561	2017
+"LES"	"Lesotho"	"LSO"	1789	"Latela, Kananelo"	40	2017
+"LBA"	"Libya"	"LBY"	2308	"Elarbi, Abobker"	298	2017
+"LIE"	"Liechtenstein"	"LIE"	2188	"Ferster, Fabian"	16	2017
+"LTU"	"Lithuania"	"LTU"	2577	"Rozentalis, Eduardas"	872	2017
+"LUX"	"Luxembourg"	"LUX"	2474	"Wiedenkeller, Michael"	241	2017
+"MAC"	"Macao"	"MAC"	2200	"Chan, Kuok"	38	2017
+"MKD"	"Macedonia"	"MKD"	2598	"Najdoski, Toni"	292	2017
+"MAD"	"Madagascar"	"MDG"	2447	"Rakotomaharo, Fy Antenaina"	171	2017
+"MAW"	"Malawi"	"MWI"	2132	"Mwale Joseph"	95	2017
+"MAS"	"Malaysia"	"MYS"	2449	"Yeoh, Li Tian"	942	2017
+"MDV"	"Maldives"	"MDV"	1873	"Ahmed, Ashraf"	28	2017
+"MLI"	"Mali"	"MLI"	2189	"Traore, Bakary"	6	2017
+"MLT"	"Malta"	"MLT"	2367	"Borg, Geoffrey"	113	2017
+"MTN"	"Mauritania"	"MRT"	2073	"Sabar Ethmane Daouda"	60	2017
+"MRI"	"Mauritius"	"MUS"	2193	"Mansoor, J"	20	2017
+"MEX"	"Mexico"	"MEX"	2517	"Gonzalez Zamora, Juan Carlos"	1406	2017
+"MDA"	"Moldova"	"MDA"	2640	"Bologan, Victor"	491	2017
+"MNC"	"Monaco"	"MCO"	2549	"Fontaine, Robert"	65	2017
+"MGL"	"Mongolia"	"MNG"	2522	"Batchuluun, Tsegmed"	388	2017
+"MNE"	"Montenegro"	"MNE"	2508	"Djukic, Nikola"	364	2017
+"MAR"	"Morocco"	"MAR"	2586	"Hamdouchi, Hicham"	285	2017
+"MOZ"	"Mozambique"	"MOZ"	2186	"Andrade, Ivan"	25	2017
+"MYA"	"Myanmar"	"MMR"	2382	"Wynn Zaw Htun"	339	2017
+"NAM"	"Namibia"	"NAM"	2226	"Mueller, Leonhard"	30	2017
+"NEP"	"Nepal"	"NPL"	2235	"Malla, Digesh Shanker"	477	2017
+"NED"	"Netherlands"	"NLD"	2773	"Giri, Anish"	3480	2017
+"AHO"	"Netherlands Antilles"	"ANT"	2206	"Blijstra, Wim"	41	2017
+"NZL"	"New Zealand"	"NZL"	2518	"Chandler, Murray G"	338	2017
+"NCA"	"Nicaragua"	"NIC"	2327	"Ampie, Mauro"	273	2017
+"NGR"	"Nigeria"	"NGA"	2339	"Kigigha, Bomo"	216	2017
+"NOR"	"Norway"	"NOR"	2840	"Carlsen, Magnus"	2131	2017
+"OMA"	"Oman"	"OMN"	2109	"Al Mashikhi, Salim Aliyan"	31	2017
+"PAK"	"Pakistan"	"PAK"	2344	"Lodhi, Mahmood"	83	2017
+"PLW"	"Palau"	"PLW"	1870	"Omega, Jose"	103	2017
+"PLE"	"Palestine"	"PSE"	2253	"Michel Yunis, Christian D."	136	2017
+"PAN"	"Panama"	"PAN"	2363	"Baules, Jorge"	164	2017
+"PNG"	"Papua New Guinea"	"PNG"	2205	"Rush, Joe"	8	2017
+"PAR"	"Paraguay"	"PRY"	2628	"Bachmann, Axel"	328	2017
+"PER"	"Peru"	"PER"	2655	"Cordova, Emilio"	1745	2017
+"PHI"	"Philippines"	"PHL"	2587	"Sadorra, Julio Catalino"	678	2017
+"POL"	"Poland"	"POL"	2750	"Wojtaszek, Radoslaw"	8748	2017
+"POR"	"Portugal"	"PRT"	2513	"Ferreira, Jorge Viterbo"	1717	2017
+"PUR"	"Puerto Rico"	"PRI"	2341	"Machin Rivera, Mark"	272	2017
+"QAT"	"Qatar"	"QAT"	2542	"Al-Modiahki, Mohamad"	50	2017
+"ROU"	"Romania"	"ROU"	2625	"Lupulescu, Constantin"	3493	2017
+"RUS"	"Russia"	"RUS"	2812	"Kasparov, Garry"	27970	2017
+"RWA"	"Rwanda"	"RWA"	1888	"Mutabazi, Fidele"	22	2017
+"SMR"	"San Marino"	"SMR"	2168	"Renzi, Nicola"	9	2017
+"STP"	"Sao Tome and Principe"	"STP"	1948	"Espirito Santo, Waldyr"	12	2017
+"KSA"	"Saudi Arabia"	"SAU"	2162	"Al Ghamdi, Ahmed M"	81	2017
+"SCO"	"United Kingdom"	"GBR"	2563	"Rowson, Jonathan"	390	2017
+"ENG"	"United Kingdom"	"GBR"	2751	"Adams, Michael"	2834	2017
+"WLS"	"United Kingdom"	"GBR"	2494	"Davies, Nigel R"	303	2017
+"SEN"	"Senegal"	"SEN"	2089	"Mansour, Gbedo Sy"	5	2017
+"SRB"	"Serbia"	"SRB"	2665	"Markus, Robert"	4428	2017
+"SEY"	"Seychelles"	"SYC"	2200	"Lawen, Greg"	13	2017
+"SLE"	"Sierra Leone"	"SLE"	1980	"O`Neill, Jon"	4	2017
+"SVK"	"Slovakia"	"SVK"	2570	"Markos, Jan"	3203	2017
+"SLO"	"Slovenia"	"SVN"	2641	"Lenic, Luka"	1249	2017
+"SOL"	"Solomon Islands"	"SLB"	1932	"Tangaibasa, Brandon"	14	2017
+"SOM"	"Somalia"	"SOM"	2200	"Jimale, Abdulle Mohamed"	9	2017
+"RSA"	"South Africa"	"ZAF"	2425	"Michelakis, George"	709	2017
+"KOR"	"South Korea"	"KOR"	2463	"Kim, Alexey"	440	2017
+"ESP"	"Spain"	"ESP"	2709	"Vallejo Pons, Francisco"	19311	2017
+"SRI"	"Sri Lanka"	"LKA"	2385	"Aturupane, Harsha"	2432	2017
+"SUD"	"Sudan"	"SDN"	2237	"Eltigani, Omar"	85	2017
+"SUR"	"Suriname"	"SUR"	2220	"Lindeboom, J"	105	2017
+"SWZ"	"Swaziland"	"SWZ"	1622	"Simelane Wandile"	20	2017
+"SWE"	"Sweden"	"SWE"	2642	"Grandelius, Nils"	2693	2017
+"SUI"	"Switzerland"	"CHE"	2620	"Milov, Vadim"	2187	2017
+"SYR"	"Syria"	"SYR"	2375	"Shadarevian, Michael"	258	2017
+"TJK"	"Tajikistan"	"TJK"	2619	"Amonatov, Farrukh"	81	2017
+"TAN"	"Tanzania"	"TZA"	1830	"Mwanyika, Geoffrey"	22	2017
+"THA"	"Thailand"	"THA"	2287	"Kongsee, Uaychai"	219	2017
+"TLS"	"Timor-Leste"	"TLS"	1779	"Guterres, Luis"	6	2017
+"TOG"	"Togo"	"TGO"	1879	"Ephoevi-Ga, Adama Mawulikplimi"	20	2017
+"TTO"	"Trinidad and Tobago"	"TTO"	2230	"Duchesne, E.L."	182	2017
+"TUN"	"Tunisia"	"TUN"	2405	"Njili, Kamel"	304	2017
+"TUR"	"Turkey"	"TUR"	2660	"Ipatov, Alexander"	5150	2017
+"TKM"	"Turkmenistan"	"TKM"	2492	"Atabayev, Maksat"	200	2017
+"UGA"	"Uganda"	"UGA"	2369	"Ssegwanyi, Arthur"	70	2017
+"UKR"	"Ukraine"	"UKR"	2755	"Eljanov, Pavel"	3450	2017
+"UAE"	"United Arab Emirates"	"ARE"	2656	"Salem, A.R. Saleh"	392	2017
+"USA"	"United States"	"USA"	2827	"Caruana, Fabiano"	4855	2017
+"URU"	"Uruguay"	"URY"	2468	"Rodriguez Vila, Andres"	414	2017
+"ISV"	"US Virgin Islands"	"VIR"	2178	"Massana, Jorge"	11	2017
+"UZB"	"Uzbekistan"	"UZB"	2699	"Kasimdzhanov, Rustam"	559	2017
+"VEN"	"Venezuela"	"VEN"	2652	"Iturrizaga Bonelli, Eduardo"	1450	2017
+"VIE"	"Vietnam"	"VNM"	2718	"Le, Quang Liem"	460	2017
+"YEM"	"Yemen"	"YEM"	2419	"Al Qudaimi, Basheer"	91	2017
+"ZAM"	"Zambia"	"ZMB"	2449	"Simutowe, Amon"	223	2017
+"ZIM"	"Zimbabwe"	"ZWE"	2422	"Gwaze, Robert"	123	2017
+"AFG"	"Afghanistan"	"AFG"	2182	"Haidary, Hameedullah"	65	2018
+"ALB"	"Albania"	"ALB"	2559	"Dervishi, Erald"	167	2018
+"ALG"	"Algeria"	"DZA"	2505	"Haddouche, Mohamed"	496	2018
+"AND"	"Andorra"	"AND"	2494	"Norwood, David R"	61	2018
+"ANG"	"Angola"	"AGO"	2328	"Aderito, Pedro"	235	2018
+"ARG"	"Argentina"	"ARG"	2632	"Mareco, Sandro"	4143	2018
+"ARM"	"Armenia"	"ARM"	2797	"Aronian, Levon"	1040	2018
+"ARU"	"Aruba"	"ABW"	2316	"Lopez, Jasel"	38	2018
+"AUS"	"Australia"	"AUS"	2545	"Rogers, Ian"	1681	2018
+"AUT"	"Austria"	"AUT"	2659	"Ragger, Markus"	3359	2018
+"AZE"	"Azerbaijan"	"AZE"	2804	"Mamedyarov, Shakhriyar"	1444	2018
+"BAH"	"Bahamas"	"BHS"	1901	"Moncur, Cecil"	29	2018
+"BRN"	"Bahrain"	"BHR"	2230	"Janahi, Khalid"	43	2018
+"BAN"	"Bangladesh"	"BGD"	2472	"Mollah Abdullah, Al Rakib"	1160	2018
+"BAR"	"Barbados"	"BRB"	2320	"Buckmire, Ron"	131	2018
+"BLR"	"Belarus"	"BLR"	2639	"Kovalev, Vladislav"	964	2018
+"BEL"	"Belgium"	"BEL"	2568	"Gurevich, Mikhail"	2749	2018
+"BER"	"Bermuda"	"BMU"	2218	"Black, Richard"	57	2018
+"BHU"	"Bhutan"	"BTN"	1661	"Karma, Sonam"	7	2018
+"BOL"	"Bolivia"	"BOL"	2455	"Zambrana, Oswaldo"	800	2018
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2622	"Predojevic, Borki"	802	2018
+"BOT"	"Botswana"	"BWA"	2209	"Olebile, Thato"	255	2018
+"BRA"	"Brazil"	"BRA"	2619	"Leitao, Rafael"	4465	2018
+"IVB"	"British Virgin Islands"	"VGB"	2220	"Jarecki, John"	4	2018
+"BRU"	"Brunei"	"BRN"	2365	"Dollah, Zaidi"	75	2018
+"BUR"	"Burkina Faso"	"BFA"	1692	"Nicolas Carbonell"	14	2018
+"BDI"	"Burundi"	"BDI"	2147	"Ezra Paul Chambers"	7	2018
+"CAM"	"Cambodia"	"KHM"	2335	"Truong, H. Paul"	2	2018
+"CMR"	"Cameroon"	"CMR"	2060	"Ebosse, Kingue Victor Patrick"	12	2018
+"CAN"	"Canada"	"CAN"	2666	"Bareev, Evgeny"	1358	2018
+"CHI"	"Chile"	"CHL"	2554	"Vasquez Schroeder, Rodrigo"	1852	2018
+"CHN"	"China"	"CHN"	2769	"Ding, Liren"	1168	2018
+"COL"	"Colombia"	"COL"	2503	"Cuartas, Jaime Alexander"	2294	2018
+"CGO"	"Congo"	"COG"	1922	"Gamba, Karim Felix"	5	2018
+"CRC"	"Costa Rica"	"CRI"	2463	"Gonzalez Acosta, Bernal"	530	2018
+"CIV"	"Cote d'Ivoire"	"CIV"	2172	"Degondo, Simplice Armel"	29	2018
+"CRO"	"Croatia"	"HRV"	2664	"Saric, Ivan"	2968	2018
+"CUB"	"Cuba"	"CUB"	2739	"Dominguez Perez, Leinier"	1911	2018
+"CYP"	"Cyprus"	"CYP"	2205	"Hadjittofis, Yiannis"	108	2018
+"CZE"	"Czech Republic"	"CZE"	2749	"Navara, David"	7140	2018
+"DEN"	"Denmark"	"DNK"	2637	"Nielsen, Peter Heine"	3567	2018
+"DOM"	"Dominican Republic"	"DOM"	2436	"Munoz Santana, Jose Lisandro"	593	2018
+"ECU"	"Ecuador"	"ECU"	2484	"Matamoros Franco, Carlos S."	1111	2018
+"EGY"	"Egypt"	"EGY"	2693	"Amin, Bassem"	1821	2018
+"ESA"	"El Salvador"	"SLV"	2319	"Leyva, Hector"	266	2018
+"EST"	"Estonia"	"EST"	2591	"Kulaots, Kaido"	391	2018
+"ETH"	"Ethiopia"	"ETH"	2200	"Bekele, Abenet"	54	2018
+"FAI"	"Faroe Islands"	"FRO"	2549	"Ziska, Helgi Dam"	159	2018
+"FIJ"	"Fiji"	"FJI"	2205	"de Asa Jr, Virgilio"	42	2018
+"FIN"	"Finland"	"FIN"	2576	"Nyback, Tomi"	971	2018
+"FRA"	"France"	"FRA"	2793	"Vachier-Lagrave, Maxime"	20467	2018
+"GAB"	"Gabon"	"GAB"	2142	"Moulain Ayombo, Jean Pierre"	2	2018
+"GAM"	"Gambia"	"GMB"	2205	"Njie, Momodou"	8	2018
+"GEO"	"Georgia"	"GEO"	2690	"Jobava, Baadur"	1072	2018
+"GER"	"Germany"	"DEU"	2675	"Nisipeanu, Liviu-Dieter"	23737	2018
+"GHA"	"Ghana"	"GHA"	2019	"Hasford, John Kojo"	47	2018
+"GRE"	"Greece"	"GRC"	2645	"Papaioannou, Ioannis"	4973	2018
+"GUM"	"Guam"	"GUM"	2011	"Mafnas, Peter"	24	2018
+"GUA"	"Guatemala"	"GTM"	2380	"Juarez Flores, Carlos A."	146	2018
+"GCI"	"Guernsey"	"GGY"	2186	"Curtis, Paul"	24	2018
+"GUY"	"Guyana"	"GUY"	1967	"Meusa, Wendell"	23	2018
+"HAI"	"Haiti"	"HTI"	2068	"Afriany, V."	9	2018
+"HON"	"Honduras"	"HND"	2274	"Gavarrete, Nahun"	153	2018
+"HKG"	"Hong Kong"	"HKG"	2415	"Yang, Xian"	211	2018
+"HUN"	"Hungary"	"HUN"	2700	"Rapport, Richard"	5989	2018
+"ISL"	"Iceland"	"ISL"	2574	"Steingrimsson, Hedinn"	570	2018
+"IND"	"India"	"IND"	2767	"Anand, Viswanathan"	26929	2018
+"INA"	"Indonesia"	"IDN"	2566	"Adianto, Utut"	709	2018
+"IRI"	"Iran"	"IRN"	2595	"Idani, Pouya"	7720	2018
+"IRQ"	"Iraq"	"IRQ"	2398	"Obada, Ahmad AzeezJawad"	596	2018
+"IRL"	"Ireland"	"IRL"	2480	"Kelly, Brian"	563	2018
+"ISR"	"Israel"	"ISR"	2697	"Gelfand, Boris"	2014	2018
+"ITA"	"Italy"	"ITA"	2609	"Vocaturo, Daniele"	8805	2018
+"JAM"	"Jamaica"	"JAM"	2251	"Elliott, Warren"	185	2018
+"JPN"	"Japan"	"JPN"	2402	"Kojima, Shinya"	182	2018
+"JCI"	"Jersey"	"JEY"	2200	"Romeril, Stuart Paul"	22	2018
+"JOR"	"Jordan"	"JOR"	2392	"Khader, Sami"	444	2018
+"KAZ"	"Kazakhstan"	"KAZ"	2629	"Sadvakasov, Darmen"	1618	2018
+"KEN"	"Kenya"	"KEN"	2205	"Adam, Aslam"	281	2018
+"KUW"	"Kuwait"	"KWT"	2280	"Al Geran, Fares"	101	2018
+"KGZ"	"Kyrgyzstan"	"KGZ"	2521	"Magai, Vladimir"	249	2018
+"LAO"	"Laos"	"LAO"	1525	"Sanouban, Thatsanee"	8	2018
+"LAT"	"Latvia"	"LVA"	2641	"Shirov, Alexei"	599	2018
+"LES"	"Lesotho"	"LSO"	1801	"Klaas Tokelo"	76	2018
+"LBA"	"Libya"	"LBY"	2311	"Elarbi, Abobker"	397	2018
+"LIE"	"Liechtenstein"	"LIE"	2154	"Zier, Oliver"	15	2018
+"LTU"	"Lithuania"	"LTU"	2547	"Kveinys, Aloyzas"	949	2018
+"LUX"	"Luxembourg"	"LUX"	2470	"Wiedenkeller, Michael"	268	2018
+"MAC"	"Macao"	"MAC"	2200	"Chan, Kuok"	39	2018
+"MKD"	"Macedonia"	"MKD"	2598	"Najdoski, Toni"	334	2018
+"MAD"	"Madagascar"	"MDG"	2402	"Rakotomaharo, Fy Antenaina"	207	2018
+"MAW"	"Malawi"	"MWI"	2218	"Mwale Joseph"	148	2018
+"MAS"	"Malaysia"	"MYS"	2491	"Yeoh, Li Tian"	1140	2018
+"MDV"	"Maldives"	"MDV"	1872	"Ahmed Aman Ibrahim"	30	2018
+"MLI"	"Mali"	"MLI"	2172	"Traore, Bakary"	7	2018
+"MLT"	"Malta"	"MLT"	2367	"Borg, Geoffrey"	127	2018
+"MTN"	"Mauritania"	"MRT"	2054	"Boidiya, Sidi"	61	2018
+"MRI"	"Mauritius"	"MUS"	2195	"Phillips, Roy"	26	2018
+"MEX"	"Mexico"	"MEX"	2532	"Hernandez Guerrero, Gilberto"	1588	2018
+"MDA"	"Moldova"	"MDA"	2600	"Bologan, Victor"	563	2018
+"MNC"	"Monaco"	"MCO"	2563	"Fontaine, Robert"	66	2018
+"MGL"	"Mongolia"	"MNG"	2561	"Batchuluun, Tsegmed"	444	2018
+"MNE"	"Montenegro"	"MNE"	2523	"Djukic, Nikola"	387	2018
+"MAR"	"Morocco"	"MAR"	2580	"Hamdouchi, Hicham"	341	2018
+"MOZ"	"Mozambique"	"MOZ"	2193	"Alice, Mateus Felizardo Viageiro"	29	2018
+"MYA"	"Myanmar"	"MMR"	2455	"Wynn Zaw Htun"	455	2018
+"NAM"	"Namibia"	"NAM"	2226	"Mueller, Leonhard"	32	2018
+"NRU"	"Nauru"	"NRU"	1763	"Mohammad, Yarsir"	7	2018
+"NEP"	"Nepal"	"NPL"	2252	"Thing, Bibek"	552	2018
+"NED"	"Netherlands"	"NLD"	2752	"Giri, Anish"	3759	2018
+"AHO"	"Netherlands Antilles"	"ANT"	2211	"Blijstra, Wim"	43	2018
+"NZL"	"New Zealand"	"NZL"	2518	"Chandler, Murray G"	394	2018
+"NCA"	"Nicaragua"	"NIC"	2359	"Ampie, Mauro"	326	2018
+"NGR"	"Nigeria"	"NGA"	2323	"Kigigha, Bomo"	269	2018
+"NOR"	"Norway"	"NOR"	2834	"Carlsen, Magnus"	2626	2018
+"OMA"	"Oman"	"OMN"	2109	"Al Mashikhi, Salim Aliyan"	47	2018
+"PAK"	"Pakistan"	"PAK"	2347	"Lodhi, Mahmood"	93	2018
+"PLW"	"Palau"	"PLW"	1882	"Montel Jr, Cyril Tomas"	106	2018
+"PLE"	"Palestine"	"PSE"	2232	"Michel Yunis, Christian D."	160	2018
+"PAN"	"Panama"	"PAN"	2402	"Sanchez Alvarez, Roberto Carlos"	212	2018
+"PNG"	"Papua New Guinea"	"PNG"	2205	"Rush, Joe"	8	2018
+"PAR"	"Paraguay"	"PRY"	2624	"Bachmann, Axel"	376	2018
+"PER"	"Peru"	"PER"	2660	"Cori, Jorge"	2105	2018
+"PHI"	"Philippines"	"PHL"	2545	"Barbosa, Oliver"	772	2018
+"POL"	"Poland"	"POL"	2735	"Wojtaszek, Radoslaw"	9373	2018
+"POR"	"Portugal"	"PRT"	2496	"Antunes, Antonio"	1854	2018
+"PUR"	"Puerto Rico"	"PRI"	2341	"Machin Rivera, Mark"	287	2018
+"QAT"	"Qatar"	"QAT"	2542	"Al-Modiahki, Mohamad"	49	2018
+"ROU"	"Romania"	"ROU"	2632	"Parligras, Mircea-Emilian"	3854	2018
+"RUS"	"Russia"	"RUS"	2812	"Kasparov, Garry"	30447	2018
+"RWA"	"Rwanda"	"RWA"	1888	"Mutabazi, Fidele"	29	2018
+"SMR"	"San Marino"	"SMR"	2168	"Renzi, Nicola"	9	2018
+"STP"	"Sao Tome and Principe"	"STP"	1916	"Santos da Costa, Jose Manuel"	12	2018
+"KSA"	"Saudi Arabia"	"SAU"	2159	"Al Ghamdi, Ahmed M"	107	2018
+"SCO"	"United Kingdom"	"GBR"	2561	"Rowson, Jonathan"	421	2018
+"ENG"	"United Kingdom"	"GBR"	2709	"Adams, Michael"	3087	2018
+"WLS"	"United Kingdom"	"GBR"	2494	"Davies, Nigel R"	327	2018
+"SEN"	"Senegal"	"SEN"	2089	"Mansour, Gbedo Sy"	5	2018
+"SRB"	"Serbia"	"SRB"	2615	"Markus, Robert"	4678	2018
+"SEY"	"Seychelles"	"SYC"	2200	"Lawen, Greg"	16	2018
+"SLE"	"Sierra Leone"	"SLE"	1964	"O`Neill, Jon"	4	2018
+"SVK"	"Slovakia"	"SVK"	2559	"Markos, Jan"	3491	2018
+"SLO"	"Slovenia"	"SVN"	2662	"Lenic, Luka"	1327	2018
+"SOL"	"Solomon Islands"	"SLB"	1932	"Tangaibasa, Brandon"	14	2018
+"SOM"	"Somalia"	"SOM"	2200	"Jimale, Abdulle Mohamed"	10	2018
+"RSA"	"South Africa"	"ZAF"	2446	"Cawdery, Daniel"	858	2018
+"KOR"	"South Korea"	"KOR"	2463	"Kim, Alexey"	511	2018
+"ESP"	"Spain"	"ESP"	2718	"Vallejo Pons, Francisco"	21339	2018
+"SRI"	"Sri Lanka"	"LKA"	2385	"Aturupane, Harsha"	2780	2018
+"SUD"	"Sudan"	"SDN"	2235	"Eltigani, Omar"	120	2018
+"SUR"	"Suriname"	"SUR"	2220	"Lindeboom, J"	124	2018
+"SWZ"	"Swaziland"	"SWZ"	1726	"Fungai Matahwa"	28	2018
+"SWE"	"Sweden"	"SWE"	2647	"Grandelius, Nils"	3189	2018
+"SUI"	"Switzerland"	"CHE"	2590	"Bogner, Sebastian"	2371	2018
+"SYR"	"Syria"	"SYR"	2375	"Shadarevian, Michael"	280	2018
+"TJK"	"Tajikistan"	"TJK"	2636	"Amonatov, Farrukh"	93	2018
+"TAN"	"Tanzania"	"TZA"	1825	"Mlawa, Hemed"	28	2018
+"THA"	"Thailand"	"THA"	2287	"Kongsee, Uaychai"	270	2018
+"TLS"	"Timor-Leste"	"TLS"	1779	"Guterres, Luis"	6	2018
+"TOG"	"Togo"	"TGO"	2304	"Strovsky, Mikhail"	20	2018
+"TTO"	"Trinidad and Tobago"	"TTO"	2309	"Harper, Ryan"	191	2018
+"TUN"	"Tunisia"	"TUN"	2405	"Njili, Kamel"	395	2018
+"TUR"	"Turkey"	"TUR"	2659	"Ipatov, Alexander"	6292	2018
+"TKM"	"Turkmenistan"	"TKM"	2509	"Atabayev, Maksat"	233	2018
+"UGA"	"Uganda"	"UGA"	2360	"Naimanye, Andrew"	137	2018
+"UKR"	"Ukraine"	"UKR"	2726	"Ivanchuk, Vassily"	3795	2018
+"UAE"	"United Arab Emirates"	"ARE"	2642	"Salem, A.R. Saleh"	405	2018
+"USA"	"United States"	"USA"	2811	"Caruana, Fabiano"	5399	2018
+"URU"	"Uruguay"	"URY"	2459	"Rodriguez Vila, Andres"	467	2018
+"ISV"	"US Virgin Islands"	"VIR"	2178	"Massana, Jorge"	11	2018
+"UZB"	"Uzbekistan"	"UZB"	2683	"Kasimdzhanov, Rustam"	728	2018
+"VEN"	"Venezuela"	"VEN"	2650	"Iturrizaga Bonelli, Eduardo"	1754	2018
+"VIE"	"Vietnam"	"VNM"	2737	"Le, Quang Liem"	537	2018
+"YEM"	"Yemen"	"YEM"	2419	"Al Qudaimi, Basheer"	91	2018
+"ZAM"	"Zambia"	"ZMB"	2449	"Simutowe, Amon"	405	2018
+"ZIM"	"Zimbabwe"	"ZWE"	2422	"Gwaze, Robert"	159	2018
+"AFG"	"Afghanistan"	"AFG"	2192	"Haidary, Hameedullah"	79	2019
+"ALB"	"Albania"	"ALB"	2559	"Dervishi, Erald"	216	2019
+"ALG"	"Algeria"	"DZA"	2557	"Bellahcene,Bilel"	534	2019
+"AND"	"Andorra"	"AND"	2494	"Norwood, David R"	66	2019
+"ANG"	"Angola"	"AGO"	2325	"Aderito, Pedro"	309	2019
+"ARG"	"Argentina"	"ARG"	2661	"Mareco, Sandro"	4674	2019
+"ARM"	"Armenia"	"ARM"	2767	"Aronian, Levon"	1093	2019
+"ARU"	"Aruba"	"ABW"	2388	"Lopez, Jasel"	41	2019
+"AUS"	"Australia"	"AUS"	2569	"Smirnov, Anton"	1937	2019
+"AUT"	"Austria"	"AUT"	2687	"Ragger, Markus"	3512	2019
+"AZE"	"Azerbaijan"	"AZE"	2817	"Mamedyarov, Shakhriyar"	1656	2019
+"BAH"	"Bahamas"	"BHS"	1892	"Gibson, Franklyn"	34	2019
+"BRN"	"Bahrain"	"BHR"	2231	"Ayyad, Husain"	52	2019
+"BAN"	"Bangladesh"	"BGD"	2470	"Rahman, Ziaur"	1301	2019
+"BAR"	"Barbados"	"BRB"	2320	"Buckmire, Ron"	134	2019
+"BLR"	"Belarus"	"BLR"	2687	"Kovalev, Vladislav"	1034	2019
+"BEL"	"Belgium"	"BEL"	2573	"Gurevich, Mikhail"	2995	2019
+"BER"	"Bermuda"	"BMU"	2215	"Harris, Derek J.E."	68	2019
+"BHU"	"Bhutan"	"BTN"	1661	"Karma, Sonam"	7	2019
+"BOL"	"Bolivia"	"BOL"	2432	"Zambrana, Oswaldo"	1029	2019
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2616	"Predojevic, Borki"	867	2019
+"BOT"	"Botswana"	"BWA"	2290	"Oatlhotse, Providence"	352	2019
+"BRA"	"Brazil"	"BRA"	2617	"Leitao, Rafael"	4870	2019
+"IVB"	"British Virgin Islands"	"VGB"	2220	"Jarecki, John"	4	2019
+"BRU"	"Brunei"	"BRN"	2365	"Dollah, Zaidi"	79	2019
+"BUL"	"Bulgaria"	"BGR"	2740	"Topalov, Veselin"	1735	2019
+"BUR"	"Burkina Faso"	"BFA"	1692	"Nicolas Carbonell"	15	2019
+"BDI"	"Burundi"	"BDI"	2360	"Ezra Paul Chambers"	11	2019
+"CAM"	"Cambodia"	"KHM"	2335	"Truong, H. Paul"	2	2019
+"CMR"	"Cameroon"	"CMR"	2057	"Ebosse, Kingue Victor Patrick"	16	2019
+"CAN"	"Canada"	"CAN"	2650	"Bareev, Evgeny"	1573	2019
+"CAF"	"Central African Republic"	"CAF"	1679	"Koualet-Bebondi, Vianney Archeveq"	4	2019
+"CHI"	"Chile"	"CHL"	2529	"Flores Rios, Mauricio"	2054	2019
+"CHN"	"China"	"CHN"	2813	"Ding, Liren"	1411	2019
+"COL"	"Colombia"	"COL"	2516	"Cuartas, Jaime Alexander"	2552	2019
+"CGO"	"Congo"	"COG"	1922	"Gamba, Karim Felix"	7	2019
+"CRC"	"Costa Rica"	"CRI"	2455	"Gonzalez Acosta, Bernal"	618	2019
+"CIV"	"Cote d'Ivoire"	"CIV"	2141	"Degondo, Simplice Armel"	33	2019
+"CRO"	"Croatia"	"HRV"	2690	"Saric, Ivan"	3117	2019
+"CUB"	"Cuba"	"CUB"	2664	"Bruzon Batista, Lazaro"	2033	2019
+"CYP"	"Cyprus"	"CYP"	2229	"Michaelides, Konstantinos"	134	2019
+"CZE"	"Czech Republic"	"CZE"	2738	"Navara, David"	7482	2019
+"DEN"	"Denmark"	"DNK"	2635	"Nielsen, Peter Heine"	3859	2019
+"DOM"	"Dominican Republic"	"DOM"	2425	"Liao, Yuan Eu"	645	2019
+"ECU"	"Ecuador"	"ECU"	2498	"Matamoros Franco, Carlos S."	1169	2019
+"EGY"	"Egypt"	"EGY"	2712	"Amin, Bassem"	2021	2019
+"ESA"	"El Salvador"	"SLV"	2319	"Leyva, Hector"	294	2019
+"EST"	"Estonia"	"EST"	2555	"Kulaots, Kaido"	423	2019
+"ETH"	"Ethiopia"	"ETH"	2200	"Bekele, Abenet"	77	2019
+"FAI"	"Faroe Islands"	"FRO"	2544	"Ziska, Helgi Dam"	163	2019
+"FIJ"	"Fiji"	"FJI"	2205	"de Asa Jr, Virgilio"	43	2019
+"FIN"	"Finland"	"FIN"	2569	"Nyback, Tomi"	1043	2019
+"FRA"	"France"	"FRA"	2780	"Vachier-Lagrave, Maxime"	22104	2019
+"GAB"	"Gabon"	"GAB"	2142	"Moulain Ayombo, Jean Pierre"	3	2019
+"GAM"	"Gambia"	"GMB"	2205	"Njie, Momodou"	9	2019
+"GEO"	"Georgia"	"GEO"	2691	"Cheparinov, Ivan"	1148	2019
+"GER"	"Germany"	"DEU"	2680	"Nisipeanu, Liviu-Dieter"	25161	2019
+"GHA"	"Ghana"	"GHA"	2041	"Hasford, John Kojo"	60	2019
+"GRE"	"Greece"	"GRC"	2640	"Papaioannou, Ioannis"	5351	2019
+"GUM"	"Guam"	"GUM"	2015	"Prudente, Elmer"	28	2019
+"GUA"	"Guatemala"	"GTM"	2377	"Juarez Flores, Carlos A."	223	2019
+"GCI"	"Guernsey"	"GGY"	2143	"Holland, Christopher"	25	2019
+"GUY"	"Guyana"	"GUY"	2030	"Drayton, Anthony"	29	2019
+"HAI"	"Haiti"	"HTI"	2129	"Jean Louis, Marckens"	12	2019
+"HON"	"Honduras"	"HND"	2304	"Gavarrete, Nahun"	192	2019
+"HKG"	"Hong Kong"	"HKG"	2415	"Yang, Xian"	256	2019
+"HUN"	"Hungary"	"HUN"	2731	"Rapport, Richard"	6202	2019
+"ISL"	"Iceland"	"ISL"	2561	"Steingrimsson, Hedinn"	599	2019
+"IND"	"India"	"IND"	2773	"Anand, Viswanathan"	30013	2019
+"INA"	"Indonesia"	"IDN"	2566	"Adianto, Utut"	808	2019
+"IRI"	"Iran"	"IRN"	2679	"Maghsoodloo, Parham"	9334	2019
+"IRQ"	"Iraq"	"IRQ"	2387	"Al-Saffar, Araz Basim Mohammed S"	678	2019
+"IRL"	"Ireland"	"IRL"	2480	"Kelly, Brian"	643	2019
+"ISR"	"Israel"	"ISR"	2669	"Gelfand, Boris"	2301	2019
+"ITA"	"Italy"	"ITA"	2626	"Vocaturo, Daniele"	9558	2019
+"JAM"	"Jamaica"	"JAM"	2226	"Pitterson, Jomo"	230	2019
+"JPN"	"Japan"	"JPN"	2399	"Habu, Yoshiharu"	206	2019
+"JCI"	"Jersey"	"JEY"	2200	"Romeril, Stuart Paul"	26	2019
+"JOR"	"Jordan"	"JOR"	2378	"Issa, Rafat"	493	2019
+"KAZ"	"Kazakhstan"	"KAZ"	2629	"Sadvakasov, Darmen"	2098	2019
+"KEN"	"Kenya"	"KEN"	2205	"Adam, Aslam"	431	2019
+"KUW"	"Kuwait"	"KWT"	2280	"Al Geran, Fares"	108	2019
+"KGZ"	"Kyrgyzstan"	"KGZ"	2521	"Magai, Vladimir"	298	2019
+"LAO"	"Laos"	"LAO"	1505	"Laotham , Thangsoupha"	16	2019
+"LAT"	"Latvia"	"LVA"	2663	"Kovalenko, Igor"	665	2019
+"LES"	"Lesotho"	"LSO"	1844	"Klaas, Tokelo"	98	2019
+"LBA"	"Libya"	"LBY"	2311	"Elarabi, Abobker Mohamed"	468	2019
+"LIE"	"Liechtenstein"	"LIE"	2154	"Zier, Oliver"	15	2019
+"LTU"	"Lithuania"	"LTU"	2542	"Cmilyte, Viktorija"	1011	2019
+"LUX"	"Luxembourg"	"LUX"	2463	"Wiedenkeller, Michael"	287	2019
+"MAC"	"Macao"	"MAC"	2200	"Chan, Kuok"	39	2019
+"MKD"	"Macedonia"	"MKD"	2598	"Najdoski, Toni"	361	2019
+"MAD"	"Madagascar"	"MDG"	2425	"Rakotomaharo, Fy Antenaina"	248	2019
+"MAW"	"Malawi"	"MWI"	2290	"Mwale, Joseph"	176	2019
+"MAS"	"Malaysia"	"MYS"	2508	"Yeoh, Li Tian"	1520	2019
+"MDV"	"Maldives"	"MDV"	1872	"Abdul Rahman, Ali"	32	2019
+"MLI"	"Mali"	"MLI"	2189	"Traore, Bakary"	10	2019
+"MLT"	"Malta"	"MLT"	2367	"Borg, Geoffrey"	140	2019
+"MTN"	"Mauritania"	"MRT"	2058	"Hemam, Moulaye Brahim"	70	2019
+"MRI"	"Mauritius"	"MUS"	2193	"Mansoor, J"	27	2019
+"MEX"	"Mexico"	"MEX"	2533	"Hernandez Guerrero, Gilberto"	1816	2019
+"MDA"	"Moldova"	"MDA"	2605	"Svetushkin, Dmitry"	613	2019
+"MNC"	"Monaco"	"MCO"	2464	"Marciano, David"	68	2019
+"MGL"	"Mongolia"	"MNG"	2567	"Batchuluun, Tsegmed"	530	2019
+"MNE"	"Montenegro"	"MNE"	2572	"Djukic, Nikola"	403	2019
+"MAR"	"Morocco"	"MAR"	2584	"Hamdouchi, Hicham"	344	2019
+"MOZ"	"Mozambique"	"MOZ"	2211	"Paiva, Donaldo"	57	2019
+"MYA"	"Myanmar"	"MMR"	2485	"Wynn, Zaw Htun"	620	2019
+"NAM"	"Namibia"	"NAM"	2200	"Leicher, Helmuth"	55	2019
+"NRU"	"Nauru"	"NRU"	1768	"Depaune, Ricko"	8	2019
+"NEP"	"Nepal"	"NPL"	2264	"Thing, Bibek"	695	2019
+"NED"	"Netherlands"	"NLD"	2783	"Giri, Anish"	4061	2019
+"AHO"	"Netherlands Antilles"	"ANT"	2228	"Vos, Tjark"	43	2019
+"NZL"	"New Zealand"	"NZL"	2518	"Chandler, Murray G"	433	2019
+"NCA"	"Nicaragua"	"NIC"	2318	"Ampie, Mauro"	356	2019
+"NGR"	"Nigeria"	"NGA"	2291	"Kigigha, Bomo"	307	2019
+"NOR"	"Norway"	"NOR"	2835	"Carlsen, Magnus"	3002	2019
+"OMA"	"Oman"	"OMN"	2119	"Al Mashikhi, Salim Aliyan"	82	2019
+"PAK"	"Pakistan"	"PAK"	2350	"Lodhi, Mahmood"	120	2019
+"PLW"	"Palau"	"PLW"	1877	"Montel Jr, Cyril Tomas"	112	2019
+"PLE"	"Palestine"	"PSE"	2213	"Michel Yunis, Christian D."	183	2019
+"PAN"	"Panama"	"PAN"	2415	"Sanchez Alvarez, Roberto Carlos"	246	2019
+"PNG"	"Papua New Guinea"	"PNG"	2205	"Rush, Joe"	10	2019
+"PAR"	"Paraguay"	"PRY"	2631	"Bachmann, Axel"	423	2019
+"PER"	"Peru"	"PER"	2689	"Cori, Jorge"	2501	2019
+"PHI"	"Philippines"	"PHL"	2568	"Sadorra, Julio Catalino"	906	2019
+"POL"	"Poland"	"POL"	2738	"Duda, Jan-Krzysztof"	9917	2019
+"POR"	"Portugal"	"PRT"	2532	"Ferreira, Jorge Viterbo"	1938	2019
+"PUR"	"Puerto Rico"	"PRI"	2341	"Machin Rivera, Mark"	311	2019
+"QAT"	"Qatar"	"QAT"	2542	"Al-Mudahka, Mohd"	53	2019
+"ROU"	"Romania"	"ROU"	2651	"Parligras, Mircea-Emilian"	4166	2019
+"RUS"	"Russia"	"RUS"	2812	"Kasparov, Garry"	32728	2019
+"RWA"	"Rwanda"	"RWA"	1855	"Kabera, Godfrey"	36	2019
+"SMR"	"San Marino"	"SMR"	2168	"Renzi, Nicola"	9	2019
+"STP"	"Sao Tome and Principe"	"STP"	1923	"Espirito Santo, Waldyr"	15	2019
+"KSA"	"Saudi Arabia"	"SAU"	2103	"Al Ghamdi, Ahmed M"	127	2019
+"SCO"	"United Kingdom"	"GBR"	2561	"Rowson, Jonathan"	450	2019
+"ENG"	"United Kingdom"	"GBR"	2701	"Adams, Michael"	3356	2019
+"WLS"	"United Kingdom"	"GBR"	2494	"Davies, Nigel R"	342	2019
+"SEN"	"Senegal"	"SEN"	2089	"Mansour, Gbedo Sy"	10	2019
+"SRB"	"Serbia"	"SRB"	2630	"Indjic, Aleksandar"	4957	2019
+"SEY"	"Seychelles"	"SYC"	2200	"Lawen, Greg"	18	2019
+"SLE"	"Sierra Leone"	"SLE"	1964	"O`Neill, Jon"	6	2019
+"SVK"	"Slovakia"	"SVK"	2560	"Markos, Jan"	3731	2019
+"SLO"	"Slovenia"	"SVN"	2645	"Lenic, Luka"	1404	2019
+"SOL"	"Solomon Islands"	"SLB"	1932	"Tangaibasa, Brandon"	14	2019
+"SOM"	"Somalia"	"SOM"	2200	"Jimale, Abdulle Mohamed"	15	2019
+"RSA"	"South Africa"	"ZAF"	2428	"Cawdery, Daniel"	1048	2019
+"KOR"	"South Korea"	"KOR"	2463	"Kim, Alexey"	593	2019
+"ESP"	"Spain"	"ESP"	2698	"Vallejo Pons, Francisco"	23200	2019
+"SRI"	"Sri Lanka"	"LKA"	2435	"Thilakarathne, G M H"	3058	2019
+"SUD"	"Sudan"	"SDN"	2235	"Eltigani, Omar"	140	2019
+"SUR"	"Suriname"	"SUR"	2220	"Lindeboom, J"	141	2019
+"SWZ"	"Swaziland"	"SWZ"	1701	"Fungai Matahwa"	37	2019
+"SWE"	"Sweden"	"SWE"	2682	"Grandelius, Nils"	3543	2019
+"SUI"	"Switzerland"	"CHE"	2603	"Milov, Vadim"	2531	2019
+"SYR"	"Syria"	"SYR"	2375	"Shadarevian, Michael"	298	2019
+"TJK"	"Tajikistan"	"TJK"	2621	"Amonatov, Farrukh"	111	2019
+"TAN"	"Tanzania"	"TZA"	1872	"Mlawa, Hemed"	36	2019
+"THA"	"Thailand"	"THA"	2281	"Jiravorasuk, Banjuab"	303	2019
+"TLS"	"Timor-Leste"	"TLS"	1697	"Guterres, Luis"	6	2019
+"TOG"	"Togo"	"TGO"	2198	"Strovsky, Mikhail"	20	2019
+"TTO"	"Trinidad and Tobago"	"TTO"	2242	"Mc Intosh, Isaiah"	202	2019
+"TUN"	"Tunisia"	"TUN"	2418	"Belkhodja, Slim"	470	2019
+"TUR"	"Turkey"	"TUR"	2649	"Ipatov, Alexander"	7307	2019
+"TKM"	"Turkmenistan"	"TKM"	2514	"Atabayev, Maksat"	276	2019
+"UGA"	"Uganda"	"UGA"	2361	"Ssegwanyi, Arthur"	210	2019
+"UKR"	"Ukraine"	"UKR"	2713	"Ivanchuk, Vassily"	4082	2019
+"UAE"	"United Arab Emirates"	"ARE"	2672	"Salem, A.R. Saleh"	423	2019
+"USA"	"United States"	"USA"	2828	"Caruana, Fabiano"	5915	2019
+"URU"	"Uruguay"	"URY"	2480	"Rodriguez Vila, Andres"	506	2019
+"ISV"	"US Virgin Islands"	"VIR"	2178	"Massana, Jorge"	12	2019
+"UZB"	"Uzbekistan"	"UZB"	2659	"Kasimdzhanov, Rustam"	827	2019
+"VEN"	"Venezuela"	"VEN"	2637	"Iturrizaga Bonelli, Eduardo"	2073	2019
+"VIE"	"Vietnam"	"VNM"	2714	"Le, Quang Liem"	599	2019
+"YEM"	"Yemen"	"YEM"	2444	"Al Qudaimi, Basheer"	101	2019
+"ZAM"	"Zambia"	"ZMB"	2449	"Simutowe, Amon"	585	2019
+"ZIM"	"Zimbabwe"	"ZWE"	2422	"Gwaze, Robert"	228	2019
+"AFG"	"Afghanistan"	"AFG"	2192	"Haidary, Hameedullah"	89	2020
+"ALB"	"Albania"	"ALB"	2527	"Dervishi, Erald"	242	2020
+"ALG"	"Algeria"	"DZA"	2536	"Bellahcene,Bilel"	644	2020
+"AND"	"Andorra"	"AND"	2494	"Norwood, David R"	67	2020
+"ANG"	"Angola"	"AGO"	2353	"Miguel, Sergio"	368	2020
+"ARG"	"Argentina"	"ARG"	2619	"Mareco, Sandro"	5145	2020
+"ARM"	"Armenia"	"ARM"	2773	"Aronian, Levon"	1192	2020
+"ARU"	"Aruba"	"ABW"	NA	"Martis, Valentino"	48	2020
+"AUS"	"Australia"	"AUS"	2604	"Smirnov, Anton"	2203	2020
+"AUT"	"Austria"	"AUT"	2674	"Ragger, Markus"	3708	2020
+"AZE"	"Azerbaijan"	"AZE"	2770	"Mamedyarov, Shakhriyar"	1888	2020
+"BAH"	"Bahamas"	"BHS"	1895	"Gibson, Franklyn"	38	2020
+"BRN"	"Bahrain"	"BHR"	2230	"Janahi, Khalid"	56	2020
+"BAN"	"Bangladesh"	"BGD"	2463	"Mollah Abdullah, Al Rakib"	1465	2020
+"BAR"	"Barbados"	"BRB"	2323	"Husbands, Orlando"	144	2020
+"BLR"	"Belarus"	"BLR"	2660	"Kovalev, Vladislav"	1133	2020
+"BEL"	"Belgium"	"BEL"	2576	"Gurevich, Mikhail"	3247	2020
+"BER"	"Bermuda"	"BMU"	2215	"Harris, Derek J.E."	76	2020
+"BHU"	"Bhutan"	"BTN"	1661	"Karma, Sonam"	7	2020
+"BOL"	"Bolivia"	"BOL"	2438	"Zambrana, Oswaldo"	1159	2020
+"BIH"	"Bosnia and Herzegovina"	"BIH"	2609	"Predojevic, Borki"	928	2020
+"BOT"	"Botswana"	"BWA"	2264	"Oatlhotse, Providence"	489	2020
+"BRA"	"Brazil"	"BRA"	2606	"Vescovi, Giovanni"	5375	2020
+"IVB"	"British Virgin Islands"	"VGB"	2220	"Jarecki, John"	4	2020
+"BRU"	"Brunei"	"BRN"	2365	"Dollah, Zaidi"	80	2020
+"BUL"	"Bulgaria"	"BGR"	2738	"Topalov, Veselin"	1837	2020
+"BUR"	"Burkina Faso"	"BFA"	1672	"Nicolas Carbonell"	15	2020
+"BDI"	"Burundi"	"BDI"	2266	"Ezra Paul Chambers"	12	2020
+"CAM"	"Cambodia"	"KHM"	2335	"Truong, H. Paul"	2	2020
+"CMR"	"Cameroon"	"CMR"	2055	"Ebosse, Kingue Victor Patrick"	16	2020
+"CAN"	"Canada"	"CAN"	2638	"Bareev, Evgeny"	1827	2020
+"CAF"	"Central African Republic"	"CAF"	1679	"Koualet-Bebondi, Vianney Archeveq"	4	2020
+"CHI"	"Chile"	"CHL"	2603	"Henriquez Villagra, Cristobal"	2258	2020
+"CHN"	"China"	"CHN"	2805	"Ding, Liren"	1720	2020
+"COL"	"Colombia"	"COL"	2512	"Gallego Alcaraz, Andres Felipe"	2820	2020
+"CRC"	"Costa Rica"	"CRI"	2460	"Gonzalez Acosta, Bernal"	733	2020
+"CIV"	"Cote d'Ivoire"	"CIV"	2154	"De Gondo, Simplice Armel"	39	2020
+"CRO"	"Croatia"	"HRV"	2655	"Saric, Ivan"	3286	2020
+"CUB"	"Cuba"	"CUB"	2640	"Bruzon Batista, Lazaro"	2170	2020
+"CYP"	"Cyprus"	"CYP"	2260	"Michaelides, Konstantinos"	159	2020
+"CZE"	"Czech Republic"	"CZE"	2717	"Navara, David"	7898	2020
+"DEN"	"Denmark"	"DNK"	2617	"Nielsen, Peter Heine"	4088	2020
+"DOM"	"Dominican Republic"	"DOM"	2425	"Liao, Yuan Eu"	736	2020
+"ECU"	"Ecuador"	"ECU"	2487	"Matamoros Franco, Carlos S."	1327	2020
+"EGY"	"Egypt"	"EGY"	2673	"Amin, Bassem"	2303	2020
+"ESA"	"El Salvador"	"SLV"	2319	"Leyva, Hector"	325	2020
+"EST"	"Estonia"	"EST"	2513	"Ladva, Ottomar"	440	2020
+"ETH"	"Ethiopia"	"ETH"	2200	"Bekele, Abenet"	95	2020
+"FAI"	"Faroe Islands"	"FRO"	2539	"Ziska, Helgi Dam"	176	2020
+"FIJ"	"Fiji"	"FJI"	2205	"de Asa Jr, Virgilio"	43	2020
+"FIN"	"Finland"	"FIN"	2576	"Nyback, Tomi"	1103	2020
+"FRA"	"France"	"FRA"	2770	"Vachier-Lagrave, Maxime"	23540	2020
+"GAB"	"Gabon"	"GAB"	2142	"Moulain Ayombo, Jean Pierre"	3	2020
+"GAM"	"Gambia"	"GMB"	2205	"Njie, Momodou"	11	2020
+"GEO"	"Georgia"	"GEO"	2686	"Cheparinov, Ivan"	1270	2020
+"GER"	"Germany"	"DEU"	2659	"Nisipeanu, Liviu-Dieter"	26592	2020
+"GHA"	"Ghana"	"GHA"	1994	"Hasford, John Kojo"	82	2020
+"GRE"	"Greece"	"GRC"	2623	"Papaioannou, Ioannis"	5705	2020
+"GUM"	"Guam"	"GUM"	2039	"Mafnas, Peter"	35	2020
+"GUA"	"Guatemala"	"GTM"	2374	"Juarez Flores, Carlos A."	261	2020
+"GCI"	"Guernsey"	"GGY"	2120	"Manzanilla, Ernesto"	25	2020
+"GUY"	"Guyana"	"GUY"	1988	"Meusa, Wendell"	47	2020
+"HAI"	"Haiti"	"HTI"	2081	"Jean Louis, Marckens"	24	2020
+"HON"	"Honduras"	"HND"	2331	"Gavarrete, Nahun"	246	2020
+"HKG"	"Hong Kong"	"HKG"	2415	"Yang, Xian"	289	2020
+"HUN"	"Hungary"	"HUN"	2758	"Rapport, Richard"	6376	2020
+"ISL"	"Iceland"	"ISL"	2586	"Gretarsson, Hjorvar Steinn"	635	2020
+"IND"	"India"	"IND"	2758	"Anand, Viswanathan"	32730	2020
+"INA"	"Indonesia"	"IDN"	2566	"Adianto, Utut"	927	2020
+"IRI"	"Iran"	"IRN"	2674	"Maghsoodloo, Parham"	10933	2020
+"IRQ"	"Iraq"	"IRQ"	2382	"Al-Saffar, Araz Basim Mohammed S"	738	2020
+"IRL"	"Ireland"	"IRL"	2480	"Kelly, Brian"	707	2020
+"ISR"	"Israel"	"ISR"	2686	"Gelfand, Boris"	2546	2020
+"ITA"	"Italy"	"ITA"	2622	"Vocaturo, Daniele"	10242	2020
+"JAM"	"Jamaica"	"JAM"	2226	"Pitterson, Jomo"	258	2020
+"JPN"	"Japan"	"JPN"	2421	"Oka, Hikaru"	244	2020
+"JCI"	"Jersey"	"JEY"	2200	"Romeril, Stuart Paul"	32	2020
+"JOR"	"Jordan"	"JOR"	2385	"Issa, Rafat"	565	2020
+"KAZ"	"Kazakhstan"	"KAZ"	2646	"Jumabayev, Rinat"	2530	2020
+"KEN"	"Kenya"	"KEN"	2205	"Adam, Aslam"	508	2020
+"KUW"	"Kuwait"	"KWT"	2280	"Al Geran, Fares"	118	2020
+"KGZ"	"Kyrgyzstan"	"KGZ"	2521	"Magai, Vladimir"	461	2020
+"LAO"	"Laos"	"LAO"	1505	"Laotham , Thangsoupha"	16	2020
+"LAT"	"Latvia"	"LVA"	2640	"Kovalenko, Igor"	719	2020
+"LES"	"Lesotho"	"LSO"	1840	"Klaas, Tokelo"	121	2020
+"LBA"	"Libya"	"LBY"	2298	"Elarabi, Abobker Mohamed"	539	2020
+"LIE"	"Liechtenstein"	"LIE"	2149	"Ferster, Fabian"	16	2020
+"LTU"	"Lithuania"	"LTU"	2538	"Cmilyte, Viktorija"	1076	2020
+"LUX"	"Luxembourg"	"LUX"	2458	"Wiedenkeller, Michael"	314	2020
+"MAC"	"Macao"	"MAC"	2200	"Chan, Kuok"	41	2020
+"MKD"	"Macedonia"	"MKD"	2598	"Najdoski, Toni"	387	2020
+"MAD"	"Madagascar"	"MDG"	2433	"Rakotomaharo, Fy Antenaina"	305	2020
+"MAW"	"Malawi"	"MWI"	2249	"Mwale, Joseph"	211	2020
+"MAS"	"Malaysia"	"MYS"	2523	"Yeoh, Li Tian"	1877	2020
+"MDV"	"Maldives"	"MDV"	1887	"Muhammed, Shuaau"	37	2020
+"MLI"	"Mali"	"MLI"	2181	"Traore, Bakary"	14	2020
+"MLT"	"Malta"	"MLT"	2367	"Borg, Geoffrey"	155	2020
+"MTN"	"Mauritania"	"MRT"	2077	"Hemam, Moulaye Brahim"	72	2020
+"MRI"	"Mauritius"	"MUS"	2193	"Mansoor, J"	29	2020
+"MEX"	"Mexico"	"MEX"	2557	"Hernandez Guerrero, Gilberto"	2071	2020
+"MDA"	"Moldova"	"MDA"	2602	"Iordachescu, Viorel"	663	2020
+"MNC"	"Monaco"	"MCO"	2464	"Marciano, David"	67	2020
+"MGL"	"Mongolia"	"MNG"	2530	"Batchuluun, Tsegmed"	561	2020
+"MNE"	"Montenegro"	"MNE"	2515	"Djukic, Nikola"	415	2020
+"MAR"	"Morocco"	"MAR"	2562	"Hamdouchi, Hicham"	349	2020
+"MOZ"	"Mozambique"	"MOZ"	2230	"Paiva, Donaldo"	66	2020
+"MYA"	"Myanmar"	"MMR"	2519	"Wynn, Zaw Htun"	798	2020
+"NAM"	"Namibia"	"NAM"	2206	"Beukes, Dante M"	95	2020
+"NRU"	"Nauru"	"NRU"	1763	"Mohammad, Yarsir"	8	2020
+"NEP"	"Nepal"	"NPL"	2235	"Malla, Digesh Shanker"	879	2020
+"NED"	"Netherlands"	"NLD"	2768	"Giri, Anish"	4332	2020
+"AHO"	"Netherlands Antilles"	"ANT"	2221	"Vos, Tjark"	49	2020
+"NZL"	"New Zealand"	"NZL"	2518	"Chandler, Murray G"	494	2020
+"NCA"	"Nicaragua"	"NIC"	2308	"Sirias, Danilo"	383	2020
+"NGR"	"Nigeria"	"NGA"	2304	"Anwuli, Daniel"	339	2020
+"NOR"	"Norway"	"NOR"	2872	"Carlsen, Magnus"	3338	2020
+"OMA"	"Oman"	"OMN"	2119	"Al Mashikhi, Salim Aliyan"	147	2020
+"PAK"	"Pakistan"	"PAK"	2334	"Lodhi, Mahmood"	139	2020
+"PLW"	"Palau"	"PLW"	1885	"Tan, Santiago Jr"	116	2020
+"PLE"	"Palestine"	"PSE"	2205	"Yuha, H"	220	2020
+"PAN"	"Panama"	"PAN"	2408	"Sanchez Alvarez, Roberto Carlos"	296	2020
+"PNG"	"Papua New Guinea"	"PNG"	2205	"Rush, Joe"	10	2020
+"PAR"	"Paraguay"	"PRY"	2636	"Delgado Ramirez, Neuris"	471	2020
+"PER"	"Peru"	"PER"	2652	"Cori, Jorge"	2902	2020
+"PHI"	"Philippines"	"PHL"	2564	"Sadorra, Julio Catalino"	1185	2020
+"POL"	"Poland"	"POL"	2758	"Duda, Jan-Krzysztof"	10522	2020
+"POR"	"Portugal"	"PRT"	2521	"Ferreira, Jorge Viterbo"	2059	2020
+"PUR"	"Puerto Rico"	"PRI"	2341	"Machin Rivera, Mark"	332	2020
+"QAT"	"Qatar"	"QAT"	2542	"Al-Mudahka, Mohd"	59	2020
+"ROU"	"Romania"	"ROU"	2649	"Lupulescu, Constantin"	4465	2020
+"RUS"	"Russia"	"RUS"	2812	"Kasparov, Garry"	34938	2020
+"RWA"	"Rwanda"	"RWA"	1903	"Kabera, Godfrey"	42	2020
+"SMR"	"San Marino"	"SMR"	2168	"Renzi, Nicola"	11	2020
+"STP"	"Sao Tome and Principe"	"STP"	1923	"Espirito Santo, Waldyr"	17	2020
+"KSA"	"Saudi Arabia"	"SAU"	2107	"Al Ghamdi, Ahmed M"	152	2020
+"SCO"	"United Kingdom"	"GBR"	2561	"Rowson, Jonathan"	479	2020
+"ENG"	"United Kingdom"	"GBR"	2694	"Adams, Michael"	3657	2020
+"WLS"	"United Kingdom"	"GBR"	2483	"Davies, Nigel R"	355	2020
+"SEN"	"Senegal"	"SEN"	2089	"Mansour, Gbedo Sy"	13	2020
+"SRB"	"Serbia"	"SRB"	2622	"Indjic, Aleksandar"	5198	2020
+"SEY"	"Seychelles"	"SYC"	2200	"Lawen, Greg"	18	2020
+"SLE"	"Sierra Leone"	"SLE"	1964	"O`Neill, Jon"	6	2020
+"SVK"	"Slovakia"	"SVK"	2571	"Markos, Jan"	3953	2020
+"SLO"	"Slovenia"	"SVN"	2627	"Lenic, Luka"	1477	2020
+"SOL"	"Solomon Islands"	"SLB"	1932	"Tangaibasa, Brandon"	14	2020
+"SOM"	"Somalia"	"SOM"	2200	"Jimale, Abdulle Mohamed"	17	2020
+"RSA"	"South Africa"	"ZAF"	2426	"Cawdery, Daniel"	1204	2020
+"KOR"	"South Korea"	"KOR"	2464	"Kim, Alexey"	666	2020
+"ESP"	"Spain"	"ESP"	2704	"Vallejo Pons, Francisco"	24956	2020
+"SRI"	"Sri Lanka"	"LKA"	2385	"Aturupane, Harsha"	3324	2020
+"SUD"	"Sudan"	"SDN"	2235	"Eltigani, Omar"	210	2020
+"SUR"	"Suriname"	"SUR"	2220	"Lindeboom, J"	155	2020
+"SWZ"	"Swaziland"	"SWZ"	1710	"Hlophe, Smilo"	49	2020
+"SWE"	"Sweden"	"SWE"	2673	"Grandelius, Nils"	3874	2020
+"SUI"	"Switzerland"	"CHE"	2605	"Milov, Vadim"	2707	2020
+"SYR"	"Syria"	"SYR"	2375	"Shadarevian, Michael"	340	2020
+"TJK"	"Tajikistan"	"TJK"	2631	"Amonatov, Farrukh"	130	2020
+"TAN"	"Tanzania"	"TZA"	1867	"Mlawa, Hemed"	46	2020
+"THA"	"Thailand"	"THA"	2281	"Jiravorasuk, Banjuab"	340	2020
+"TLS"	"Timor-Leste"	"TLS"	1781	"de Araujo, Helder"	26	2020
+"TOG"	"Togo"	"TGO"	2164	"Strovsky, Mikhail"	25	2020
+"TTO"	"Trinidad and Tobago"	"TTO"	2292	"Ramoutar, Alan-Safar"	223	2020
+"TUN"	"Tunisia"	"TUN"	2405	"Njili, Kamel"	526	2020
+"TUR"	"Turkey"	"TUR"	2631	"Ipatov, Alexander"	8228	2020
+"TKM"	"Turkmenistan"	"TKM"	2522	"Annaberdiev, Meilis"	284	2020
+"UGA"	"Uganda"	"UGA"	2366	"Ssegwanyi, Arthur"	267	2020
+"UKR"	"Ukraine"	"UKR"	2698	"Ivanchuk, Vassily"	4531	2020
+"UAE"	"United Arab Emirates"	"ARE"	2682	"Salem, A.R. Saleh"	445	2020
+"USA"	"United States"	"USA"	2822	"Caruana, Fabiano"	6580	2020
+"URU"	"Uruguay"	"URY"	2469	"Hoffman, Alejandro"	558	2020
+"ISV"	"US Virgin Islands"	"VIR"	2178	"Massana, Jorge"	13	2020
+"UZB"	"Uzbekistan"	"UZB"	2661	"Kasimdzhanov, Rustam"	1011	2020
+"VEN"	"Venezuela"	"VEN"	2597	"Iturrizaga Bonelli, Eduardo"	2368	2020
+"VIE"	"Vietnam"	"VNM"	2713	"Le, Quang Liem"	738	2020
+"YEM"	"Yemen"	"YEM"	2435	"Al Qudaimi, Basheer"	110	2020
+"ZAM"	"Zambia"	"ZMB"	2449	"Simutowe, Amon"	704	2020
+"ZIM"	"Zimbabwe"	"ZWE"	2422	"Gwaze, Robert"	314	2020
