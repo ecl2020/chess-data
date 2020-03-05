@@ -1,6 +1,6 @@
 // set the dimensions and margins of the graph
 var margin = { top: 10, right: 30, bottom: 30, left: 60 },
-    width = 860 - margin.left - margin.right,
+    width = 1000 - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
 var svg = d3.select("#cmr_plot")
@@ -44,32 +44,37 @@ d3.tsv("https://raw.githubusercontent.com/ecl2020/chess-data/master/data/cmr.txt
 
     var div = d3.select("#cmr_plot").append("div")
         .attr("class", "tooltip")
-        .style("opacity", 0);
+        .style("opacity", 0)
 
     svg.selectAll('circle').data(data)
         .enter().append('circle')
-        .attr('cx', function (d) { return x(d.Year) + 50})
+        .attr('cx', function (d) { return x(d.Year) + 50 })
         .attr('cy', function (d) { return y(d.Rating) })
         .attr('r', 1.5)
         .style('fill', "#33b5e5")
         .on('mouseover', function (d, i) {
-            d3.select(this).transition()
-                .duration('50')
-                .attr('opacity', '.85');
+            d3.select(this)
+                .attr('r', 3)
+                .style('fill', '33e5b5')
             div.transition()
-                .duration(50)
-                .style("opacity", 1);
-            div.html(d.Name)
-                .style("left", (d3.event.pageX + 10) + "px")
-                .style("top", (d3.event.pageY - 15) + "px");
+                .duration('100')
+                .style("opacity", "1")
+            div.html(d.Name + "was rated " + d.Rating + " in " + d.Year)
+                .style("left", (event.clientX + 15) + "px")
+                .style("top", (event.clientY + 15)  + "px")
+                .style("position", "absolute")
+                .style("background-color", "gray")
+                .style("color", "white")
+                .style("padding", "3px")
+                .style("border-radius", "5px")
         })
         .on('mouseout', function (d, i) {
-            d3.select(this).transition()
-                .duration('50')
-                .attr('opacity', '1');
+            d3.select(this)
+                .attr('r', 1.5)
+                .style('fill', "#33b5e5")
             div.transition()
-                .duration('50')
-                .style("opacity", 0);
+                .duration('100')
+                .style("opacity", "0")
         });
 
     svg.append("text")
