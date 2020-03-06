@@ -67,6 +67,7 @@ d3.tsv("https://raw.githubusercontent.com/ecl2020/chess-data/master/data/cmr.txt
                 .style("color", "white")
                 .style("padding", "3px")
                 .style("border-radius", "5px")
+                
         })
         .on('mouseout', function (d, i) {
             d3.select(this)
