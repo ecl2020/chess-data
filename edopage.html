@@ -12,6 +12,7 @@
 </head>
 
 <body>
+    <!-- <h1>Plots</h1> -->
     <table id="myTable">
         <tr>
             <td></td>
@@ -19,9 +20,15 @@
             <td></td>
         </tr>
     </table>
-    <script>pages("home")</script>
-    <h1>Plots</h1>
-
+    <script>pages("edo")</script>
+    <!-- Create a div where the graph will take place -->
+    <div id="edo_plot">
+        <script>plot("https://raw.githubusercontent.com/ecl2020/chess-data/master/data/edo.txt",
+                "#edo_plot", "Edo Plot")
+        </script>
+    </div>
+    <br></br>
+    <h2>EDO PLOT</h2>
 </body>
 
 </html>
