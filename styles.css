@@ -8,10 +8,12 @@
 h1 {
     color: #33e5b5;
     text-align: center;
+    font-family:Courier;
 }
 
 a {
-    padding-left: 5px;
+    padding: 10px 15px;
+    font-family:Courier;
 }
 
 /* unvisited link */
@@ -20,35 +22,56 @@ a:link {
   }
   
   /* visited link */
-  a:visited {
+a:visited {
     color: #33b5e5;
-  }
+}
   
   /* mouse over link */
-  a:hover {
+a:hover {
     color: #33e5b5;
     font-size: larger;
-  }
+}
   
   /* selected link */
-  a:active {
+a:active {
     color: blue;
-  }
+}
 
 
 table {
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
-    margin-bottom: 40px;
 }
 
 td {
     width: 30%;
+    height: 50px;
     text-align: center;
+    font-family:Courier;
 }
 
 h2 {
     font-size: 30;
     text-align: center;
+    font-family:Courier;
 }
+
+body {
+    background-color: #eee;
+}
+
+.line {
+    fill: none;
+    stroke: #33e5b5;
+    stroke-width: 2;
+  }
+
+.tooltip {
+    pointer-events: none !important;
+}
+
+.text {
+    font-family: Courier;
+}
+
