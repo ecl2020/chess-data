@@ -2,22 +2,30 @@ function bounds(max) {
     return [max * 0.05, max - (max * 0.05)]
 }
 
-function plot(address, plot, rank=50) {
-    var height = $(document).height() * 0.65
-    var width = $(document).width() * 0.80
+function plot(address, plot, rank, svg) {
+    // when the input range changes update value 
+    // console.log("rank", rank)
+    var height = 400 // $(document).height() * 0.65
+    var width = 600 // $(document).width() * 0.80
     var padding = 40
 
-    // var svg = d3.select(#cmr_plot)
-    var svg = d3.select(plot).append("svg")
+    svg
         .attr("width", width)
         .attr("height", height)
+        .on('mouseleave', function (d) {
+            d3.selectAll($("[class=plot_title]")).remove()
+            d3.selectAll("path.line").remove()
+            d3.selectAll($("[class=new]")).remove()
+            console.log("left canvas")
+        })
 
     // d3.tsv("https://raw.githubusercontent.com/ecl2020/chess-data/master/data/cmr.txt", function(error, data))
-    d3.tsv(address, function (error, data) {
+    d3.tsv(address, function (error, alldata) {
         if (error) throw error;
-        // var data = data.filter(function (d) {
-        //     return d.Rating >= 2600;
-        // })
+        var data = alldata.filter(function (d) {
+            return parseInt(d.Rank) <= rank;
+        })
+        // console.log("parsing data")
         var dataByName = d3.nest()
             .key(function (d) { return d.Name; })
             .entries(data);
@@ -90,14 +98,14 @@ function plot(address, plot, rank=50) {
                     .style('fill', "#33e5b5")
                     .on('click', function (w, i) {
                         d3.selectAll($("[class=player-table]")).remove()
-                        player(current, xy)
+                        player(current, xy, rank)
                         // d3.selectAll($("[class=all]"))
                         //     .style("opacity", "0")
-                        // console.log("get clicked")
-                        if (window.pageYOffset == 0){
-                            window.scrollBy(0, 90)
-                        }
-                            
+                        // if (window.pageYOffset == 0) {
+                        //     window.scrollBy(0, 90)
+                        // }
+                        // console.log("onmouse")
+
                     })
 
                 var line = d3.line()
@@ -112,12 +120,12 @@ function plot(address, plot, rank=50) {
                 div.transition()
                     .style("opacity", "1")
                     .style(cursor = "none")
+                // console.log("transition?")
 
             })
             .on('mouseleave', function (d) {
 
             });
-
         //title of the plot
         function makeTitle(plot_title, x, y) {
             svg.append("text")
@@ -130,6 +138,28 @@ function plot(address, plot, rank=50) {
                 .text("now showing: " + plot_title)
         }
     })
+}
+
+function update(address, upplot, rank) {
+    // console.log(rank)
+    var x = d3.select(upplot).selectAll('circle')
+    x.remove()
+    x.exit()
+    var y = d3.select(upplot).selectAll('path')
+    y.remove()
+    y.exit()
+    if (document.getElementById('oldsvg')) {
+        // console.log("leave old")
+        var text = d3.select('body').select('svg')
+        plot(address, upplot, rank, text)
+    }
+    else {
+        var svg = d3.select(upplot).append("svg")
+            .attr("id", "oldsvg")
+        plot(address, upplot, rank, svg)
+        // console.log("make new")
+    }
+
 }
 
 function pages(current) {
@@ -152,7 +182,7 @@ function pages(current) {
     }
 }
 
-function player(pname, xy) {
+function player(pname, xy, rank) {
     // var name = document.createElement("p")
     // var node = document.createTextNode(pname)
     // name.appendChild(node);
@@ -169,11 +199,11 @@ function player(pname, xy) {
     // x[0].setAttribute('id', 'pname');
     // console.log(x)
     if (d3.max(xy, d => d.Year) != d3.min(xy, d => d.Year)) {
-        newRow(tbdy, ["years in top 100",
+        newRow(tbdy, ["years in top " + rank,
         xy.length + " (" + d3.min(xy, d => d.Year) + " - " + d3.max(xy, d => d.Year) + ")"], 'player-table')
     }
-    else{
-        newRow(tbdy, ["years in top 100", xy.length + " (" + d3.max(xy, d => d.Year) + ")"], 'player-table')
+    else {
+        newRow(tbdy, ["years in top " + rank, xy.length + " (" + d3.max(xy, d => d.Year) + ")"], 'player-table')
 
     }
     newRow(tbdy, ["average rating", Math.round(d3.mean(xy, d => d.Rating))], 'player-table')
