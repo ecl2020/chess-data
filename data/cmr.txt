@@ -4759,7 +4759,7 @@ Rank	Name	Rating	Year
 45	Jorge Pelikán	2574	1937
 46	Vladimir Alatortsev	2567	1937
 47	Milan Vidmar Sr	2565	1937
-1	Richter	2562	1937
+48	Kurt1 Richter	2562	1937
 49	Alexander Konstantinopolsky	2559	1937
 50	Movsa Feigin	2558	1937
 51	Isaías Pleci	2558	1937
@@ -4867,7 +4867,7 @@ Rank	Name	Rating	Year
 53	Isaías Pleci	2561	1938
 54	Abraham Kupchik	2560	1938
 55	Herbert Heinicke	2559	1938
-1	Richter	2558	1938
+56	Kurt1 Richter	2558	1938
 57	Wilhelm Kuppe	2557	1938
 58	Jorge Pelikán	2555	1938
 59	Ludwig Engels	2553	1938
@@ -5098,7 +5098,7 @@ Rank	Name	Rating	Year
 84	Adrian Conde	2538	1940
 85	Imre König	2538	1940
 86	Milan Jr Vidmar	2533	1940
-1	Keller	2533	1940
+87	Rudolf1 Keller	2533	1940
 88	Frantiek Zíta	2532	1940
 89	Gunnar Friedemann	2532	1940
 90	Herman Steiner	2529	1940
@@ -5191,7 +5191,7 @@ Rank	Name	Rating	Year
 77	Samuil Zhukhovitsky	2545	1941
 78	Carl Ahues	2543	1941
 79	Aristide Gromer	2540	1941
-1	Keller	2539	1941
+80	Rudolf1 Keller	2539	1941
 81	Salo Landau	2539	1941
 82	Gunnar Friedemann	2536	1941
 83	Iosif Rudakovsky	2536	1941
@@ -5284,7 +5284,7 @@ Rank	Name	Rating	Year
 70	Iosif Rudakovsky	2527	1942
 71	Johannes van den Bosch	2526	1942
 72	Moshe Czerniak	2525	1942
-1	Keller	2524	1942
+73	Rudolf1 Keller	2524	1942
 74	Salo Landau	2521	1942
 75	George Shainswit	2520	1942
 76	Pál Réthy	2520	1942
@@ -5383,7 +5383,7 @@ Rank	Name	Rating	Year
 69	Walter Loose	2519	1943
 70	Pál Réthy	2519	1943
 71	Lev Abramov	2518	1943
-1	Keller	2517	1943
+72	Rudolf1 Keller	2517	1943
 73	Josef Rejfír	2516	1943
 74	Haije Kramer	2515	1943
 75	Benito Villegas	2512	1943
@@ -5484,7 +5484,7 @@ Rank	Name	Rating	Year
 70	Milan Bartoek	2481	1944
 71	Oldrich Novotny	2481	1944
 72	Mikhail Yudovich	2477	1944
-1	Keller	2477	1944
+73	Rudolf1 Keller	2477	1944
 74	Jirí Fichtl	2473	1944
 75	Wilfried Lange	2471	1944
 76	Braslav Rabar	2471	1944
@@ -5596,7 +5596,7 @@ Rank	Name	Rating	Year
 82	Sonja Graf-Stevenson	2384	1945
 83	X. Vasicek	2383	1945
 84	Peter Dubinin	2372	1945
-1	. Petrik	2362	1945
+85	K1. Petrik	2362	1945
 86	Josef Holas	2362	1945
 87	Jindrich Kubánek	2345	1945
 88	Ruena Suchá	2298	1945
@@ -11500,103 +11500,3 @@ Rank	Name	Rating	Year
 98	Vadim Milov	2610	2004
 99	Igor Khenkin	2609	2004
 100	Yasser Seirawan	2609	2004
-1	Viswanathan Anand	2795	2005
-2	Garry Kasparov	2788	2005
-3	Vladimir Kramnik	2751	2005
-4	Alexander Morozevich	2748	2005
-5	Peter Leko	2747	2005
-6	Michael Adams	2745	2005
-7	Veselin Topalov	2744	2005
-8	Peter Svidler	2744	2005
-9	Alexander Grischuk	2741	2005
-10	Alexei Shirov	2739	2005
-11	Judit Polgar	2736	2005
-12	Alexey Dreev	2726	2005
-13	Vassily Ivanchuk	2723	2005
-14	Evgeny Bareev	2722	2005
-15	Boris Gelfand	2720	2005
-16	Rafael Vaganian	2718	2005
-17	Ruslan Ponomariov	2715	2005
-18	Ivan Sokolov	2710	2005
-19	Levon Aronian	2704	2005
-20	Nigel Short	2699	2005
-21	Anatoly Karpov	2694	2005
-22	Rustam Kasimdzhanov	2693	2005
-23	Joel Lautier	2693	2005
-24	Vladimir Akopian	2693	2005
-25	Viktor Bologan	2690	2005
-26	Mikhail Gurevich	2688	2005
-27	Etienne Bacrot	2688	2005
-28	Alexander Motylev	2687	2005
-29	Liviu-Dieter Nisipeanu	2683	2005
-30	Kiril Georgiev	2682	2005
-31	Loek van Wely	2679	2005
-32	Teimour Radjabov	2675	2005
-33	Alexander Onischuk	2674	2005
-34	Lenier Dominguez	2674	2005
-35	Zurab Azmaiparashvili	2672	2005
-36	Predrag Nikolic	2666	2005
-37	Konstantin Sakaev	2666	2005
-38	Alexander Khalifman	2665	2005
-39	Emil Sutovsky	2665	2005
-40	Krishnan Sasikiran	2663	2005
-41	Giovanni Vescovi	2663	2005
-42	Andrei Istratescu	2662	2005
-43	Sergei Rublevsky	2661	2005
-44	Francisco Vallejo Pons	2660	2005
-45	Lazaro Bruzon Bautista	2660	2005
-46	Vladimir Malakhov	2659	2005
-47	Vadim Zvjaginsev	2656	2005
-48	Andrei Volokitin	2655	2005
-49	Alexander Graf	2654	2005
-50	Ni Hua	2653	2005
-51	David Navara	2652	2005
-52	Shakhriyar Mamedyarov	2650	2005
-53	Alexander Beliavsky	2649	2005
-54	Baadur Jobava	2649	2005
-55	Darmen Sadvakasov	2649	2005
-56	Pavel Eljanov	2643	2005
-57	Sergei Azarov	2642	2005
-58	Zoltan Almasi	2642	2005
-59	Ilia Smirin	2642	2005
-60	Smbat Lputian	2641	2005
-61	Evgeniy Najer	2641	2005
-62	Sergei Movsesian	2641	2005
-63	Mihail Kobalija	2640	2005
-64	Alexander Moiseenko	2640	2005
-65	Bartlomiej Macieja	2639	2005
-66	Peter Heine Nielsen	2638	2005
-67	Pavel Smirnov	2638	2005
-68	Bu Xiangzhi	2637	2005
-69	Penteala Harikrishna	2637	2005
-70	Ye Jiangchuan	2636	2005
-71	Jaan Ehlvest	2636	2005
-72	Evgeny Vladimirov	2636	2005
-73	Artyom Timofeev	2635	2005
-74	Luke McShane	2635	2005
-75	Vadim Milov	2634	2005
-76	Leonid Yudasin	2634	2005
-77	Karen Asrian	2633	2005
-78	Miguel Illescas Cordoba	2633	2005
-79	Curt Hansen	2631	2005
-80	Boris Avrukh	2631	2005
-81	Christian Bauer	2630	2005
-82	Evgenij Miroshnichenko	2629	2005
-83	Michal Krasenkow	2627	2005
-84	Gabriel Sargissian	2627	2005
-85	Leonid Gofshtein	2625	2005
-86	Sergei Tiviakov	2625	2005
-87	Joel Benjamin	2622	2005
-88	Zhang Zhong	2622	2005
-89	Alexander Rustemov	2622	2005
-90	Aleksej Aleksandrov	2622	2005
-91	Evgeny Alekseev	2621	2005
-92	Arkadij Naiditsch	2619	2005
-93	Vladimir Epishin	2618	2005
-94	Yasser Seirawan	2617	2005
-95	Anton Korobov	2616	2005
-96	Vasilios Kotronias	2614	2005
-97	Sergey Karjakin	2614	2005
-98	Xie Jun	2614	2005
-99	Andrei Kharlov	2613	2005
-100	Wang Yue	2612	2005
