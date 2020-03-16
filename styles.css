@@ -38,16 +38,17 @@ a:active {
 }
 
 
-table {
+.page-table {
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
+    height: 50px;
 }
 
 td {
-    width: 30%;
+    /* width: 33%; */
     height: 50px;
-    text-align: center;
+    text-align: right;
     font-family:Courier;
 }
 
@@ -74,4 +75,54 @@ body {
 .text {
     font-family: Courier;
 }
+
+.float-left-child {
+    float: left;
+    width: 50%;
+    cursor: crosshair;
+}
+
+.player-table {
+    background-color: #ddd;
+    width: 50%;
+    text-align: center;
+    table-layout: fixed;
+}
+
+.saved {
+    background-color: #eac3c1;
+    width: 90%;
+    margin-left: 5%;
+    position: absolute;
+    text-align: left;
+    table-layout: fixed;
+    top: 500px;
+}
+
+.saved-header {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.saved-player {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: left;
+}
+
+.player-cell {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: left;
+}
+
+.parent {
+    width: 100%;
+}
+
 
