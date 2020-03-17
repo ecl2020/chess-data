@@ -1,5 +1,9 @@
+var height = 400 // $(document).height() * 0.65
+var width = window.innerWidth * 0.5
+var padding = 40
+
 var checked = false
-function updateAxis(width, height, padding, data, svg) {
+function updateAxis(data, svg) {
     // console.log(data.length)
     var x = d3.scaleLinear()
         .domain([d3.min(data, d => d.Year), d3.max(data, d => d.Year)])
@@ -47,7 +51,7 @@ function updateAxis(width, height, padding, data, svg) {
 }
 
 // returns all players at or below rank
-// compare has value 0 (less than/equal to), 1 (greater than/equal to), or 2 (equal to (# or str))
+// compare: 0 (less than/equal to (#)), 1 (greater than/equal to(#)), or 2 (equal to (# or str))
 function rankData(alldata, rank, col, compare) {
     if (compare == 0) {
         var data = alldata.filter(function (d) {
@@ -78,16 +82,15 @@ function rankData(alldata, rank, col, compare) {
 }
 
 function plot(address, plot, rank) {
-    var height = 400 // $(document).height() * 0.65
-    var width = $(document).width() * 0.50
-    var padding = 40
-
+    // the rank (and the number of different players displayed) has changed
+    rankchange = true
     // checks if an svg already exists
     var svg = d3.select("svg > g")
     if (svg.empty()) {
         // if an svg does not exist, a new one is appended to the plot div
         var svg = d3.select(plot).append("svg")
             .attr("class", "oldsvg")
+            .attr("id", "svgID")
             .attr("width", width)
             .attr("height", height)
     }
@@ -106,14 +109,15 @@ function plot(address, plot, rank) {
         var data = rankData(alldata, rank, "Rank", 0)
 
         // updates points and axes -- maybe these could be combined??
-        updateAxis(width, height, padding, data, svg)
-        updatePointsExplore(height, width, padding, data, rank)
+        updateAxis(data, svg)
+        updatePointsExplore(data, rank)
         // creates a button to only show saved players if one does not exist already
         if (!document.getElementById('savebtn')) {
             // create an input element
             var showSaved = document.createElement('input')
             showSaved.type = "button"
             showSaved.id = "savebtn"
+            showSaved.className = "show"
             showSaved.value = "Compare Saved Players"
             // only perform actions when clicked
             showSaved.addEventListener('click', function () {
@@ -122,29 +126,32 @@ function plot(address, plot, rank) {
                 // retrieves all data at or below that rank
                 newdata = rankData(alldata, rank, "Rank", 0)
                 // updates points and axes with the saved players only
-                savedOnly(newdata, rank, width, height, padding, svg)
+                savedOnly(newdata, rank, svg)
             })
             // add the button to the page
-            document.body.append(showSaved)
+            document.getElementById("user-input").appendChild(showSaved)
         }
         // creates a show all players button if necessary
         if (!document.getElementById('allbtn')) {
             var showAll = document.createElement('input')
             showAll.id = 'allbtn'
             showAll.type = "button"
+            showAll.className = "show"
             showAll.value = "Show All Players"
             showAll.addEventListener('click', function () {
-                updateAxis(width, height, padding, rankData(alldata, rank, "Rank", 0), svg)
-                updatePointsExplore(height, width, padding, rankData(alldata, rank, "Rank", 0), rank)
+                updateAxis(rankData(alldata, rank, "Rank", 0), svg)
+                updatePointsExplore(rankData(alldata, rank, "Rank", 0), rank)
             })
             // add the button to the page
-            document.body.append(showAll)
+            document.getElementById("user-input").appendChild(showAll)
         }
     })
 }
 
-function makeTitle(svg, plot_title, x, y, err) {
+function makeTitle(plot_title, x, y, err) {
     // err is true when a player has already been saved
+    // get the svg to make the title on
+    var svg = d3.select("svg")
     if (err) {
         console.log("error")
         svg.append("text")
@@ -174,7 +181,17 @@ function hasNumber(myString) {
     return /\d/.test(myString);
 }
 
-function savedOnly(data, rank, width, height, padding, svg) {
+function savedOnly(data, rank, svg) {
+    // set search to empty
+    document.getElementById('searchName').value = ""
+    // get list of all searchable players
+    var listel = document.getElementsByClassName('search-player')
+    if (listel) {
+        // hide them all
+        for (var i = 0; i < listel.length; i++) {
+            listel[i].style.display = "none"
+        }
+    }
     var nameList = []
     // get the table containing saved players then isolate cells
     var tbl = document.getElementById('saved')
@@ -198,14 +215,14 @@ function savedOnly(data, rank, width, height, padding, svg) {
         rows[i].parentNode.removeChild(rows[i]);
     }
     // updates the axes with new data
-    updateAxis(width, height, padding, named, svg)
+    updateAxis(named, svg)
     // updates the points with new data
-    updatePointsExplore(height, width, padding, named, rank)
+    updatePointsExplore(named, rank)
 }
 
 // saved is false when no players have been saved yet
 var saved = false
-function updatePointsExplore(height, width, padding, data, rank) {
+function updatePointsExplore(data, rank) {
     // scale the axes according to given data
     var x = d3.scaleLinear()
         .domain([d3.min(data, d => d.Year), d3.max(data, d => d.Year)])
@@ -244,27 +261,20 @@ function updatePointsExplore(height, width, padding, data, rank) {
         .style("opacity", 0)
         .remove()
 
-    // height for placing the title. Should be defined in terms of svg height?
-    var height = 400
-    var width = 200 // $(document).width() * 0.50
-
     // set up mouseover for any circle on the plot
     svg.selectAll('circle')
         .on('mouseenter', function (d) {
+            // get the name of the circle being moused over
             var current = d.Name
-            highlight(x, y, data, svg, width, height, current, rank, padding)
+            // highlight all points with that name
+            highlight(data, current, rank)
         })
         .on('mouseleave', function (d) {
 
         })
 }
 
-function highlight(x, y, data, svg, width, height, current, rank, padding) {
-    // get data so each name has a list of points associated
-    var dataByName = d3.nest()
-        .key(function (d) { return d.Name; })
-        .entries(data);
-
+function removeHighlight() {
     // remove the current plot title ()
     d3.selectAll($("[class=plot_title]")).remove()
     // remove all the highlight points 
@@ -273,12 +283,16 @@ function highlight(x, y, data, svg, width, height, current, rank, padding) {
     d3.selectAll("path.line").remove()
     // remove side table with detailed player info
     d3.selectAll($("[class=player-table]")).remove()
-    // reset the title
-    makeTitle(svg, "click a green point to save " + current, width / 3, height - height * 0.02, false)
+}
 
+function getPlayerData(data, player) {
+    // get data so each name has a list of points associated
+    var dataByName = d3.nest()
+        .key(function (d) { return d.Name; })
+        .entries(data);
     // return the points associated with current name
     var named = dataByName.filter(function (d) {
-        return d.key == current;
+        return d.key == player;
     })
     // isolate the ratings associated with current name
     var ratings = d3.values(named).map(function (d) {
@@ -301,7 +315,27 @@ function highlight(x, y, data, svg, width, height, current, rank, padding) {
             Rank: parseInt(ranks[i])
         }) //, Name: current });
     }
+    return xy
+}
 
+function highlight(data, current, rank) {
+    var x = d3.scaleLinear()
+        .domain([d3.min(data, d => d.Year), d3.max(data, d => d.Year)])
+        .range([padding, width - padding]);
+    var y = d3.scaleLinear()
+        .domain([d3.min(data, d => d.Rating), d3.max(data, d => d.Rating)])
+        .range([height - padding, padding])
+
+    removeHighlight()
+
+    // reset the title
+    makeTitle("click a green point to save " + current, 20, height - height * 0.02, false)
+
+    // get an array of only data for the current player
+    var xy = getPlayerData(data, current)
+
+    // select the svg
+    var svg = d3.select("svg")
     // create new circles with the selected data
     const circle = svg.selectAll("circle.new")
         .data(xy);
@@ -334,7 +368,7 @@ function highlight(x, y, data, svg, width, height, current, rank, padding) {
 
     // add the table to page so it actually shows up
     tbl.appendChild(tbdy);
-    document.body.append(tbl)
+    document.getElementById("plot").append(tbl)
 
     // add highlighted circles to the plot
     circle.enter().append("circle")
@@ -345,7 +379,7 @@ function highlight(x, y, data, svg, width, height, current, rank, padding) {
         .style('fill', "#33e5b5")
         // save a player to the player table
         .on('click', function () {
-            savePlayer(current, xy, svg, height, width, padding, data)
+            savePlayer(current, xy, data)
         })
 
     // make a line to highlight the data
@@ -361,14 +395,7 @@ function highlight(x, y, data, svg, width, height, current, rank, padding) {
 }
 
 // saves player current with data xy and makes a new title on the svg
-function savePlayer(current, xy, svg, height, width, padding, data) {
-    // scale the axes according to given data
-    var x = d3.scaleLinear()
-        .domain([d3.min(data, d => d.Year), d3.max(data, d => d.Year)])
-        .range([padding, width - padding]);
-    var y = d3.scaleLinear()
-        .domain([d3.min(data, d => d.Rating), d3.max(data, d => d.Rating)])
-        .range([height - padding, padding])
+function savePlayer(current, xy, data) {
     // get the current rank for use in displaying saved player
     rank = document.getElementById("nValue").value
 
@@ -378,7 +405,7 @@ function savePlayer(current, xy, svg, height, width, padding, data) {
     var tbl = document.getElementById('saved')
     // return the cells to search through
     var cells = tbl.getElementsByClassName('saved-player')
-    // saved is true when players have already been saved
+    // saved is true when a non-zero number of players has been saved
     if (saved) {
         // loop through all cells
         for (var i = 0; i < cells.length; i++) {
@@ -394,30 +421,49 @@ function savePlayer(current, xy, svg, height, width, padding, data) {
         // set up the text to make a new row: Name, Stats
         var text = [
             current,
-            parseInt(Math.round(d3.mean(xy, d => d.Rating))),
+            parseInt(Math.round(d3.mean(xy, d => d.Rating))) + "\n(in top " + rank + ")",
             parseInt(d3.max(xy, d => d.Rating)),
             parseInt(d3.min(xy, d => d.Rank))]
         // build a new row with that text --> cells will have class 'saved-player'
         newRow(tbdy, text, 'saved-player')
         // loop through last row of cells (the ones just made)
         for (var i = cells.length - 4; i < cells.length; i++) {
+            // set up to highlight the clicked player...
             cells[i].onclick = function () {
-                console.log("highlight")
-                // run the highlight function on click
-                highlight(x, y, data, svg, width, height, current, rank)
-                window.scrollTo(0,0)
+                highlight(data, current, rank)
+                // timeout so the page does not scroll before a double click 
+                setTimeout(() => {
+                    // show the graph again
+                    window.scrollTo({
+                        top: 0,
+                        // do it slowly instead of jumping
+                        behavior: 'smooth'
+                    })
+                }, 300);
+            }
+            // and delete the double-clicked player.
+            cells[i].ondblclick = function () {
+                // loop through rows and delete the matching row
+                for (var k = 1; k < tbl.rows.length; k++) {
+                    if (tbl.rows[k].cells[0].innerText == current) {
+                        tbl.rows[k].remove()
+                    }
+                }
+                // get rid of the highlighted line, which appears again 
+                // on the first click of the double click
+                removeHighlight()
             }
         }
         // update the plot title
         d3.selectAll($("[class=plot_title]")).remove()
-        makeTitle(svg, "saved " + current, width / 3, height - height * 0.02, false)
+        makeTitle("saved " + current, 20, height - height * 0.02, false)
         saved = true
     }
     // if the player is already in the table
     else {
         // update the title
         d3.selectAll($("[class=plot_title]")).remove()
-        makeTitle(svg, current + " already saved.", width / 3, height - height * 0.02, true)
+        makeTitle(current + " already saved.", 20, height - height * 0.02, true)
     }
 }
 
@@ -463,7 +509,6 @@ function newRow(tbdy, text, newclass) {
     // document.getElementById('activities').className='selectedItem';
     // cell2.attr("class", "player-table")
 }
-
 function createCell(cell, text, newclass) {
     var div = document.createElement('div'), // create DIV element
         txt = document.createTextNode(text)  // create text node
@@ -520,5 +565,76 @@ function sortBy(id) {
         }
     }
 
+}
+
+// false when the user has not changed the rank
+var rankchange = false
+function searchPlayer(address) {
+    // identify the list of players to search from
+    var searchList = document.getElementById('searchUL')
+    var rank = document.getElementById("nValue").value
+    // the address for getting data
+    d3.tsv(address, function (error, alldata) {
+        if (error) throw error
+
+        // get all data showing on the plot (rank <= the value in the nValue input box)
+        var data = rankData(alldata, rank, "Rank", 0)
+        // sort the data by name for easy referencing (maybe this isn't even necessary?? data[0] is name)  
+        var dataByName = d3.nest()
+            .key(function (d) { return d.Name; })
+            .entries(data);
+        // whenever plot() is called --> first plot or rank change
+        if (rankchange) {
+            // if a list has already been made, delete all of those names
+            if (document.getElementsByClassName('li')) {
+                d3.selectAll('li').remove()
+            }
+            // loop through the nested data
+            for (var i = 0; i < dataByName.length; i++) {
+                // create a new list element
+                var li = document.createElement('li')
+                // give the new element text equal to the player name
+                li.innerText = dataByName[i].key
+                li.id = dataByName[i].key
+                // don't display it yet though
+                li.style.display = "none"
+                // give each element a class if it is on the graph or not
+                li.className = "search-player"
+
+                // add the element to the list
+                searchList.appendChild(li)
+            }
+            // if the name is on the graph currently add mouse actions
+            for (var i = 0; i < dataByName.length; i++) {
+                // highlight a player on hover
+                document.getElementById(dataByName[i].key)
+                    .addEventListener('mouseenter', function (e) {
+                        highlight(data, e.target.innerText, rank)
+                    })
+                // save a player on click
+                document.getElementById(dataByName[i].key)
+                    .addEventListener('click', function (e) {
+                        savePlayer(e.target.innerText, getPlayerData(data, e.target.innerText), data)
+                    })
+            }
+            // since the rank has not been updated since the last list creation
+            rankchange = false
+        }
+        // get the text from the search box
+        var searchString = document.getElementById('searchName').value.toUpperCase()
+        // get all the elements from the list of players on the plot
+        var li = searchList.getElementsByTagName('li')
+        // loop through all elements of the list
+        for (var i = 0; i < li.length; i++) {
+            // only show matching names, do not match empty string
+            if (li[i].innerText.toUpperCase().includes(searchString) && searchString) {
+                li[i].style.display = ""
+            }
+            else {
+                li[i].style.display = "none"
+            }
+        }
+
+    })
 }
 

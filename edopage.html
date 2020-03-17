@@ -12,38 +12,45 @@
 </head>
 
 <body>
-    <div class='parent'>
-        <!-- <h1>Plots</h1> -->
-        <table id="myTable" class='page-table'>
-            <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-            </tr>
-        </table>
-        <script>pages("edo")</script>
-        <input type="number" min=1 value="10" id="nValue">
-        <!-- Create a div where the graph will go -->
-        <div id="edo_plot" class='child float-left-child'>
-            <script>plot("https://raw.githubusercontent.com/ecl2020/chess-data/master/data/edo.txt",
-                    "#edo_plot", 10);
+    <table id="myTable" class='page-table'>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+    <!-- <h1>Plots</h1> -->
+    <script>pages("edo")</script>
+    <div class="full-page" id="container">
+        <div class='interact' id="user-input">
+            <script>
+                var address = "https://raw.githubusercontent.com/ecl2020/chess-data/master/data/edo.txt"
+            </script>
+            <input type="number" min=1 value="10" id="nValue", class="rank-input">
+            <input type="text" id="searchName" onkeyup="searchPlayer('' + address + '')"
+            placeholder="player search">
+            <!-- Create a div where the graph will go -->
+        </div>
+        <div id="plot" class='child float-left-child'>
+            <ul id="searchUL"></ul>
+            <script>plot('' + address + '',
+                    "#plot", 10, false);
             </script>
         </div>
-    </div>
-    <div>
-        <table id="saved" class='saved'>
-            <tr>
-                <td id=0 onclick="sortBy('' + id + '')" class="saved-header">Saved Player</td>
-                <td id=1 onclick="sortBy('' + id + '')" class="saved-header">Average Rating</td>
-                <td id=2 onclick="sortBy('' + id + '')" class="saved-header">Highest Rating</td>
-                <td id=3 onclick="sortBy('' + id + '')" class="saved-header">Highest Rank</td>
-            </tr>
-        </table>
+        <!-- <div class='data-table'> -->
+            <table id="saved" class='saved'>
+                <tr>
+                    <td id=0 onclick="sortBy('' + id + '')" class="saved-header">Saved Player</td>
+                    <td id=1 onclick="sortBy('' + id + '')" class="saved-header">Average Rating</td>
+                    <td id=2 onclick="sortBy('' + id + '')" class="saved-header">Highest Rating</td>
+                    <td id=3 onclick="sortBy('' + id + '')" class="saved-header">Highest Rank</td>
+                </tr>
+            </table>
+        <!-- </div> -->
     </div>
     <script>
         d3.select("#nValue").on("input", function () {
-            plot("https://raw.githubusercontent.com/ecl2020/chess-data/master/data/edo.txt",
-                "#edo_plot", +this.value);
+            plot(address, "#plot", +this.value);
         });
     </script>
 </body>

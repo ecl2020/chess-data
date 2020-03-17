@@ -76,27 +76,51 @@ body {
     font-family: Courier;
 }
 
-.float-left-child {
+.oldsvg {
+    cursor: crosshair;
+    z-index: 1;
     float: left;
     width: 50%;
-    cursor: crosshair;
 }
 
 .player-table {
+    position: relative;
     background-color: #ddd;
-    width: 50%;
+    /* border-color: palegreen;
+    border-style: double; */
+    float: left;
+    width: 40%;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: max-content;
     text-align: center;
     table-layout: fixed;
+}
+
+.full-page {
+    position: static;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 100vh;
+    width: 100vw;
 }
 
 .saved {
     background-color: #eac3c1;
     width: 90%;
     margin-left: 5%;
-    position: absolute;
+    position: relative;
     text-align: left;
     table-layout: fixed;
-    top: 500px;
+    top: 10px;
+}
+
+.show {
+    position: relative;
+    top: 0px;
+    left: 10px;
 }
 
 .saved-header {
@@ -121,8 +145,49 @@ body {
     text-align: left;
 }
 
-.parent {
+.interact {
     width: 100%;
+    position: relative;
+    top: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
 }
 
+.rank-input {
+    width: 40px;
+}
 
+ul {
+    position: absolute;
+    overflow: scroll;
+    max-height: 100px;
+    z-index: 50;
+    list-style: none;
+    left: 40px;
+    width: 15%;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+.data-table {
+    position: relative;
+    bottom: 10px;
+}
+
+.search-player {
+    font-family: Courier;
+    font-size: 10;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+.player-n {
+    font-family: Courier;
+    font-size: 10;
+    white-space: nowrap;
+    color: darkred;
+}
