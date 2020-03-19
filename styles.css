@@ -6,7 +6,7 @@
 }
 
 h1 {
-    color: #33e5b5;
+    color: #64CFA8;
     text-align: center;
     font-family:Courier;
 }
@@ -64,6 +64,7 @@ body {
 
 .line {
     fill: none;
+    /* stroke: #64CFA8; */
     stroke: #33e5b5;
     stroke-width: 2;
   }
@@ -107,8 +108,8 @@ body {
     width: 100vw;
 }
 
-.saved {
-    background-color: #eac3c1;
+.saved-table {
+    background-color: #ddd;
     width: 90%;
     margin-left: 5%;
     position: relative;
@@ -124,25 +125,72 @@ body {
 }
 
 .saved-header {
-    width: 50%;
-    margin-left: 25%;
-    margin-right: 25%;
-    text-align: center;
+    /* background-color: #FFC4EB; */
+    background-color: #33b5e5;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 1%;
+    text-align: left;
     cursor: pointer;
+    font-weight: bold;
 }
 
-.saved-player {
-    width: 50%;
-    margin-left: 25%;
-    margin-right: 25%;
+.saved-player.row {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.saved-player.row.odd {
+    background-color: #F1F2EB;
+    
+}
+.saved-player.row.even {
+    background-color: #D8DAD3;
+}
+
+.saved-player.cell {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
     text-align: left;
+}
+
+.saved-player.cell.odd {
+    text-shadow: dimgray;
+}
+.saved-player.cell.even {
+    text-shadow: dimgray;
 }
 
 .player-cell {
-    width: 50%;
-    margin-left: 25%;
-    margin-right: 25%;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
     text-align: left;
+}
+.player-cell.header {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: left;
+}
+
+.highlighted{
+    fill: #33e5b5
+}
+
+.player-row.header{
+    background-color: #13294B;
+}
+
+.player-row.odd{
+    background-color: #F1F2EB;
+}
+
+.player-row.even {
+background-color: #D8DAD3;
 }
 
 .interact {
@@ -162,7 +210,7 @@ body {
 ul {
     position: absolute;
     overflow: scroll;
-    max-height: 100px;
+    max-height: 80px;
     z-index: 50;
     list-style: none;
     left: 40px;
@@ -183,11 +231,4 @@ ul {
     font-size: 10;
     white-space: nowrap;
     cursor: pointer;
-}
-
-.player-n {
-    font-family: Courier;
-    font-size: 10;
-    white-space: nowrap;
-    color: darkred;
 }

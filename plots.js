@@ -234,7 +234,7 @@ function updatePointsExplore(data, rank) {
     // remove all lines (so far these only show up for highlights)
     d3.selectAll("path.line").remove()
     // remove all highlighted points
-    d3.selectAll($("[class=new]")).remove()
+    d3.selectAll($("[class=highlighted]")).remove()
     // select the svg and all non-highlighted circles
     var svg = d3.selectAll('svg')
     var u = svg.selectAll('circle.all').data(data)
@@ -278,7 +278,7 @@ function removeHighlight() {
     // remove the current plot title ()
     d3.selectAll($("[class=plot_title]")).remove()
     // remove all the highlight points 
-    d3.selectAll($("[class=new]")).remove()
+    d3.selectAll($("[class=highlighted]")).remove()
     // remove highlight line (well actually just all lines for now)
     d3.selectAll("path.line").remove()
     // remove side table with detailed player info
@@ -329,7 +329,7 @@ function highlight(data, current, rank) {
     removeHighlight()
 
     // reset the title
-    makeTitle("click a green point to save " + current, 20, height - height * 0.02, false)
+    makeTitle("click a highlighted point to save " + current, 20, height - height * 0.02, false)
 
     // get an array of only data for the current player
     var xy = getPlayerData(data, current)
@@ -337,33 +337,38 @@ function highlight(data, current, rank) {
     // select the svg
     var svg = d3.select("svg")
     // create new circles with the selected data
-    const circle = svg.selectAll("circle.new")
+    const circle = svg.selectAll("circle.highlighted")
         .data(xy);
 
     // create the new table
     var tbl = newTable('player-table')[0]
     var tbdy = newTable('player-table')[1]
     // header row of the new table with just the player name 
-    newRow(tbdy, [current, ""], 'player-cell')
+    newRow(tbdy, ["Name", current], 'player-cell header', 'player-row even')
 
     // if there is more than one year in top rank show start and end
     if (d3.max(xy, d => d.Year) != d3.min(xy, d => d.Year)) {
-        newRow(tbdy, ["years in top " + rank,
-        xy.length + " (" + d3.min(xy, d => d.Year) + " - " + d3.max(xy, d => d.Year) + ")"], 'player-cell')
+        newRow(tbdy, ["Years in Top " + rank,
+        xy.length + " (" + d3.min(xy, d => d.Year) + " - " + d3.max(xy, d => d.Year) + ")"],
+            'player-cell', 'player-row odd')
     }
     // if there is only one year in top rank only show one year
     else {
-        newRow(tbdy, ["years in top " + rank, xy.length + " (" + d3.max(xy, d => d.Year) + ")"], 'player-cell')
+        newRow(tbdy, ["Years in Top " + rank, xy.length + " (" + d3.max(xy, d => d.Year) + ")"],
+            'player-cell', 'player-row odd')
     }
-    newRow(tbdy, ["average rating", Math.round(d3.mean(xy, d => d.Rating))], 'player-cell')
-    newRow(tbdy, ["highest rating", d3.max(xy, d => d.Rating)], 'player-cell')
-    newRow(tbdy, ["top rank", d3.min(xy, d => d.Rank)], 'player-cell')
+    newRow(tbdy, ["Average Rating", Math.round(d3.mean(xy, d => d.Rating))],
+        'player-cell', 'player-row even')
+    newRow(tbdy, ["Highest Rating", d3.max(xy, d => d.Rating)],
+        'player-cell', 'player-row odd')
+    newRow(tbdy, ["Top Rank", d3.min(xy, d => d.Rank)],
+        'player-cell', 'player-row even')
 
     // more rows if the highlighted player was ever highest rated
     if (d3.min(xy, d => d.Rank) == 1) {
         newRow(tbdy, ["years at #1", xy.filter(function (d) {
             return d.Rank == 1;
-        }).length], 'player-cell')
+        }).length], 'player-cell', 'player-row odd')
     }
 
     // add the table to page so it actually shows up
@@ -375,8 +380,7 @@ function highlight(data, current, rank) {
         .attr('cx', function (d) { return x(d.Year) })
         .attr('cy', function (d) { return y(d.Rating) })
         .attr("r", 3)
-        .attr("class", "new")
-        .style('fill', "#33e5b5")
+        .attr("class", "highlighted")
         // save a player to the player table
         .on('click', function () {
             savePlayer(current, xy, data)
@@ -421,11 +425,16 @@ function savePlayer(current, xy, data) {
         // set up the text to make a new row: Name, Stats
         var text = [
             current,
-            parseInt(Math.round(d3.mean(xy, d => d.Rating))) + "\n(in top " + rank + ")",
+            parseInt(Math.round(d3.mean(xy, d => d.Rating))) + "\n(top " + rank + ")",
             parseInt(d3.max(xy, d => d.Rating)),
             parseInt(d3.min(xy, d => d.Rank))]
         // build a new row with that text --> cells will have class 'saved-player'
-        newRow(tbdy, text, 'saved-player')
+        if (document.getElementById('saved').rows.length % 2 == 0) {
+            newRow(tbdy, text, 'saved-player cell even', 'saved-player row even')
+        }
+        else {
+            newRow(tbdy, text, 'saved-player cell odd', 'saved-player row odd')
+        }
         // loop through last row of cells (the ones just made)
         for (var i = cells.length - 4; i < cells.length; i++) {
             // set up to highlight the clicked player...
@@ -499,12 +508,15 @@ function newTable(tclass) {
 }
 
 // adds a row of text.length cells with class newclass to table tbdy
-function newRow(tbdy, text, newclass) {
+function newRow(tbdy, text, cellclass, rowclass) {
     var row = tbdy.insertRow(-1)
+    row.className = rowclass
+    row.id = rowclass
     for (i = 0; i < text.length; i++) {
         var cell = row.insertCell(i)
-        createCell(cell, text[i], newclass)
+        createCell(cell, text[i], cellclass)
     }
+    // row.addEventListener('mouseenter', function{})
     // document.getElementById('table').rows[-1].cells.length;
     // document.getElementById('activities').className='selectedItem';
     // cell2.attr("class", "player-table")
@@ -528,12 +540,13 @@ function sortBy(id) {
         switching = false;
         var rows = tbl.rows;
 
-        // Loop to go through all rows 
+        // Loop to go through all rows except header
         for (i = 1; i < (rows.length - 1); i++) {
             var Switch = false;
-
             // Fetch 2 elements that need to be compared 
+            // the current td element
             x = rows[i].getElementsByTagName("TD")[id];
+            // the next td element
             y = rows[i + 1].getElementsByTagName("TD")[id];
 
             if (id == 0) {// Check if 2 rows need to be switched 
@@ -561,10 +574,27 @@ function sortBy(id) {
         if (Switch) {
             // Function to switch rows and mark switch as completed 
             rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+
             switching = true;
         }
     }
-
+    // loop through all rows except header
+    for (i = 1; i < (rows.length); i++) {
+        // if the row is even...
+        if (i % 2 == 0) {
+            // ... and the row class is odd, change class -- so the row changes color
+            if (rows[i].getElementsByClassName("saved-player row odd")) {
+                rows[i].classList.remove('odd')
+                rows[i].classList.add('even')
+            }
+        }
+        else{
+            if (rows[i].getElementsByClassName("saved-player row even")){
+                rows[i].classList.remove('even')
+                rows[i].classList.add('odd')
+            }
+        }
+    }
 }
 
 // false when the user has not changed the rank
@@ -617,6 +647,10 @@ function searchPlayer(address) {
                         savePlayer(e.target.innerText, getPlayerData(data, e.target.innerText), data)
                     })
             }
+            // document.getElementById('searchUL')
+            //     .addEventListener('mouseleave', function (e) {
+            //         e.target.style.display = "none"
+            //     })
             // since the rank has not been updated since the last list creation
             rankchange = false
         }
