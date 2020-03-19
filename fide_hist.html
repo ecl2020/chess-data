@@ -2,15 +2,20 @@
 
 <head>
     <meta charset="utf-8">
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
     <title>Chess Rating Visualization</title>
     <link rel="stylesheet" href="./styles.css" />
     <!-- For jquery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <!-- For d3 -->
     <script src="https://d3js.org/d3.v4.js" charset="utf-8"></script>
+    <!-- For projections -- not sure if all of these are needed, maybe check on that later -->
+    <script src="https://d3js.org/d3-array.v1.min.js"></script>
+    <script src="https://d3js.org/d3-geo.v1.min.js"></script>
+    <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+
     <script src="./mapping.js"></script>
     <script src="./plots.js"></script>
-    <!-- <script src="https://d3js.org/topojson.v0.min.js"></script> -->
 
 </head>
 
@@ -28,4 +33,5 @@
         <script>makemap()</script>
     </div>
 </body>
+
 </html>

@@ -1,0 +1,117 @@
+FED,name_FED,ISO3,rating,name,players
+AFG,Afghanistan,AFG,2010,"Nuristani,A.",1
+ALB,Albania,ALB,2450,"Dervishi,Erald  ",15
+AND,Andorra,AND,2330,"Garcia,Raul  ",6
+ARG,Argentina,ARG,2575,"Sorokin,Maxim  ",313
+ARM,Armenia,ARM,2660,"Akopian,Vladimir  ",88
+AUS,Australia,AUS,2570,"Rogers,Ian  ",84
+AUT,Austria,AUT,2495,"Baumegger,Siegfried  ",508
+BRN,Bahrain,BHR,2205,"Al-Ghasra,Ali  ",6
+BAN,Bangladesh,BGD,2485,"Rahman,Ziaur  ",53
+BAR,Barbados,BRB,2320,"Buckmire,Ron  ",5
+BLR,Belarus,BLR,2675,"Gelfand,Boris  ",121
+BEL,Belgium,BEL,2640,"Gurevich,Mikhail  ",124
+BER,Bermuda,BMU,2225,"Black,Richard  ",3
+BIH,Bosnia and Herzegovina,BIH,2635,"Nikolic,Predrag  ",60
+BOT,Botswana,BWA,2205,"Hutcheson,J  ",6
+BRA,Brazil,BRA,2560,"Mecking, Henrique  ",219
+BUL,Bulgaria,BGR,2740,"Topalov,Veselin  ",251
+CAN,Canada,CAN,2565,"Spraggett,Kevin  ",130
+CHI,Chile,CHL,2600,"Morovic.Fernandez,Ivan  ",259
+CHN,China,CHN,2535,"Peng,Xiaomin  ",72
+COL,Colombia,COL,2505,"Garcia,Gildardo  ",66
+CRO,Croatia,HRV,2585,"Kozul,Zdenko  ",361
+CUB,Cuba,CUB,2535,"Arencibia,Walter  ",243
+CYP,Cyprus,CYP,2310,"Martidis,Alkis  ",10
+CZE,Czech Republic,CZE,2610,"Hracek,Zbynek  ",619
+DEN,Denmark,DNK,2595,"Hansen,Curt  ",299
+DOM,Dominican Republic,DOM,2415,"Mateo,Ramon  ",12
+EGY,Egypt,EGY,2485,"Mohamed,Esam.Ahmed.Nagib  ",68
+EST,Estonia,EST,2655,"Oll,Lembit  ",67
+FAI,Faroe Islands,FRO,2375,"Kristensen,Leif  ",16
+FIJ,Fiji,FJI,2220,"Norris,Damian.",1
+FIN,Finland,FIN,2425,"Yrjola,Jouni  ",160
+FRA,France,FRA,2645,"Lautier,Joel  ",1014
+GEO,Georgia,GEO,2650,"Azmaiparashvili,Zurab  ",110
+GER,Germany,DEU,2630,"Jussupow,Artur  ",2735
+GRE,Greece,GRC,2570,"Kotronias, Vasilios  ",273
+GUA,Guatemala,GTM,2435,"Juarez.Flores,Carlos.A  ",18
+GCI,Guernsey,GGY,2270,"Holland,Christopher  ",3
+HAI,Haiti,HTI,2130,"Afriany,V  ",1
+HKG,Hong Kong,HKG,2415,"Yang,Xian  ",12
+HUN,Hungary,HUN,2670,"Leko,Peter  ",1038
+ISL,Iceland,ISL,2630,"Hjartarson,Johann  ",60
+IND,India,IND,2770,"Anand,Viswanathan  ",408
+INA,Indonesia,IDN,2615,"Adianto,Utut  ",82
+IRI,Iran,IRN,2405,"Bagheri,Amir  ",56
+IRQ,Iraq,IRQ,2405,"Hussein,H.A  ",95
+IRL,Ireland,IRL,2600,"Baburin,Alexander  ",39
+ISR,Israel,ISR,2615,"Alterman,Boris  ",275
+ITA,Italy,ITA,2525,"Efimov,Igor  ",446
+JAM,Jamaica,JAM,2165,"Nelson, Abiodun  ",1
+JPN,Japan,JPN,2340,"Ramos,Domingo  ",11
+JCI,Jersey,JEY,2200,"Romeril,Stuart.Paul  ",3
+JOR,Jordan,JOR,2300,"Al-Ashhab,Saamer  ",31
+LAT,Latvia,LVA,2565,"Kengis,Edvins  ",77
+LIB,Lebanon,LBN,2300,"Repkova.Eid,Eva  ",13
+LBA,Libya,LBY,2180,"Amer,M  ",2
+LIE,Liechtenstein,LIE,2465,"Atlas,Valeri  ",6
+LTU,Lithuania,LTU,2610,"Rozentalis,Eduardas  ",113
+LUX,Luxembourg,LUX,2525,"David,Alberto  ",15
+MAC,Macao,MAC,2200,"Calangi,Zachary.Alexander  ",7
+MAS,Malaysia,MYS,2375,"Mas,Hafizulhelmi  ",30
+MLT,Malta,MLT,2365,"Borg,Geoffrey  ",8
+MDA,Moldova,MDA,2580,"Bologan,Viktor  ",76
+MNC,Monaco,MCO,2335,"Kesmaecker,Philippe  ",8
+MAR,Morocco,MAR,2535,"Hamdouchi,Hichem  ",13
+MOZ,Mozambique,MOZ,2210,"Chambule,Pedro.Lucas  ",2
+MYA,Myanmar,MMR,2395,"Zaw,Win.Lay  ",16
+NAM,Namibia,NAM,2240,"Mueller,Leonhard  ",1
+NEP,Nepal,NPL,2185,"Badri,Nepali  ",3
+NED,Netherlands,NLD,2620,"Timman,Jan.",347
+AHO,Netherlands Antilles,ANT,2220,"Dickhoff,Ronald  ",7
+NZL,New Zealand,NZL,2440,"Dive,Russell.John  ",41
+NCA,Nicaragua,NIC,2415,"Davila,Carlos  ",20
+NGR,Nigeria,NGA,2310,"Akintola,Fola  ",14
+NOR,Norway,NOR,2570,"Agdestein,Simen  ",113
+PAK,Pakistan,PAK,2425,"Lodhi,Mahmood  ",3
+PLE,Palestine,PSE,2245,"Moussa,Alaa-Eddine  ",3
+PAN,Panama,PAN,2270,"Fabrega,Enrique  ",4
+PAR,Paraguay,PRY,2400,"Valiente,Cristobal  ",16
+PER,Peru,PER,2630,"Granda.Zuniga,Julio.",61
+PHI,Philippines,PHL,2560,"Torre,Eugenio  ",40
+POL,Poland,POL,2660,"Krasenkow,Michal  ",1015
+POR,Portugal,PRT,2495,"Antunes,Antonio  ",70
+PUR,Puerto Rico,PRI,2270,"Torres,Luis.",19
+QAT,Qatar,QAT,2425,"Al-Modiahki,Mohamad  ",11
+RUS,Russia,RUS,2825,"Kasparov,Gary  ",1928
+SMR,San Marino,SMR,2145,"Volpinari,Danilo  ",3
+SCO,United Kingdom,GBR,2500,"McNab,Colin.",76
+ENG,United Kingdom,GBR,2670,"Adams,Michael  ",464
+WLS,United Kingdom,GBR,2365,"Cummings,David.H  ",48
+SEY,Seychelles,SYC,2200,"Kimende,Ralph  ",5
+SIN,Singapore,SGP,2430,"Wong,Meng-Kong  ",27
+SVK,Slovakia,SVK,2580,"Ftacnik,Lubomir  ",252
+SLO,Slovenia,SVN,2690,"Beliavsky,Alexander.",188
+RSA,South Africa,ZAF,2410,"Michelakis,George  ",14
+ESP,Spain,ESP,2710,"Shirov,Alexei  ",939
+SUD,Sudan,SDN,2215,"Hamadto, Izz-El-Din  ",3
+SWE,Sweden,SWE,2635,"Andersson,Ulf  ",302
+SUI,Switzerland,CHE,2635,"Milov,Vadim  ",230
+SYR,Syria,SYR,2395,"Basel,Hamad  ",24
+THA,Thailand,THA,2335,"Chaivichit, Suchart  ",7
+TUN,Tunisia,TUN,2385,"Bouaziz,Slim  ",6
+TUR,Turkey,TUR,2595,"Atalik,Suat  ",75
+TKM,Turkmenistan,TKM,2585,"Annakov,Babakuli  ",34
+UGA,Uganda,UGA,2220,"Zabasajja,Willy  ",2
+UKR,Ukraine,UKR,2740,"Ivanchuk,Vassily  ",536
+UAE,United Arab Emirates,ARE,2340,"Othman,A.",42
+USA,United States,USA,2720,"Kamsky,Gata  ",610
+URU,Uruguay,URY,2475,"Rodriguez,Andres  ",21
+ISV,US Virgin Islands,VIR,2220,"Jackson,R  ",1
+UZB,Uzbekistan,UZB,2625,"Nenashev,Alexander  ",51
+VEN,Venezuela,VEN,2375,"Rohl,Juan  ",20
+VIE,Vietnam,VNM,2530,"Dao,Thien.Hai  ",23
+YEM,Yemen,YEM,2360,"Al.Hadarani,Hatim  ",5
+ZAM,Zambia,ZMB,2200,"Chumfwa,Stanely  ",4
+ZIM,Zimbabwe,ZWE,2220,"Cochrane,John.Miles  ",6

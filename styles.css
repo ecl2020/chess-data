@@ -87,6 +87,7 @@ body {
 .player-table {
     position: relative;
     background-color: #ddd;
+    /* opacity: 0.5; */
     /* border-color: palegreen;
     border-style: double; */
     float: left;
