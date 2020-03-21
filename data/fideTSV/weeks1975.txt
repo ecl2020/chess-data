@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 R. Fischer	2780	1975	USA	1	
 An. Karpov	2705	1975	USR	2	
 V. Kortchnoi	2665	1975	SUI	3	

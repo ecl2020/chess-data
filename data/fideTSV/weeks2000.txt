@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 Gary Kasparov	2851	2000	RUS	1	
 Robert J Fischer	2780	2000	USA	2	
 Viswanathan Anand	2769	2000	IND	3	
@@ -6248,7 +6248,7 @@ Peter Mack	2305	2000	GER	6246
 Antonio Marcet Bisbale	2305	2000	ESP	6247	
 Francois Margot	2305	2000	SUI	6248	
 Petr Melnichuk	2305	2000	RUS	6249	
-Andrei, G Melnikov	2305	2000	RUS	6250	
+Andrei G Melnikov	2305	2000	RUS	6250	
 Roberto Messa	2305	2000	ITA	6251	
 Janos Mika	2305	2000	HUN	6252	
 Sebastian Mueller	2305	2000	GER	6253	
@@ -12236,7 +12236,7 @@ Kenneth R Clayton	2240	2000	USA	12234
 Vladimir Cobic	2240	2000	YUG	12235	
 Thomas Sean Colure	2240	2000	USA	12236	
 Enrique Conejo	2240	2000	USA	12237	
-Thomas, J Costigan	2240	2000	USA	12238	
+Thomas J Costigan	2240	2000	USA	12238	
 Santiago Cuesta Navarro	2240	2000	CUB	12239	
 Janos Cuibus	2240	2000	HUN	12240	
 Petru Culcear	2240	2000	ROM	12241	
@@ -17516,7 +17516,7 @@ Antonio Molina Morena	2197	2000	ESP	17514
 David Monell Camarasa	2197	2000	ESP	17515	
 S. Mahdi Muayad	2197	2000	IRQ	17516	
 Maximilian Mueller	2197	2000	GER	17517	
-Branisalv, S Nikolic	2197	2000	YUG	17518	
+Branisalv S Nikolic	2197	2000	YUG	17518	
 Martin Nilsson	2197	2000	SWE	17519	
 Marco Oliveira	2197	2000	POR	17520	
 Ralph Ottstadt	2197	2000	GER	17521	

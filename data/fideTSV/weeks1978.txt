@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 An. Karpov	2725	1978	USR	1	
 V. Kortchnoi	2665	1978	SUI	2	
 H. Mecking	2630	1978	BRA	3	

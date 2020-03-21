@@ -1,0 +1,2659 @@
+Name,Rating,Year,Fed,Rank,name_FED,ISO3
+U. Andersson,2635,1983,SWE,4,Sweden,SWE
+L. Karlsson,2505,1983,SWE,72,Sweden,SWE
+T. Wedberg,2500,1983,SWE,89,Sweden,SWE
+H. Schussler,2485,1983,SWE,116,Sweden,SWE
+L.-A. Schneider,2455,1983,SWE,206,Sweden,SWE
+A. Ornstein,2450,1983,SWE,227,Sweden,SWE
+J. Eslon,2425,1983,SWE,348,Sweden,SWE
+D. Cramling,2415,1983,SWE,409,Sweden,SWE
+B. Jansson,2415,1983,SWE,418,Sweden,SWE
+S. Ivarsson,2405,1983,SWE,475,Sweden,SWE
+Renman,2405,1983,SWE,495,Sweden,SWE
+Ekstrom,2400,1983,SWE,512,Sweden,SWE
+Ch. Niklasson,2400,1983,SWE,520,Sweden,SWE
+Akesson,2395,1983,SWE,535,Sweden,SWE
+G. Johansson,2395,1983,SWE,546,Sweden,SWE
+Th. Ernst,2380,1983,SWE,678,Sweden,SWE
+B. Hammar,2370,1983,SWE,765,Sweden,SWE
+K. Kaiszauri,2370,1983,SWE,769,Sweden,SWE
+P. Cramling,2355,1983,SWE,897,Sweden,SWE
+Bjork,2350,1983,SWE,941,Sweden,SWE
+M. Sjoberg,2350,1983,SWE,977,Sweden,SWE
+Ch. Bergstrom,2345,1983,SWE,991,Sweden,SWE
+L.E. Petersson,2345,1983,SWE,1033,Sweden,SWE
+E. Lundin,2335,1983,SWE,1121,Sweden,SWE
+Rorvall,2335,1983,SWE,1134,Sweden,SWE
+Berkell,2330,1983,SWE,1151,Sweden,SWE
+Th. Welin,2330,1983,SWE,1209,Sweden,SWE
+M. Wahlbohm,2320,1983,SWE,1340,Sweden,SWE
+B. Svensson,2315,1983,SWE,1390,Sweden,SWE
+B. Andersson,2310,1983,SWE,1397,Sweden,SWE
+J. Hector,2300,1983,SWE,1559,Sweden,SWE
+J.-O. Lind,2300,1983,SWE,1576,Sweden,SWE
+R. Lekander,2295,1983,SWE,1648,Sweden,SWE
+M. Carlson,2290,1983,SWE,1699,Sweden,SWE
+D. Hansson,2290,1983,SWE,1720,Sweden,SWE
+H. Akvist,2285,1983,SWE,1766,Sweden,SWE
+M. Bergstrom,2285,1983,SWE,1771,Sweden,SWE
+Rothen,2285,1983,SWE,1833,Sweden,SWE
+Carleson,2280,1983,SWE,1871,Sweden,SWE
+C. Gruvaeus,2275,1983,SWE,1959,Sweden,SWE
+G. Andersson,2260,1983,SWE,2187,Sweden,SWE
+P. Fransson,2240,1983,SWE,2638,Sweden,SWE
+G. Svenn,2240,1983,SWE,2690,Sweden,SWE
+M. Svenn,2235,1983,SWE,2771,Sweden,SWE
+M. Bergman-Olsen,2230,1983,SWE,2797,Sweden,SWE
+Ljungquist,2230,1983,SWE,2856,Sweden,SWE
+Gannholm,2220,1983,SWE,3031,Sweden,SWE
+Grahn,2215,1983,SWE,3135,Sweden,SWE
+Ch. Hartman,2215,1983,SWE,3139,Sweden,SWE
+G. Svensson,2215,1983,SWE,3180,Sweden,SWE
+Marttala,2205,1983,SWE,3391,Sweden,SWE
+B. Borisova,2170,1983,SWE,3543,Sweden,SWE
+H. Van Parreren,2035,1983,SWE,3692,Sweden,SWE
+S. Bengtsson,2025,1983,SWE,3701,Sweden,SWE
+M. Aatolainen,1950,1983,SWE,3843,Sweden,SWE
+Nyberg,1895,1983,SWE,4017,Sweden,SWE
+L. Portisch,2620,1983,HUN,7,Hungary,HUN
+Z. Ribli,2595,1983,HUN,14,Hungary,HUN
+Gy. Sax,2560,1983,HUN,31,Hungary,HUN
+J. Pinter,2535,1983,HUN,41,Hungary,HUN
+A. Adorjan,2530,1983,HUN,44,Hungary,HUN
+I. Csom,2505,1983,HUN,69,Hungary,HUN
+I. Farago,2505,1983,HUN,70,Hungary,HUN
+A. Groszpeter,2505,1983,HUN,71,Hungary,HUN
+L. Szabo,2485,1983,HUN,118,Hungary,HUN
+L. Hazai,2465,1983,HUN,161,Hungary,HUN
+L. Karsa,2460,1983,HUN,179,Hungary,HUN
+P. Lukacs,2460,1983,HUN,182,Hungary,HUN
+Gy.V. Forintos,2450,1983,HUN,220,Hungary,HUN
+L. Barczay,2445,1983,HUN,236,Hungary,HUN
+P. Szekely,2435,1983,HUN,305,Hungary,HUN
+P. Dely,2430,1983,HUN,312,Hungary,HUN
+F. Portisch,2430,1983,HUN,331,Hungary,HUN
+Szalanczy,2420,1983,HUN,396,Hungary,HUN
+L. Vadasz,2420,1983,HUN,398,Hungary,HUN
+E. Haag,2415,1983,HUN,413,Hungary,HUN
+L. Lengyel,2415,1983,HUN,422,Hungary,HUN
+T. Horvath,2410,1983,HUN,450,Hungary,HUN
+I. Bilek,2405,1983,HUN,470,Hungary,HUN
+G. Kallai,2405,1983,HUN,476,Hungary,HUN
+L. Liptay,2405,1983,HUN,483,Hungary,HUN
+Pal Petran,2405,1983,HUN,490,Hungary,HUN
+P. Szilagyi,2405,1983,HUN,501,Hungary,HUN
+J. Flesch,2395,1983,HUN,542,Hungary,HUN
+Cs. Meleghegyi,2395,1983,HUN,555,Hungary,HUN
+J. Tompa,2395,1983,HUN,565,Hungary,HUN
+Jr. Karolyi,2390,1983,HUN,588,Hungary,HUN
+L. Cserna,2385,1983,HUN,625,Hungary,HUN
+Karoly Honfi,2385,1983,HUN,630,Hungary,HUN
+B. Lengyel,2385,1983,HUN,635,Hungary,HUN
+A. Lilienthal,2385,1983,HUN,636,Hungary,HUN
+I. Polgar,2385,1983,HUN,645,Hungary,HUN
+A. Schneider,2385,1983,HUN,650,Hungary,HUN
+Varasdy,2385,1983,HUN,657,Hungary,HUN
+E. Vegh,2385,1983,HUN,658,Hungary,HUN
+Gy. Horvath,2380,1983,HUN,682,Hungary,HUN
+B. Perenyi,2380,1983,HUN,695,Hungary,HUN
+Rovid,2375,1983,HUN,740,Hungary,HUN
+Ervin Nagy,2370,1983,HUN,776,Hungary,HUN
+L. Eperjesi,2365,1983,HUN,802,Hungary,HUN
+J. Pogats,2365,1983,HUN,821,Hungary,HUN
+Gy. Rajna,2365,1983,HUN,826,Hungary,HUN
+E. Varnusz,2360,1983,HUN,885,Hungary,HUN
+L. Navarovszky,2355,1983,HUN,918,Hungary,HUN
+L.M. Kovacs,2350,1983,HUN,960,Hungary,HUN
+Lovass,2350,1983,HUN,965,Hungary,HUN
+Marosi,2350,1983,HUN,968,Hungary,HUN
+J. Dory,2345,1983,HUN,1005,Hungary,HUN
+T. Halasz,2345,1983,HUN,1013,Hungary,HUN
+Sapi,2345,1983,HUN,1038,Hungary,HUN
+L. Szell,2345,1983,HUN,1042,Hungary,HUN
+T. Tolnai,2345,1983,HUN,1043,Hungary,HUN
+T. Utasi,2345,1983,HUN,1046,Hungary,HUN
+B. Vigh,2345,1983,HUN,1048,Hungary,HUN
+I. Csala,2340,1983,HUN,1059,Hungary,HUN
+Jo. Horvath,2340,1983,HUN,1067,Hungary,HUN
+J. Rigo,2340,1983,HUN,1079,Hungary,HUN
+J. Szabolcsi,2335,1983,HUN,1140,Hungary,HUN
+T. Filep,2330,1983,HUN,1168,Hungary,HUN
+Glatt,2325,1983,HUN,1236,Hungary,HUN
+L. Perecz,2325,1983,HUN,1253,Hungary,HUN
+M. Kaposztas,2320,1983,HUN,1306,Hungary,HUN
+A. Meszaros,2320,1983,HUN,1318,Hungary,HUN
+L. Prelovszky,2320,1983,HUN,1325,Hungary,HUN
+Sugar,2320,1983,HUN,1336,Hungary,HUN
+L. Zsinka,2320,1983,HUN,1344,Hungary,HUN
+P. Hardicsay,2315,1983,HUN,1359,Hungary,HUN
+Hradeczky,2310,1983,HUN,1419,Hungary,HUN
+P. Sinkovics,2310,1983,HUN,1453,Hungary,HUN
+I. Mayer,2305,1983,HUN,1501,Hungary,HUN
+L. Pacsay,2305,1983,HUN,1508,Hungary,HUN
+J. Havasi,2300,1983,HUN,1557,Hungary,HUN
+A. Kiss,2300,1983,HUN,1570,Hungary,HUN
+A. Ozsvath,2300,1983,HUN,1586,Hungary,HUN
+Titkos,2300,1983,HUN,1601,Hungary,HUN
+T. Erdelyi,2295,1983,HUN,1626,Hungary,HUN
+Gy. Forgacs,2295,1983,HUN,1629,Hungary,HUN
+I. Lorincz,2295,1983,HUN,1651,Hungary,HUN
+G. Kadas,2290,1983,HUN,1728,Hungary,HUN
+I. Somogyi,2290,1983,HUN,1750,Hungary,HUN
+I. Bokor,2285,1983,HUN,1774,Hungary,HUN
+Gy. Feher,2285,1983,HUN,1789,Hungary,HUN
+Gyorkos,2285,1983,HUN,1798,Hungary,HUN
+M. Hever,2285,1983,HUN,1802,Hungary,HUN
+G. Kadar,2285,1983,HUN,1810,Hungary,HUN
+S. Orgovan,2285,1983,HUN,1826,Hungary,HUN
+G. Szilagyi,2285,1983,HUN,1842,Hungary,HUN
+Im. Horvath,2280,1983,HUN,1885,Hungary,HUN
+L. Kubacsny,2280,1983,HUN,1890,Hungary,HUN
+G. Letay,2280,1983,HUN,1894,Hungary,HUN
+Ortel,2280,1983,HUN,1903,Hungary,HUN
+I. Polyak,2280,1983,HUN,1911,Hungary,HUN
+I. Schrancz,2280,1983,HUN,1919,Hungary,HUN
+Szeles,2280,1983,HUN,1924,Hungary,HUN
+J. Tabor,2280,1983,HUN,1925,Hungary,HUN
+Gy. Kende,2275,1983,HUN,1968,Hungary,HUN
+Koszorus,2275,1983,HUN,1970,Hungary,HUN
+Sr.L. Szollosi,2275,1983,HUN,2005,Hungary,HUN
+B. Balogh,2270,1983,HUN,2022,Hungary,HUN
+J. Boguszlavzky,2270,1983,HUN,2025,Hungary,HUN
+S. Fodre,2270,1983,HUN,2036,Hungary,HUN
+Honos,2270,1983,HUN,2044,Hungary,HUN
+Gy. Kluger,2270,1983,HUN,2052,Hungary,HUN
+M. Morvay,2270,1983,HUN,2070,Hungary,HUN
+Puschmann,2270,1983,HUN,2078,Hungary,HUN
+L. Abel,2265,1983,HUN,2104,Hungary,HUN
+Z. Nemeth,2265,1983,HUN,2154,Hungary,HUN
+Z. Sarosi,2265,1983,HUN,2167,Hungary,HUN
+S. Sulyok,2265,1983,HUN,2175,Hungary,HUN
+I. Kertesz,2260,1983,HUN,2234,Hungary,HUN
+I. Poor,2260,1983,HUN,2266,Hungary,HUN
+B. Radnoti,2260,1983,HUN,2269,Hungary,HUN
+Demeter,2255,1983,HUN,2321,Hungary,HUN
+Fabian,2255,1983,HUN,2324,Hungary,HUN
+Kormanyos,2255,1983,HUN,2348,Hungary,HUN
+R. Ortega,2255,1983,HUN,2365,Hungary,HUN
+P. Kamaras,2250,1983,HUN,2447,Hungary,HUN
+Z. Szabo,2250,1983,HUN,2490,Hungary,HUN
+Tokaji Nagi,2250,1983,HUN,2493,Hungary,HUN
+Gy. Emodi,2245,1983,HUN,2527,Hungary,HUN
+S. Farago,2245,1983,HUN,2529,Hungary,HUN
+P. Gracs,2245,1983,HUN,2537,Hungary,HUN
+J. Palkovi,2245,1983,HUN,2567,Hungary,HUN
+G. Pirisi,2245,1983,HUN,2569,Hungary,HUN
+I. Waldmann,2245,1983,HUN,2591,Hungary,HUN
+M. Krajcsovics,2240,1983,HUN,2655,Hungary,HUN
+Kapu,2235,1983,HUN,2736,Hungary,HUN
+Zs. Veroci-Petronic,2235,1983,HUN,2780,Hungary,HUN
+A. Bernei,2230,1983,HUN,2798,Hungary,HUN
+Z. Borloy,2230,1983,HUN,2802,Hungary,HUN
+Jozsa,2230,1983,HUN,2840,Hungary,HUN
+I. Mufics,2230,1983,HUN,2871,Hungary,HUN
+J. Ruppaner,2230,1983,HUN,2887,Hungary,HUN
+G. Bacso,2220,1983,HUN,3011,Hungary,HUN
+Gy. Biro,2220,1983,HUN,3015,Hungary,HUN
+S. Horvath,2220,1983,HUN,3038,Hungary,HUN
+L.D. Kovacs,2220,1983,HUN,3052,Hungary,HUN
+S. Bartha,2215,1983,HUN,3108,Hungary,HUN
+Peter Bauer,2215,1983,HUN,3109,Hungary,HUN
+Gy. Ondi,2215,1983,HUN,3166,Hungary,HUN
+Szirmai,2215,1983,HUN,3182,Hungary,HUN
+A. Cseh,2210,1983,HUN,3212,Hungary,HUN
+J. Adok,2205,1983,HUN,3283,Hungary,HUN
+I. Borsi,2205,1983,HUN,3296,Hungary,HUN
+J. Brandics,2205,1983,HUN,3297,Hungary,HUN
+Edocs,2205,1983,HUN,3318,Hungary,HUN
+G. Hetenyi,2205,1983,HUN,3352,Hungary,HUN
+Gy. Honfi,2205,1983,HUN,3354,Hungary,HUN
+Laszlo Kiss,2205,1983,HUN,3371,Hungary,HUN
+Luque,2205,1983,HUN,3386,Hungary,HUN
+S. Poor,2205,1983,HUN,3423,Hungary,HUN
+L. Kosa,2200,1983,HUN,3502,Hungary,HUN
+G. Laczo,2200,1983,HUN,3503,Hungary,HUN
+E. Lenart,2200,1983,HUN,3505,Hungary,HUN
+J. Nagy,2200,1983,HUN,3510,Hungary,HUN
+E. Salanki,2200,1983,HUN,3515,Hungary,HUN
+J. Toth,2200,1983,HUN,3527,Hungary,HUN
+M. Ivanka-Budinsky,2165,1983,HUN,3546,Hungary,HUN
+Porubszky-Angyalosin,2120,1983,HUN,3578,Hungary,HUN
+M. Grosch,2105,1983,HUN,3594,Hungary,HUN
+T. Csonkics,2095,1983,HUN,3607,Hungary,HUN
+R. Kas,2090,1983,HUN,3613,Hungary,HUN
+M. Kovacs-Pinter,2090,1983,HUN,3614,Hungary,HUN
+Karakas,2060,1983,HUN,3647,Hungary,HUN
+G. Mathe,2030,1983,HUN,3698,Hungary,HUN
+L. Szaday,2020,1983,HUN,3720,Hungary,HUN
+Buzsor,2015,1983,HUN,3722,Hungary,HUN
+Il. Kurucsai,2015,1983,HUN,3726,Hungary,HUN
+Karolyne Honfi,2005,1983,HUN,3744,Hungary,HUN
+Is. Kurucsai,2000,1983,HUN,3755,Hungary,HUN
+Gy. Krizsan-Bilek,1965,1983,HUN,3819,Hungary,HUN
+B. Sinka,1955,1983,HUN,3839,Hungary,HUN
+Zs. Barta,1950,1983,HUN,3846,Hungary,HUN
+Kereszturi,1950,1983,HUN,3852,Hungary,HUN
+M. Nemeth,1950,1983,HUN,3857,Hungary,HUN
+I. Zsogony,1925,1983,HUN,3906,Hungary,HUN
+E. Finta,1920,1983,HUN,3908,Hungary,HUN
+E. Mekis,1900,1983,HUN,3999,Hungary,HUN
+P. Csatlos,1870,1983,HUN,4074,Hungary,HUN
+E. Csom,1840,1983,HUN,4119,Hungary,HUN
+M. Kurucsai,1840,1983,HUN,4122,Hungary,HUN
+H. Nagy,1825,1983,HUN,4153,Hungary,HUN
+I. Deak,1815,1983,HUN,4158,Hungary,HUN
+E. Gencs,1805,1983,HUN,4175,Hungary,HUN
+J. Timman,2605,1983,NED,11,Netherlands,NLD
+G. Sosonko,2585,1983,NED,18,Netherlands,NLD
+J. Van der Wiel,2530,1983,NED,47,Netherlands,NLD
+Ree,2500,1983,NED,86,Netherlands,NLD
+P. Van der Sterren,2460,1983,NED,189,Netherlands,NLD
+P. Scheeren,2445,1983,NED,253,Netherlands,NLD
+G. Ligterink,2440,1983,NED,271,Netherlands,NLD
+C. Van Wijgerden,2440,1983,NED,281,Netherlands,NLD
+J. Donner,2420,1983,NED,376,Netherlands,NLD
+H. Bouwmeester,2410,1983,NED,441,Netherlands,NLD
+F. Kuijpers,2405,1983,NED,481,Netherlands,NLD
+B. Enklaar,2395,1983,NED,540,Netherlands,NLD
+K. Langeweg,2395,1983,NED,551,Netherlands,NLD
+R. Kuijf,2385,1983,NED,632,Netherlands,NLD
+H. Bohm,2380,1983,NED,671,Netherlands,NLD
+De Wit J.S.,2370,1983,NED,760,Netherlands,NLD
+L. Pliester,2370,1983,NED,779,Netherlands,NLD
+F. Van der Vliet,2370,1983,NED,790,Netherlands,NLD
+R. Hartoch,2360,1983,NED,863,Netherlands,NLD
+P.A. Boersma,2355,1983,NED,891,Netherlands,NLD
+F.W.M. Borm,2355,1983,NED,892,Netherlands,NLD
+Happel,2355,1983,NED,902,Netherlands,NLD
+G. Den Broeder,2345,1983,NED,1003,Netherlands,NLD
+H. Kuijf,2345,1983,NED,1020,Netherlands,NLD
+J. Van Baarle,2345,1983,NED,1047,Netherlands,NLD
+D.D. Van Geet,2335,1983,NED,1143,Netherlands,NLD
+Faase,2325,1983,NED,1229,Netherlands,NLD
+Van Reek,2325,1983,NED,1271,Netherlands,NLD
+Van Scheltinga,2325,1983,NED,1272,Netherlands,NLD
+J. Vogel,2325,1983,NED,1273,Netherlands,NLD
+J.A.J. Van Mil,2315,1983,NED,1392,Netherlands,NLD
+G. Welling,2315,1983,NED,1394,Netherlands,NLD
+C. Baljon,2310,1983,NED,1400,Netherlands,NLD
+H. Grooten,2310,1983,NED,1416,Netherlands,NLD
+J. Marcus,2310,1983,NED,1438,Netherlands,NLD
+A. Van Dop,2310,1983,NED,1461,Netherlands,NLD
+Hofland,2305,1983,NED,1491,Netherlands,NLD
+R. Witt,2295,1983,NED,1682,Netherlands,NLD
+T. De Jong,2285,1983,NED,1785,Netherlands,NLD
+P. Gelpke,2285,1983,NED,1792,Netherlands,NLD
+H. Janssen,2285,1983,NED,1808,Netherlands,NLD
+F. Nijboer,2285,1983,NED,1823,Netherlands,NLD
+G.J. Timmerman,2285,1983,NED,1846,Netherlands,NLD
+H. Cardon,2280,1983,NED,1870,Netherlands,NLD
+G.J. Ballon,2275,1983,NED,1932,Netherlands,NLD
+G.-J. De Boer,2275,1983,NED,1946,Netherlands,NLD
+A De Savornin Lohman,2275,1983,NED,1947,Netherlands,NLD
+R. Douven,2275,1983,NED,1950,Netherlands,NLD
+Van Dijk,2275,1983,NED,2010,Netherlands,NLD
+R. Dieks,2270,1983,NED,2031,Netherlands,NLD
+Kerkhoff,2270,1983,NED,2050,Netherlands,NLD
+C. Stehouwer,2270,1983,NED,2092,Netherlands,NLD
+J. De Lange,2265,1983,NED,2118,Netherlands,NLD
+F. Goldstern,2260,1983,NED,2219,Netherlands,NLD
+Jo. Piket,2260,1983,NED,2265,Netherlands,NLD
+F.A. Cuijpers,2255,1983,NED,2320,Netherlands,NLD
+B. Carlier,2250,1983,NED,2412,Netherlands,NLD
+De Roode,2250,1983,NED,2421,Netherlands,NLD
+J. Van den Berg,2250,1983,NED,2495,Netherlands,NLD
+Van der Linde,2250,1983,NED,2496,Netherlands,NLD
+H. Vlam,2250,1983,NED,2499,Netherlands,NLD
+L. Stein,2245,1983,NED,2579,Netherlands,NLD
+Westerveld,2245,1983,NED,2594,Netherlands,NLD
+D. Dieks,2240,1983,NED,2626,Netherlands,NLD
+Hoogendoorn,2240,1983,NED,2645,Netherlands,NLD
+P. Van der Weide,2240,1983,NED,2698,Netherlands,NLD
+M.A. Wind,2220,1983,NED,3103,Netherlands,NLD
+Straat,2215,1983,NED,3179,Netherlands,NLD
+Vosselman,2215,1983,NED,3190,Netherlands,NLD
+A. Blees,2210,1983,NED,3205,Netherlands,NLD
+G. Van Manen,2205,1983,NED,3457,Netherlands,NLD
+A. Van der Mije,2145,1983,NED,3557,Netherlands,NLD
+E. Belle,2065,1983,NED,3643,Netherlands,NLD
+C. Bruinenberg,2045,1983,NED,3667,Netherlands,NLD
+C. Vreeken,2040,1983,NED,3682,Netherlands,NLD
+Van der Giessen,1990,1983,NED,3770,Netherlands,NLD
+Stada,1970,1983,NED,3808,Netherlands,NLD
+J. Mulder,1950,1983,NED,3856,Netherlands,NLD
+F. Heemskerk,1940,1983,NED,3865,Netherlands,NLD
+C. Pluymert,1940,1983,NED,3872,Netherlands,NLD
+Vogel-De Graaf,1925,1983,NED,3904,Netherlands,NLD
+M. Van Elst,1905,1983,NED,3992,Netherlands,NLD
+Van Gent,1900,1983,NED,4006,Netherlands,NLD
+H. De Greef,1890,1983,NED,4029,Netherlands,NLD
+P. Cameron,1885,1983,NED,4039,Netherlands,NLD
+Y. Nagel,1885,1983,NED,4047,Netherlands,NLD
+A. Cameron,1875,1983,NED,4063,Netherlands,NLD
+Scholl,1860,1983,NED,4098,Netherlands,NLD
+Theunissen,1830,1983,NED,4149,Netherlands,NLD
+Spook,1810,1983,NED,4168,Netherlands,NLD
+V. Kortchnoi,2600,1983,SUI,12,Switzerland,CHE
+W. Hug,2440,1983,SUI,265,Switzerland,CHE
+Partos,2425,1983,SUI,361,Switzerland,CHE
+H. Wirthensohn,2425,1983,SUI,364,Switzerland,CHE
+F. Gobet,2410,1983,SUI,448,Switzerland,CHE
+E. Bhend,2370,1983,SUI,755,Switzerland,CHE
+M. Schauwecker,2370,1983,SUI,782,Switzerland,CHE
+H. Karl,2350,1983,SUI,957,Switzerland,CHE
+Ph. Ammann,2345,1983,SUI,986,Switzerland,CHE
+B. Zueger,2340,1983,SUI,1093,Switzerland,CHE
+G. Franzoni,2335,1983,SUI,1106,Switzerland,CHE
+M. Wittwer,2335,1983,SUI,1146,Switzerland,CHE
+J. Herzog,2325,1983,SUI,1242,Switzerland,CHE
+Hohler,2320,1983,SUI,1300,Switzerland,CHE
+D. Leuba,2315,1983,SUI,1368,Switzerland,CHE
+Schaufelberger,2315,1983,SUI,1385,Switzerland,CHE
+W. Bichsel,2305,1983,SUI,1468,Switzerland,CHE
+P. Hammer,2305,1983,SUI,1489,Switzerland,CHE
+R. Roth,2305,1983,SUI,1518,Switzerland,CHE
+Vucenovic,2305,1983,SUI,1531,Switzerland,CHE
+M. Hofmann,2300,1983,SUI,1563,Switzerland,CHE
+Huss,2300,1983,SUI,1565,Switzerland,CHE
+Farron,2290,1983,SUI,1709,Switzerland,CHE
+M. Trepp,2270,1983,SUI,2096,Switzerland,CHE
+E. Gereben,2260,1983,SUI,2216,Switzerland,CHE
+M. Ruefenacht,2260,1983,SUI,2273,Switzerland,CHE
+Erismann,2250,1983,SUI,2427,Switzerland,CHE
+P. Ammann,2225,1983,SUI,2907,Switzerland,CHE
+Halg,2220,1983,SUI,3035,Switzerland,CHE
+Krahenbuhl,2220,1983,SUI,3053,Switzerland,CHE
+Gfeller,2215,1983,SUI,3132,Switzerland,CHE
+J. Rosenthal,2215,1983,SUI,3174,Switzerland,CHE
+M. Keller,2085,1983,SUI,3621,Switzerland,CHE
+Veprek,1955,1983,SUI,3841,Switzerland,CHE
+Burgin,1920,1983,SUI,3907,Switzerland,CHE
+Leu,1905,1983,SUI,3968,Switzerland,CHE
+M. Steiner,1905,1983,SUI,3986,Switzerland,CHE
+C. Baumann,1870,1983,SUI,4073,Switzerland,CHE
+Eigenmann,1860,1983,SUI,4094,Switzerland,CHE
+Schladetzky,1855,1983,SUI,4104,Switzerland,CHE
+Nopfer,1825,1983,SUI,4154,Switzerland,CHE
+J. Kuhnle,1820,1983,SUI,4157,Switzerland,CHE
+Kung,1800,1983,SUI,4184,Switzerland,CHE
+Y. Seirawan,2600,1983,USA,13,United States,USA
+L.O. Alburt,2560,1983,USA,27,United States,USA
+L. Kavalek,2560,1983,USA,30,United States,USA
+W.S. Browne,2540,1983,USA,38,United States,USA
+Tarjan,2535,1983,USA,43,United States,USA
+R. Henley,2525,1983,USA,48,United States,USA
+L. Christiansen,2520,1983,USA,50,United States,USA
+R. Byrne,2515,1983,USA,52,United States,USA
+L.M. Evans,2515,1983,USA,54,United States,USA
+W. Lombardy,2515,1983,USA,58,United States,USA
+S. Kudrin,2505,1983,USA,74,United States,USA
+K. Rogoff,2505,1983,USA,77,United States,USA
+A. Lein,2490,1983,USA,106,United States,USA
+S. Reshevsky,2490,1983,USA,111,United States,USA
+L. Kaplan,2480,1983,USA,126,United States,USA
+J.A. Peters,2480,1983,USA,131,United States,USA
+L. Shamkovich,2480,1983,USA,133,United States,USA
+Joel Benjamin,2475,1983,USA,138,United States,USA
+N. De Firmian,2475,1983,USA,140,United States,USA
+B. Zuckerman,2475,1983,USA,152,United States,USA
+P. Benko,2470,1983,USA,153,United States,USA
+D. Gurevich,2470,1983,USA,156,United States,USA
+R. Dzindzichashvili,2460,1983,USA,175,United States,USA
+E. Mednis,2460,1983,USA,185,United States,USA
+P. Biyiasas,2455,1983,USA,193,United States,USA
+Soltis,2455,1983,USA,209,United States,USA
+N. Weinstein,2455,1983,USA,212,United States,USA
+M. Dlugy,2450,1983,USA,217,United States,USA
+Vukcevich,2450,1983,USA,234,United States,USA
+K. Commons,2445,1983,USA,240,United States,USA
+L. Kaufman,2445,1983,USA,246,United States,USA
+J.D. Tisdall,2440,1983,USA,280,United States,USA
+M. Wilder,2440,1983,USA,284,United States,USA
+K. Regan,2435,1983,USA,303,United States,USA
+A. Bisguier,2430,1983,USA,310,United States,USA
+J.P. Fedorowicz,2430,1983,USA,315,United States,USA
+M.A. Rohde,2430,1983,USA,335,United States,USA
+J.M. Bradford,2420,1983,USA,369,United States,USA
+J. Grefe,2420,1983,USA,380,United States,USA
+Matera,2420,1983,USA,386,United States,USA
+V. Mccambridge,2420,1983,USA,387,United States,USA
+J. Watson,2420,1983,USA,400,United States,USA
+A.F. Saidy,2415,1983,USA,431,United States,USA
+T. Taylor,2415,1983,USA,434,United States,USA
+M. Valvo,2415,1983,USA,436,United States,USA
+C. Blocker,2410,1983,USA,439,United States,USA
+M. Diesen,2410,1983,USA,445,United States,USA
+E. Meyer,2410,1983,USA,460,United States,USA
+D. Strauss,2410,1983,USA,466,United States,USA
+L. Bass,2405,1983,USA,469,United States,USA
+J.W. Donaldson,2405,1983,USA,472,United States,USA
+W. Martz,2405,1983,USA,485,United States,USA
+Delaune,2395,1983,USA,539,United States,USA
+D. Root,2395,1983,USA,561,United States,USA
+R. Rowley,2395,1983,USA,562,United States,USA
+V.F. Zaltsman,2395,1983,USA,570,United States,USA
+M. Ginsburg,2390,1983,USA,582,United States,USA
+M. Zlotnikov,2385,1983,USA,664,United States,USA
+Remlinger,2380,1983,USA,699,United States,USA
+S. Jones,2375,1983,USA,722,United States,USA
+S. Odendahl,2375,1983,USA,730,United States,USA
+B. Rind,2375,1983,USA,738,United States,USA
+J. Sherwin,2375,1983,USA,745,United States,USA
+E.C. Winslow,2375,1983,USA,751,United States,USA
+M. Goldberg,2370,1983,USA,764,United States,USA
+W.D. Morris,2365,1983,USA,816,United States,USA
+B. Baczynskyj,2360,1983,USA,843,United States,USA
+R. Blumenfeld,2360,1983,USA,848,United States,USA
+K. Burger,2360,1983,USA,852,United States,USA
+Hoggatt,2360,1983,USA,865,United States,USA
+D. Mcclintock,2360,1983,USA,868,United States,USA
+W. Shipman,2360,1983,USA,883,United States,USA
+J. Silman,2360,1983,USA,884,United States,USA
+J. Meyer,2350,1983,USA,969,United States,USA
+I. Dahlberg,2345,1983,USA,1002,United States,USA
+Kopec,2345,1983,USA,1018,United States,USA
+J.H. Loftsson,2345,1983,USA,1022,United States,USA
+A. Hoffmann,2340,1983,USA,1066,United States,USA
+D.E. Shapiro,2335,1983,USA,1137,United States,USA
+J. Bonin,2330,1983,USA,1152,United States,USA
+Goichberg,2330,1983,USA,1174,United States,USA
+R. Gruchacz,2330,1983,USA,1177,United States,USA
+J. Rizzitano,2330,1983,USA,1198,United States,USA
+M.A. Brooks,2325,1983,USA,1220,United States,USA
+J. Whitehead,2325,1983,USA,1276,United States,USA
+E.W. Formanek,2320,1983,USA,1293,United States,USA
+P. Whitehead,2320,1983,USA,1342,United States,USA
+L.D. Evans,2315,1983,USA,1355,United States,USA
+Sa. Joshi,2315,1983,USA,1362,United States,USA
+J.N. Jacobs,2310,1983,USA,1422,United States,USA
+J. Kastner,2310,1983,USA,1424,United States,USA
+D. London,2310,1983,USA,1434,United States,USA
+T. Renna,2310,1983,USA,1447,United States,USA
+J. Schroer,2310,1983,USA,1449,United States,USA
+M. Shahade,2310,1983,USA,1452,United States,USA
+R. Sulman,2310,1983,USA,1457,United States,USA
+Ch. Weldon,2310,1983,USA,1462,United States,USA
+A. Denker,2305,1983,USA,1478,United States,USA
+J.A. Thinnsen,2305,1983,USA,1526,United States,USA
+Sh.D. Getz,2300,1983,USA,1553,United States,USA
+Gilden,2300,1983,USA,1554,United States,USA
+M. Ritter,2300,1983,USA,1594,United States,USA
+R. Salgado,2300,1983,USA,1596,United States,USA
+Weinberger,2300,1983,USA,1607,United States,USA
+P. Brandts,2295,1983,USA,1619,United States,USA
+K. Burnett,2295,1983,USA,1622,United States,USA
+A. Feuerstein,2295,1983,USA,1628,United States,USA
+Middleton,2295,1983,USA,1653,United States,USA
+Ch. Van Buskirk,2295,1983,USA,1679,United States,USA
+J. Barth,2290,1983,USA,1691,United States,USA
+K. Larsen,2290,1983,USA,1731,United States,USA
+E. Tangborn,2290,1983,USA,1754,United States,USA
+D. Waterman,2290,1983,USA,1761,United States,USA
+P. Youngworth,2290,1983,USA,1765,United States,USA
+I. Barlay,2285,1983,USA,1769,United States,USA
+D. Berry,2285,1983,USA,1773,United States,USA
+S. Grant,2285,1983,USA,1796,United States,USA
+Hertan,2285,1983,USA,1800,United States,USA
+Michaelides,2285,1983,USA,1819,United States,USA
+Greenberg,2280,1983,USA,1881,United States,USA
+Savage,2280,1983,USA,1918,United States,USA
+J. Braley,2275,1983,USA,1938,United States,USA
+P.G. Wolff,2275,1983,USA,2014,United States,USA
+K.Y. Yee,2275,1983,USA,2016,United States,USA
+Dav. Gliksman,2270,1983,USA,2039,United States,USA
+R. Lobo,2270,1983,USA,2064,United States,USA
+S. Wagman,2270,1983,USA,2100,United States,USA
+J. Blackstone,2265,1983,USA,2109,United States,USA
+J. Cline,2265,1983,USA,2114,United States,USA
+E.C. Hall,2265,1983,USA,2132,United States,USA
+Joynt,2265,1983,USA,2136,United States,USA
+Madsen,2265,1983,USA,2145,United States,USA
+Tennant,2265,1983,USA,2176,United States,USA
+J. Timm,2265,1983,USA,2177,United States,USA
+C. Carlson,2260,1983,USA,2201,United States,USA
+R.B. Eberlein,2260,1983,USA,2207,United States,USA
+Forman,2260,1983,USA,2211,United States,USA
+B.F. Gibbons,2260,1983,USA,2217,United States,USA
+Kaner,2260,1983,USA,2232,United States,USA
+Kitces,2260,1983,USA,2236,United States,USA
+Leverett,2260,1983,USA,2248,United States,USA
+E. Marchand,2260,1983,USA,2251,United States,USA
+L.A. Mercuri,2260,1983,USA,2253,United States,USA
+J. Hillery,2255,1983,USA,2338,United States,USA
+Langjahr,2255,1983,USA,2349,United States,USA
+S. Lyman,2255,1983,USA,2354,United States,USA
+E. Martinovsky,2255,1983,USA,2357,United States,USA
+J. Massana,2255,1983,USA,2359,United States,USA
+T.Q. Miller,2255,1983,USA,2361,United States,USA
+Tall,2255,1983,USA,2392,United States,USA
+Ro. Webb,2255,1983,USA,2397,United States,USA
+R. Ayyar,2250,1983,USA,2404,United States,USA
+J.F. Johnson,2250,1983,USA,2442,United States,USA
+P. Poschel,2250,1983,USA,2475,United States,USA
+W. Wharton,2250,1983,USA,2503,United States,USA
+D. Whitehouse,2250,1983,USA,2504,United States,USA
+K. Dehmelt,2245,1983,USA,2524,United States,USA
+D. Kerman,2245,1983,USA,2549,United States,USA
+F. Lindsay,2245,1983,USA,2554,United States,USA
+B. Alberston,2240,1983,USA,2598,United States,USA
+R.N. Bauer,2240,1983,USA,2611,United States,USA
+Th.J. Costigan,2240,1983,USA,2622,United States,USA
+Mark,2240,1983,USA,2661,United States,USA
+Moskow,2240,1983,USA,2666,United States,USA
+S.L. Ramos,2240,1983,USA,2678,United States,USA
+G.M. Share,2240,1983,USA,2684,United States,USA
+J. Thibault,2240,1983,USA,2693,United States,USA
+W. Batchelder,2235,1983,USA,2707,United States,USA
+W. Conover,2235,1983,USA,2715,United States,USA
+M.J. Gatlin,2235,1983,USA,2720,United States,USA
+Hurdle,2235,1983,USA,2729,United States,USA
+K. Potts,2235,1983,USA,2756,United States,USA
+Riddell,2235,1983,USA,2758,United States,USA
+H. Bogner,2230,1983,USA,2800,United States,USA
+Cowen,2230,1983,USA,2810,United States,USA
+D. Lawton,2230,1983,USA,2851,United States,USA
+R. Martin,2230,1983,USA,2863,United States,USA
+B. Richards,2230,1983,USA,2884,United States,USA
+P.T. Ziegler,2230,1983,USA,2905,United States,USA
+Bellizzi,2225,1983,USA,2916,United States,USA
+Conner,2225,1983,USA,2928,United States,USA
+Genfan,2225,1983,USA,2934,United States,USA
+Matzner,2225,1983,USA,2969,United States,USA
+A.L. Smith,2225,1983,USA,2990,United States,USA
+D. Strenzwilk,2225,1983,USA,2993,United States,USA
+S. Weinstock,2225,1983,USA,3003,United States,USA
+Th. Weissbein,2225,1983,USA,3004,United States,USA
+R. Zachowski,2225,1983,USA,3005,United States,USA
+Babaniotis,2220,1983,USA,3010,United States,USA
+M.A. Beelby,2220,1983,USA,3012,United States,USA
+K.R. Clayton,2220,1983,USA,3018,United States,USA
+K. Eng,2220,1983,USA,3025,United States,USA
+Gamble,2220,1983,USA,3030,United States,USA
+C. Jones,2220,1983,USA,3043,United States,USA
+Klugman,2220,1983,USA,3050,United States,USA
+Lunna,2220,1983,USA,3060,United States,USA
+J.S. Purdy,2220,1983,USA,3081,United States,USA
+B. Ferguson,2215,1983,USA,3125,United States,USA
+A.C. Fink,2215,1983,USA,3127,United States,USA
+J. Goodman,2215,1983,USA,3133,United States,USA
+V. Gostkhorhevich,2215,1983,USA,3134,United States,USA
+Hulse,2215,1983,USA,3145,United States,USA
+P.G. Johnson,2215,1983,USA,3147,United States,USA
+D. Josenhans,2215,1983,USA,3149,United States,USA
+M.A. Orfalea,2215,1983,USA,3167,United States,USA
+E. Schiller,2215,1983,USA,3176,United States,USA
+A. Williams,2215,1983,USA,3193,United States,USA
+W. Boctor,2210,1983,USA,3206,United States,USA
+L. Braun,2210,1983,USA,3208,United States,USA
+Hanken,2210,1983,USA,3227,United States,USA
+K.E. Jones,2210,1983,USA,3234,United States,USA
+J.M. Marcal,2210,1983,USA,3244,United States,USA
+Mengarini,2210,1983,USA,3245,United States,USA
+C. Pilnick,2210,1983,USA,3255,United States,USA
+Frumkin,2205,1983,USA,3332,United States,USA
+D. Gertler,2205,1983,USA,3335,United States,USA
+Hohenberger,2205,1983,USA,3353,United States,USA
+Katrein,2205,1983,USA,3368,United States,USA
+Lamarca,2205,1983,USA,3378,United States,USA
+J. Litvinchuk,2205,1983,USA,3383,United States,USA
+R. Mann,2205,1983,USA,3389,United States,USA
+B. Nethercot,2205,1983,USA,3405,United States,USA
+Lux,2200,1983,USA,3507,United States,USA
+Pamiljens,2200,1983,USA,3511,United States,USA
+A.M. Akhsharumova,2170,1983,USA,3542,United States,USA
+D. Savereide,2170,1983,USA,3545,United States,USA
+D.O. Teasley,2075,1983,USA,3636,United States,USA
+R. Crotto,2030,1983,USA,3696,United States,USA
+R.I. Haring,2020,1983,USA,3714,United States,USA
+Shafranska,2020,1983,USA,3719,United States,USA
+R.A. Donnelly,2005,1983,USA,3740,United States,USA
+G.K. Gresser,2005,1983,USA,3743,United States,USA
+F. Street,1965,1983,USA,3824,United States,USA
+Gasser,1960,1983,USA,3827,United States,USA
+G. Olsson,1960,1983,USA,3832,United States,USA
+D. Lanni,1940,1983,USA,3869,United States,USA
+Sh. Mistry-Kennedy,1925,1983,USA,3901,United States,USA
+Mahan,1910,1983,USA,3939,United States,USA
+A.W. Rudolph,1910,1983,USA,3941,United States,USA
+P.C. Ford,1890,1983,USA,4031,United States,USA
+I. Izrailov,1885,1983,USA,4044,United States,USA
+Kranich,1880,1983,USA,4059,United States,USA
+S. Sterngold,1880,1983,USA,4060,United States,USA
+Bert,1875,1983,USA,4061,United States,USA
+V. Frenkel,1865,1983,USA,4083,United States,USA
+Shabazz,1835,1983,USA,4140,United States,USA
+E. Torre,2580,1983,PHI,20,Philippines,PHL
+R. Mascarinas,2425,1983,PHI,355,Philippines,PHL
+R. Rodriguez,2420,1983,PHI,392,Philippines,PHL
+Bordonada,2385,1983,PHI,623,Philippines,PHL
+A. Yap,2385,1983,PHI,661,Philippines,PHL
+R. Balinas,2360,1983,PHI,844,Philippines,PHL
+R. Maninang,2345,1983,PHI,1027,Philippines,PHL
+L. Chiong,2340,1983,PHI,1058,Philippines,PHL
+R.T. Cardoso,2330,1983,PHI,1158,Philippines,PHL
+C. Cain,2310,1983,PHI,1405,Philippines,PHL
+R. De Guzman,2305,1983,PHI,1476,Philippines,PHL
+D. Ramos,2300,1983,PHI,1592,Philippines,PHL
+S. Esitmo,2295,1983,PHI,1627,Philippines,PHL
+E. Bernal,2285,1983,PHI,1772,Philippines,PHL
+Cusi,2285,1983,PHI,1784,Philippines,PHL
+C. Caturla,2280,1983,PHI,1873,Philippines,PHL
+R. Reyes,2280,1983,PHI,1914,Philippines,PHL
+E. Gloria,2270,1983,PHI,2040,Philippines,PHL
+Pacis,2270,1983,PHI,2073,Philippines,PHL
+Lao,2265,1983,PHI,2143,Philippines,PHL
+Ch. Garma,2260,1983,PHI,2214,Philippines,PHL
+Milagrosa,2245,1983,PHI,2563,Philippines,PHL
+C. Ramayrat,2245,1983,PHI,2572,Philippines,PHL
+M. Micayabas,2240,1983,PHI,2665,Philippines,PHL
+M. Maga,2230,1983,PHI,2859,Philippines,PHL
+Monta,2230,1983,PHI,2870,Philippines,PHL
+M. Acosta,2210,1983,PHI,3197,Philippines,PHL
+G. Fontanilla,1905,1983,PHI,3960,Philippines,PHL
+H.R. Palacios,1905,1983,PHI,3979,Philippines,PHL
+Padrigo,1840,1983,PHI,4124,Philippines,PHL
+M. Emperado,1815,1983,PHI,4159,Philippines,PHL
+Ji. Nun,2570,1983,ENG,24,United Kingdom,GBR
+J. Speelman,2570,1983,ENG,25,United Kingdom,GBR
+N.D. Short,2510,1983,ENG,67,United Kingdom,GBR
+Mestelj.,2505,1983,ENG,75,United Kingdom,GBR
+M. Chandler,2500,1983,ENG,81,United Kingdom,GBR
+M.F. Stean,2500,1983,ENG,87,United Kingdom,GBR
+R. Keene,2490,1983,ENG,105,United Kingdom,GBR
+P. Littlewood,2465,1983,ENG,163,United Kingdom,GBR
+W. Hartston,2455,1983,ENG,197,United Kingdom,GBR
+G.C. Flear,2445,1983,ENG,243,United Kingdom,GBR
+J. Plaskett,2440,1983,ENG,274,United Kingdom,GBR
+Taulbut,2440,1983,ENG,278,United Kingdom,GBR
+M. Hebden,2435,1983,ENG,289,United Kingdom,GBR
+S. Webb,2415,1983,ENG,437,United Kingdom,GBR
+D. Goodman,2405,1983,ENG,473,United Kingdom,GBR
+Penrose,2405,1983,ENG,489,United Kingdom,GBR
+W.N. Watson,2395,1983,ENG,568,United Kingdom,GBR
+M.J. Basman,2390,1983,ENG,574,United Kingdom,GBR
+D.J. King,2390,1983,ENG,589,United Kingdom,GBR
+R. Bellin,2380,1983,ENG,669,United Kingdom,GBR
+J. Horner,2380,1983,ENG,681,United Kingdom,GBR
+A. Kosten,2380,1983,ENG,686,United Kingdom,GBR
+G.W. Lawton,2380,1983,ENG,687,United Kingdom,GBR
+J. Littlewood,2380,1983,ENG,689,United Kingdom,GBR
+M. Haygarth,2375,1983,ENG,716,United Kingdom,GBR
+N.R. Davies,2370,1983,ENG,759,United Kingdom,GBR
+A.J. Whiteley,2370,1983,ENG,792,United Kingdom,GBR
+P. Byway,2365,1983,ENG,794,United Kingdom,GBR
+A.P. Law,2365,1983,ENG,811,United Kingdom,GBR
+D.H. Cummings,2360,1983,ENG,856,United Kingdom,GBR
+J.M. Hodgson,2350,1983,ENG,953,United Kingdom,GBR
+N.W. Ivell,2350,1983,ENG,954,United Kingdom,GBR
+R. Lobo,2350,1983,ENG,964,United Kingdom,GBR
+J.J. Cox,2345,1983,ENG,1001,United Kingdom,GBR
+R. Bailey,2340,1983,ENG,1052,United Kingdom,GBR
+And. Martin,2335,1983,ENG,1124,United Kingdom,GBR
+R. Britton,2330,1983,ENG,1154,United Kingdom,GBR
+Macpherson,2330,1983,ENG,1188,United Kingdom,GBR
+J.C. Pigott,2330,1983,ENG,1194,United Kingdom,GBR
+P.K. Wells,2330,1983,ENG,1210,United Kingdom,GBR
+Povah,2325,1983,ENG,1255,United Kingdom,GBR
+P.J. Sowray,2325,1983,ENG,1265,United Kingdom,GBR
+R.G. Wade,2325,1983,ENG,1275,United Kingdom,GBR
+Knox,2320,1983,ENG,1307,United Kingdom,GBR
+N.R. Oliver,2315,1983,ENG,1375,United Kingdom,GBR
+B. Cafferty,2310,1983,ENG,1404,United Kingdom,GBR
+J. Carleton,2310,1983,ENG,1406,United Kingdom,GBR
+P.G. Large,2310,1983,ENG,1430,United Kingdom,GBR
+J. Levitt,2310,1983,ENG,1431,United Kingdom,GBR
+N.H. Bradbury,2305,1983,ENG,1470,United Kingdom,GBR
+P. Clarke,2305,1983,ENG,1474,United Kingdom,GBR
+D. Friedgood,2305,1983,ENG,1483,United Kingdom,GBR
+J. Hall,2305,1983,ENG,1487,United Kingdom,GBR
+J.B. Adams,2300,1983,ENG,1535,United Kingdom,GBR
+C. Crouch,2300,1983,ENG,1543,United Kingdom,GBR
+De Veauce,2300,1983,ENG,1545,United Kingdom,GBR
+Hawkesworth,2300,1983,ENG,1558,United Kingdom,GBR
+Ripley,2300,1983,ENG,1593,United Kingdom,GBR
+G. Lambert,2295,1983,ENG,1646,United Kingdom,GBR
+G.D. Lee,2295,1983,ENG,1647,United Kingdom,GBR
+D.E. Rumens,2295,1983,ENG,1668,United Kingdom,GBR
+K.C. Arkell,2290,1983,ENG,1689,United Kingdom,GBR
+Corden,2290,1983,ENG,1702,United Kingdom,GBR
+A.E. Hanreck,2290,1983,ENG,1719,United Kingdom,GBR
+G.D. Hillyard,2290,1983,ENG,1724,United Kingdom,GBR
+Bulford,2285,1983,ENG,1777,United Kingdom,GBR
+M.J. Franklin,2285,1983,ENG,1790,United Kingdom,GBR
+J.C. Howell,2285,1983,ENG,1804,United Kingdom,GBR
+M.L. Pein,2285,1983,ENG,1827,United Kingdom,GBR
+E.O.M.C. Teichmann,2285,1983,ENG,1845,United Kingdom,GBR
+T.B. Bennett,2280,1983,ENG,1865,United Kingdom,GBR
+M.A. Pagden,2280,1983,ENG,1904,United Kingdom,GBR
+D.I. Patrick,2280,1983,ENG,1906,United Kingdom,GBR
+K. Wicker,2280,1983,ENG,1929,United Kingdom,GBR
+G.M. Clark,2275,1983,ENG,1945,United Kingdom,GBR
+Finlayson,2275,1983,ENG,1957,United Kingdom,GBR
+F.J. Kwiatkowski,2275,1983,ENG,1972,United Kingdom,GBR
+M. Marlow,2275,1983,ENG,1980,United Kingdom,GBR
+Perkins,2275,1983,ENG,1993,United Kingdom,GBR
+A. Smith,2275,1983,ENG,2001,United Kingdom,GBR
+A.M. Byron,2270,1983,ENG,2027,United Kingdom,GBR
+Lamford,2270,1983,ENG,2056,United Kingdom,GBR
+G.W. Lane,2270,1983,ENG,2057,United Kingdom,GBR
+Neat,2270,1983,ENG,2072,United Kingdom,GBR
+Robinson,2270,1983,ENG,2080,United Kingdom,GBR
+J. Nicholson,2260,1983,ENG,2257,United Kingdom,GBR
+J.R. Richardson,2260,1983,ENG,2270,United Kingdom,GBR
+J.J. Ady,2255,1983,ENG,2305,United Kingdom,GBR
+S. Conquest,2255,1983,ENG,2318,United Kingdom,GBR
+R.F. Holmes,2255,1983,ENG,2339,United Kingdom,GBR
+B.A. Jacobs,2255,1983,ENG,2342,United Kingdom,GBR
+St.C. Brown,2250,1983,ENG,2411,United Kingdom,GBR
+J.G. Gallagher,2250,1983,ENG,2430,United Kingdom,GBR
+J. Kinlay,2250,1983,ENG,2451,United Kingdom,GBR
+S. Knott,2250,1983,ENG,2452,United Kingdom,GBR
+P.W. Hempson,2245,1983,ENG,2544,United Kingdom,GBR
+A. Lewis,2245,1983,ENG,2552,United Kingdom,GBR
+A. Miles,2245,1983,ENG,2564,United Kingdom,GBR
+D.P. Mooney,2245,1983,ENG,2565,United Kingdom,GBR
+Si.D. Brown,2240,1983,ENG,2616,United Kingdom,GBR
+C.R. Chandler,2240,1983,ENG,2619,United Kingdom,GBR
+G. Kenworthy,2240,1983,ENG,2650,United Kingdom,GBR
+C. Baker,2235,1983,ENG,2704,United Kingdom,GBR
+M.P. Townsend,2235,1983,ENG,2776,United Kingdom,GBR
+K.I. Norman,2230,1983,ENG,2875,United Kingdom,GBR
+S. Berry,2225,1983,ENG,2917,United Kingdom,GBR
+Dickenson,2225,1983,ENG,2931,United Kingdom,GBR
+D.G. Hackett,2225,1983,ENG,2941,United Kingdom,GBR
+G.H. James,2225,1983,ENG,2949,United Kingdom,GBR
+D. Lewis,2225,1983,ENG,2957,United Kingdom,GBR
+Toothill,2225,1983,ENG,2996,United Kingdom,GBR
+Cooley,2220,1983,ENG,3019,United Kingdom,GBR
+L.J. Smart,2220,1983,ENG,3089,United Kingdom,GBR
+J. Burnett,2215,1983,ENG,3117,United Kingdom,GBR
+John Benjamin,2210,1983,ENG,3202,United Kingdom,GBR
+J.W. Branford,2205,1983,ENG,3298,United Kingdom,GBR
+D.G. Ellison,2205,1983,ENG,3323,United Kingdom,GBR
+Farrand,2205,1983,ENG,3329,United Kingdom,GBR
+K. Harris,2205,1983,ENG,3346,United Kingdom,GBR
+I.R. Watson,2205,1983,ENG,3461,United Kingdom,GBR
+M.J. Yeo,2205,1983,ENG,3465,United Kingdom,GBR
+Banks,2200,1983,ENG,3476,United Kingdom,GBR
+C.E. Hill,2200,1983,ENG,3494,United Kingdom,GBR
+O.A. Jackson,2200,1983,ENG,3495,United Kingdom,GBR
+A. Stebbings,2200,1983,ENG,3524,United Kingdom,GBR
+Sh. Jackson,2185,1983,ENG,3535,United Kingdom,GBR
+Caldwell,2050,1983,ENG,3660,United Kingdom,GBR
+E. Pritchard,2050,1983,ENG,3664,United Kingdom,GBR
+T. Needham,2045,1983,ENG,3672,United Kingdom,GBR
+J. Wright,2025,1983,ENG,3709,United Kingdom,GBR
+H. Granat,2015,1983,ENG,3724,United Kingdom,GBR
+M.E.E. Clarke,1970,1983,ENG,3800,United Kingdom,GBR
+P.A. Sunnucks,1970,1983,ENG,3809,United Kingdom,GBR
+C.E. Whitehead,1955,1983,ENG,3842,United Kingdom,GBR
+R.M. Bruce,1950,1983,ENG,3847,United Kingdom,GBR
+S. Wood,1950,1983,ENG,3859,United Kingdom,GBR
+Seymour,1940,1983,ENG,3877,United Kingdom,GBR
+W. Pritchard,1935,1983,ENG,3882,United Kingdom,GBR
+C.A. Groves,1925,1983,ENG,3898,United Kingdom,GBR
+Binns,1895,1983,ENG,4008,United Kingdom,GBR
+C. Forbes,1890,1983,ENG,4030,United Kingdom,GBR
+Walker,1885,1983,ENG,4052,United Kingdom,GBR
+I. Rogers,1855,1983,ENG,4102,United Kingdom,GBR
+B. Larsen,2555,1983,DEN,34,Denmark,DNK
+E. Mortensen,2475,1983,DEN,146,Denmark,DNK
+C. Hansen,2450,1983,DEN,222,Denmark,DNK
+O. Jakobsen,2445,1983,DEN,245,Denmark,DNK
+J. Kristiansen,2445,1983,DEN,247,Denmark,DNK
+S. Fedder,2440,1983,DEN,259,Denmark,DNK
+J.O. Fries-Nielsen,2440,1983,DEN,261,Denmark,DNK
+S. Hamann,2440,1983,DEN,264,Denmark,DNK
+J. Ost-Hansen,2415,1983,DEN,426,Denmark,DNK
+B. Brinck-Claussen,2380,1983,DEN,674,Denmark,DNK
+J. Sloth,2380,1983,DEN,703,Denmark,DNK
+K. Berg,2375,1983,DEN,711,Denmark,DNK
+Hoi,2370,1983,DEN,768,Denmark,DNK
+U. Rath,2370,1983,DEN,781,Denmark,DNK
+G. Iskov,2360,1983,DEN,866,Denmark,DNK
+L. Schandorff,2355,1983,DEN,929,Denmark,DNK
+N.J. Fries-Nielsen,2345,1983,DEN,1010,Denmark,DNK
+S. Holm,2345,1983,DEN,1016,Denmark,DNK
+M. Moe,2345,1983,DEN,1029,Denmark,DNK
+E. Pedersen,2340,1983,DEN,1075,Denmark,DNK
+A. Poulsen,2340,1983,DEN,1077,Denmark,DNK
+J. Rodgaard,2330,1983,DEN,1199,Denmark,DNK
+Rosell,2325,1983,DEN,1258,Denmark,DNK
+B. Jacobsen,2320,1983,DEN,1303,Denmark,DNK
+K. Bjerring,2310,1983,DEN,1402,Denmark,DNK
+P.E. Nielsen,2310,1983,DEN,1442,Denmark,DNK
+B. Kristensen,2300,1983,DEN,1572,Denmark,DNK
+O. Kroll,2300,1983,DEN,1573,Denmark,DNK
+P. Knudsen,2295,1983,DEN,1642,Denmark,DNK
+E. Bang,2290,1983,DEN,1690,Denmark,DNK
+B. Sorensen,2290,1983,DEN,1751,Denmark,DNK
+H. Sorensen,2290,1983,DEN,1752,Denmark,DNK
+A. Jensen,2275,1983,DEN,1962,Denmark,DNK
+Kolvig,2275,1983,DEN,1969,Denmark,DNK
+J. Pedersen,2265,1983,DEN,2156,Denmark,DNK
+E. Brondum,2260,1983,DEN,2198,Denmark,DNK
+Hvenekilde,2260,1983,DEN,2224,Denmark,DNK
+J. Norgaard,2260,1983,DEN,2261,Denmark,DNK
+Rosenlund,2255,1983,DEN,2378,Denmark,DNK
+J. Hartung-Nielsen,2250,1983,DEN,2438,Denmark,DNK
+From,2245,1983,DEN,2532,Denmark,DNK
+P. Gallmeyer,2245,1983,DEN,2534,Denmark,DNK
+Isaksen,2245,1983,DEN,2547,Denmark,DNK
+P. Auchenberg,2240,1983,DEN,2608,Denmark,DNK
+D. Andersen,2230,1983,DEN,2788,Denmark,DNK
+J. Nielsen,2230,1983,DEN,2874,Denmark,DNK
+H. Pedersen,2230,1983,DEN,2882,Denmark,DNK
+M. Reinert,2230,1983,DEN,2883,Denmark,DNK
+L. Kristensen,2220,1983,DEN,3054,Denmark,DNK
+S. Pedersen,2220,1983,DEN,3075,Denmark,DNK
+J. Anderson,2215,1983,DEN,3106,Denmark,DNK
+V. Jensen,2205,1983,DEN,3363,Denmark,DNK
+G. Carlsson,2200,1983,DEN,3483,Denmark,DNK
+N. Hoiberg,2100,1983,DEN,3601,Denmark,DNK
+Thygesen,2005,1983,DEN,3748,Denmark,DNK
+M. Haahr,1965,1983,DEN,3815,Denmark,DNK
+I. Larsen,1895,1983,DEN,4015,Denmark,DNK
+I.V. Ivanov,2530,1983,CAN,45,Canada,CAN
+K. Spraggett,2495,1983,CAN,99,Canada,CAN
+R. Pelts,2450,1983,CAN,228,Canada,CAN
+J. Hebert,2430,1983,CAN,320,Canada,CAN
+Nickoloff,2425,1983,CAN,358,Canada,CAN
+Suttles,2420,1983,CAN,395,Canada,CAN
+D.A. Yanofsky,2420,1983,CAN,401,Canada,CAN
+Z. Vranesic,2400,1983,CAN,531,Canada,CAN
+R. Morrison,2395,1983,CAN,556,Canada,CAN
+L. Piasetski,2390,1983,CAN,601,Canada,CAN
+Lipnowski,2380,1983,CAN,688,Canada,CAN
+L. Day,2365,1983,CAN,796,Canada,CAN
+R. Hawkes,2365,1983,CAN,807,Canada,CAN
+Macphail,2365,1983,CAN,814,Canada,CAN
+M. Buchholz,2345,1983,CAN,994,Canada,CAN
+Pushkedra,2345,1983,CAN,1034,Canada,CAN
+Harper,2340,1983,CAN,1065,Canada,CAN
+L. Witt,2340,1983,CAN,1090,Canada,CAN
+G. Taylor,2320,1983,CAN,1337,Canada,CAN
+C. Coudari,2315,1983,CAN,1350,Canada,CAN
+R.D. Zuk,2295,1983,CAN,1684,Canada,CAN
+J. Polacek,2290,1983,CAN,1742,Canada,CAN
+D. Allan,2280,1983,CAN,1857,Canada,CAN
+F. Baragar,2280,1983,CAN,1862,Canada,CAN
+S. Kleinplatz,2280,1983,CAN,1887,Canada,CAN
+G. Brodeur,2275,1983,CAN,1939,Canada,CAN
+Macskasy,2275,1983,CAN,1979,Canada,CAN
+Nurmi,2275,1983,CAN,1989,Canada,CAN
+Jauregui,2270,1983,CAN,2047,Canada,CAN
+P. Lake,2270,1983,CAN,2055,Canada,CAN
+D. Lavin,2270,1983,CAN,2059,Canada,CAN
+Rohland,2270,1983,CAN,2082,Canada,CAN
+J. Berry,2265,1983,CAN,2108,Canada,CAN
+V. Dzera,2260,1983,CAN,2206,Canada,CAN
+R. Stone,2260,1983,CAN,2285,Canada,CAN
+R. Morenz,2255,1983,CAN,2363,Canada,CAN
+Barbeau,2245,1983,CAN,2514,Canada,CAN
+S. Boyd,2240,1983,CAN,2615,Canada,CAN
+P. Murray,2235,1983,CAN,2747,Canada,CAN
+S. Ball,2230,1983,CAN,2794,Canada,CAN
+D. Filipovich,2230,1983,CAN,2823,Canada,CAN
+I.T. Findlay,2230,1983,CAN,2824,Canada,CAN
+P. Jodoin,2230,1983,CAN,2839,Canada,CAN
+B. Paulic,2230,1983,CAN,2880,Canada,CAN
+G. Fuster,2220,1983,CAN,3029,Canada,CAN
+I.A. Kilgour,2220,1983,CAN,3049,Canada,CAN
+Macleod,2220,1983,CAN,3062,Canada,CAN
+G. Forbes,2215,1983,CAN,3128,Canada,CAN
+D. Hergott,2215,1983,CAN,3142,Canada,CAN
+H. Zurowski,2215,1983,CAN,3196,Canada,CAN
+J.L. Alvarez,2200,1983,CAN,3474,Canada,CAN
+Shterenberg,2135,1983,CAN,3565,Canada,CAN
+S. Vujosevic,2060,1983,CAN,3650,Canada,CAN
+D. Roos,2025,1983,CAN,3704,Canada,CAN
+Demers,1940,1983,CAN,3863,Canada,CAN
+D. Mongeau,1905,1983,CAN,3975,Canada,CAN
+V. Baltgailis,1895,1983,CAN,4007,Canada,CAN
+L. Stringer,1890,1983,CAN,4037,Canada,CAN
+A. Day,1850,1983,CAN,4107,Canada,CAN
+G. Garcia Gonzales,2515,1983,CUB,55,Cuba,CUB
+J. Nogueiras,2490,1983,CUB,109,Cuba,CUB
+A. Rodriguez,2475,1983,CUB,149,Cuba,CUB
+J.L. Vilela,2440,1983,CUB,283,Cuba,CUB
+S. Garcia Martinez,2435,1983,CUB,288,Cuba,CUB
+Rom. Hernandez,2435,1983,CUB,290,Cuba,CUB
+L. Ortega,2425,1983,CUB,360,Cuba,CUB
+R. Vera,2420,1983,CUB,399,Cuba,CUB
+Juan C. Fernandez,2410,1983,CUB,446,Cuba,CUB
+N.B. Pinal,2405,1983,CUB,492,Cuba,CUB
+Sieiro,2405,1983,CUB,497,Cuba,CUB
+G. Estevez,2395,1983,CUB,541,Cuba,CUB
+J. Armas,2375,1983,CUB,709,Cuba,CUB
+M. Orso,2375,1983,CUB,731,Cuba,CUB
+A. Remon,2375,1983,CUB,737,Cuba,CUB
+N. Velez,2370,1983,CUB,791,Cuba,CUB
+J.C. Diaz,2365,1983,CUB,798,Cuba,CUB
+J. Rodriguez Cordoba,2355,1983,CUB,926,Cuba,CUB
+G. Lebredo,2350,1983,CUB,963,Cuba,CUB
+A. Barreras,2345,1983,CUB,989,Cuba,CUB
+E. Cobo Arteaga,2345,1983,CUB,998,Cuba,CUB
+J. Boudy,2335,1983,CUB,1102,Cuba,CUB
+Jo.J. Hernandez,2335,1983,CUB,1115,Cuba,CUB
+A. Bueno,2330,1983,CUB,1155,Cuba,CUB
+J.M. Cruz-Lima,2325,1983,CUB,1223,Cuba,CUB
+J. Triana,2325,1983,CUB,1270,Cuba,CUB
+D.V. Buela,2310,1983,CUB,1403,Cuba,CUB
+L. Bueno-Perez,2305,1983,CUB,1471,Cuba,CUB
+M. Cheviano,2305,1983,CUB,1473,Cuba,CUB
+J. Herrera Perez,2305,1983,CUB,1490,Cuba,CUB
+M. Valdivia,2305,1983,CUB,1529,Cuba,CUB
+J. Huerta,2300,1983,CUB,1564,Cuba,CUB
+A. Valdes-Castillo,2300,1983,CUB,1605,Cuba,CUB
+M. Andres,2295,1983,CUB,1610,Cuba,CUB
+R. Machado,2295,1983,CUB,1652,Cuba,CUB
+C.A. Fernandez,2290,1983,CUB,1710,Cuba,CUB
+J. Hedman,2290,1983,CUB,1722,Cuba,CUB
+W. Sariego,2290,1983,CUB,1748,Cuba,CUB
+J.R. Huergo,2285,1983,CUB,1805,Cuba,CUB
+R. Huerta,2285,1983,CUB,1806,Cuba,CUB
+J. Suarez,2285,1983,CUB,1841,Cuba,CUB
+H. Pecorelli Garcia,2280,1983,CUB,1907,Cuba,CUB
+P. Canalejo,2275,1983,CUB,1942,Cuba,CUB
+J. Schwiep,2270,1983,CUB,2085,Cuba,CUB
+F.J. Perez,2265,1983,CUB,2157,Cuba,CUB
+A. Hernandez,2255,1983,CUB,2336,Cuba,CUB
+Je. Hernandez,2255,1983,CUB,2337,Cuba,CUB
+Junco,2250,1983,CUB,2445,Cuba,CUB
+N. Martinez,2250,1983,CUB,2460,Cuba,CUB
+R. Perez,2250,1983,CUB,2472,Cuba,CUB
+L. Fuentes,2245,1983,CUB,2533,Cuba,CUB
+Fi. Alvarez,2240,1983,CUB,2600,Cuba,CUB
+W. Arencibia,2230,1983,CUB,2791,Cuba,CUB
+P.J. Garcia,2230,1983,CUB,2827,Cuba,CUB
+J.D. Diaz,2225,1983,CUB,2930,Cuba,CUB
+Hechevarria,2225,1983,CUB,2942,Cuba,CUB
+F. Ochoa De Echaguen,2220,1983,CUB,3069,Cuba,CUB
+F. Vilaseco,2220,1983,CUB,3099,Cuba,CUB
+J.L. Diaz,2215,1983,CUB,3121,Cuba,CUB
+P. Mestre,2215,1983,CUB,3158,Cuba,CUB
+Montiel,2215,1983,CUB,3164,Cuba,CUB
+O. Garcia,2210,1983,CUB,3220,Cuba,CUB
+A. De Armas,2105,1983,CUB,3593,Cuba,CUB
+V. Ramon,2095,1983,CUB,3609,Cuba,CUB
+Z. Frometa,1930,1983,CUB,3889,Cuba,CUB
+M. Palao,1930,1983,CUB,3894,Cuba,CUB
+A.L. Carvajal,1885,1983,CUB,4040,Cuba,CUB
+T. Hernandez,1885,1983,CUB,4043,Cuba,CUB
+M. Pineiro,1875,1983,CUB,4070,Cuba,CUB
+O. Couzo,1850,1983,CUB,4106,Cuba,CUB
+M. Pueyo,1845,1983,CUB,4117,Cuba,CUB
+T. Gonzalez,1840,1983,CUB,4121,Cuba,CUB
+M. Palenzuela,1840,1983,CUB,4125,Cuba,CUB
+Najdorf,2515,1983,ARG,59,Argentina,ARG
+Quinteros,2515,1983,ARG,61,Argentina,ARG
+O. Panno,2500,1983,ARG,85,Argentina,ARG
+R. Sanguinetti,2485,1983,ARG,115,Argentina,ARG
+D.H. Campora,2480,1983,ARG,121,Argentina,ARG
+C. Garcia Palermo,2455,1983,ARG,195,Argentina,ARG
+F. Braga,2440,1983,ARG,258,Argentina,ARG
+J. Rubinetti,2435,1983,ARG,304,Argentina,ARG
+J. Emma,2430,1983,ARG,314,Argentina,ARG
+S. Giardelli,2430,1983,ARG,317,Argentina,ARG
+J. Rubinstein,2430,1983,ARG,336,Argentina,ARG
+Rai. Garcia,2420,1983,ARG,377,Argentina,ARG
+Schweber,2420,1983,ARG,393,Argentina,ARG
+L. Bronstein,2415,1983,ARG,407,Argentina,ARG
+J. Hase,2415,1983,ARG,415,Argentina,ARG
+C. Guimard,2400,1983,ARG,514,Argentina,ARG
+O. Cuasnicu,2390,1983,ARG,578,Argentina,ARG
+Poch,2390,1983,ARG,602,Argentina,ARG
+J. Szmetan,2385,1983,ARG,654,Argentina,ARG
+M. Bernat,2380,1983,ARG,670,Argentina,ARG
+R. Grinberg,2375,1983,ARG,715,Argentina,ARG
+Balduzzi,2370,1983,ARG,752,Argentina,ARG
+G. Bianchi,2370,1983,ARG,756,Argentina,ARG
+M. Leskovar,2370,1983,ARG,772,Argentina,ARG
+R. Debarnot,2365,1983,ARG,797,Argentina,ARG
+H. Borghi,2360,1983,ARG,850,Argentina,ARG
+H. Rossetto,2360,1983,ARG,880,Argentina,ARG
+A. Roca,2355,1983,ARG,925,Argentina,ARG
+C. Amado,2340,1983,ARG,1050,Argentina,ARG
+R. Casafus,2330,1983,ARG,1159,Argentina,ARG
+J. Gomez Baillo,2330,1983,ARG,1175,Argentina,ARG
+M. Tempone,2330,1983,ARG,1206,Argentina,ARG
+R. Garbarino,2315,1983,ARG,1356,Argentina,ARG
+Paglilla,2315,1983,ARG,1377,Argentina,ARG
+A. Aparicio,2310,1983,ARG,1398,Argentina,ARG
+A. Bass,2310,1983,ARG,1401,Argentina,ARG
+A. Foguelman,2310,1983,ARG,1411,Argentina,ARG
+A. Anelli,2305,1983,ARG,1465,Argentina,ARG
+J. Morgado,2305,1983,ARG,1504,Argentina,ARG
+C. Panzeri,2305,1983,ARG,1509,Argentina,ARG
+Reinhardt,2305,1983,ARG,1516,Argentina,ARG
+R. Szmetan,2305,1983,ARG,1525,Argentina,ARG
+G.F. Barbero,2295,1983,ARG,1617,Argentina,ARG
+E. Ramirez,2295,1983,ARG,1667,Argentina,ARG
+D.R. Tovillas,2295,1983,ARG,1678,Argentina,ARG
+C. Grushka,2290,1983,ARG,1718,Argentina,ARG
+Steinbaum,2290,1983,ARG,1753,Argentina,ARG
+C.A. Martinez,2285,1983,ARG,1816,Argentina,ARG
+F. Casas,2280,1983,ARG,1872,Argentina,ARG
+C. Schwanek,2275,1983,ARG,2000,Argentina,ARG
+C. Bielicki,2270,1983,ARG,2023,Argentina,ARG
+C.S. Slipak,2270,1983,ARG,2089,Argentina,ARG
+C. Cranbourne,2265,1983,ARG,2115,Argentina,ARG
+E. Alvarez,2260,1983,ARG,2185,Argentina,ARG
+O. Bazan,2260,1983,ARG,2192,Argentina,ARG
+C. Bulcourf,2255,1983,ARG,2315,Argentina,ARG
+R. Hase,2255,1983,ARG,2333,Argentina,ARG
+A. Rodriguez,2255,1983,ARG,2376,Argentina,ARG
+A.I. Rodriguez,2255,1983,ARG,2377,Argentina,ARG
+D. Contin,2250,1983,ARG,2417,Argentina,ARG
+Yedlin,2250,1983,ARG,2505,Argentina,ARG
+A. Zukerfeld,2250,1983,ARG,2508,Argentina,ARG
+S. Macagno,2245,1983,ARG,2558,Argentina,ARG
+G. Mahia,2245,1983,ARG,2559,Argentina,ARG
+R. Mavrich,2245,1983,ARG,2561,Argentina,ARG
+J. Sabas,2245,1983,ARG,2575,Argentina,ARG
+Tabak,2245,1983,ARG,2584,Argentina,ARG
+Jorge Fernandez,2240,1983,ARG,2636,Argentina,ARG
+Funes,2240,1983,ARG,2639,Argentina,ARG
+C. Incutto,2235,1983,ARG,2731,Argentina,ARG
+Marcussi,2235,1983,ARG,2743,Argentina,ARG
+E. Najurieta,2230,1983,ARG,2872,Argentina,ARG
+M. Ballicora,2225,1983,ARG,2913,Argentina,ARG
+J.M. Carbone,2225,1983,ARG,2923,Argentina,ARG
+T. Acosta,2220,1983,ARG,3007,Argentina,ARG
+F. Benko,2220,1983,ARG,3013,Argentina,ARG
+A. Fuentes,2220,1983,ARG,3028,Argentina,ARG
+Lafuente,2220,1983,ARG,3055,Argentina,ARG
+Miana,2220,1983,ARG,3064,Argentina,ARG
+J.C. Moreira,2220,1983,ARG,3068,Argentina,ARG
+G.H. Perez,2220,1983,ARG,3078,Argentina,ARG
+M. Varga,2220,1983,ARG,3097,Argentina,ARG
+D. Belmonte,2215,1983,ARG,3110,Argentina,ARG
+Bracchi,2215,1983,ARG,3116,Argentina,ARG
+S. Markeluk,2215,1983,ARG,3157,Argentina,ARG
+R. Poleschi,2215,1983,ARG,3172,Argentina,ARG
+Cordero,2205,1983,ARG,3308,Argentina,ARG
+R.D. D'Arruda,2205,1983,ARG,3310,Argentina,ARG
+Moscovich,2205,1983,ARG,3401,Argentina,ARG
+G. Soppe,2025,1983,ARG,3707,Argentina,ARG
+V. Justo,1975,1983,ARG,3790,Argentina,ARG
+Arias,1970,1983,ARG,3799,Argentina,ARG
+A. Vazquez,1920,1983,ARG,3914,Argentina,ARG
+M. Cazon,1915,1983,ARG,3917,Argentina,ARG
+Herrera,1905,1983,ARG,3962,Argentina,ARG
+M. Rizzo,1900,1983,ARG,4002,Argentina,ARG
+L. Burijovich,1895,1983,ARG,4009,Argentina,ARG
+I. Sarabia,1850,1983,ARG,4112,Argentina,ARG
+A. Vaschetti,1825,1983,ARG,4155,Argentina,ARG
+Bossero,1805,1983,ARG,4170,Argentina,ARG
+Z. Franco,2500,1983,PAR,82,Paraguay,PRY
+R.C. Valiente,2305,1983,PAR,1530,Paraguay,PRY
+O. Ferreira,2265,1983,PAR,2122,Paraguay,PRY
+Bogda,2240,1983,PAR,2614,Paraguay,PRY
+C. Gamarra Caseres,2215,1983,PAR,3129,Paraguay,PRY
+F. Santacruz,2205,1983,PAR,3437,Paraguay,PRY
+V. Inkiov,2500,1983,BUL,83,Bulgaria,BGR
+I. Radulov,2495,1983,BUL,97,Bulgaria,BGR
+P. Velikov,2475,1983,BUL,151,Bulgaria,BGR
+V. Spasov,2460,1983,BUL,186,Bulgaria,BGR
+Tringov,2455,1983,BUL,210,Bulgaria,BGR
+D. Donchev,2450,1983,BUL,218,Bulgaria,BGR
+E. Ermenkov,2445,1983,BUL,242,Bulgaria,BGR
+Kr. Georgiev,2440,1983,BUL,262,Bulgaria,BGR
+Padevsky,2435,1983,BUL,299,Bulgaria,BGR
+L. Popov,2435,1983,BUL,301,Bulgaria,BGR
+V. Lukov,2430,1983,BUL,324,Bulgaria,BGR
+N. Kirov,2425,1983,BUL,353,Bulgaria,BGR
+Kir. Georgiev,2410,1983,BUL,447,Bulgaria,BGR
+P. Peev,2410,1983,BUL,462,Bulgaria,BGR
+N. Spiridonov,2405,1983,BUL,499,Bulgaria,BGR
+P. Atanasov,2400,1983,BUL,504,Bulgaria,BGR
+Kolarov,2395,1983,BUL,549,Bulgaria,BGR
+Sp. Ivanov,2390,1983,BUL,586,Bulgaria,BGR
+N. Minev,2390,1983,BUL,597,Bulgaria,BGR
+T. Toshkov,2390,1983,BUL,610,Bulgaria,BGR
+D. Lalev,2385,1983,BUL,633,Bulgaria,BGR
+S. Bohosjan,2380,1983,BUL,672,Bulgaria,BGR
+S. Semkov,2375,1983,BUL,743,Bulgaria,BGR
+J. Ajanski,2360,1983,BUL,839,Bulgaria,BGR
+P. Popov,2360,1983,BUL,877,Bulgaria,BGR
+D. Pantaleev,2355,1983,BUL,920,Bulgaria,BGR
+M. Tonchev,2350,1983,BUL,981,Bulgaria,BGR
+P. Arnaudov,2345,1983,BUL,987,Bulgaria,BGR
+Radev,2345,1983,BUL,1035,Bulgaria,BGR
+E. Zlatvilov,2340,1983,BUL,1092,Bulgaria,BGR
+B. Dorosiev,2335,1983,BUL,1104,Bulgaria,BGR
+Gerenski,2335,1983,BUL,1109,Bulgaria,BGR
+A. Babev,2330,1983,BUL,1148,Bulgaria,BGR
+S. Danailov,2330,1983,BUL,1162,Bulgaria,BGR
+D. Dobrev,2330,1983,BUL,1165,Bulgaria,BGR
+M. Garkov,2330,1983,BUL,1170,Bulgaria,BGR
+Prodanov,2330,1983,BUL,1196,Bulgaria,BGR
+Grigorov,2325,1983,BUL,1240,Bulgaria,BGR
+V. Antonov,2320,1983,BUL,1281,Bulgaria,BGR
+Mechkarov,2320,1983,BUL,1316,Bulgaria,BGR
+A. Dolmadjan,2315,1983,BUL,1352,Bulgaria,BGR
+Kizov,2310,1983,BUL,1426,Bulgaria,BGR
+K. Angelov,2305,1983,BUL,1466,Bulgaria,BGR
+D. Pelitov,2305,1983,BUL,1511,Bulgaria,BGR
+Sa. Nikolov,2300,1983,BUL,1585,Bulgaria,BGR
+K. Stefanov,2300,1983,BUL,1599,Bulgaria,BGR
+A. Angelov,2295,1983,BUL,1611,Bulgaria,BGR
+R. Angelov,2295,1983,BUL,1612,Bulgaria,BGR
+B. Banchev,2295,1983,BUL,1616,Bulgaria,BGR
+P. Liangov,2295,1983,BUL,1649,Bulgaria,BGR
+P. Orev,2295,1983,BUL,1659,Bulgaria,BGR
+A. Drumev,2290,1983,BUL,1708,Bulgaria,BGR
+A. Kurtenkov,2290,1983,BUL,1729,Bulgaria,BGR
+V. Vachev,2290,1983,BUL,1759,Bulgaria,BGR
+M. Gochev,2285,1983,BUL,1793,Bulgaria,BGR
+A. Merdinjan,2285,1983,BUL,1817,Bulgaria,BGR
+Vagalinski,2280,1983,BUL,1926,Bulgaria,BGR
+E. Ivanov,2275,1983,BUL,1961,Bulgaria,BGR
+D.K. Georgiev,2270,1983,BUL,2037,Bulgaria,BGR
+V. Prahov,2270,1983,BUL,2076,Bulgaria,BGR
+Cvetkov,2265,1983,BUL,2117,Bulgaria,BGR
+St. Dimitrov,2265,1983,BUL,2119,Bulgaria,BGR
+D. Trifunov,2265,1983,BUL,2178,Bulgaria,BGR
+I. Janakiev,2260,1983,BUL,2226,Bulgaria,BGR
+Z. Zahariev,2260,1983,BUL,2301,Bulgaria,BGR
+Lj. Dimitrov,2255,1983,BUL,2322,Bulgaria,BGR
+T. Lematchko,2255,1983,BUL,2351,Bulgaria,BGR
+N. Dichev,2250,1983,BUL,2422,Bulgaria,BGR
+P. Dimitrov,2250,1983,BUL,2423,Bulgaria,BGR
+I. Gelemerov,2250,1983,BUL,2431,Bulgaria,BGR
+Lj. Nenkov,2250,1983,BUL,2467,Bulgaria,BGR
+Manolov,2245,1983,BUL,2560,Bulgaria,BGR
+Panbukchian,2230,1983,BUL,2878,Bulgaria,BGR
+N. Zaikov,2230,1983,BUL,2904,Bulgaria,BGR
+Asparuhov,2225,1983,BUL,2910,Bulgaria,BGR
+B. Andonov,2220,1983,BUL,3008,Bulgaria,BGR
+S. Kostadinov,2220,1983,BUL,3051,Bulgaria,BGR
+Srebrov,2220,1983,BUL,3090,Bulgaria,BGR
+Tomov,2220,1983,BUL,3095,Bulgaria,BGR
+A. Anev,2215,1983,BUL,3107,Bulgaria,BGR
+I. Dobrev,2215,1983,BUL,3122,Bulgaria,BGR
+M. Milanov,2215,1983,BUL,3161,Bulgaria,BGR
+E. Bujukliev,2205,1983,BUL,3300,Bulgaria,BGR
+Gudzenov,2205,1983,BUL,3343,Bulgaria,BGR
+Pasev,2205,1983,BUL,3412,Bulgaria,BGR
+Miron Pavlov,2205,1983,BUL,3414,Bulgaria,BGR
+Pernishki,2205,1983,BUL,3418,Bulgaria,BGR
+Spirov,2205,1983,BUL,3451,Bulgaria,BGR
+I. Zlatilov,2205,1983,BUL,3472,Bulgaria,BGR
+Kerchev,2200,1983,BUL,3500,Bulgaria,BGR
+B. Mitov,2200,1983,BUL,3509,Bulgaria,BGR
+Penev,2200,1983,BUL,3513,Bulgaria,BGR
+Angelova-Chilinginov,2105,1983,BUL,3591,Bulgaria,BGR
+V. Krumova,2090,1983,BUL,3615,Bulgaria,BGR
+ Gocheva(Bojadgieva),2085,1983,BUL,3620,Bulgaria,BGR
+M. Voiska,2065,1983,BUL,3645,Bulgaria,BGR
+S. Savova,2035,1983,BUL,3690,Bulgaria,BGR
+E. Zlatanova,2035,1983,BUL,3694,Bulgaria,BGR
+Ivanova,2025,1983,BUL,3703,Bulgaria,BGR
+L. Nestorova-Petrova,2015,1983,BUL,3729,Bulgaria,BGR
+Shikova,2005,1983,BUL,3747,Bulgaria,BGR
+J. Kolchakova,1995,1983,BUL,3761,Bulgaria,BGR
+Petrova,1975,1983,BUL,3794,Bulgaria,BGR
+Todorova,1975,1983,BUL,3797,Bulgaria,BGR
+Alexandrova,1970,1983,BUL,3798,Bulgaria,BGR
+N. Isussova,1965,1983,BUL,3816,Bulgaria,BGR
+V. Asenova,1955,1983,BUL,3836,Bulgaria,BGR
+Trojanska,1955,1983,BUL,3840,Bulgaria,BGR
+Pavlova,1940,1983,BUL,3870,Bulgaria,BGR
+Doncheva,1930,1983,BUL,3888,Bulgaria,BGR
+P. Jovkova-Draganova,1925,1983,BUL,3900,Bulgaria,BGR
+Cvetkova,1890,1983,BUL,4028,Bulgaria,BGR
+R. Goteva,1860,1983,BUL,4095,Bulgaria,BGR
+Pionova,1860,1983,BUL,4097,Bulgaria,BGR
+Brichikova,1845,1983,BUL,4114,Bulgaria,BGR
+Topalska,1840,1983,BUL,4126,Bulgaria,BGR
+Robeva,1810,1983,BUL,4166,Bulgaria,BGR
+T. Danova,1805,1983,BUL,4173,Bulgaria,BGR
+Y. Murey,2500,1983,ISR,84,Israel,ISR
+V. Liberzon,2470,1983,ISR,157,Israel,ISR
+A. Greenfeld,2460,1983,ISR,178,Israel,ISR
+L. Gutman,2455,1983,ISR,196,Israel,ISR
+N. Birnboim,2450,1983,ISR,215,Israel,ISR
+S. Kagan,2435,1983,ISR,291,Israel,ISR
+Y. Gruenfeld,2430,1983,ISR,319,Israel,ISR
+E. Shvidler,2430,1983,ISR,337,Israel,ISR
+Y. Bleiman,2425,1983,ISR,343,Israel,ISR
+Kaldor,2410,1983,ISR,452,Israel,ISR
+M. Marantz,2410,1983,ISR,456,Israel,ISR
+Y. Kraidman,2405,1983,ISR,480,Israel,ISR
+L. Lederman,2405,1983,ISR,482,Israel,ISR
+D. Bernstein,2400,1983,ISR,505,Israel,ISR
+N. Grinberg,2400,1983,ISR,513,Israel,ISR
+I. Zilber,2400,1983,ISR,532,Israel,ISR
+Radashkovich,2395,1983,ISR,560,Israel,ISR
+Vainger,2395,1983,ISR,567,Israel,ISR
+A. Balshan,2385,1983,ISR,619,Israel,ISR
+M. Rozental,2360,1983,ISR,881,Israel,ISR
+M. Peretz,2355,1983,ISR,922,Israel,ISR
+U. Zak,2350,1983,ISR,985,Israel,ISR
+Scheinwald,2345,1983,ISR,1039,Israel,ISR
+Sh. Giterman,2335,1983,ISR,1110,Israel,ISR
+I. Gelfer,2330,1983,ISR,1172,Israel,ISR
+A. Kushnir,2330,1983,ISR,1185,Israel,ISR
+Comay,2320,1983,ISR,1288,Israel,ISR
+M. Pasman,2320,1983,ISR,1321,Israel,ISR
+P. Shterenberg,2320,1983,ISR,1332,Israel,ISR
+Y. Stepak,2315,1983,ISR,1389,Israel,ISR
+E. Lahav,2305,1983,ISR,1495,Israel,ISR
+Gransky,2300,1983,ISR,1555,Israel,ISR
+Romm,2300,1983,ISR,1595,Israel,ISR
+Y. Afek,2295,1983,ISR,1609,Israel,ISR
+Priwman,2290,1983,ISR,1743,Israel,ISR
+H. Elyoseph,2275,1983,ISR,1954,Israel,ISR
+M. Czerniak,2270,1983,ISR,2030,Israel,ISR
+Malachi,2270,1983,ISR,2065,Israel,ISR
+I. Shrentzel,2270,1983,ISR,2087,Israel,ISR
+M. Tabdidishvili,2270,1983,ISR,2094,Israel,ISR
+E. Carmel,2265,1983,ISR,2113,Israel,ISR
+Vanman,2265,1983,ISR,2180,Israel,ISR
+G. Bersutzki,2260,1983,ISR,2195,Israel,ISR
+R. Blau,2260,1983,ISR,2197,Israel,ISR
+Z. Czesakov,2260,1983,ISR,2202,Israel,ISR
+M. Kotliar,2260,1983,ISR,2241,Israel,ISR
+Y. Mashian,2255,1983,ISR,2358,Israel,ISR
+U. Avner,2250,1983,ISR,2403,Israel,ISR
+D. Berend,2250,1983,ISR,2407,Israel,ISR
+M. Cnaan,2250,1983,ISR,2415,Israel,ISR
+Malin,2250,1983,ISR,2459,Israel,ISR
+M. Shrentzel,2250,1983,ISR,2485,Israel,ISR
+D. Gurman,2245,1983,ISR,2541,Israel,ISR
+D. Lepen,2245,1983,ISR,2551,Israel,ISR
+B. Gutkin,2240,1983,ISR,2641,Israel,ISR
+Magen,2240,1983,ISR,2660,Israel,ISR
+A. Mart,2240,1983,ISR,2663,Israel,ISR
+Y. Temanlis,2240,1983,ISR,2692,Israel,ISR
+I. Vistinietzki,2235,1983,ISR,2782,Israel,ISR
+G. Leinov,2230,1983,ISR,2852,Israel,ISR
+R. Averahami,2225,1983,ISR,2911,Israel,ISR
+A. Avni,2225,1983,ISR,2912,Israel,ISR
+M. Bank,2225,1983,ISR,2914,Israel,ISR
+M. Kaganovski,2225,1983,ISR,2952,Israel,ISR
+Minsker,2220,1983,ISR,3066,Israel,ISR
+Ein-Dor,2215,1983,ISR,3123,Israel,ISR
+E. Bonne,2210,1983,ISR,3207,Israel,ISR
+E. Elinson,2205,1983,ISR,3322,Israel,ISR
+O. Zemertov,2205,1983,ISR,3469,Israel,ISR
+Heruttee,2200,1983,ISR,3493,Israel,ISR
+M. Karp,2200,1983,ISR,3499,Israel,ISR
+U. Slutzkin,2200,1983,ISR,3521,Israel,ISR
+L. Kristol,2175,1983,ISR,3540,Israel,ISR
+L. Glaz,2135,1983,ISR,3562,Israel,ISR
+O. Podrazhanskaya,2120,1983,ISR,3577,Israel,ISR
+Nudelman,2075,1983,ISR,3635,Israel,ISR
+L. Gal,2005,1983,ISR,3742,Israel,ISR
+Schwartz,1885,1983,ISR,4049,Israel,ISR
+A. Inbar,1870,1983,ISR,4075,Israel,ISR
+E. Bernstein,1865,1983,ISR,4080,Israel,ISR
+Sh. Vardi,1865,1983,ISR,4090,Israel,ISR
+Rozenblat,1855,1983,ISR,4103,Israel,ISR
+Golan,1840,1983,ISR,4120,Israel,ISR
+F. Olafsson,2495,1983,ISL,96,Iceland,ISL
+J. Arnason,2460,1983,ISL,170,Iceland,ISL
+M. Petursson,2455,1983,ISL,202,Iceland,ISL
+G. Sigurjonsson,2455,1983,ISL,207,Iceland,ISL
+H. Olafsson,2430,1983,ISL,328,Iceland,ISL
+S. Bjarnason,2420,1983,ISL,368,Iceland,ISL
+I.R. Johannsson,2410,1983,ISL,451,Iceland,ISL
+I. Asmundsson,2405,1983,ISL,468,Iceland,ISL
+H. Angantysson,2395,1983,ISL,536,Iceland,ISL
+J. Hjartarson,2395,1983,ISL,545,Iceland,ISL
+K. Thorsteins,2370,1983,ISL,788,Iceland,ISL
+B. Thornsteinsson,2325,1983,ISL,1269,Iceland,ISL
+E. Gudmundsson,2320,1983,ISL,1296,Iceland,ISL
+J. Thornsteinsson,2320,1983,ISL,1338,Iceland,ISL
+J.G. Jonsson,2315,1983,ISL,1361,Iceland,ISL
+Asbjornsson,2295,1983,ISL,1615,Iceland,ISL
+B. Kristjansson,2295,1983,ISL,1644,Iceland,ISL
+M. Solmundarsson,2295,1983,ISL,1673,Iceland,ISL
+Viglundsson,2280,1983,ISL,1928,Iceland,ISL
+Josteinsson,2275,1983,ISL,1963,Iceland,ISL
+O. Jonsson,2270,1983,ISL,2048,Iceland,ISL
+A.T. Arnason,2260,1983,ISL,2189,Iceland,ISL
+J. Fridjonsson,2260,1983,ISL,2212,Iceland,ISL
+G. Halldorsson,2260,1983,ISL,2220,Iceland,ISL
+H. Loftsson,2260,1983,ISL,2249,Iceland,ISL
+B. Johannesson,2255,1983,ISL,2344,Iceland,ISL
+A.S. Karlsson,2255,1983,ISL,2345,Iceland,ISL
+H. Karlsson,2250,1983,ISL,2449,Iceland,ISL
+T. Olafsson,2250,1983,ISL,2468,Iceland,ISL
+S. Briem,2245,1983,ISL,2518,Iceland,ISL
+K. Gudmundsson,2245,1983,ISL,2540,Iceland,ISL
+Br. Halldorsson,2245,1983,ISL,2542,Iceland,ISL
+R. Hardarson,2245,1983,ISL,2543,Iceland,ISL
+J. Erlingsson,2240,1983,ISL,2632,Iceland,ISL
+Finlaugsson,2240,1983,ISL,2637,Iceland,ISL
+A. Bjornsson,2225,1983,ISL,2919,Iceland,ISL
+J. Sigurjonsson,2220,1983,ISL,3088,Iceland,ISL
+H. Haraldsson,2215,1983,ISL,3138,Iceland,ISL
+S. Kristinsson,2215,1983,ISL,3150,Iceland,ISL
+B. Jonasson,2210,1983,ISL,3233,Iceland,ISL
+Bj. Sigurjonsson,2200,1983,ISL,3518,Iceland,ISL
+G. Thorsteinsdottir,2015,1983,ISL,3733,Iceland,ISL
+Kristindottir,1930,1983,ISL,3891,Iceland,ISL
+S. Fridthjofsdottir,1805,1983,ISL,4174,Iceland,ISL
+O. Threinsdottir,1800,1983,ISL,4185,Iceland,ISL
+D.K. Johansen,2490,1983,AUS,104,Australia,AUS
+R.M. Jamieson,2455,1983,AUS,198,Australia,AUS
+I. Rogers,2390,1983,AUS,603,Australia,AUS
+G. Hjorth,2360,1983,AUS,864,Australia,AUS
+M.L. Fuller,2340,1983,AUS,1061,Australia,AUS
+A. Flatow,2325,1983,AUS,1233,Australia,AUS
+C. Laird,2315,1983,AUS,1366,Australia,AUS
+T.I. Shaw,2315,1983,AUS,1386,Australia,AUS
+D.G. Hamilton,2305,1983,AUS,1488,Australia,AUS
+Co. Morris,2260,1983,AUS,2255,Australia,AUS
+G. West,2255,1983,AUS,2399,Australia,AUS
+Ch. Depasquale,2240,1983,AUS,2624,Australia,AUS
+Kerr,2210,1983,AUS,3236,Australia,AUS
+W.J. Jordan,2205,1983,AUS,3364,Australia,AUS
+Pope,1940,1983,AUS,3873,Australia,AUS
+J. Clementi,1905,1983,AUS,3952,Australia,AUS
+Martin,1905,1983,AUS,3970,Australia,AUS
+A. Slavotinek,1905,1983,AUS,3985,Australia,AUS
+C. Travers,1905,1983,AUS,3991,Australia,AUS
+N. Kellner,1900,1983,AUS,3997,Australia,AUS
+Hawkesworth,1850,1983,AUS,4108,Australia,AUS
+L. Mayblom,1850,1983,AUS,4110,Australia,AUS
+K. Marshall,1840,1983,AUS,4123,Australia,AUS
+C. Craig,1835,1983,AUS,4130,Australia,AUS
+D. Begos,1805,1983,AUS,4169,Australia,AUS
+J. Sunye Neto,2480,1983,BRA,134,Brazil,BRA
+F. Trois,2395,1983,BRA,566,Brazil,BRA
+G. Milos,2380,1983,BRA,691,Brazil,BRA
+A. Segal,2380,1983,BRA,700,Brazil,BRA
+H. Van Riemsdijk,2380,1983,BRA,705,Brazil,BRA
+M. Paolozzi,2375,1983,BRA,733,Brazil,BRA
+L.J. Brito,2360,1983,BRA,851,Brazil,BRA
+C. Braga,2350,1983,BRA,942,Brazil,BRA
+H. Camara,2330,1983,BRA,1157,Brazil,BRA
+R.A. Filguth,2325,1983,BRA,1232,Brazil,BRA
+Resende,2325,1983,BRA,1256,Brazil,BRA
+S. Trindade,2320,1983,BRA,1339,Brazil,BRA
+Lucena,2305,1983,BRA,1498,Brazil,BRA
+A. Rocha,2305,1983,BRA,1517,Brazil,BRA
+Masculo,2300,1983,BRA,1580,Brazil,BRA
+D. Lima,2285,1983,BRA,1814,Brazil,BRA
+Duarte,2275,1983,BRA,1952,Brazil,BRA
+P. Toth,2275,1983,BRA,2007,Brazil,BRA
+H. Carvalho,2270,1983,BRA,2028,Brazil,BRA
+Miranda,2265,1983,BRA,2150,Brazil,BRA
+H.A. Machado,2250,1983,BRA,2458,Brazil,BRA
+A.A. Correa,2240,1983,BRA,2621,Brazil,BRA
+S.A. Farias,2230,1983,BRA,2821,Brazil,BRA
+L. Loureiro,2225,1983,BRA,2960,Brazil,BRA
+Parreiras Horta,2215,1983,BRA,3168,Brazil,BRA
+A. Padua,2210,1983,BRA,3251,Brazil,BRA
+I. Souza,2205,1983,BRA,3450,Brazil,BRA
+Ju. Chavez,2000,1983,BRA,3750,Brazil,BRA
+Jo. Chaves,1985,1983,BRA,3772,Brazil,BRA
+R. (F) Cardoso,1965,1983,BRA,3812,Brazil,BRA
+R. Ribeiro,1905,1983,BRA,3981,Brazil,BRA
+L. Carvalho,1835,1983,BRA,4129,Brazil,BRA
+L. Ogaard,2475,1983,NOR,147,Norway,NOR
+K.J. Helmers,2465,1983,NOR,162,Norway,NOR
+Tiller,2435,1983,NOR,307,Norway,NOR
+S. Heim,2420,1983,NOR,382,Norway,NOR
+T. Wibe,2390,1983,NOR,613,Norway,NOR
+M. Wiedenkeller,2385,1983,NOR,660,Norway,NOR
+S. Agdestein,2380,1983,NOR,666,Norway,NOR
+E. Poulsson,2380,1983,NOR,696,Norway,NOR
+S. Johannessen,2375,1983,NOR,720,Norway,NOR
+A.V. Gulbrandsen,2350,1983,NOR,950,Norway,NOR
+W.D. Morris,2335,1983,NOR,1125,Norway,NOR
+E. Kristiansen,2320,1983,NOR,1310,Norway,NOR
+Hoen,2310,1983,NOR,1418,Norway,NOR
+O. Moen,2310,1983,NOR,1440,Norway,NOR
+S. Berg,2290,1983,NOR,1693,Norway,NOR
+Orseth,2290,1983,NOR,1741,Norway,NOR
+Ulrichsen,2290,1983,NOR,1758,Norway,NOR
+Braathen,2285,1983,NOR,1776,Norway,NOR
+O. Sande,2285,1983,NOR,1836,Norway,NOR
+R. Bjerke,2280,1983,NOR,1866,Norway,NOR
+Svedenborg,2275,1983,NOR,2003,Norway,NOR
+G. Johnsen,2260,1983,NOR,2227,Norway,NOR
+A. Kjelstrup-Olsen,2260,1983,NOR,2237,Norway,NOR
+B. Ostenstad,2260,1983,NOR,2262,Norway,NOR
+Schjonsby,2260,1983,NOR,2280,Norway,NOR
+A. Semakoff,2255,1983,NOR,2385,Norway,NOR
+R. Elseth,2250,1983,NOR,2425,Norway,NOR
+Harestad,2250,1983,NOR,2437,Norway,NOR
+B. Heggheim,2250,1983,NOR,2439,Norway,NOR
+E. Agdestein,2245,1983,NOR,2509,Norway,NOR
+P. Haugli,2240,1983,NOR,2643,Norway,NOR
+Lindblom,2240,1983,NOR,2656,Norway,NOR
+Ofstad,2240,1983,NOR,2669,Norway,NOR
+P. Stigar,2240,1983,NOR,2688,Norway,NOR
+Y. Barda,2235,1983,NOR,2706,Norway,NOR
+D. De Lange,2235,1983,NOR,2717,Norway,NOR
+Hatlebakk,2235,1983,NOR,2726,Norway,NOR
+T. Kristiansen,2235,1983,NOR,2740,Norway,NOR
+Myreng,2235,1983,NOR,2748,Norway,NOR
+Folling,2230,1983,NOR,2825,Norway,NOR
+Groth,2230,1983,NOR,2830,Norway,NOR
+H. Gundersen,2225,1983,NOR,2940,Norway,NOR
+Michelsen,2225,1983,NOR,2971,Norway,NOR
+B. Nordby,2225,1983,NOR,2976,Norway,NOR
+S. Jensen,2220,1983,NOR,3042,Norway,NOR
+R. Jenssen,2215,1983,NOR,3146,Norway,NOR
+E. Gausel,2205,1983,NOR,3334,Norway,NOR
+Hauge,2205,1983,NOR,3348,Norway,NOR
+Th. Heiberg,2205,1983,NOR,3350,Norway,NOR
+F. Hovde,2205,1983,NOR,3355,Norway,NOR
+J. Jansson,2200,1983,NOR,3497,Norway,NOR
+T. Birkestrand,1905,1983,NOR,3947,Norway,NOR
+I. Dahl,1905,1983,NOR,3955,Norway,NOR
+L.T. Kumle,1905,1983,NOR,3965,Norway,NOR
+K. Shirazi,2475,1983,IRI,150,Iran,IRN
+K. Harandi,2415,1983,IRI,414,Iran,IRN
+Amir Sawadkuhi,2240,1983,IRI,2602,Iran,IRN
+F. Azadharf,2240,1983,IRI,2609,Iran,IRN
+Meh. Sharif,2205,1983,IRI,3445,Iran,IRN
+M. Rivas Pastor,2465,1983,ESP,165,Spain,ESP
+J.L Fernandez Garcia,2435,1983,ESP,287,Spain,ESP
+J. Diez Del Corral,2430,1983,ESP,313,Spain,ESP
+J.M. Bellon Lopez,2425,1983,ESP,342,Spain,ESP
+R. Calvo Minguez,2420,1983,ESP,370,Spain,ESP
+A. Martin Gonzalez,2410,1983,ESP,458,Spain,ESP
+F. Ochoa De Echaguen,2400,1983,ESP,521,Spain,ESP
+Pomar,2400,1983,ESP,524,Spain,ESP
+J.M. Gomez Esteban,2390,1983,ESP,583,Spain,ESP
+A. Medina-Garcia,2365,1983,ESP,815,Spain,ESP
+F.J. Sanz Alonso,2365,1983,ESP,829,Spain,ESP
+J. Garcia-Padron,2360,1983,ESP,860,Spain,ESP
+Lac. Menvielle,2355,1983,ESP,916,Spain,ESP
+L. Gonzales Mestres,2350,1983,ESP,948,Spain,ESP
+Oltra Caurin,2350,1983,ESP,973,Spain,ESP
+F. Visier Segovia,2350,1983,ESP,983,Spain,ESP
+E. Palacios,2340,1983,ESP,1074,Spain,ESP
+V.M. Vehi Bach,2340,1983,ESP,1089,Spain,ESP
+R. Gonzalez-Maza,2335,1983,ESP,1112,Spain,ESP
+F. Gallego Eraso,2320,1983,ESP,1294,Spain,ESP
+C. Garcia Fernandez,2315,1983,ESP,1357,Spain,ESP
+B.J. Ayza,2310,1983,ESP,1399,Spain,ESP
+J.M. Gil Gonzales,2310,1983,ESP,1412,Spain,ESP
+F.X. Minguell,2300,1983,ESP,1583,Spain,ESP
+J. Pisa Ferrer,2300,1983,ESP,1589,Spain,ESP
+J. Fraguela Gil,2295,1983,ESP,1630,Spain,ESP
+S. Pons,2295,1983,ESP,1665,Spain,ESP
+J. Collado,2290,1983,ESP,1701,Spain,ESP
+J. Dominguez Sanz,2290,1983,ESP,1706,Spain,ESP
+F. Sanchez Guirado,2290,1983,ESP,1746,Spain,ESP
+G. Buxade Roca,2285,1983,ESP,1779,Spain,ESP
+J De la Villa Garcia,2285,1983,ESP,1786,Spain,ESP
+J. Lloret Ramis,2285,1983,ESP,1815,Spain,ESP
+N.G. Deltell,2280,1983,ESP,1877,Spain,ESP
+G. Garcia Conesa,2280,1983,ESP,1879,Spain,ESP
+Pujol,2275,1983,ESP,1994,Spain,ESP
+O. Leontxo-Garcia,2270,1983,ESP,2060,Spain,ESP
+Mari Sancho,2270,1983,ESP,2066,Spain,ESP
+E. Moyano Morales,2270,1983,ESP,2071,Spain,ESP
+R. Montecatine,2265,1983,ESP,2152,Spain,ESP
+Parera,2265,1983,ESP,2155,Spain,ESP
+J. Betancort Curbelo,2260,1983,ESP,2196,Spain,ESP
+M. Nieto Miguez,2260,1983,ESP,2258,Spain,ESP
+Rubio,2260,1983,ESP,2272,Spain,ESP
+R. Barbera Estelles,2255,1983,ESP,2308,Spain,ESP
+V. Campos Aucejo,2255,1983,ESP,2316,Spain,ESP
+R. Bordell Rosell,2250,1983,ESP,2409,Spain,ESP
+J. Palau,2250,1983,ESP,2470,Spain,ESP
+R. Alvarez,2245,1983,ESP,2511,Spain,ESP
+Lezcano,2245,1983,ESP,2553,Spain,ESP
+J.C. Aristegui,2240,1983,ESP,2605,Spain,ESP
+F. Lopez Colon,2240,1983,ESP,2658,Spain,ESP
+J. Ballester Sanz,2230,1983,ESP,2795,Spain,ESP
+A. Diaz Sanz,2230,1983,ESP,2816,Spain,ESP
+D. Riquelme Valero,2230,1983,ESP,2886,Spain,ESP
+F.J. Moyano,2225,1983,ESP,2973,Spain,ESP
+J. Anguera Maestro,2220,1983,ESP,3009,Spain,ESP
+N. Garcia,2215,1983,ESP,3130,Spain,ESP
+Unac Ruiz,2215,1983,ESP,3187,Spain,ESP
+F. Gordero Montoya,2205,1983,ESP,3340,Spain,ESP
+L. Navarro,2205,1983,ESP,3404,Spain,ESP
+H. Perez,2205,1983,ESP,3417,Spain,ESP
+Servitja,2200,1983,ESP,3516,Spain,ESP
+M.P. Garcia-Padron,2125,1983,ESP,3571,Spain,ESP
+M. Garcia,2085,1983,ESP,3619,Spain,ESP
+P. Ferrer-Lucas,2045,1983,ESP,3669,Spain,ESP
+J. Gallego,1965,1983,ESP,3814,Spain,ESP
+L. Cuevas-Rodriguez,1900,1983,ESP,3996,Spain,ESP
+A. Sznapik,2460,1983,POL,187,Poland,POL
+Szymczak,2460,1983,POL,188,Poland,POL
+Wl. Schmidt,2450,1983,POL,231,Poland,POL
+A. Kuligowski,2435,1983,POL,293,Poland,POL
+J. Adamski,2425,1983,POL,340,Poland,POL
+A. Sygulski,2425,1983,POL,363,Poland,POL
+Skrobek,2420,1983,POL,394,Poland,POL
+J. Bielczyk,2410,1983,POL,438,Poland,POL
+K. Pinkas,2405,1983,POL,493,Poland,POL
+A. Sydor,2405,1983,POL,500,Poland,POL
+Schinzel,2395,1983,POL,563,Poland,POL
+Konikowski,2390,1983,POL,590,Poland,POL
+A. Filipowicz,2385,1983,POL,628,Poland,POL
+Kiedrowicz,2385,1983,POL,631,Poland,POL
+J. Pokojowczyk,2385,1983,POL,644,Poland,POL
+F. Borkowski,2380,1983,POL,673,Poland,POL
+Luczak,2380,1983,POL,690,Poland,POL
+H. Dobosz,2375,1983,POL,712,Poland,POL
+Z. Jasnikowski,2375,1983,POL,719,Poland,POL
+Kostro,2375,1983,POL,724,Poland,POL
+Sarwinski,2375,1983,POL,741,Poland,POL
+P. Stempin,2375,1983,POL,747,Poland,POL
+Tomaszewski,2375,1983,POL,748,Poland,POL
+Kruszynski,2370,1983,POL,771,Poland,POL
+P. Staniszewski,2370,1983,POL,786,Poland,POL
+Steczkowski,2370,1983,POL,787,Poland,POL
+H. Petryk,2365,1983,POL,820,Poland,POL
+J. Przewoznik,2365,1983,POL,823,Poland,POL
+A. Adamski,2360,1983,POL,838,Poland,POL
+J.B. Bednarski,2360,1983,POL,845,Poland,POL
+W. Balcerowski,2355,1983,POL,890,Poland,POL
+Z. Ksieki,2355,1983,POL,910,Poland,POL
+Ig. Nowak,2355,1983,POL,919,Poland,POL
+M. Hawelko,2350,1983,POL,951,Poland,POL
+J. Bany,2345,1983,POL,988,Poland,POL
+A. Maciejewski,2345,1983,POL,1025,Poland,POL
+R. Bernard,2340,1983,POL,1055,Poland,POL
+W. Dobrzynski,2340,1983,POL,1060,Poland,POL
+Mazul,2340,1983,POL,1070,Poland,POL
+W. Swic,2340,1983,POL,1085,Poland,POL
+H. Fronczek,2335,1983,POL,1107,Poland,POL
+R. Marszalek,2335,1983,POL,1123,Poland,POL
+S. Witkowski,2335,1983,POL,1145,Poland,POL
+Dudek,2330,1983,POL,1167,Poland,POL
+Kojder,2330,1983,POL,1183,Poland,POL
+Panczyk,2330,1983,POL,1192,Poland,POL
+H. Twardon,2330,1983,POL,1207,Poland,POL
+J. Flis,2325,1983,POL,1234,Poland,POL
+J. Gralka,2325,1983,POL,1238,Poland,POL
+E. Ledwon,2325,1983,POL,1249,Poland,POL
+Rosiak,2325,1983,POL,1259,Poland,POL
+T. Zoltek,2325,1983,POL,1278,Poland,POL
+Z. Doda,2320,1983,POL,1291,Poland,POL
+Kubien,2320,1983,POL,1311,Poland,POL
+Manasterski,2320,1983,POL,1315,Poland,POL
+J. Widera,2320,1983,POL,1343,Poland,POL
+M. Bakalarz,2315,1983,POL,1347,Poland,POL
+R. Bator,2315,1983,POL,1348,Poland,POL
+Plinta,2315,1983,POL,1379,Poland,POL
+C. Socha,2315,1983,POL,1388,Poland,POL
+W. Ehrenfeucht,2310,1983,POL,1410,Poland,POL
+R. Grabczewski,2310,1983,POL,1414,Poland,POL
+M. Maciejewski,2310,1983,POL,1436,Poland,POL
+Szalajdewicz,2310,1983,POL,1458,Poland,POL
+Telecki,2310,1983,POL,1460,Poland,POL
+Andrzejewski,2305,1983,POL,1464,Poland,POL
+Kostyra,2305,1983,POL,1493,Poland,POL
+Lokasto,2305,1983,POL,1497,Poland,POL
+Pojedzimiec,2305,1983,POL,1513,Poland,POL
+K. Socha,2305,1983,POL,1521,Poland,POL
+R. Sokolowski,2305,1983,POL,1522,Poland,POL
+S. Sokolowski,2305,1983,POL,1523,Poland,POL
+Drozd,2300,1983,POL,1548,Poland,POL
+Hachaj,2300,1983,POL,1556,Poland,POL
+Sliwa,2300,1983,POL,1598,Poland,POL
+S. Dejkalo,2295,1983,POL,1625,Poland,POL
+Jamroz,2295,1983,POL,1638,Poland,POL
+K. Zolnierowicz,2295,1983,POL,1683,Poland,POL
+Z. Bojczuk,2290,1983,POL,1694,Poland,POL
+B. Borysiak,2290,1983,POL,1695,Poland,POL
+Gizynski,2290,1983,POL,1714,Poland,POL
+W. Janocha,2290,1983,POL,1726,Poland,POL
+Z. Kwiecien,2290,1983,POL,1730,Poland,POL
+A. Machaj,2290,1983,POL,1734,Poland,POL
+A. Cichocki,2285,1983,POL,1782,Poland,POL
+Klimaszewshi,2285,1983,POL,1811,Poland,POL
+M. Kwiecinski,2285,1983,POL,1812,Poland,POL
+Prochownik,2285,1983,POL,1829,Poland,POL
+D. Radziejewski,2285,1983,POL,1831,Poland,POL
+T. Rakowiecki,2285,1983,POL,1832,Poland,POL
+A. Szypulski,2285,1983,POL,1843,Poland,POL
+M. Zielinski,2285,1983,POL,1855,Poland,POL
+Drelinkiewicz,2280,1983,POL,1878,Poland,POL
+K. Lenczewski,2280,1983,POL,1893,Poland,POL
+K. Posnik,2280,1983,POL,1912,Poland,POL
+B. Sygulski,2280,1983,POL,1923,Poland,POL
+Kardys,2275,1983,POL,1966,Poland,POL
+Kubik,2275,1983,POL,1971,Poland,POL
+W. Sapis,2275,1983,POL,1999,Poland,POL
+E. Szydlowski,2275,1983,POL,2006,Poland,POL
+Z. Wielecki,2275,1983,POL,2013,Poland,POL
+J. Gromek,2270,1983,POL,2042,Poland,POL
+J. Markiewicz,2270,1983,POL,2067,Poland,POL
+B. Pietrusiak,2270,1983,POL,2074,Poland,POL
+A. Bozek,2265,1983,POL,2112,Poland,POL
+R. Hass,2265,1983,POL,2133,Poland,POL
+S. Kornasiewicz,2265,1983,POL,2140,Poland,POL
+B. Kulon,2265,1983,POL,2142,Poland,POL
+J. Rogowski,2265,1983,POL,2164,Poland,POL
+L. Wyrzykowski,2265,1983,POL,2183,Poland,POL
+Z. Bator,2260,1983,POL,2191,Poland,POL
+Bugajski,2260,1983,POL,2199,Poland,POL
+Fijalkowski,2260,1983,POL,2210,Poland,POL
+S. Kamys,2260,1983,POL,2231,Poland,POL
+Krason,2260,1983,POL,2242,Poland,POL
+R. Kuczynski,2260,1983,POL,2245,Poland,POL
+Strzelecki,2260,1983,POL,2286,Poland,POL
+Szajna,2260,1983,POL,2287,Poland,POL
+Ziembinski,2260,1983,POL,2302,Poland,POL
+Jachimczyk,2255,1983,POL,2341,Poland,POL
+M. Mannke,2255,1983,POL,2356,Poland,POL
+Rudak,2255,1983,POL,2380,Poland,POL
+Z. Sek,2255,1983,POL,2384,Poland,POL
+H. Sobura,2255,1983,POL,2388,Poland,POL
+R. Wolny,2255,1983,POL,2400,Poland,POL
+J. Dybowski,2250,1983,POL,2424,Poland,POL
+W. Matkowski,2250,1983,POL,2462,Poland,POL
+Z. Pioch,2250,1983,POL,2474,Poland,POL
+W. Szumilo,2250,1983,POL,2491,Poland,POL
+Lubienski,2245,1983,POL,2557,Poland,POL
+M. Szmyd,2245,1983,POL,2583,Poland,POL
+T. Tomalczyk,2245,1983,POL,2585,Poland,POL
+Z. Warwaszynski,2245,1983,POL,2592,Poland,POL
+K. Batruch,2240,1983,POL,2610,Poland,POL
+Chrapkowski,2240,1983,POL,2620,Poland,POL
+Z. Cylwik,2240,1983,POL,2623,Poland,POL
+Listewnik,2240,1983,POL,2657,Poland,POL
+P. Przybylski,2240,1983,POL,2676,Poland,POL
+M. Smoczynski,2240,1983,POL,2686,Poland,POL
+Gorski,2235,1983,POL,2722,Poland,POL
+R. Grossmann,2235,1983,POL,2723,Poland,POL
+Hanasz,2235,1983,POL,2725,Poland,POL
+A. Jarzynski,2235,1983,POL,2733,Poland,POL
+A. Kaczmarek,2235,1983,POL,2735,Poland,POL
+P. Kaukiel,2235,1983,POL,2737,Poland,POL
+J. Matusiak,2235,1983,POL,2745,Poland,POL
+J. Semczuk,2235,1983,POL,2764,Poland,POL
+M. Stypka,2235,1983,POL,2769,Poland,POL
+Swierczewski,2235,1983,POL,2772,Poland,POL
+C. Balicki,2230,1983,POL,2793,Poland,POL
+K. Czapczyk,2230,1983,POL,2811,Poland,POL
+R. Dabek,2230,1983,POL,2812,Poland,POL
+A. Kocur,2230,1983,POL,2846,Poland,POL
+A. Lipinski,2230,1983,POL,2855,Poland,POL
+K. Sznapik,2230,1983,POL,2897,Poland,POL
+D. Weider,2230,1983,POL,2903,Poland,POL
+Z. Bieganski,2225,1983,POL,2918,Poland,POL
+Z. Czajka,2225,1983,POL,2929,Poland,POL
+L. Filipowicz,2225,1983,POL,2932,Poland,POL
+Gieruszynski,2225,1983,POL,2935,Poland,POL
+W. Gryciuk,2225,1983,POL,2938,Poland,POL
+K. Kruczek,2225,1983,POL,2955,Poland,POL
+T. Lipski,2225,1983,POL,2958,Poland,POL
+G. Lukasiewicz,2225,1983,POL,2962,Poland,POL
+K. Marcinkowski,2225,1983,POL,2965,Poland,POL
+H. Piskorz,2225,1983,POL,2983,Poland,POL
+L. Bielinski,2220,1983,POL,3014,Poland,POL
+K. Dlugosz,2220,1983,POL,3022,Poland,POL
+M. Domosud,2220,1983,POL,3023,Poland,POL
+L. Kawczynski,2220,1983,POL,3047,Poland,POL
+R. Orlowski,2220,1983,POL,3071,Poland,POL
+Borcz,2215,1983,POL,3114,Poland,POL
+Mardanovicz,2215,1983,POL,3156,Poland,POL
+Misiuk,2215,1983,POL,3162,Poland,POL
+A. Trylski,2215,1983,POL,3186,Poland,POL
+Z. Autowicz,2210,1983,POL,3199,Poland,POL
+W. Bielecki,2210,1983,POL,3203,Poland,POL
+B. Fronczek,2210,1983,POL,3218,Poland,POL
+K. Krupa,2210,1983,POL,3239,Poland,POL
+Lewicki,2210,1983,POL,3243,Poland,POL
+T. Murat,2210,1983,POL,3247,Poland,POL
+A. Matwiejszyn,2205,1983,POL,3395,Poland,POL
+M. Praszak,2205,1983,POL,3425,Poland,POL
+C. Sajko,2205,1983,POL,3432,Poland,POL
+T. Wiesniak,2205,1983,POL,3462,Poland,POL
+J. Zyla,2205,1983,POL,3473,Poland,POL
+D. Barwinski,2200,1983,POL,3480,Poland,POL
+P. Gasic,2200,1983,POL,3490,Poland,POL
+M. Kolasinki,2200,1983,POL,3501,Poland,POL
+B. Serwinski,2200,1983,POL,3517,Poland,POL
+L. Stanczk,2200,1983,POL,3522,Poland,POL
+M. Wiese,2135,1983,POL,3566,Poland,POL
+H. Erenska-Radzewska,2100,1983,POL,3599,Poland,POL
+A. Brustman,2095,1983,POL,3605,Poland,POL
+Sikora,2090,1983,POL,3616,Poland,POL
+G. Szmacinska,2090,1983,POL,3617,Poland,POL
+Nagrocka,2055,1983,POL,3655,Poland,POL
+K. Pytel,2035,1983,POL,3687,Poland,POL
+Kowalska,2030,1983,POL,3697,Poland,POL
+E. Sosnowska,2025,1983,POL,3708,Poland,POL
+K. Radzikowska,2020,1983,POL,3717,Poland,POL
+Kasprzyk,2010,1983,POL,3737,Poland,POL
+I. Swiecik,2000,1983,POL,3758,Poland,POL
+Grabczynska,1995,1983,POL,3760,Poland,POL
+Jurczynska,1975,1983,POL,3789,Poland,POL
+H. Maziarka,1975,1983,POL,3793,Poland,POL
+Rojek,1975,1983,POL,3795,Poland,POL
+I. Jezierska,1970,1983,POL,3802,Poland,POL
+L. Turczynowicz,1970,1983,POL,3810,Poland,POL
+L. Krawcewicz,1965,1983,POL,3818,Poland,POL
+K. Sobierajewicz,1960,1983,POL,3834,Poland,POL
+H. Fojcik,1940,1983,POL,3864,Poland,POL
+A. Pietrunko,1935,1983,POL,3881,Poland,POL
+H. Zboron,1935,1983,POL,3885,Poland,POL
+G. Roszko,1915,1983,POL,3927,Poland,POL
+I. Baron (Dworaczek),1910,1983,POL,3931,Poland,POL
+K. Wieckiewicz,1910,1983,POL,3944,Poland,POL
+L. Leszner,1905,1983,POL,3967,Poland,POL
+Szpakowska,1905,1983,POL,3988,Poland,POL
+Ciechocinska,1900,1983,POL,3994,Poland,POL
+Rygielska,1900,1983,POL,4003,Poland,POL
+K. Czarska,1895,1983,POL,4010,Poland,POL
+I. Hebisch,1895,1983,POL,4013,Poland,POL
+Kasinska,1885,1983,POL,4045,Poland,POL
+J. Szymanska,1885,1983,POL,4050,Poland,POL
+Tancula,1885,1983,POL,4051,Poland,POL
+E. Kaczmarek,1880,1983,POL,4054,Poland,POL
+I. Glinska,1875,1983,POL,4064,Poland,POL
+B. Kaczorowska,1875,1983,POL,4066,Poland,POL
+Krysiak,1875,1983,POL,4067,Poland,POL
+A. Litwinska,1865,1983,POL,4085,Poland,POL
+E Brustman-Gawarecka,1860,1983,POL,4092,Poland,POL
+E. Bogucka,1835,1983,POL,4127,Poland,POL
+B. Autowicz,1825,1983,POL,4150,Poland,POL
+M. Czarska,1805,1983,POL,4172,Poland,POL
+B. Szych,1805,1983,POL,4179,Poland,POL
+W. Baytel,1800,1983,POL,4181,Poland,POL
+M. Sisniega,2455,1983,MEX,208,Mexico,MEX
+J. Aldrete,2415,1983,MEX,404,Mexico,MEX
+J.M. Ramirez Ruacho,2410,1983,MEX,464,Mexico,MEX
+Villareal,2400,1983,MEX,530,Mexico,MEX
+K. Frey,2380,1983,MEX,679,Mexico,MEX
+A. Campos-Ruiz,2360,1983,MEX,854,Mexico,MEX
+G. Maass Garza,2355,1983,MEX,914,Mexico,MEX
+H. Morales,2355,1983,MEX,917,Mexico,MEX
+Leal,2335,1983,MEX,1120,Mexico,MEX
+A. Acevedo,2330,1983,MEX,1147,Mexico,MEX
+Escondrillas,2325,1983,MEX,1228,Mexico,MEX
+R. Navarro,2325,1983,MEX,1250,Mexico,MEX
+C. Sanz,2325,1983,MEX,1260,Mexico,MEX
+Athala,2320,1983,MEX,1282,Mexico,MEX
+R. Ocampo,2320,1983,MEX,1320,Mexico,MEX
+De Winter,2315,1983,MEX,1351,Mexico,MEX
+R. Espinosa Flores,2315,1983,MEX,1354,Mexico,MEX
+M. Campos Lopez,2305,1983,MEX,1472,Mexico,MEX
+J. Gomez-Quezada,2305,1983,MEX,1484,Mexico,MEX
+E. Barba,2300,1983,MEX,1538,Mexico,MEX
+Pina,2300,1983,MEX,1588,Mexico,MEX
+Solorzano,2285,1983,MEX,1840,Mexico,MEX
+G. Brauer,2280,1983,MEX,1867,Mexico,MEX
+G. Ruiz,2275,1983,MEX,1997,Mexico,MEX
+R. Anguiano,2270,1983,MEX,2019,Mexico,MEX
+Mario Guevara,2265,1983,MEX,2131,Mexico,MEX
+H. Maya,2265,1983,MEX,2148,Mexico,MEX
+B. Ramirez,2265,1983,MEX,2163,Mexico,MEX
+A. Belmont,2260,1983,MEX,2194,Mexico,MEX
+A. Maass Garza,2260,1983,MEX,2250,Mexico,MEX
+I. Martinez,2260,1983,MEX,2252,Mexico,MEX
+A. Garcia,2255,1983,MEX,2328,Mexico,MEX
+Roura,2255,1983,MEX,2379,Mexico,MEX
+V. Barrientos,2250,1983,MEX,2406,Mexico,MEX
+B. Castaneda,2250,1983,MEX,2413,Mexico,MEX
+Godinez,2250,1983,MEX,2434,Mexico,MEX
+L. Munoz,2250,1983,MEX,2466,Mexico,MEX
+Palma,2250,1983,MEX,2471,Mexico,MEX
+Villalobos,2250,1983,MEX,2498,Mexico,MEX
+Lopez Michelone,2245,1983,MEX,2556,Mexico,MEX
+M.A. Perez,2245,1983,MEX,2568,Mexico,MEX
+R. Romero Centeno,2245,1983,MEX,2574,Mexico,MEX
+A. Castaneda,2240,1983,MEX,2618,Mexico,MEX
+L. Dinner,2240,1983,MEX,2627,Mexico,MEX
+G. Marquet,2240,1983,MEX,2662,Mexico,MEX
+Mercado,2240,1983,MEX,2664,Mexico,MEX
+Peralta,2240,1983,MEX,2673,Mexico,MEX
+A. De la Garza,2235,1983,MEX,2716,Mexico,MEX
+Lara,2235,1983,MEX,2741,Mexico,MEX
+Necoechea,2235,1983,MEX,2749,Mexico,MEX
+Quintanilla,2235,1983,MEX,2757,Mexico,MEX
+A. Carrillo,2230,1983,MEX,2807,Mexico,MEX
+Monroy,2230,1983,MEX,2869,Mexico,MEX
+Araiza,2225,1983,MEX,2909,Mexico,MEX
+M.A. Castillo,2225,1983,MEX,2926,Mexico,MEX
+J. Gonzales Mata,2225,1983,MEX,2936,Mexico,MEX
+F. Guerrero,2225,1983,MEX,2939,Mexico,MEX
+Alf. Iglesias,2225,1983,MEX,2946,Mexico,MEX
+Martin Del Campo,2225,1983,MEX,2966,Mexico,MEX
+M.A. Martinez,2225,1983,MEX,2967,Mexico,MEX
+Rangel,2225,1983,MEX,2985,Mexico,MEX
+R. Vidrio,2225,1983,MEX,3000,Mexico,MEX
+A. Daniels,2220,1983,MEX,3021,Mexico,MEX
+Guillen,2220,1983,MEX,3034,Mexico,MEX
+Marvan,2220,1983,MEX,3063,Mexico,MEX
+E. Palos Baez,2220,1983,MEX,3073,Mexico,MEX
+F. Campos,2215,1983,MEX,3118,Mexico,MEX
+J. Ferraez,2215,1983,MEX,3126,Mexico,MEX
+J. Estrada,2210,1983,MEX,3216,Mexico,MEX
+Ferriz,2210,1983,MEX,3217,Mexico,MEX
+R. Granados,2210,1983,MEX,3222,Mexico,MEX
+Nunez,2210,1983,MEX,3249,Mexico,MEX
+A. Estrada,2205,1983,MEX,3325,Mexico,MEX
+H. Granados,2205,1983,MEX,3341,Mexico,MEX
+M.A. Roa,2205,1983,MEX,3430,Mexico,MEX
+Barrios,2200,1983,MEX,3479,Mexico,MEX
+S. Campos-Ortega,2200,1983,MEX,3482,Mexico,MEX
+H. Acevedo,1905,1983,MEX,3945,Mexico,MEX
+N. Carvajal,1905,1983,MEX,3951,Mexico,MEX
+Maura,1835,1983,MEX,4136,Mexico,MEX
+A. Camps,1805,1983,MEX,4171,Mexico,MEX
+H. Ardiansyah,2450,1983,INA,213,Indonesia,IDN
+E. Handoko,2420,1983,INA,381,Indonesia,IDN
+E.E. Miolo,2405,1983,INA,487,Indonesia,IDN
+B. Kileng,2395,1983,INA,548,Indonesia,IDN
+U. Adianto,2385,1983,INA,616,Indonesia,IDN
+Ro. Gunawan,2365,1983,INA,806,Indonesia,IDN
+A. Bachtiar,2360,1983,INA,842,Indonesia,IDN
+S. Mahmud,2345,1983,INA,1026,Indonesia,IDN
+H. Suradiradja,2340,1983,INA,1084,Indonesia,IDN
+S. Sitanggang,2310,1983,INA,1454,Indonesia,IDN
+Iskandar,2305,1983,INA,1492,Indonesia,IDN
+Damanik,2300,1983,INA,1544,Indonesia,IDN
+Hamdan,2285,1983,INA,1799,Indonesia,IDN
+Kusnadi,2280,1983,INA,1891,Indonesia,IDN
+M. Sinulingga,2280,1983,INA,1921,Indonesia,IDN
+M. Wotulo,2270,1983,INA,2101,Indonesia,IDN
+Sampouw,2265,1983,INA,2165,Indonesia,IDN
+A. Fauzi,2260,1983,INA,2209,Indonesia,IDN
+Untoro,2225,1983,INA,2998,Indonesia,IDN
+Wahyuwidayat,2210,1983,INA,3275,Indonesia,IDN
+Hutagalung,2205,1983,INA,3357,Indonesia,IDN
+C.J. Widjajanti,1985,1983,INA,3776,Indonesia,IDN
+Mun,1905,1983,INA,3977,Indonesia,IDN
+T.D. Darmayanti,1800,1983,INA,4182,Indonesia,IDN
+S. Mariotti,2445,1983,ITA,249,Italy,ITA
+S. Tatai,2435,1983,ITA,306,Italy,ITA
+R. Cappello,2410,1983,ITA,442,Italy,ITA
+A. Zichichi,2385,1983,ITA,663,Italy,ITA
+B. Toth,2375,1983,ITA,749,Italy,ITA
+De Eccher,2325,1983,ITA,1225,Italy,ITA
+Iannaccone,2325,1983,ITA,1243,Italy,ITA
+P. Passerotti,2325,1983,ITA,1252,Italy,ITA
+Grinza,2320,1983,ITA,1295,Italy,ITA
+Rosino,2315,1983,ITA,1383,Italy,ITA
+G. Sanna,2315,1983,ITA,1384,Italy,ITA
+I. Ceschia,2310,1983,ITA,1407,Italy,ITA
+Micheli,2310,1983,ITA,1439,Italy,ITA
+C. D'Amore,2305,1983,ITA,1475,Italy,ITA
+Trabattoni,2305,1983,ITA,1527,Italy,ITA
+E. Arlandi,2300,1983,ITA,1537,Italy,ITA
+F. Bruno,2295,1983,ITA,1621,Italy,ITA
+Bonfa,2285,1983,ITA,1775,Italy,ITA
+Vallifuoco,2285,1983,ITA,1849,Italy,ITA
+M. Cocozza,2280,1983,ITA,1875,Italy,ITA
+Evangelisti,2275,1983,ITA,1955,Italy,ITA
+Messa,2275,1983,ITA,1983,Italy,ITA
+Beggi,2265,1983,ITA,2107,Italy,ITA
+A. Cocchi,2250,1983,ITA,2416,Italy,ITA
+G. Coppini,2250,1983,ITA,2418,Italy,ITA
+Martorelli,2250,1983,ITA,2461,Italy,ITA
+M. Sibilio,2250,1983,ITA,2487,Italy,ITA
+O. Tassi,2250,1983,ITA,2492,Italy,ITA
+Rupeni,2240,1983,ITA,2680,Italy,ITA
+Valenti,2240,1983,ITA,2697,Italy,ITA
+Santolini,2235,1983,ITA,2760,Italy,ITA
+Laco,2230,1983,ITA,2850,Italy,ITA
+M. Pangrazzi,2230,1983,ITA,2879,Italy,ITA
+Trincardi,2230,1983,ITA,2900,Italy,ITA
+Pederzoli,2220,1983,ITA,3076,Italy,ITA
+M. De Blasio,2210,1983,ITA,3213,Italy,ITA
+Grassi,2210,1983,ITA,3223,Italy,ITA
+M. Albano,2205,1983,ITA,3286,Italy,ITA
+P. Ponzetto,2205,1983,ITA,3422,Italy,ITA
+Pernici,2005,1983,ITA,3746,Italy,ITA
+R. Gramignani,1915,1983,ITA,3920,Italy,ITA
+Deghenghi,1905,1983,ITA,3957,Italy,ITA
+R. Iacono,1905,1983,ITA,3963,Italy,ITA
+Merciai,1895,1983,ITA,4016,Italy,ITA
+V. Frias,2440,1983,CHI,260,Chile,CHL
+I. Morovic Fernandez,2435,1983,CHI,298,Chile,CHL
+P. Donoso Velasco,2425,1983,CHI,346,Chile,CHL
+R. Cifuentes Parada,2420,1983,CHI,371,Chile,CHL
+C. Silva Sanchez,2385,1983,CHI,653,Chile,CHL
+J. Campos Moreno,2380,1983,CHI,675,Chile,CHL
+H.E. Salazar Jacob,2360,1983,CHI,882,Chile,CHL
+G.S. Scholz,2335,1983,CHI,1135,Chile,CHL
+Araos,2295,1983,CHI,1614,Chile,CHL
+D.A. Godoy,2295,1983,CHI,1633,Chile,CHL
+R. Letelier,2290,1983,CHI,1732,Chile,CHL
+R. Araya,2285,1983,CHI,1767,Chile,CHL
+M. Abarca Aguirre,2280,1983,CHI,1856,Chile,CHL
+J. Belmonte,2275,1983,CHI,1933,Chile,CHL
+C. Velasquez,2270,1983,CHI,2098,Chile,CHL
+C. Zamora,2265,1983,CHI,2184,Chile,CHL
+M.I. Araya Ibarra,2260,1983,CHI,2188,Chile,CHL
+G. Toloza,2250,1983,CHI,2494,Chile,CHL
+Baccelliere,2245,1983,CHI,2513,Chile,CHL
+Toro Sanchez,2220,1983,CHI,3096,Chile,CHL
+F. Wachtendorff,2220,1983,CHI,3100,Chile,CHL
+Rosa,2205,1983,CHI,3431,Chile,CHL
+Carrasco,2065,1983,CHI,3644,Chile,CHL
+G.B. Arbunic Castro,2010,1983,CHI,3734,Chile,CHL
+O. Rodriguez,2440,1983,PER,276,Peru,PER
+J.E. Granda Zuniga,2365,1983,PER,804,Peru,PER
+M. Gonzales,2290,1983,PER,1716,Peru,PER
+P. Garcia Toledo,2265,1983,PER,2127,Peru,PER
+A. Saavedra,2240,1983,PER,2681,Peru,PER
+V. Vilchez,2205,1983,PER,3458,Peru,PER
+D. Verduga,2440,1983,ECU,282,Ecuador,ECU
+G.P. Pazos,2260,1983,ECU,2263,Ecuador,ECU
+C. Salvador,2260,1983,ECU,2275,Ecuador,ECU
+P. Arrata,2245,1983,ECU,2512,Ecuador,ECU
+Pasos,2240,1983,ECU,2672,Ecuador,ECU
+Ventimilla,2210,1983,ECU,3273,Ecuador,ECU
+T. Yepez,2210,1983,ECU,3276,Ecuador,ECU
+F. Delgado,2205,1983,ECU,3314,Ecuador,ECU
+C.S. Matamoros,2205,1983,ECU,3392,Ecuador,ECU
+Harsha Aturupane,2435,1983,SRI,285,Sri Lanka,LKA
+Goonetilleke,2280,1983,SRI,1880,Sri Lanka,LKA
+A. Parakrama,2255,1983,SRI,2367,Sri Lanka,LKA
+Harin. Aturupane,2240,1983,SRI,2607,Sri Lanka,LKA
+S. Weeramantry,2240,1983,SRI,2700,Sri Lanka,LKA
+G.L. Wijesurija,2215,1983,SRI,3192,Sri Lanka,LKA
+T.D.R. Peiris,2210,1983,SRI,3253,Sri Lanka,LKA
+S. Pitigala,2205,1983,SRI,3420,Sri Lanka,LKA
+Rantanen,2435,1983,FIN,302,Finland,FIN
+Saren,2385,1983,FIN,649,Finland,FIN
+Raaste,2380,1983,FIN,697,Finland,FIN
+V. Maki,2370,1983,FIN,773,Finland,FIN
+T.F. Binham,2360,1983,FIN,847,Finland,FIN
+T. Pirttimaki,2360,1983,FIN,876,Finland,FIN
+H. Hurme,2355,1983,FIN,903,Finland,FIN
+H.M.J. Westerinen,2355,1983,FIN,936,Finland,FIN
+Rikkonen,2315,1983,FIN,1381,Finland,FIN
+T.W. Ristoja,2310,1983,FIN,1448,Finland,FIN
+E. Book,2305,1983,FIN,1469,Finland,FIN
+J. Yrjola,2305,1983,FIN,1534,Finland,FIN
+M. Henttinen,2300,1983,FIN,1560,Finland,FIN
+Kanko,2295,1983,FIN,1641,Finland,FIN
+Nykopp,2285,1983,FIN,1824,Finland,FIN
+J. Salonen,2285,1983,FIN,1835,Finland,FIN
+Turunen,2285,1983,FIN,1847,Finland,FIN
+E.E. Havansi,2265,1983,FIN,2134,Finland,FIN
+K. Valkesalmi,2260,1983,FIN,2290,Finland,FIN
+A. Pyholo,2255,1983,FIN,2371,Finland,FIN
+Kivipelto,2245,1983,FIN,2550,Finland,FIN
+Holopainen,2240,1983,FIN,2644,Finland,FIN
+Kirjavainen,2240,1983,FIN,2651,Finland,FIN
+H. Koskinen,2240,1983,FIN,2654,Finland,FIN
+J. Starck,2240,1983,FIN,2687,Finland,FIN
+K. Sorri,2235,1983,FIN,2767,Finland,FIN
+T. Viljava,2235,1983,FIN,2781,Finland,FIN
+Lehikionen,2220,1983,FIN,3056,Finland,FIN
+Partanen,2220,1983,FIN,3074,Finland,FIN
+A. Kujala,2205,1983,FIN,3375,Finland,FIN
+Piuva,2205,1983,FIN,3421,Finland,FIN
+Ylisela,2205,1983,FIN,3466,Finland,FIN
+Loikkainen,2200,1983,FIN,3506,Finland,FIN
+Landry,1950,1983,FIN,3854,Finland,FIN
+P. Pihlajamaki,1905,1983,FIN,3980,Finland,FIN
+L. Laitinen,1890,1983,FIN,4034,Finland,FIN
+Palasto,1850,1983,FIN,4111,Finland,FIN
+W. Wittmann,2435,1983,AUT,308,Austria,AUT
+G. Danner,2420,1983,AUT,373,Austria,AUT
+K. Robatsch,2420,1983,AUT,391,Austria,AUT
+A. Herzog,2415,1983,AUT,417,Austria,AUT
+Dur,2390,1983,AUT,579,Austria,AUT
+W. Pils,2385,1983,AUT,643,Austria,AUT
+F. Hoelzl,2370,1983,AUT,767,Austria,AUT
+A. Dueckstein,2360,1983,AUT,858,Austria,AUT
+T. Hay,2335,1983,AUT,1113,Austria,AUT
+K. Janetschek,2335,1983,AUT,1116,Austria,AUT
+Watzka,2335,1983,AUT,1144,Austria,AUT
+W. Braun,2330,1983,AUT,1153,Austria,AUT
+H.J. Singer,2325,1983,AUT,1264,Austria,AUT
+Kinzel,2315,1983,AUT,1363,Austria,AUT
+W. Mikenda,2315,1983,AUT,1371,Austria,AUT
+Stoppel,2300,1983,AUT,1600,Austria,AUT
+H. Titz,2300,1983,AUT,1602,Austria,AUT
+K. Rohrl,2290,1983,AUT,1744,Austria,AUT
+P. Roth,2290,1983,AUT,1745,Austria,AUT
+E. Weinzettl,2290,1983,AUT,1763,Austria,AUT
+H. Baumgartner,2285,1983,AUT,1770,Austria,AUT
+K. Opl,2285,1983,AUT,1825,Austria,AUT
+W. Groiss,2280,1983,AUT,1883,Austria,AUT
+J. Poecksteiner,2280,1983,AUT,1910,Austria,AUT
+W. Strobel,2275,1983,AUT,2002,Austria,AUT
+H. Zoebisch,2275,1983,AUT,2018,Austria,AUT
+K. Grillitsch,2270,1983,AUT,2041,Austria,AUT
+Miniblock,2270,1983,AUT,2069,Austria,AUT
+Froschl,2260,1983,AUT,2213,Austria,AUT
+Hellmayr,2260,1983,AUT,2222,Austria,AUT
+L. Kwatschewsky,2260,1983,AUT,2246,Austria,AUT
+F. Schaetzel,2260,1983,AUT,2277,Austria,AUT
+U. Steiner,2260,1983,AUT,2284,Austria,AUT
+G. Kaspret,2250,1983,AUT,2450,Austria,AUT
+O. Vodep,2250,1983,AUT,2500,Austria,AUT
+A. Beni,2240,1983,AUT,2612,Austria,AUT
+K. Kargl,2240,1983,AUT,2649,Austria,AUT
+H. Niedermayr,2240,1983,AUT,2668,Austria,AUT
+K. Petschar,2240,1983,AUT,2675,Austria,AUT
+E. Schueller,2240,1983,AUT,2683,Austria,AUT
+Vokroj,2240,1983,AUT,2699,Austria,AUT
+D. Heilinger,2235,1983,AUT,2727,Austria,AUT
+E. Swoboda,2235,1983,AUT,2773,Austria,AUT
+K. Enigl,2230,1983,AUT,2820,Austria,AUT
+W. Kubasta,2230,1983,AUT,2847,Austria,AUT
+Palme,2220,1983,AUT,3072,Austria,AUT
+A. Strauss,2220,1983,AUT,3091,Austria,AUT
+A. Denk,2200,1983,AUT,3486,Austria,AUT
+Wejbora,2200,1983,AUT,3530,Austria,AUT
+A. Hausner,1980,1983,AUT,3781,Austria,AUT
+M. Hennings,1970,1983,AUT,3801,Austria,AUT
+Samt,1940,1983,AUT,3876,Austria,AUT
+M. Duer,1910,1983,AUT,3933,Austria,AUT
+Ma. Horvath,1865,1983,AUT,4084,Austria,AUT
+Kattinger,1850,1983,AUT,4109,Austria,AUT
+I. Illichmann,1835,1983,AUT,4132,Austria,AUT
+Wieser,1835,1983,AUT,4142,Austria,AUT
+R. Kammerlander,1805,1983,AUT,4177,Austria,AUT
+R. Mateo,2430,1983,DOM,325,Dominican Republic,DOM
+J.D. Abreu,2380,1983,DOM,665,Dominican Republic,DOM
+Liao,2280,1983,DOM,1895,Dominican Republic,DOM
+J.M. Dominguez,2270,1983,DOM,2032,Dominican Republic,DOM
+E. Gonzales,2265,1983,DOM,2129,Dominican Republic,DOM
+Fr. Alvarez,2235,1983,DOM,2702,Dominican Republic,DOM
+M. Carrion,2225,1983,DOM,2925,Dominican Republic,DOM
+N.M. Perez,2215,1983,DOM,3169,Dominican Republic,DOM
+F. Muco,2430,1983,ALB,327,Albania,ALB
+Z. Sula,2390,1983,ALB,609,Albania,ALB
+Karkanaque,2355,1983,ALB,907,Albania,ALB
+Adhami,2325,1983,ALB,1212,Albania,ALB
+L. Quendro,2305,1983,ALB,1514,Albania,ALB
+Pustina,2285,1983,ALB,1830,Albania,ALB
+A. Zadrima,2205,1983,ALB,3468,Albania,ALB
+Qi Jingxuan,2430,1983,CHN,333,China,CHN
+Jiangchuan Ye,2425,1983,CHN,365,China,CHN
+Zunian Li,2415,1983,CHN,423,China,CHN
+Jinrong Liang,2395,1983,CHN,553,China,CHN
+Liu Wenze,2390,1983,CHN,593,China,CHN
+Hongshun Xu,2330,1983,CHN,1211,China,CHN
+De. Chen,2320,1983,CHN,1287,China,CHN
+W. Zhang,2315,1983,CHN,1395,China,CHN
+D. Zhang,2285,1983,CHN,1854,China,CHN
+Rongguang Ye,2270,1983,CHN,2102,China,CHN
+Shongjian Li,2230,1983,CHN,2853,China,CHN
+Tang,2210,1983,CHN,3269,China,CHN
+She-Lan Liu,2205,1983,CHN,3384,China,CHN
+Yang-Feng An,2065,1983,CHN,3642,China,CHN
+Ming-Qien Wu,2065,1983,CHN,3646,China,CHN
+A. Zapata,2425,1983,COL,366,Colombia,COL
+Gild. Garcia,2415,1983,COL,412,Colombia,COL
+O. Castro,2380,1983,COL,676,Colombia,COL
+J.A. Gutierrez,2360,1983,COL,862,Colombia,COL
+D. Alzate,2350,1983,COL,938,Colombia,COL
+C. Cuartas,2330,1983,COL,1160,Colombia,COL
+R. Henao,2330,1983,COL,1179,Colombia,COL
+A. Agudelo,2320,1983,COL,1280,Colombia,COL
+S. Gonzales,2310,1983,COL,1413,Colombia,COL
+Minaya,2300,1983,COL,1582,Colombia,COL
+L. Garcia,2290,1983,COL,1713,Colombia,COL
+G. Herrera,2290,1983,COL,1723,Colombia,COL
+J.A. Gonzales,2285,1983,COL,1794,Colombia,COL
+La Rota,2285,1983,COL,1813,Colombia,COL
+M. Cuellar Gacharna,2280,1983,COL,1876,Colombia,COL
+R. Mendoza,2280,1983,COL,1896,Colombia,COL
+C. Martinez,2270,1983,COL,2068,Colombia,COL
+M. Rodriguez,2270,1983,COL,2081,Colombia,COL
+A. Ruiz,2270,1983,COL,2083,Colombia,COL
+F. Munoz,2265,1983,COL,2153,Colombia,COL
+L. Sanchez,2265,1983,COL,2166,Colombia,COL
+A. Acosta,2255,1983,COL,2304,Colombia,COL
+A. Lopez-Trujillo,2255,1983,COL,2353,Colombia,COL
+Velandia,2255,1983,COL,2396,Colombia,COL
+B. De Greif,2250,1983,COL,2420,Colombia,COL
+Cespedes,2230,1983,COL,2808,Colombia,COL
+Obando,2230,1983,COL,2877,Colombia,COL
+D. Betancourt,2215,1983,COL,3112,Colombia,COL
+Hernandez-Fierro,2215,1983,COL,3143,Colombia,COL
+R. Gutierrez,2210,1983,COL,3226,Colombia,COL
+Urbina,2205,1983,COL,3456,Colombia,COL
+T. Leyva,1995,1983,COL,3762,Colombia,COL
+I.D. Guggenberger,1975,1983,COL,3788,Colombia,COL
+D. Soler,1915,1983,COL,3928,Colombia,COL
+A. Salazar,1910,1983,COL,3942,Colombia,COL
+A. Patino,1900,1983,COL,4000,Colombia,COL
+R. Patino,1900,1983,COL,4001,Colombia,COL
+Tabares,1900,1983,COL,4004,Colombia,COL
+M. Marinkovic,1870,1983,COL,4076,Colombia,COL
+A. Moreno,1835,1983,COL,4137,Colombia,COL
+S. Soler,1810,1983,COL,4167,Colombia,COL
+I. Zapata,1805,1983,COL,4180,Colombia,COL
+P. Gesos,2420,1983,GRE,378,Greece,GRC
+S. Skembris,2405,1983,GRE,498,Greece,GRC
+N. Gavrilakis,2390,1983,GRE,580,Greece,GRC
+G. Makropoulos,2385,1983,GRE,637,Greece,GRC
+H. Pountzas,2370,1983,GRE,780,Greece,GRC
+N. Skalkotas,2370,1983,GRE,785,Greece,GRC
+E. Grivas,2365,1983,GRE,805,Greece,GRC
+E. Pandavos,2360,1983,GRE,875,Greece,GRC
+Kourkounakis,2350,1983,GRE,959,Greece,GRC
+Ioakimidis,2330,1983,GRE,1180,Greece,GRC
+P. Pandavos,2330,1983,GRE,1193,Greece,GRC
+S. Porfiriadis,2330,1983,GRE,1195,Greece,GRC
+K. Dimitriadis,2325,1983,GRE,1226,Greece,GRC
+T. Lirindzakis,2315,1983,GRE,1369,Greece,GRC
+Kokkoris,2310,1983,GRE,1428,Greece,GRC
+Th. Liverios,2310,1983,GRE,1433,Greece,GRC
+P. Frendzas,2300,1983,GRE,1550,Greece,GRC
+Geogandzis,2300,1983,GRE,1552,Greece,GRC
+A. Triantafillidis,2300,1983,GRE,1604,Greece,GRC
+L. Vizantiadis,2300,1983,GRE,1606,Greece,GRC
+N. Papayanis,2280,1983,GRE,1905,Greece,GRC
+Kazilaris,2275,1983,GRE,1967,Greece,GRC
+K. Vlahos,2275,1983,GRE,2012,Greece,GRC
+H. Bousios,2265,1983,GRE,2111,Greece,GRC
+N. Sideris,2265,1983,GRE,2170,Greece,GRC
+P. Alvas,2260,1983,GRE,2186,Greece,GRC
+N. Dedes,2260,1983,GRE,2203,Greece,GRC
+Kaloussis,2260,1983,GRE,2230,Greece,GRC
+P. Tsourinakis,2260,1983,GRE,2289,Greece,GRC
+Th. Alexandrou,2255,1983,GRE,2307,Greece,GRC
+D. Hrisanthopoulos,2255,1983,GRE,2340,Greece,GRC
+Siskos,2255,1983,GRE,2387,Greece,GRC
+Balaskas,2250,1983,GRE,2405,Greece,GRC
+A.N. Karayanis,2250,1983,GRE,2448,Greece,GRC
+S. Kofidis,2250,1983,GRE,2453,Greece,GRC
+V. Kotronias,2250,1983,GRE,2454,Greece,GRC
+Paidoussis,2250,1983,GRE,2469,Greece,GRC
+S. Zamit,2250,1983,GRE,2506,Greece,GRC
+S. Ilandzis,2245,1983,GRE,2546,Greece,GRC
+D. Alexakis,2240,1983,GRE,2599,Greece,GRC
+Amendola,2240,1983,GRE,2601,Greece,GRC
+P. Drepaniotis,2240,1983,GRE,2630,Greece,GRC
+Ornithopoulos,2240,1983,GRE,2670,Greece,GRC
+Tsomis,2240,1983,GRE,2695,Greece,GRC
+Fappas,2235,1983,GRE,2718,Greece,GRC
+A. Bogdanos,2230,1983,GRE,2799,Greece,GRC
+I. Georgiou,2230,1983,GRE,2828,Greece,GRC
+Natsis,2230,1983,GRE,2873,Greece,GRC
+Noutsos,2230,1983,GRE,2876,Greece,GRC
+Synanidis,2230,1983,GRE,2896,Greece,GRC
+A. Apostolou,2225,1983,GRE,2908,Greece,GRC
+G. Fournarakos,2225,1983,GRE,2933,Greece,GRC
+Grigoriou,2225,1983,GRE,2937,Greece,GRC
+S. Maliaros,2225,1983,GRE,2964,Greece,GRC
+A. Papastavropoulos,2225,1983,GRE,2980,Greece,GRC
+D. Petrovikis,2225,1983,GRE,2982,Greece,GRC
+P. Sklavounos,2225,1983,GRE,2989,Greece,GRC
+Psaras,2220,1983,GRE,3080,Greece,GRC
+R. Hristopoulos,2215,1983,GRE,3144,Greece,GRC
+Stamatopoulos,2215,1983,GRE,3178,Greece,GRC
+Revithis,2210,1983,GRE,3261,Greece,GRC
+D. Efstathiou,2205,1983,GRE,3319,Greece,GRC
+V. Tsahouras,2205,1983,GRE,3455,Greece,GRC
+D. Delithanasis,2200,1983,GRE,3485,Greece,GRC
+Glezos,2200,1983,GRE,3492,Greece,GRC
+Kaloskambis,2200,1983,GRE,3498,Greece,GRC
+E. Papayanis,2200,1983,GRE,3512,Greece,GRC
+A. Skiadopoulos,2200,1983,GRE,3520,Greece,GRC
+A. Fouriki,1975,1983,GRE,3787,Greece,GRC
+A. Karali,1975,1983,GRE,3791,Greece,GRC
+Z. Moula,1915,1983,GRE,3924,Greece,GRC
+K. Nika,1910,1983,GRE,3940,Greece,GRC
+M. Firigou,1905,1983,GRE,3959,Greece,GRC
+E. Kondou,1905,1983,GRE,3964,Greece,GRC
+K. Mihailidou,1905,1983,GRE,3972,Greece,GRC
+F. Kasioura,1880,1983,GRE,4056,Greece,GRC
+A. Efremoglou,1865,1983,GRE,4081,Greece,GRC
+Petraki,1865,1983,GRE,4087,Greece,GRC
+M. Mourouti,1855,1983,GRE,4101,Greece,GRC
+M. Mihailidou,1845,1983,GRE,4116,Greece,GRC
+G. Andruet,2415,1983,FRA,405,France,FRA
+D. Roos,2415,1983,FRA,430,France,FRA
+A. Haik,2400,1983,FRA,515,France,FRA
+Th. Manouck,2375,1983,FRA,726,France,FRA
+L. Roos,2375,1983,FRA,739,France,FRA
+J.-L. Seret,2375,1983,FRA,744,France,FRA
+D. Sellos,2370,1983,FRA,783,France,FRA
+Preissmann,2360,1983,FRA,878,France,FRA
+E. Prie,2360,1983,FRA,879,France,FRA
+S. Luce,2355,1983,FRA,912,France,FRA
+F. Chevaldonnet,2345,1983,FRA,996,France,FRA
+N. Giffard,2345,1983,FRA,1012,France,FRA
+Ch. Bernard,2335,1983,FRA,1099,France,FRA
+M. Santo-Roman,2330,1983,FRA,1203,France,FRA
+R. Goldenberg,2325,1983,FRA,1237,France,FRA
+J. Macles,2320,1983,FRA,1313,France,FRA
+G. Miralles,2290,1983,FRA,1737,France,FRA
+Monnard,2290,1983,FRA,1739,France,FRA
+Y. Lamorelle,2275,1983,FRA,1973,France,FRA
+Leski,2275,1983,FRA,1974,France,FRA
+D. Levacic,2275,1983,FRA,1975,France,FRA
+Puhm,2270,1983,FRA,2077,France,FRA
+Ch. Abravanel,2265,1983,FRA,2105,France,FRA
+P. Dussol,2260,1983,FRA,2205,France,FRA
+A. Villeneuve,2260,1983,FRA,2292,France,FRA
+Y. Berthelot,2255,1983,FRA,2312,France,FRA
+J.C. Letzelter,2255,1983,FRA,2352,France,FRA
+F. Meinsohn,2255,1983,FRA,2360,France,FRA
+R.C. Frederick,2250,1983,FRA,2429,France,FRA
+M. Benoit,2240,1983,FRA,2613,France,FRA
+A. Fayard,2240,1983,FRA,2635,France,FRA
+E. Boulard,2235,1983,FRA,2712,France,FRA
+P. Herb,2235,1983,FRA,2728,France,FRA
+J.-M. Kappler,2230,1983,FRA,2841,France,FRA
+D. Laclau,2225,1983,FRA,2956,France,FRA
+J.L. Roos,2225,1983,FRA,2986,France,FRA
+M. Roos,2225,1983,FRA,2987,France,FRA
+G. Michalet,2220,1983,FRA,3065,France,FRA
+R. Weill,2220,1983,FRA,3101,France,FRA
+J.P. Boudre,2215,1983,FRA,3115,France,FRA
+J.L. Beltzung,2210,1983,FRA,3201,France,FRA
+A. Casa,2210,1983,FRA,3210,France,FRA
+Ch. Lecuyer,2205,1983,FRA,3380,France,FRA
+FRA,2205,1983,FRA,3426,France,FRA
+N. Tagnon,2015,1983,FRA,3732,France,FRA
+M. Merlini-Cirovic,1990,1983,FRA,3768,France,FRA
+M. Dubois-Schall,1965,1983,FRA,3813,France,FRA
+Ruck Petit,1940,1983,FRA,3875,France,FRA
+Evtouchenko-Boulogne,1925,1983,FRA,3897,France,FRA
+A. Schall,1925,1983,FRA,3903,France,FRA
+Legendre,1905,1983,FRA,3966,France,FRA
+Vansteenkiste,1870,1983,FRA,4078,France,FRA
+Santoy,1835,1983,FRA,4139,France,FRA
+Leroy,1825,1983,FRA,4152,France,FRA
+Warkentin,1825,1983,FRA,4156,France,FRA
+M. Zurfluh,1800,1983,FRA,4186,France,FRA
+J. Boey,2415,1983,BEL,406,Belgium,BEL
+J. Goormachtigh,2375,1983,BEL,714,Belgium,BEL
+R. Weemaes,2320,1983,BEL,1341,Belgium,BEL
+R. Meulders,2300,1983,BEL,1581,Belgium,BEL
+Th. Penson,2300,1983,BEL,1587,Belgium,BEL
+A. Defize,2285,1983,BEL,1787,Belgium,BEL
+G. Monaville,2265,1983,BEL,2151,Belgium,BEL
+L. Winants,2265,1983,BEL,2182,Belgium,BEL
+D. Michiels,2250,1983,BEL,2463,Belgium,BEL
+M. Jadoul,2240,1983,BEL,2646,Belgium,BEL
+Deleyn,2230,1983,BEL,2813,Belgium,BEL
+D. Luminet,2230,1983,BEL,2858,Belgium,BEL
+D. Vanheirzeele,2225,1983,BEL,2999,Belgium,BEL
+D. Pergericht,2215,1983,BEL,3170,Belgium,BEL
+M. Schumacher,2215,1983,BEL,3177,Belgium,BEL
+G. Richter,2210,1983,BEL,3262,Belgium,BEL
+B. De Bruycker,2205,1983,BEL,3312,Belgium,BEL
+De Corte,1905,1983,BEL,3956,Belgium,BEL
+I. Maseyczik,1905,1983,BEL,3971,Belgium,BEL
+T. Tomalczyk,2415,1983,SIN,435,Singapore,SGP
+Leow,2400,1983,SIN,518,Singapore,SGP
+M. Wong,2365,1983,SIN,834,Singapore,SGP
+Cheng-Hong Goh,2330,1983,SIN,1173,Singapore,SGP
+Chee-Seng Chia,2325,1983,SIN,1221,Singapore,SGP
+T. Wong,2275,1983,SIN,2015,Singapore,SGP
+Giam,2255,1983,SIN,2329,Singapore,SGP
+Koh,2255,1983,SIN,2347,Singapore,SGP
+K.-S. Teo,2255,1983,SIN,2393,Singapore,SGP
+K.-Ch. Teo,2235,1983,SIN,2775,Singapore,SGP
+Kok-Ann Lim,2220,1983,SIN,3057,Singapore,SGP
+A. Chia,2205,1983,SIN,3305,Singapore,SGP
+Liew,1935,1983,SIN,3879,Singapore,SGP
+Peng-Kong Chan,1890,1983,SIN,4027,Singapore,SGP
+G.S. Botterill,2410,1983,WLS,440,United Kingdom,GBR
+A.H. Williams,2395,1983,WLS,569,United Kingdom,GBR
+J.G. Cooper,2345,1983,WLS,1000,United Kingdom,GBR
+P. Cunningham,2330,1983,WLS,1161,United Kingdom,GBR
+Hutchings,2320,1983,WLS,1302,United Kingdom,GBR
+I.C. Jones,2260,1983,WLS,2228,United Kingdom,GBR
+Ch.F. Morris,2210,1983,WLS,3246,United Kingdom,GBR
+J. Garwell,2090,1983,WLS,3612,United Kingdom,GBR
+H.C. Watkins,1895,1983,WLS,4022,United Kingdom,GBR
+J. Anson,1890,1983,WLS,4023,United Kingdom,GBR
+D. Evans,1855,1983,WLS,4099,United Kingdom,GBR
+B. Kouatly,2410,1983,LIB,453,Lebanon,LBN
+Sursock,2235,1983,LIB,2770,Lebanon,LBN
+F. Loheac-Amoun,2220,1983,LIB,3058,Lebanon,LBN
+El Ghaidi,2205,1983,LIB,3320,Lebanon,LBN
+A.A. Elmejbri,2205,1983,LIB,3324,Lebanon,LBN
+M. Narchi,2205,1983,LIB,3403,Lebanon,LBN
+C.A. Mcnab,2410,1983,SCO,459,United Kingdom,GBR
+Pritchett,2400,1983,SCO,525,United Kingdom,GBR
+M.L. Condie,2345,1983,SCO,999,United Kingdom,GBR
+Upton,2345,1983,SCO,1045,United Kingdom,GBR
+R.M. Mckay,2340,1983,SCO,1071,United Kingdom,GBR
+G. Morrison,2335,1983,SCO,1126,United Kingdom,GBR
+P. Motwani,2335,1983,SCO,1127,United Kingdom,GBR
+L. Blackstock,2275,1983,SCO,1934,United Kingdom,GBR
+Norris,2275,1983,SCO,1988,United Kingdom,GBR
+S. Swanson,2270,1983,SCO,2093,United Kingdom,GBR
+D.M. Bryson,2240,1983,SCO,2617,United Kingdom,GBR
+S.R. Gillam,2235,1983,SCO,2721,United Kingdom,GBR
+A.J. Muir,2235,1983,SCO,2746,United Kingdom,GBR
+G. Bonner,2230,1983,SCO,2801,United Kingdom,GBR
+Denman,2230,1983,SCO,2814,United Kingdom,GBR
+M. Mac Donald-Ross,2220,1983,SCO,3061,United Kingdom,GBR
+Reid,2205,1983,SCO,3429,United Kingdom,GBR
+A. Condie,1905,1983,SCO,3953,United Kingdom,GBR
+H. Milligan Scott,1905,1983,SCO,3974,United Kingdom,GBR
+L.G.P. Morrison,1905,1983,SCO,3976,United Kingdom,GBR
+R.A. Jackson,1860,1983,SCO,4096,United Kingdom,GBR
+Hindle,1830,1983,SCO,4145,United Kingdom,GBR
+Ravisekhar,2405,1983,IND,494,India,IND
+Ravikumar,2400,1983,IND,526,India,IND
+D. Barua,2390,1983,IND,573,India,IND
+AliS. Nasir,2385,1983,IND,639,India,IND
+P. Thipsay,2385,1983,IND,656,India,IND
+T.N. Parameswaren,2375,1983,IND,734,India,IND
+V. Koshy,2360,1983,IND,867,India,IND
+D.V. Prasad,2340,1983,IND,1078,India,IND
+M. Aaron,2335,1983,IND,1094,India,IND
+Mohd.R. Khan,2335,1983,IND,1119,India,IND
+M. Hassan,2315,1983,IND,1360,India,IND
+R. Nagendra,2315,1983,IND,1373,India,IND
+N.R. Amil-Kumar,2280,1983,IND,1858,India,IND
+P.M. Mohanty,2280,1983,IND,1900,India,IND
+Ravi Hedge,2280,1983,IND,1913,India,IND
+A.B. Meetei,2265,1983,IND,2149,India,IND
+Sahu,2260,1983,IND,2274,India,IND
+Srivastava,2255,1983,IND,2389,India,IND
+A. Choudhry,2250,1983,IND,2414,India,IND
+N.K. Misra,2250,1983,IND,2465,India,IND
+V. Satyanarayanan,2250,1983,IND,2481,India,IND
+A.K. Ghosh,2245,1983,IND,2536,India,IND
+V. Hariharan,2240,1983,IND,2642,India,IND
+R.S. Gupta,2235,1983,IND,2724,India,IND
+Sinha,2235,1983,IND,2766,India,IND
+S. Manikandaswamy,2230,1983,IND,2860,India,IND
+B. Bowar,2225,1983,IND,2921,India,IND
+A. Jabbar,2225,1983,IND,2948,India,IND
+H. Hassan,2215,1983,IND,3140,India,IND
+A.S. Awate,2210,1983,IND,3200,India,IND
+Ravichandran,2210,1983,IND,3259,India,IND
+S. Hassan,2205,1983,IND,3347,India,IND
+Madan,2200,1983,IND,3508,India,IND
+R. Khadilkar,2000,1983,IND,3754,India,IND
+J. Khadilkar,1985,1983,IND,3773,India,IND
+V. Khadilkar,1970,1983,IND,3804,India,IND
+Bouaziz,2390,1983,TUN,577,Tunisia,TUN
+R. Belkadi,2330,1983,TUN,1150,Tunisia,TUN
+M. Ouechtati,2255,1983,TUN,2366,Tunisia,TUN
+Messedi,2230,1983,TUN,2865,Tunisia,TUN
+S. Belkhodja,2205,1983,TUN,3292,Tunisia,TUN
+M. Kaabi,2205,1983,TUN,3365,Tunisia,TUN
+S.-A. Saeed,2390,1983,UAE,605,United Arab Emirates,ARE
+N.A. Saeed,2210,1983,UAE,3264,United Arab Emirates,ARE
+M.M. Saleh,2205,1983,UAE,3434,United Arab Emirates,ARE
+N.M. Saleh,2205,1983,UAE,3435,United Arab Emirates,ARE
+M. Sharif,2205,1983,UAE,3444,United Arab Emirates,ARE
+Kernan,2380,1983,IRL,684,Ireland,IRL
+P. Henry,2375,1983,IRL,717,Ireland,IRL
+N. Patterson,2345,1983,IRL,1031,Ireland,IRL
+D. Dunne,2315,1983,IRL,1353,Ireland,IRL
+P. Delaney,2305,1983,IRL,1477,Ireland,IRL
+Curtin,2265,1983,IRL,2116,Ireland,IRL
+M.J.L. Orr,2255,1983,IRL,2364,Ireland,IRL
+Harding,2250,1983,IRL,2436,Ireland,IRL
+D. Houston,2245,1983,IRL,2545,Ireland,IRL
+E. Keogh,2230,1983,IRL,2843,Ireland,IRL
+C. Barry,2225,1983,IRL,2915,Ireland,IRL
+Ludgate,2215,1983,IRL,3154,Ireland,IRL
+Doyle,2210,1983,IRL,3215,Ireland,IRL
+J. Delaney,2205,1983,IRL,3313,Ireland,IRL
+Ph. Short,2205,1983,IRL,3446,Ireland,IRL
+P. Wallace,2205,1983,IRL,3460,Ireland,IRL
+S. Connelly,1905,1983,IRL,3954,Ireland,IRL
+A. Cronin,1900,1983,IRL,3995,Ireland,IRL
+A. Delaney,1835,1983,IRL,4131,Ireland,IRL
+O'Siochru,1835,1983,IRL,4138,Ireland,IRL
+. Murshed,2380,1983,BAN,692,Bangladesh,BGD
+Y. Hasan,2310,1983,BAN,1417,Bangladesh,BGD
+T. Rahman,2305,1983,BAN,1515,Bangladesh,BGD
+R. Huq,2250,1983,BAN,2440,Bangladesh,BGD
+F. Ahmed,2245,1983,BAN,2510,Bangladesh,BGD
+M.A. Dewan,2230,1983,BAN,2815,Bangladesh,BGD
+A. Islam,2210,1983,BAN,3231,Bangladesh,BGD
+Hye,2205,1983,BAN,3358,Bangladesh,BGD
+R. Hamid,1980,1983,BAN,3780,Bangladesh,BGD
+E. Kassabe,2370,1983,SYR,770,Syria,SYR
+I. Hakki,2305,1983,SYR,1486,Syria,SYR
+T. Catalan,2290,1983,SYR,1700,Syria,SYR
+Beitar,2260,1983,SYR,2193,Syria,SYR
+Houshan,2225,1983,SYR,2944,Syria,SYR
+K. Al Nashed,2205,1983,SYR,3285,Syria,SYR
+J. Ostos,2365,1983,VEN,819,Venezuela,VEN
+Ant. Fernandez,2345,1983,VEN,1006,Venezuela,VEN
+A. Palacios,2345,1983,VEN,1030,Venezuela,VEN
+Guerra J.,2275,1983,VEN,1960,Venezuela,VEN
+J. Cuellar,2255,1983,VEN,2319,Venezuela,VEN
+A. Diaz,2245,1983,VEN,2525,Venezuela,VEN
+Chirinos,2215,1983,VEN,3119,Venezuela,VEN
+Escalante,2215,1983,VEN,3124,Venezuela,VEN
+Gamboa,2205,1983,VEN,3333,Venezuela,VEN
+La Rosa,1960,1983,VEN,3829,Venezuela,VEN
+C. Delgado,1905,1983,VEN,3958,Venezuela,VEN
+N. Luz-Estela,1905,1983,VEN,3969,Venezuela,VEN
+L. Santos,2365,1983,POR,828,Portugal,PRT
+J.P. Santos,2355,1983,POR,928,Portugal,PRT
+F. Silva,2335,1983,POR,1138,Portugal,PRT
+An.M. Fernandes,2325,1983,POR,1231,Portugal,PRT
+Guimaraes,2325,1983,POR,1241,Portugal,PRT
+J. Cordovil,2310,1983,POR,1409,Portugal,PRT
+J.F.A. Sequeira,2300,1983,POR,1597,Portugal,PRT
+A.P. Santos,2290,1983,POR,1747,Portugal,PRT
+R.S. Pereira,2280,1983,POR,1908,Portugal,PRT
+J. Durao,2270,1983,POR,2035,Portugal,PRT
+A. Antunes,2265,1983,POR,2106,Portugal,PRT
+A. Frois,2265,1983,POR,2124,Portugal,PRT
+F.M. Pereira,2255,1983,POR,2368,Portugal,PRT
+A. Ferreira,2230,1983,POR,2822,Portugal,PRT
+H. Neto,2225,1983,POR,2974,Portugal,PRT
+S. Santos,2215,1983,POR,3175,Portugal,PRT
+Lavrador,2210,1983,POR,3240,Portugal,PRT
+S. Soylu,2365,1983,TUR,831,Turkey,TUR
+C. Yurtseven,2365,1983,TUR,835,Turkey,TUR
+Onat,2360,1983,TUR,873,Turkey,TUR
+T. Yilmaz,2325,1983,TUR,1277,Turkey,TUR
+R. Oney,2295,1983,TUR,1658,Turkey,TUR
+F. Oney,2290,1983,TUR,1740,Turkey,TUR
+A. Ulker,2290,1983,TUR,1757,Turkey,TUR
+C. Arduman,2270,1983,TUR,2021,Turkey,TUR
+C. Sel,2270,1983,TUR,2086,Turkey,TUR
+A. Ipek,2260,1983,TUR,2225,Turkey,TUR
+Durlu,2255,1983,TUR,2323,Turkey,TUR
+R. Asaturoglu,2240,1983,TUR,2606,Turkey,TUR
+Z. Sayber,2235,1983,TUR,2761,Turkey,TUR
+Pekun,2220,1983,TUR,3077,Turkey,TUR
+Gumrukcuoglu,2215,1983,TUR,3137,Turkey,TUR
+H. Yasin,2215,1983,TUR,3194,Turkey,TUR
+Pamuk,2210,1983,TUR,3252,Turkey,TUR
+O.I. Barkan,2205,1983,TUR,3289,Turkey,TUR
+Suer,2200,1983,TUR,3526,Turkey,TUR
+J.E. Arbil,1915,1983,TUR,3915,Turkey,TUR
+G. Yilmaz,1870,1983,TUR,4079,Turkey,TUR
+N. Yardimci,1815,1983,TUR,4163,Turkey,TUR
+R. Camacho,2360,1983,ESA,853,El Salvador,SLV
+Grimaldi,2280,1983,ESA,1882,El Salvador,SLV
+M. Velasquez,2260,1983,ESA,2291,El Salvador,SLV
+Tumurbator,2355,1983,MGL,934,Mongolia,MNG
+Lhagva,2330,1983,MGL,1187,Mongolia,MNG
+L. Miagmasuren,2330,1983,MGL,1190,Mongolia,MNG
+P. Jigzhidsuren,2285,1983,MGL,1809,Mongolia,MNG
+Niamdorzi,2225,1983,MGL,2975,Mongolia,MNG
+C. Churelbaatar,2205,1983,MGL,3307,Mongolia,MNG
+J. Khulqana,1935,1983,MGL,3878,Mongolia,MNG
+S.H. Battsengel,1905,1983,MGL,3946,Mongolia,MNG
+P. Buzhinlham,1905,1983,MGL,3949,Mongolia,MNG
+A.-A. Afifi,2350,1983,EGY,937,Egypt,EGY
+T. Fatin,2240,1983,EGY,2634,Egypt,EGY
+M.N. Abdel,2205,1983,EGY,3280,Egypt,EGY
+El Ghazali-Yousef,2205,1983,EGY,3321,Egypt,EGY
+A. Yasseen,2205,1983,EGY,3464,Egypt,EGY
+Samy-Maha,1905,1983,EGY,3983,Egypt,EGY
+F. Basta-Sohair,1885,1983,EGY,4038,Egypt,EGY
+D. Canda,2350,1983,NCA,945,Nicaragua,NIC
+R. Pilarte,2320,1983,NCA,1324,Nicaragua,NIC
+Martin Guevara,2285,1983,NCA,1797,Nicaragua,NIC
+C. Lau,2255,1983,NCA,2350,Nicaragua,NIC
+E. Davila,2250,1983,NCA,2419,Nicaragua,NIC
+F. Castillo,2245,1983,NCA,2520,Nicaragua,NIC
+J.R. Arellano,2240,1983,NCA,2604,Nicaragua,NIC
+R. Borghe,2235,1983,NCA,2711,Nicaragua,NIC
+S. Borghe,2225,1983,NCA,2920,Nicaragua,NIC
+M. Chavez,2220,1983,NCA,3016,Nicaragua,NIC
+J. Gomez,2205,1983,NCA,3338,Nicaragua,NIC
+M. Flores,2200,1983,NCA,3489,Nicaragua,NIC
+D. Sirias,2200,1983,NCA,3519,Nicaragua,NIC
+K. Jhunjhnuwala,2350,1983,HKG,955,Hong Kong,HKG
+W.S. Kan,2350,1983,HKG,956,Hong Kong,HKG
+N. Jhunjhnuwala,2295,1983,HKG,1640,Hong Kong,HKG
+Schepel,2260,1983,HKG,2279,Hong Kong,HKG
+Lloret Ramis,2245,1983,HKG,2555,Hong Kong,HKG
+R. Jhunjhnuwala,2240,1983,HKG,2647,Hong Kong,HKG
+Yu-Shuin Chen,2235,1983,HKG,2713,Hong Kong,HKG
+M. Kiernan,2230,1983,HKG,2844,Hong Kong,HKG
+R. Lin,2230,1983,HKG,2854,Hong Kong,HKG
+A. Pang,2205,1983,HKG,3410,Hong Kong,HKG
+A. Yap,2205,1983,HKG,3463,Hong Kong,HKG
+Chaivichit,2345,1983,THA,995,Thailand,THA
+N. Trisa-Ard,2305,1983,THA,1528,Thailand,THA
+A. Rittiphunyawong,2275,1983,THA,1996,Thailand,THA
+M. Kavakul,2265,1983,THA,2138,Thailand,THA
+Sangadsup,2260,1983,THA,2276,Thailand,THA
+P. Sinprayoon,2250,1983,THA,2488,Thailand,THA
+Darakorn,2245,1983,THA,2523,Thailand,THA
+P. Ruenwongsa,2235,1983,THA,2759,Thailand,THA
+T. Methaset,2215,1983,THA,3159,Thailand,THA
+H. Nishimura,2340,1983,JPN,1073,Japan,JPN
+Kuroda,2330,1983,JPN,1184,Japan,JPN
+Oda,2235,1983,JPN,2752,Japan,JPN
+G. Gonda,2205,1983,JPN,3339,Japan,JPN
+Y. Matsumoto,2205,1983,JPN,3393,Japan,JPN
+Sakurai,2205,1983,JPN,3433,Japan,JPN
+H. Takemoto,2205,1983,JPN,3453,Japan,JPN
+Takahashi,1935,1983,JPN,3884,Japan,JPN
+Nakagawa,1905,1983,JPN,3978,Japan,JPN
+S. Tatai,1905,1983,JPN,3989,Japan,JPN
+W. Charpentier,2320,1983,CRC,1286,Costa Rica,CRI
+Vargas,2275,1983,CRC,2011,Costa Rica,CRI
+F. Montero,2260,1983,CRC,2254,Costa Rica,CRI
+Piza,2255,1983,CRC,2369,Costa Rica,CRI
+M. Salas,2255,1983,CRC,2381,Costa Rica,CRI
+J.L. Jimenez,2235,1983,CRC,2734,Costa Rica,CRI
+E. Chinchilla,2220,1983,CRC,3017,Costa Rica,CRI
+Vilalta,2200,1983,CRC,3529,Costa Rica,CRI
+P. Rodas Martini,2320,1983,GUA,1328,Guatemala,GTM
+C.A. Juarez Flores,2300,1983,GUA,1567,Guatemala,GTM
+F.J. Perez,2275,1983,GUA,1992,Guatemala,GTM
+Grajeda,2255,1983,GUA,2332,Guatemala,GTM
+G.E. Juarez Flores,2250,1983,GUA,2444,Guatemala,GTM
+C.A. Reyes Najera,2245,1983,GUA,2573,Guatemala,GTM
+J.G. Juarez Flores,2240,1983,GUA,2648,Guatemala,GTM
+F. Batres,2235,1983,GUA,2708,Guatemala,GTM
+R. Juarez Flores,2225,1983,GUA,2951,Guatemala,GTM
+Deras,2210,1983,GUA,3214,Guatemala,GTM
+Barreno,2200,1983,GUA,3478,Guatemala,GTM
+Al Attar,2310,1983,IRQ,1396,Iraq,IRQ
+Jalal,2230,1983,IRQ,2838,Iraq,IRQ
+Mahdi,2215,1983,IRQ,3155,Iraq,IRQ
+E. Green,2310,1983,NZL,1415,New Zealand,NZL
+R. Nokes,2310,1983,NZL,1443,New Zealand,NZL
+V. Small,2310,1983,NZL,1455,New Zealand,NZL
+O. Sarapu,2305,1983,NZL,1519,New Zealand,NZL
+R. Smith,2270,1983,NZL,2091,New Zealand,NZL
+P.A. Garbett,2265,1983,NZL,2126,New Zealand,NZL
+B. Watson,2260,1983,NZL,2297,New Zealand,NZL
+J.D. Sarfati,2250,1983,NZL,2480,New Zealand,NZL
+R.A. Dowden,2245,1983,NZL,2526,New Zealand,NZL
+L. Aptekar,2240,1983,NZL,2603,New Zealand,NZL
+P.W. Stuart,2240,1983,NZL,2689,New Zealand,NZL
+B.R. Anderson,2230,1983,NZL,2789,New Zealand,NZL
+A. Carpinter,2225,1983,NZL,2924,New Zealand,NZL
+J. Burndred-Vivian,1905,1983,NZL,3948,New Zealand,NZL
+Sievey,1905,1983,NZL,3984,New Zealand,NZL
+Strech-Winsome,1905,1983,NZL,3987,New Zealand,NZL
+F. Foster,1810,1983,NZL,4164,New Zealand,NZL
+D. Izquierdo,2310,1983,URU,1421,Uruguay,URY
+Dienavorian,2275,1983,URU,1948,Uruguay,URY
+D. Rivera,2255,1983,URU,2374,Uruguay,URY
+S. Abdulrazaq,2205,1983,URU,3281,Uruguay,URY
+Liew,2310,1983,MAS,1432,Malaysia,MYS
+Hon Kah Seng,2285,1983,MAS,1803,Malaysia,MYS
+Y. Goh,2260,1983,MAS,2218,Malaysia,MYS
+S.P. Low,2230,1983,MAS,2857,Malaysia,MYS
+N.Y. Mohamed,2230,1983,MAS,2868,Malaysia,MYS
+T.-H. Tham,2230,1983,MAS,2898,Malaysia,MYS
+Y.C. Choong,2205,1983,MAS,3306,Malaysia,MYS
+A. Martidis,2300,1983,CYP,1579,Cyprus,CYP
+D. Antypas,2205,1983,CYP,3287,Cyprus,CYP
+Demetrakis,2205,1983,CYP,3315,Cyprus,CYP
+R. Schneider,2295,1983,LUX,1669,Luxembourg,LUX
+Stull,2250,1983,LUX,2489,Luxembourg,LUX
+Blaeser,2235,1983,LUX,2709,Luxembourg,LUX
+M. Trauth,2235,1983,LUX,2777,Luxembourg,LUX
+Philippe,2210,1983,LUX,3254,Luxembourg,LUX
+Van Hoolandt,2210,1983,LUX,3270,Luxembourg,LUX
+Hessenbruch,2205,1983,LUX,3351,Luxembourg,LUX
+Schammo,2205,1983,LUX,3440,Luxembourg,LUX
+Sh. Mirza,2290,1983,PAK,1738,Pakistan,PAK
+S.-U. Zafar,2270,1983,PAK,2103,Pakistan,PAK
+Z. Farooqui,2265,1983,PAK,2121,Pakistan,PAK
+Mah. Khan,2265,1983,PAK,2139,Pakistan,PAK
+G. Mohiuddin,2255,1983,PAK,2362,Pakistan,PAK
+A. Chaudry,2230,1983,PAK,2809,Pakistan,PAK
+Sattar,2230,1983,PAK,2888,Pakistan,PAK
+N. Ahmad,2225,1983,PAK,2906,Pakistan,PAK
+S.M. Husain,2205,1983,PAK,3356,Pakistan,PAK
+Balsinde,2235,1983,PUR,2705,Puerto Rico,PRI
+J. Freyre,2220,1983,PUR,3027,Puerto Rico,PRI
+Moraza,2220,1983,PUR,3067,Puerto Rico,PRI
+J. Davila,2205,1983,PUR,3311,Puerto Rico,PRI
+R. Falcon,2205,1983,PUR,3326,Puerto Rico,PRI
+J. Santa Torre,2205,1983,PUR,3436,Puerto Rico,PRI
+Paniagua,2235,1983,PAN,2753,Panama,PAN
+D.J.E. Harris,2230,1983,BER,2833,Bermuda,BMU
+J. Dill,2205,1983,BER,3316,Bermuda,BMU
+W. Hook,2230,1983,IVB,2836,British Virgin Islands,VGB
+J. Jarecki,2205,1983,IVB,3362,British Virgin Islands,VGB
+G. Broomes,2225,1983,GUY,2922,Guyana,GUY
+M. Broomes,2210,1983,GUY,3209,Guyana,GUY
+R. Chavez,2225,1983,BOL,2927,Bolivia,BOL
+S. Kanani,2220,1983,KEN,3046,Kenya,KEN
+A. Adam,2205,1983,KEN,3282,Kenya,KEN
+Gouder,2210,1983,MLT,3221,Malta,MLT
+Azzopardi,2205,1983,MLT,3288,Malta,MLT
+G. Borg,2205,1983,MLT,3295,Malta,MLT
+H. Camilleri,2205,1983,MLT,3303,Malta,MLT
+Lauri,2205,1983,MLT,3379,Malta,MLT
+C. Sollars,2205,1983,MLT,3449,Malta,MLT
+A. Gutierrez,2210,1983,ANG,3225,Angola,AGO
+Silla,2210,1983,ANG,3267,Angola,AGO
+R. Ferreira,2205,1983,ANG,3331,Angola,AGO
+C. Van Tilbury,2210,1983,ISV,3271,US Virgin Islands,VIR
+E. Grumer,2205,1983,ISV,3342,US Virgin Islands,VIR
+O. Agusto,2205,1983,NGR,3284,Nigeria,NGA
+O. Faseyitan,2205,1983,NGR,3330,Nigeria,NGA
+H. Battikhi,2205,1983,JOR,3290,Jordan,JOR
+M. Bukhari,2205,1983,JOR,3301,Jordan,JOR
+M. Benhadi,2205,1983,ALG,3293,Algeria,DZA
+N.E. Chaourar,2205,1983,ALG,3304,Algeria,DZA
+A. Kharchi,2205,1983,ALG,3369,Algeria,DZA
+A. Slimani,2205,1983,ALG,3448,Algeria,DZA
+Fanoy,2205,1983,PNG,3327,Papua New Guinea,PNG
+J. Markov,2205,1983,PNG,3390,Papua New Guinea,PNG
+E. Pilapil,2205,1983,PNG,3419,Papua New Guinea,PNG
+K. Farooghi,2205,1983,BRN,3328,Bahrain,BHR
+Y.M. Rasheed,2205,1983,BRN,3428,Bahrain,BHR
+E. Girault,2205,1983,MNC,3336,Monaco,MCO
+P. Lorinczi,2205,1983,MNC,3385,Monaco,MCO
+L. Glazier,2205,1983,ZIM,3337,Zimbabwe,ZWE
+C. Kuwaza,2205,1983,ZIM,3376,Zimbabwe,ZWE
+S. Kyriakides,2205,1983,ZIM,3377,Zimbabwe,ZWE
+P. Hamley,2205,1983,BOT,3344,Botswana,BWA
+J.Ch. Hansen,2205,1983,FAI,3345,Faroe Islands,FRO
+Midjord,2205,1983,FAI,3398,Faroe Islands,FRO
+T. Nielsen,2205,1983,FAI,3406,Faroe Islands,FRO
+S. Ziska,2205,1983,FAI,3470,Faroe Islands,FRO
+D. Iglesias,2205,1983,AND,3359,Andorra,AND
+J.A. Pantebre,2205,1983,AND,3411,Andorra,AND
+V. Santamaria,2205,1983,AND,3438,Andorra,AND
+Kafumbe,2205,1983,ZAM,3366,Zambia,ZMB
+C. Kaslan,2205,1983,SUR,3367,Suriname,SUR
+J. Lindeboom,2205,1983,SUR,3382,Suriname,SUR
+T. Knight,2205,1983,GCI,3372,Guernsey,GGY
+S. Matthews,2205,1983,JAM,3394,Jamaica,JAM
+J. Powell,2205,1983,JAM,3424,Jamaica,JAM
+Mbaye,2205,1983,SEN,3396,Senegal,SEN
+P. Sargos,2205,1983,SEN,3439,Senegal,SEN
+A. Mungyereza,2205,1983,UGA,3402,Uganda,UGA
+W. Zabasajja,2205,1983,UGA,3467,Uganda,UGA

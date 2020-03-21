@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 Gary Kasparov	2805	1993	RUS	1	
 Robert J Fischer	2780	1993	USA	2	
 Anatoly Karpov	2725	1993	RUS	3	
@@ -8273,7 +8273,7 @@ Pieter Claesen	2240	1993	BEL	8271
 Kenneth R Clayton	2240	1993	USA	8272	
 Olivier Collard	2240	1993	FRA	8273	
 Enrique Conejo	2240	1993	USA	8274	
-Thomas, J Costigan	2240	1993	USA	8275	
+Thomas J Costigan	2240	1993	USA	8275	
 Ioan Crisan	2240	1993	ROM	8276	
 Nenad Cubrilovic	2240	1993	YUG	8277	
 Santiago Cuesta Navarro	2240	1993	CUB	8278	
@@ -11089,7 +11089,7 @@ Almira Skripchenko-Lautier	2190	1993	MDA	11087
 Michael Stoeber	2190	1993	GER	11088	
 Carlo Stoecklin	2190	1993	SUI	11089	
 Abraham Sztern	2190	1993	AUS	11090	
-L, Tajieva	2190	1993	KAZ	11091	
+L Tajieva	2190	1993	KAZ	11091	
 Michael Tscharotschkin	2190	1993	GER	11092	
 Richard Valet	2190	1993	GER	11093	
 Alain Viot	2190	1993	FRA	11094	

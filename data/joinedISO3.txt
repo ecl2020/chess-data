@@ -1,0 +1,187 @@
+name_FED	Fed	ISO3
+Afghanistan	AFG	AFG
+Albania	ALB	ALB
+Algeria	ALG	DZA
+Andorra	AND	AND
+Angola	ANG	AGO
+Argentina	ARG	ARG
+Armenia	ARM	ARM
+Aruba	ARU	ABW
+Australia	AUS	AUS
+Austria	AUT	AUT
+Azerbaijan	AZE	AZE
+Bahamas	BAH	BHS
+Bahrain	BRN	BHR
+Bangladesh	BAN	BGD
+Barbados	BAR	BRB
+Belarus	BLR	BLR
+Belgium	BEL	BEL
+Belize	BIZ	BLZ
+Bermuda	BER	BMU
+Bhutan	BHU	BTN
+Bolivia	BOL	BOL
+Bosnia and Herzegovina	BIH	BIH
+Botswana	BOT	BWA
+Brazil	BRA	BRA
+British Virgin Islands	IVB	VGB
+Brunei	BRU	BRN
+Bulgaria	BUL	BGR
+Burkina Faso	BUR	BFA
+Burundi	BDI	BDI
+Cambodia	CAM	KHM
+Cameroon	CMR	CMR
+Canada	CAN	CAN
+Central African Republic	CAF	CAF
+Chile	CHI	CHL
+China	CHN	CHN
+Chinese Taipei	TPE	#N/A
+Colombia	COL	COL
+Comoros Islands	COM	COM
+Congo	CGO	COG
+Costa Rica	CRC	CRI
+Cote d'Ivoire	CIV	CIV
+Croatia	CRO	HRV
+Cuba	CUB	CUB
+Cyprus	CYP	CYP
+Czech Republic	CZE	CZE
+Denmark	DEN	DNK
+Dominican Republic	DOM	DOM
+Ecuador	ECU	ECU
+Egypt	EGY	EGY
+El Salvador	ESA	SLV
+Estonia	EST	EST
+Ethiopia	ETH	ETH
+Faroe Islands	FAI	FRO
+FIDE	FID	#N/A
+Fiji	FIJ	FJI
+Finland	FIN	FIN
+France	FRA	FRA
+Gabon	GAB	GAB
+Gambia	GAM	GMB
+Georgia	GEO	GEO
+Germany	GER	DEU
+Ghana	GHA	GHA
+Gibraltar	GIB	GIB
+Greece	GRE	GRC
+Guam	GUM	GUM
+Guatemala	GUA	GTM
+Guernsey	GCI	GGY
+Guyana	GUY	GUY
+Haiti	HAI	HTI
+Honduras	HON	HND
+Hong Kong	HKG	HKG
+Hungary	HUN	HUN
+Iceland	ISL	ISL
+India	IND	IND
+Indonesia	INA	IDN
+Iran	IRI	IRN
+Iraq	IRQ	IRQ
+Ireland	IRL	IRL
+Isle of Man	IMN	IMN
+Israel	ISR	ISR
+Italy	ITA	ITA
+Jamaica	JAM	JAM
+Japan	JPN	JPN
+Jersey	JCI	JEY
+Jordan	JOR	JOR
+Kazakhstan	KAZ	KAZ
+Kenya	KEN	KEN
+Kuwait	KUW	KWT
+Kyrgyzstan	KGZ	KGZ
+Laos	LAO	LAO
+Latvia	LAT	LVA
+Lebanon	LIB	LBN
+Lesotho	LES	LSO
+Libya	LBA	LBY
+Liechtenstein	LIE	LIE
+Lithuania	LTU	LTU
+Luxembourg	LUX	LUX
+Macao	MAC	MAC
+Macedonia	MKD	MKD
+Madagascar	MAD	MDG
+Malawi	MAW	MWI
+Malaysia	MAS	MYS
+Maldives	MDV	MDV
+Mali	MLI	MLI
+Malta	MLT	MLT
+Mauritania	MTN	MRT
+Mauritius	MRI	MUS
+Mexico	MEX	MEX
+Moldova	MDA	MDA
+Monaco	MNC	MCO
+Mongolia	MGL	MNG
+Montenegro	MNE	MNE
+Morocco	MAR	MAR
+Mozambique	MOZ	MOZ
+Myanmar	MYA	MMR
+Namibia	NAM	NAM
+Nauru	NRU	NRU
+Nepal	NEP	NPL
+Netherlands	NED	NLD
+Netherlands Antilles	AHO	ANT
+New Zealand	NZL	NZL
+Nicaragua	NCA	NIC
+Nigeria	NGR	NGA
+Norway	NOR	NOR
+Oman	OMA	OMN
+Pakistan	PAK	PAK
+Palau	PLW	PLW
+Palestine	PLE	PSE
+Panama	PAN	PAN
+Papua New Guinea	PNG	PNG
+Paraguay	PAR	PRY
+Peru	PER	PER
+Philippines	PHI	PHL
+Poland	POL	POL
+Portugal	POR	PRT
+Puerto Rico	PUR	PRI
+Qatar	QAT	QAT
+Romania	ROU	ROU
+Russia	RUS	RUS
+Rwanda	RWA	RWA
+San Marino	SMR	SMR
+Sao Tome and Principe	STP	STP
+Saudi Arabia	KSA	SAU
+United Kingdom	SCO	GBR
+Senegal	SEN	SEN
+Serbia	SRB	SRB
+Seychelles	SEY	SYC
+Sierra Leone	SLE	SLE
+Singapore	SIN	SGP
+Slovakia	SVK	SVK
+Slovenia	SLO	SVN
+Solomon Islands	SOL	SLB
+Somalia	SOM	SOM
+South Africa	RSA	ZAF
+South Korea	KOR	KOR
+Spain	ESP	ESP
+Sri Lanka	SRI	LKA
+Sudan	SUD	SDN
+Suriname	SUR	SUR
+Swaziland	SWZ	SWZ
+Sweden	SWE	SWE
+Switzerland	SUI	CHE
+Syria	SYR	SYR
+Tajikistan	TJK	TJK
+Tanzania	TAN	TZA
+Thailand	THA	THA
+Timor-Leste	TLS	TLS
+Togo	TOG	TGO
+Trinidad and Tobago	TTO	TTO
+Tunisia	TUN	TUN
+Turkey	TUR	TUR
+Turkmenistan	TKM	TKM
+Uganda	UGA	UGA
+Ukraine	UKR	UKR
+United Arab Emirates	UAE	ARE
+United Kingdom	ENG	GBR
+United States	USA	USA
+Uruguay	URU	URY
+US Virgin Islands	ISV	VIR
+Uzbekistan	UZB	UZB
+Venezuela	VEN	VEN
+Vietnam	VIE	VNM
+United Kingdom	WLS	GBR
+Yemen	YEM	YEM
+Zambia	ZAM	ZMB
+Zimbabwe	ZIM	ZWE

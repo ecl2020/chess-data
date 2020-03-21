@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 G. Kasparov	2720	1986	USR	1	
 An. Karpov	2700	1986	USR	2	
 J. Timman	2645	1986	NED	3	
@@ -1432,7 +1432,7 @@ D. Marjan	2330	1986	YUG	1430
 M. Markovic	2330	1986	YUG	1431	
 Mazul	2330	1986	POL	1432	
 Mechkarov	2330	1986	BUL	1433	
-Ali,S. Nasir	2330	1986	IND	1434	
+AliS. Nasir	2330	1986	IND	1434	
 S. Neamtu	2330	1986	ROM	1435	
 G. Nikolic	2330	1986	YUG	1436	
 D. Oltean	2330	1986	ROM	1437	

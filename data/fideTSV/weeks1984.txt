@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 G. Kasparov	2710	1984	USR	1	
 An. Karpov	2700	1984	USR	2	
 V. Kortchnoi	2635	1984	SUI	3	
@@ -957,7 +957,7 @@ A. Maciejewski	2350	1984	POL	955
 J. Meyer	2350	1984	USA	956	
 M. Moe	2350	1984	DEN	957	
 B. Mrksic	2350	1984	YUG	958	
-Ali,S. Nasir	2350	1984	IND	959	
+AliS. Nasir	2350	1984	IND	959	
 R. Navarro	2350	1984	MEX	960	
 M. Nepomnishay	2350	1984	USR	961	
 D. Neukirch	2350	1984	DDR	962	

@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 Gary Kasparov	2795	1997	RUS	1	
 Robert J Fischer	2780	1997	USA	2	
 Viswanathan Anand	2765	1997	IND	3	
@@ -10182,7 +10182,7 @@ Arne Christiansen	2240	1997	DEN	10180
 Kenneth R Clayton	2240	1997	USA	10181	
 Thomas.Sean Colure	2240	1997	USA	10182	
 Enrique Conejo	2240	1997	USA	10183	
-Thomas, J Costigan	2240	1997	USA	10184	
+Thomas J Costigan	2240	1997	USA	10184	
 Luis Couso	2240	1997	SWE	10185	
 Ivan Cselotei	2240	1997	HUN	10186	
 Santiago Cuesta Navarro	2240	1997	CUB	10187	

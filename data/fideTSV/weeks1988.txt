@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 G. Kasparov	2750	1988	USR	1	
 An. Karpov	2715	1988	USR	2	
 J. Timman	2675	1988	NED	3	
@@ -4956,7 +4956,7 @@ M. Breyer	2215	1988	FRG	4954
 Th. Britt	2215	1988	USA	4955	
 Luis F. Campos	2215	1988	MEX	4956	
 I. Cervenka	2215	1988	CSR	4957	
-J,-L. Chabanon	2215	1988	FRA	4958	
+J-L. Chabanon	2215	1988	FRA	4958	
 A. Cnstantin	2215	1988	ROM	4959	
 D. Colindres	2215	1988	HON	4960	
 F. Courreges	2215	1988	ARG	4961	
@@ -5045,7 +5045,7 @@ I. Si	2215	1988	MAS	5043
 S. Skoro	2215	1988	YUG	5044	
 Z. Sokol	2215	1988	POL	5045	
 A. Stebbings	2215	1988	ENG	5046	
-(Dia.),T. Stepovaia	2215	1988	USR	5047	
+(Dia.)T. Stepovaia	2215	1988	USR	5047	
 V. Subramanian	2215	1988	IND	5048	
 M. Suresh	2215	1988	IND	5049	
 Sursock	2215	1988	LIB	5050	

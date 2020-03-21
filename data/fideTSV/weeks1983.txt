@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 An. Karpov	2710	1983	USR	1	
 G. Kasparov	2690	1983	USR	2	
 Lj. Ljubojevic	2645	1983	YUG	3	
@@ -637,7 +637,7 @@ B. Lengyel	2385	1983	HUN	635
 A. Lilienthal	2385	1983	HUN	636	
 G. Makropoulos	2385	1983	GRE	637	
 V. Moiseev	2385	1983	USR	638	
-Ali,S. Nasir	2385	1983	IND	639	
+AliS. Nasir	2385	1983	IND	639	
 A. Novopashin	2385	1983	USR	640	
 P. Ostojic	2385	1983	YUG	641	
 Voj. Petrovic	2385	1983	YUG	642	

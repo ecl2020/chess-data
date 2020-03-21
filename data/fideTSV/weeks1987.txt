@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 G. Kasparov	2735	1987	USR	1	
 An. Karpov	2710	1987	USR	2	
 A. Sokolov	2645	1987	USR	3	

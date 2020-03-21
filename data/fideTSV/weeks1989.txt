@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 G. Kasparov	2775	1989	USR	1	
 An. Karpov	2750	1989	USR	2	
 N.D. Short	2650	1989	ENG	3	
@@ -4648,7 +4648,7 @@ G. Canfell	2245	1989	AUS	4646
 F. Casas	2245	1989	ARG	4647	
 A. Castaneda	2245	1989	MEX	4648	
 J. Ceko	2245	1989	YUG	4649	
-J,-L. Chabanon	2245	1989	FRA	4650	
+J-L. Chabanon	2245	1989	FRA	4650	
 Z. Civric	2245	1989	YUG	4651	
 S. Clausen	2245	1989	DEN	4652	
 P. Cunningham	2245	1989	WLS	4653	
@@ -5804,7 +5804,7 @@ B. Sikora-Gizynska	2215	1989	POL	5802
 S. Skoro	2215	1989	YUG	5803	
 Z. Sokol	2215	1989	POL	5804	
 A. Stebbings	2215	1989	ENG	5805	
-(Dia.),T. Stepovaia	2215	1989	USR	5806	
+(Dia.)T. Stepovaia	2215	1989	USR	5806	
 V. Subramanian	2215	1989	IND	5807	
 M. Suresh	2215	1989	IND	5808	
 Sursock	2215	1989	LIB	5809	

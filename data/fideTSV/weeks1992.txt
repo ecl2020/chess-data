@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 Robert J Fischer	2780	1992	USA	1	
 Gary Kasparov	2780	1992	RUS	2	
 Anatoly Karpov	2725	1992	RUS	3	
@@ -7525,7 +7525,7 @@ Boris Ciglic	2240	1992	SLO	7523
 Kenneth R Clayton	2240	1992	USA	7524	
 Olivier Collard	2240	1992	FRA	7525	
 Enrique Conejo	2240	1992	USA	7526	
-Thomas, J Costigan	2240	1992	USA	7527	
+Thomas J Costigan	2240	1992	USA	7527	
 Ioan Crisan	2240	1992	ROM	7528	
 Bruno Csikar	2240	1992	HUN	7529	
 Csaba Csiszar	2240	1992	HUN	7530	
@@ -9889,7 +9889,7 @@ Elvira Sakhatova	2190	1992	KAZ	9887
 Anna Segal	2190	1992	ISR	9888	
 Svetlana Semina	2190	1992	RUS	9889	
 Natasa Strizak	2190	1992	YUG	9890	
-L, Tajieva	2190	1992	KAZ	9891	
+L Tajieva	2190	1992	KAZ	9891	
 Lyazzat Tazhieva	2190	1992	KAZ	9892	
 Bagyashree.Sathe Thipsay	2190	1992	IND	9893	
 N Zinina	2190	1992	RUS	9894	

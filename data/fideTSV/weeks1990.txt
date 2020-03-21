@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 G. Kasparov	2800	1990	USR	1	
 An. Karpov	2730	1990	USR	2	
 J.H. Timman	2680	1990	NED	3	

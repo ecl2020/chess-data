@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 Robert J Fischer	2780	1994	USA	1	
 Anatoly Karpov	2740	1994	RUS	2	
 Viswanathan Anand	2715	1994	IND	3	
@@ -8683,7 +8683,7 @@ Federico Cirabisi	2240	1994	ITA	8681
 Jerzy Ciruk	2240	1994	POL	8682	
 Kenneth R Clayton	2240	1994	USA	8683	
 Enrique Conejo	2240	1994	USA	8684	
-Thomas, J Costigan	2240	1994	USA	8685	
+Thomas J Costigan	2240	1994	USA	8685	
 Ioan Crisan	2240	1994	ROM	8686	
 Richard Cseke	2240	1994	HUN	8687	
 Nenad Cubrilovic	2240	1994	YUG	8688	

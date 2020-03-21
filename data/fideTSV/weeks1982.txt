@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 An. Karpov	2720	1982	USR	1	
 J. Timman	2655	1982	NED	2	
 V. Kortchnoi	2645	1982	SUI	3	
@@ -954,7 +954,7 @@ Messa	2350	1982	ITA	952
 J. Meyer	2350	1982	USA	953	
 L. Miagmasuren	2350	1982	MGL	954	
 K. Muller	2350	1982	HUN	955	
-Ali,S. Nasir	2350	1982	IND	956	
+AliS. Nasir	2350	1982	IND	956	
 V. Nicolaide	2350	1982	ROM	957	
 S. Nurkic	2350	1982	YUG	958	
 Oltra Caurin	2350	1982	ESP	959	

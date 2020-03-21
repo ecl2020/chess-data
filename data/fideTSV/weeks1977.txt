@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 An. Karpov	2690	1977	USR	1	
 V. Kortchnoi	2645	1977	SUI	2	
 T. Petrosian	2645	1977	USR	3	

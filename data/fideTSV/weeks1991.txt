@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 Gary Kasparov	2800	1991	RUS	1	
 Robert J Fischer	2780	1991	USA	2	
 Anatoly Karpov	2725	1991	RUS	3	
@@ -6858,7 +6858,7 @@ Dragan Ciric	2240	1991	YUG	6856
 Pieter Claesen	2240	1991	BEL	6857	
 Kenneth R Clayton	2240	1991	USA	6858	
 Enrique Conejo	2240	1991	USA	6859	
-Thomas, J Costigan	2240	1991	USA	6860	
+Thomas J Costigan	2240	1991	USA	6860	
 Santiago Cuesta Navarro	2240	1991	CUB	6861	
 Heinrich Daeubler	2240	1991	GER	6862	
 Massimo De Blasio	2240	1991	ITA	6863	
@@ -7072,7 +7072,7 @@ Gyorgy Szilagyi	2240	1991	HUN	7070
 Imre Szucz	2240	1991	YUG	7071	
 Balazs Szuhai	2240	1991	HUN	7072	
 Rumen Tachkov	2240	1991	BUL	7073	
-L, Tajieva	2240	1991	KAZ	7074	
+L Tajieva	2240	1991	KAZ	7074	
 Jonathan Tan	2240	1991	PHI	7075	
 Oscar Tan	2240	1991	PHI	7076	
 Tapaszto	2240	1991	VEN	7077	
@@ -9047,7 +9047,7 @@ Astra Klovane	2200	1991	LAT	9045
 Inna Koren	2200	1991	USA	9046	
 Milunka Lazarevic	2200	1991	YUG	9047	
 Margareta Muresan	2200	1991	ROM	9048	
-Tatiana, V Voronova	2200	1991	UKR	9049	
+Tatiana V Voronova	2200	1991	UKR	9049	
 Rita Zimmersmann	2200	1991	HUN	9050	
 A Borsuk	2195	1991	UKR	9051	
 Iris Broeder	2195	1991	GER	9052	

@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 G. Kasparov	2715	1985	USR	1	
 An. Karpov	2705	1985	USR	2	
 J. Timman	2650	1985	NED	3	
@@ -1440,7 +1440,7 @@ A. Meszaros	2320	1985	HUN	1438
 C.-D. Meyer	2320	1985	FRG	1439	
 E. Mozes	2320	1985	ROM	1440	
 B. Mrksic	2320	1985	YUG	1441	
-Ali,S. Nasir	2320	1985	IND	1442	
+AliS. Nasir	2320	1985	IND	1442	
 O. Orel	2320	1985	YUG	1443	
 M.J.L. Orr	2320	1985	IRL	1444	
 J. Palkovi	2320	1985	HUN	1445	

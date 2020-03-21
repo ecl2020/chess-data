@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 Robert J Fischer	2780	1996	USA	1	
 Gary Kasparov	2775	1996	RUS	2	
 Vladimir Kramnik	2775	1996	RUS	3	
@@ -9701,7 +9701,7 @@ Guillermo Celestino	2240	1996	ARG	9699
 Laltu Chatterjee	2240	1996	IND	9700	
 Kenneth R Clayton	2240	1996	USA	9701	
 Enrique Conejo	2240	1996	USA	9702	
-Thomas, J Costigan	2240	1996	USA	9703	
+Thomas J Costigan	2240	1996	USA	9703	
 Ivan Cselotei	2240	1996	HUN	9704	
 Santiago Cuesta Navarro	2240	1996	CUB	9705	
 Janos Cuibus	2240	1996	HUN	9706	

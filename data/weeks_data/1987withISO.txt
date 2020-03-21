@@ -1,0 +1,3358 @@
+Name,Rating,Year,Fed,Rank,name_FED,ISO3
+V. Kortchnoi,2625,1987,SUI,5,Switzerland,CHE
+H. Wirthensohn,2435,1987,SUI,391,Switzerland,CHE
+W. Hug,2430,1987,SUI,397,Switzerland,CHE
+D. Keller,2420,1987,SUI,468,Switzerland,CHE
+M. Trepp,2405,1987,SUI,612,Switzerland,CHE
+Zueger,2405,1987,SUI,616,Switzerland,CHE
+G. Franzoni,2390,1987,SUI,720,Switzerland,CHE
+Partos,2385,1987,SUI,789,Switzerland,CHE
+E. Bhend,2380,1987,SUI,813,Switzerland,CHE
+M. Schauwecker,2380,1987,SUI,844,Switzerland,CHE
+R. Gerber,2375,1987,SUI,879,Switzerland,CHE
+Huss,2375,1987,SUI,889,Switzerland,CHE
+M. Klauser,2365,1987,SUI,1012,Switzerland,CHE
+F. Gobet,2355,1987,SUI,1121,Switzerland,CHE
+T. Lematschko,2340,1987,SUI,1354,Switzerland,CHE
+J. Ditzler,2330,1987,SUI,1489,Switzerland,CHE
+Glauser,2330,1987,SUI,1502,Switzerland,CHE
+J. Gast,2325,1987,SUI,1591,Switzerland,CHE
+E. Preissmann,2325,1987,SUI,1634,Switzerland,CHE
+J.L. Costa,2320,1987,SUI,1682,Switzerland,CHE
+Pa. Horn,2320,1987,SUI,1705,Switzerland,CHE
+H. Kaenel,2320,1987,SUI,1714,Switzerland,CHE
+B. Kamber,2320,1987,SUI,1715,Switzerland,CHE
+Kanel,2320,1987,SUI,1716,Switzerland,CHE
+Ph. Ammann,2315,1987,SUI,1781,Switzerland,CHE
+G. Gottardi,2315,1987,SUI,1802,Switzerland,CHE
+R. Roth,2315,1987,SUI,1843,Switzerland,CHE
+H. Karl,2310,1987,SUI,1924,Switzerland,CHE
+M. Ballmann,2305,1987,SUI,2001,Switzerland,CHE
+W. Bichsel,2305,1987,SUI,2005,Switzerland,CHE
+M. Ruefenacht,2305,1987,SUI,2082,Switzerland,CHE
+C. Landerbegue,2300,1987,SUI,2159,Switzerland,CHE
+E. Arikok,2295,1987,SUI,2221,Switzerland,CHE
+M. Wittwer,2295,1987,SUI,2355,Switzerland,CHE
+D. Leuba,2290,1987,SUI,2426,Switzerland,CHE
+P. Hammer,2285,1987,SUI,2522,Switzerland,CHE
+J. Adler,2280,1987,SUI,2606,Switzerland,CHE
+Ch. Flueckiger,2265,1987,SUI,2978,Switzerland,CHE
+E. Gereben,2265,1987,SUI,2980,Switzerland,CHE
+A. Robert,2265,1987,SUI,3034,Switzerland,CHE
+R. Iten,2260,1987,SUI,3095,Switzerland,CHE
+R. Castagna,2255,1987,SUI,3184,Switzerland,CHE
+R. Ott,2255,1987,SUI,3256,Switzerland,CHE
+B. Schwaegli,2255,1987,SUI,3273,Switzerland,CHE
+V. Vulevic,2255,1987,SUI,3296,Switzerland,CHE
+A. Domont,2250,1987,SUI,3330,Switzerland,CHE
+U. Gast,2250,1987,SUI,3339,Switzerland,CHE
+P.-A. Bex,2245,1987,SUI,3441,Switzerland,CHE
+C. Boschetti,2245,1987,SUI,3443,Switzerland,CHE
+S. Branca,2245,1987,SUI,3444,Switzerland,CHE
+U. Rueetschi,2245,1987,SUI,3546,Switzerland,CHE
+H. Schoch,2235,1987,SUI,3775,Switzerland,CHE
+J. Herzog,2230,1987,SUI,3839,Switzerland,CHE
+Ph. Buerki,2225,1987,SUI,3933,Switzerland,CHE
+M. Christoffel,2225,1987,SUI,3937,Switzerland,CHE
+E. Goldberger,2225,1987,SUI,3959,Switzerland,CHE
+Mi. Hofmann,2220,1987,SUI,4080,Switzerland,CHE
+D. Summermatter,2220,1987,SUI,4147,Switzerland,CHE
+A. Wueest,2220,1987,SUI,4169,Switzerland,CHE
+H. Fioramonti,2205,1987,SUI,4474,Switzerland,CHE
+H. Schaerer,2205,1987,SUI,4609,Switzerland,CHE
+E. Reimer,2090,1987,SUI,4873,Switzerland,CHE
+V. Bilinski,2030,1987,SUI,5030,Switzerland,CHE
+N.D. Short,2615,1987,ENG,8,United Kingdom,GBR
+M. Chandler,2595,1987,ENG,14,United Kingdom,GBR
+J.D.M. Nunn,2585,1987,ENG,21,United Kingdom,GBR
+J. Speelman,2550,1987,ENG,50,United Kingdom,GBR
+J.M. Hodgson,2520,1987,ENG,90,United Kingdom,GBR
+Mestelj.,2520,1987,ENG,93,United Kingdom,GBR
+M.F. Stean,2500,1987,ENG,130,United Kingdom,GBR
+W.N. Watson,2500,1987,ENG,132,United Kingdom,GBR
+G.C. Flear,2495,1987,ENG,138,United Kingdom,GBR
+N.R. Mcdonald,2480,1987,ENG,181,United Kingdom,GBR
+D.J. King,2475,1987,ENG,196,United Kingdom,GBR
+P. Littlewood,2470,1987,ENG,209,United Kingdom,GBR
+M. Hebden,2460,1987,ENG,246,United Kingdom,GBR
+J. Plaskett,2460,1987,ENG,247,United Kingdom,GBR
+R. Keene,2455,1987,ENG,259,United Kingdom,GBR
+S. Conquest,2445,1987,ENG,311,United Kingdom,GBR
+A. Kosten,2440,1987,ENG,345,United Kingdom,GBR
+W. Hartston,2435,1987,ENG,372,United Kingdom,GBR
+J. Levitt,2430,1987,ENG,404,United Kingdom,GBR
+N.R. Davies,2420,1987,ENG,458,United Kingdom,GBR
+D.H. Cummings,2410,1987,ENG,522,United Kingdom,GBR
+D. Goodman,2410,1987,ENG,533,United Kingdom,GBR
+D. Norwood,2405,1987,ENG,602,United Kingdom,GBR
+R. Bellin,2400,1987,ENG,620,United Kingdom,GBR
+P.K. Wells,2400,1987,ENG,662,United Kingdom,GBR
+A.J. Whiteley,2390,1987,ENG,750,United Kingdom,GBR
+M.J. Basman,2385,1987,ENG,756,United Kingdom,GBR
+G.W. Lawton,2385,1987,ENG,778,United Kingdom,GBR
+Povah,2385,1987,ENG,791,United Kingdom,GBR
+S. Bell,2380,1987,ENG,811,United Kingdom,GBR
+J.C. Howell,2380,1987,ENG,831,United Kingdom,GBR
+J. Littlewood,2380,1987,ENG,837,United Kingdom,GBR
+Hawkesworth,2370,1987,ENG,940,United Kingdom,GBR
+P.G. Large,2370,1987,ENG,946,United Kingdom,GBR
+And.D. Martin,2370,1987,ENG,951,United Kingdom,GBR
+M.L. Pein,2370,1987,ENG,957,United Kingdom,GBR
+M. Adams,2360,1987,ENG,1051,United Kingdom,GBR
+Hindle,2355,1987,ENG,1132,United Kingdom,GBR
+J. Horner,2355,1987,ENG,1135,United Kingdom,GBR
+J.C. Pigott,2355,1987,ENG,1149,United Kingdom,GBR
+S. Knott,2350,1987,ENG,1207,United Kingdom,GBR
+G. Crawley,2345,1987,ENG,1254,United Kingdom,GBR
+G.W. Lane,2345,1987,ENG,1280,United Kingdom,GBR
+G.A. Waddingham,2345,1987,ENG,1315,United Kingdom,GBR
+K.C. Arkell,2340,1987,ENG,1322,United Kingdom,GBR
+J.G. Gallagher,2340,1987,ENG,1339,United Kingdom,GBR
+J. Miles,2340,1987,ENG,1358,United Kingdom,GBR
+N.H. Bradbury,2335,1987,ENG,1402,United Kingdom,GBR
+N.W. Ivell,2335,1987,ENG,1428,United Kingdom,GBR
+B.A. Jacobs,2335,1987,ENG,1429,United Kingdom,GBR
+A.P. Law,2335,1987,ENG,1435,United Kingdom,GBR
+J. Hawthorne,2330,1987,ENG,1503,United Kingdom,GBR
+M. Hennigan,2330,1987,ENG,1504,United Kingdom,GBR
+S. Arkell,2325,1987,ENG,1566,United Kingdom,GBR
+S.K. Walker,2325,1987,ENG,1659,United Kingdom,GBR
+K. Bowden,2320,1987,ENG,1672,United Kingdom,GBR
+A. Potts,2320,1987,ENG,1747,United Kingdom,GBR
+P. Byway,2315,1987,ENG,1790,United Kingdom,GBR
+D. Agnos,2310,1987,ENG,1872,United Kingdom,GBR
+G.H. Bennett,2310,1987,ENG,1883,United Kingdom,GBR
+C. Crouch,2310,1987,ENG,1891,United Kingdom,GBR
+J.M. Emms,2310,1987,ENG,1901,United Kingdom,GBR
+P.J. Sowray,2310,1987,ENG,1974,United Kingdom,GBR
+I. Thomas,2310,1987,ENG,1980,United Kingdom,GBR
+N.L. Carr,2305,1987,ENG,2012,United Kingdom,GBR
+J.J. Cox,2305,1987,ENG,2015,United Kingdom,GBR
+Ch. Holland,2305,1987,ENG,2035,United Kingdom,GBR
+J.J. Ady,2300,1987,ENG,2101,United Kingdom,GBR
+J. Nicholson,2300,1987,ENG,2179,United Kingdom,GBR
+Ch. Ward,2300,1987,ENG,2213,United Kingdom,GBR
+J. Way,2300,1987,ENG,2214,United Kingdom,GBR
+R. Britton,2295,1987,ENG,2237,United Kingdom,GBR
+Sh. Jackson,2295,1987,ENG,2274,United Kingdom,GBR
+G.D. Lee,2295,1987,ENG,2285,United Kingdom,GBR
+M. Wheeler,2295,1987,ENG,2353,United Kingdom,GBR
+M. Eke,2290,1987,ENG,2386,United Kingdom,GBR
+M.J. Franklin,2290,1987,ENG,2388,United Kingdom,GBR
+S.J. Roe,2290,1987,ENG,2446,United Kingdom,GBR
+K. Wicker,2290,1987,ENG,2473,United Kingdom,GBR
+G.M. Clark,2285,1987,ENG,2497,United Kingdom,GBR
+A.J. Dunnington,2285,1987,ENG,2506,United Kingdom,GBR
+D. Friedgood,2285,1987,ENG,2511,United Kingdom,GBR
+A.E. Hanreck,2285,1987,ENG,2523,United Kingdom,GBR
+G. Quillan,2285,1987,ENG,2576,United Kingdom,GBR
+E.O.M.C. Teichmann,2285,1987,ENG,2591,United Kingdom,GBR
+D. Walker,2285,1987,ENG,2601,United Kingdom,GBR
+R. Abayasekera,2280,1987,ENG,2605,United Kingdom,GBR
+A.A. Smith,2275,1987,ENG,2815,United Kingdom,GBR
+Sugden,2275,1987,ENG,2817,United Kingdom,GBR
+D.A. Wood,2275,1987,ENG,2829,United Kingdom,GBR
+Cooley,2270,1987,ENG,2845,United Kingdom,GBR
+D.W. Anderton,2265,1987,ENG,2948,United Kingdom,GBR
+A. Lewis,2265,1987,ENG,3003,United Kingdom,GBR
+D. Watts,2265,1987,ENG,3047,United Kingdom,GBR
+K. Fuller,2260,1987,ENG,3079,United Kingdom,GBR
+R.F. Holmes,2260,1987,ENG,3091,United Kingdom,GBR
+D.E. Rumens,2260,1987,ENG,3142,United Kingdom,GBR
+C.R. Chandler,2255,1987,ENG,3185,United Kingdom,GBR
+M.A. Pagden,2255,1987,ENG,3257,United Kingdom,GBR
+John Benjamin,2250,1987,ENG,3315,United Kingdom,GBR
+C.R. Dawson,2250,1987,ENG,3326,United Kingdom,GBR
+R. Granat,2250,1987,ENG,3343,United Kingdom,GBR
+G. Kenworthy,2250,1987,ENG,3361,United Kingdom,GBR
+Ph. Stevenson,2250,1987,ENG,3410,United Kingdom,GBR
+T.E. Wiley,2250,1987,ENG,3424,United Kingdom,GBR
+M.J. Yeo,2250,1987,ENG,3425,United Kingdom,GBR
+C. Baker,2245,1987,ENG,3432,United Kingdom,GBR
+Dickenson,2245,1987,ENG,3464,United Kingdom,GBR
+A. Dunn,2245,1987,ENG,3470,United Kingdom,GBR
+R. Lobo,2245,1987,ENG,3503,United Kingdom,GBR
+T. Needham,2245,1987,ENG,3526,United Kingdom,GBR
+K. Shovel,2245,1987,ENG,3553,United Kingdom,GBR
+S. Small,2245,1987,ENG,3554,United Kingdom,GBR
+Si.D. Brown,2240,1987,ENG,3590,United Kingdom,GBR
+A. Harley,2240,1987,ENG,3617,United Kingdom,GBR
+F.J. Kwiatkowski,2240,1987,ENG,3626,United Kingdom,GBR
+D.P. Mooney,2240,1987,ENG,3646,United Kingdom,GBR
+N. Thomas,2240,1987,ENG,3672,United Kingdom,GBR
+D. Lee,2235,1987,ENG,3732,United Kingdom,GBR
+N.R. Oliver,2235,1987,ENG,3750,United Kingdom,GBR
+St.C. Brown,2230,1987,ENG,3814,United Kingdom,GBR
+M. Hazelton,2230,1987,ENG,3838,United Kingdom,GBR
+J. Anderson,2225,1987,ENG,3922,United Kingdom,GBR
+J.W. Branford,2225,1987,ENG,3929,United Kingdom,GBR
+P.W. Hempson,2225,1987,ENG,3964,United Kingdom,GBR
+G.H. James,2220,1987,ENG,4087,United Kingdom,GBR
+M.P. Townsend,2220,1987,ENG,4158,United Kingdom,GBR
+Jo.H. Hodgson,2210,1987,ENG,4326,United Kingdom,GBR
+O.A. Jackson,2210,1987,ENG,4328,United Kingdom,GBR
+P.J. Rossiter,2210,1987,ENG,4375,United Kingdom,GBR
+A. Stebbings,2210,1987,ENG,4389,United Kingdom,GBR
+A. Mortazavi,2205,1987,ENG,4559,United Kingdom,GBR
+M. Hepworth,2190,1987,ENG,4673,United Kingdom,GBR
+S. Christopher,2155,1987,ENG,4733,United Kingdom,GBR
+D.M. Norman(Wright),2090,1987,ENG,4871,United Kingdom,GBR
+C.E. Whitehead,2070,1987,ENG,4932,United Kingdom,GBR
+C.A. Groves,2065,1987,ENG,4941,United Kingdom,GBR
+P.A. Mothersill,2065,1987,ENG,4944,United Kingdom,GBR
+P.A. Sunnucks,2065,1987,ENG,4950,United Kingdom,GBR
+R.M. Bruce,2030,1987,ENG,5032,United Kingdom,GBR
+S. Wood,2010,1987,ENG,5100,United Kingdom,GBR
+O. Chataway,2005,1987,ENG,5113,United Kingdom,GBR
+L. Portisch,2610,1987,HUN,9,Hungary,HUN
+Z. Ribli,2580,1987,HUN,23,Hungary,HUN
+J. Pinter,2570,1987,HUN,31,Hungary,HUN
+Gy. Sax,2570,1987,HUN,33,Hungary,HUN
+A. Adorjan,2560,1987,HUN,38,Hungary,HUN
+I. Farago,2535,1987,HUN,66,Hungary,HUN
+A. Groszpeter,2505,1987,HUN,111,Hungary,HUN
+P. Lukacs,2500,1987,HUN,129,Hungary,HUN
+Zsu. Polgar,2495,1987,HUN,146,Hungary,HUN
+I. Csom,2485,1987,HUN,163,Hungary,HUN
+Jo. Horvath,2470,1987,HUN,203,Hungary,HUN
+L. Hazai,2465,1987,HUN,232,Hungary,HUN
+E. Halasz,2455,1987,HUN,258,Hungary,HUN
+Laszlo Szabo,2450,1987,HUN,302,Hungary,HUN
+T. Utasi,2450,1987,HUN,303,Hungary,HUN
+A. Schneider,2445,1987,HUN,334,Hungary,HUN
+Gy. Horvath,2435,1987,HUN,373,Hungary,HUN
+L. Karsa,2435,1987,HUN,376,Hungary,HUN
+F. Portisch,2435,1987,HUN,382,Hungary,HUN
+B. Lengyel,2430,1987,HUN,403,Hungary,HUN
+Cs. Horvath,2425,1987,HUN,429,Hungary,HUN
+G. Kallai,2420,1987,HUN,466,Hungary,HUN
+Karolyi Jr.T.,2420,1987,HUN,467,Hungary,HUN
+P. Szekely,2420,1987,HUN,481,Hungary,HUN
+I. Bilek,2415,1987,HUN,489,Hungary,HUN
+E. Haag,2415,1987,HUN,496,Hungary,HUN
+Zs. Veroci-Petronic,2415,1987,HUN,515,Hungary,HUN
+Gy. Emodi,2410,1987,HUN,526,Hungary,HUN
+A. Kiss,2410,1987,HUN,543,Hungary,HUN
+P. Szilagyi,2410,1987,HUN,565,Hungary,HUN
+T. Tolnai,2410,1987,HUN,566,Hungary,HUN
+L. Liptay,2405,1987,HUN,596,Hungary,HUN
+Cs. Meleghegyi,2405,1987,HUN,597,Hungary,HUN
+L. Cserna,2400,1987,HUN,624,Hungary,HUN
+T. Halasz,2400,1987,HUN,634,Hungary,HUN
+G. Pirisi,2400,1987,HUN,645,Hungary,HUN
+Karoly Honfi,2395,1987,HUN,679,Hungary,HUN
+T. Horvath,2395,1987,HUN,680,Hungary,HUN
+Szalanczy,2385,1987,HUN,800,Hungary,HUN
+S. Farago,2380,1987,HUN,825,Hungary,HUN
+L. Lengyel,2380,1987,HUN,835,Hungary,HUN
+Pal Petran,2380,1987,HUN,841,Hungary,HUN
+L. Sapi,2380,1987,HUN,843,Hungary,HUN
+L. Barczay,2375,1987,HUN,865,Hungary,HUN
+J. Doery,2375,1987,HUN,876,Hungary,HUN
+G. Mathe,2375,1987,HUN,897,Hungary,HUN
+L. Szell,2375,1987,HUN,908,Hungary,HUN
+J. Tompa,2375,1987,HUN,911,Hungary,HUN
+E. Varnusz,2375,1987,HUN,912,Hungary,HUN
+E. Vegh,2375,1987,HUN,913,Hungary,HUN
+J. Boguszlavzky,2370,1987,HUN,926,Hungary,HUN
+J. Brandics,2370,1987,HUN,931,Hungary,HUN
+L.D. Kovacs,2365,1987,HUN,1014,Hungary,HUN
+J. Lajos,2365,1987,HUN,1017,Hungary,HUN
+S. Orgovan,2365,1987,HUN,1023,Hungary,HUN
+J. Szabolcsi,2365,1987,HUN,1042,Hungary,HUN
+B. Vigh,2365,1987,HUN,1045,Hungary,HUN
+M. Orso,2360,1987,HUN,1086,Hungary,HUN
+B. Perenyi,2360,1987,HUN,1088,Hungary,HUN
+T. Erdelyi,2355,1987,HUN,1117,Hungary,HUN
+A. Fekete,2355,1987,HUN,1118,Hungary,HUN
+Gy.V. Forintos,2355,1987,HUN,1119,Hungary,HUN
+L. Navarovszky,2355,1987,HUN,1144,Hungary,HUN
+L. Perecz,2355,1987,HUN,1148,Hungary,HUN
+J. Polgar,2355,1987,HUN,1150,Hungary,HUN
+J. Rigo,2355,1987,HUN,1153,Hungary,HUN
+I. Madl,2350,1987,HUN,1214,Hungary,HUN
+Gy. Feher,2345,1987,HUN,1263,Hungary,HUN
+Gy. Forgacs,2345,1987,HUN,1266,Hungary,HUN
+M. Morvay,2345,1987,HUN,1291,Hungary,HUN
+Ervin Nagy,2345,1987,HUN,1293,Hungary,HUN
+Im. Horvath,2340,1987,HUN,1347,Hungary,HUN
+A. Meszaros,2340,1987,HUN,1357,Hungary,HUN
+Z. Nemeth,2340,1987,HUN,1364,Hungary,HUN
+Puschmann,2340,1987,HUN,1376,Hungary,HUN
+K. Baranyai,2335,1987,HUN,1397,Hungary,HUN
+V. Bretsnajdr,2335,1987,HUN,1403,Hungary,HUN
+P. Hardicsay,2335,1987,HUN,1424,Hungary,HUN
+Z. Horvath,2335,1987,HUN,1425,Hungary,HUN
+L. Kosa,2335,1987,HUN,1432,Hungary,HUN
+I. Lorincz,2335,1987,HUN,1437,Hungary,HUN
+K. Rovid,2335,1987,HUN,1454,Hungary,HUN
+P. Sinkovics,2335,1987,HUN,1458,Hungary,HUN
+G. Bacso,2330,1987,HUN,1474,Hungary,HUN
+T. Bauer,2330,1987,HUN,1479,Hungary,HUN
+Z. Csapo,2330,1987,HUN,1486,Hungary,HUN
+S. Deak,2330,1987,HUN,1487,Hungary,HUN
+I Egedi,2330,1987,HUN,1495,Hungary,HUN
+L. Felegyhazi,2330,1987,HUN,1497,Hungary,HUN
+Marosi,2330,1987,HUN,1525,Hungary,HUN
+Z. Sarosi,2330,1987,HUN,1541,Hungary,HUN
+L. Bencze,2325,1987,HUN,1570,Hungary,HUN
+L. Eperjesi,2325,1987,HUN,1584,Hungary,HUN
+Gy. Farkas,2325,1987,HUN,1585,Hungary,HUN
+M. Hever,2325,1987,HUN,1604,Hungary,HUN
+Ortel,2325,1987,HUN,1628,Hungary,HUN
+A. Ozsvath,2325,1987,HUN,1629,Hungary,HUN
+Gy. Rajna,2325,1987,HUN,1635,Hungary,HUN
+L. Vadasz,2325,1987,HUN,1652,Hungary,HUN
+Varasdy,2325,1987,HUN,1654,Hungary,HUN
+I. Waldmann,2325,1987,HUN,1658,Hungary,HUN
+T. Filep,2320,1987,HUN,1690,Hungary,HUN
+L.M. Kovacs,2320,1987,HUN,1721,Hungary,HUN
+L. Monda,2320,1987,HUN,1731,Hungary,HUN
+T. Pfeifer,2320,1987,HUN,1741,Hungary,HUN
+J. Pogats,2320,1987,HUN,1743,Hungary,HUN
+L. Takacs,2320,1987,HUN,1764,Hungary,HUN
+L. Zsinka,2320,1987,HUN,1779,Hungary,HUN
+Demeter,2315,1987,HUN,1797,Hungary,HUN
+J. Orso,2315,1987,HUN,1836,Hungary,HUN
+L. Abel,2310,1987,HUN,1870,Hungary,HUN
+F. Forgacs,2310,1987,HUN,1905,Hungary,HUN
+J. Forgacs,2310,1987,HUN,1906,Hungary,HUN
+J. Frank,2310,1987,HUN,1908,Hungary,HUN
+F. Kertesz,2310,1987,HUN,1925,Hungary,HUN
+Gy. Tesinszky,2310,1987,HUN,1979,Hungary,HUN
+T. Besztercsenyi,2305,1987,HUN,2003,Hungary,HUN
+Gy. Doleschall,2305,1987,HUN,2019,Hungary,HUN
+Gy. Gara,2305,1987,HUN,2024,Hungary,HUN
+Mi. Horvath,2305,1987,HUN,2037,Hungary,HUN
+Karolyi Sr.T.,2305,1987,HUN,2040,Hungary,HUN
+Kormanyos,2305,1987,HUN,2043,Hungary,HUN
+S. Sulyok,2305,1987,HUN,2088,Hungary,HUN
+A. Bernei,2300,1987,HUN,2106,Hungary,HUN
+A. Feher,2300,1987,HUN,2122,Hungary,HUN
+J. Sapi,2300,1987,HUN,2195,Hungary,HUN
+Szeles,2300,1987,HUN,2202,Hungary,HUN
+I. Csala,2295,1987,HUN,2245,Hungary,HUN
+T. Fogarasi,2295,1987,HUN,2255,Hungary,HUN
+Gyorkos,2295,1987,HUN,2263,Hungary,HUN
+Hradeczky,2295,1987,HUN,2271,Hungary,HUN
+L. Kubacsny,2295,1987,HUN,2280,Hungary,HUN
+Z. Molnar,2295,1987,HUN,2305,Hungary,HUN
+I. Pal,2295,1987,HUN,2311,Hungary,HUN
+S. Poor,2295,1987,HUN,2318,Hungary,HUN
+Z. Tamassy,2295,1987,HUN,2341,Hungary,HUN
+A. Biro,2290,1987,HUN,2370,Hungary,HUN
+J. Farkas,2290,1987,HUN,2387,Hungary,HUN
+Ant. Hamori,2290,1987,HUN,2398,Hungary,HUN
+Is. Horvath,2290,1987,HUN,2405,Hungary,HUN
+M. Ivanka-Budinsky,2290,1987,HUN,2409,Hungary,HUN
+V. Nogradi,2290,1987,HUN,2435,Hungary,HUN
+P. Szegedi,2290,1987,HUN,2458,Hungary,HUN
+Titkos,2290,1987,HUN,2461,Hungary,HUN
+B. Balogh,2285,1987,HUN,2487,Hungary,HUN
+E. Lenart,2285,1987,HUN,2546,Hungary,HUN
+I. Mayer,2285,1987,HUN,2556,Hungary,HUN
+J. Palkovi,2285,1987,HUN,2567,Hungary,HUN
+Z. Siklosi,2285,1987,HUN,2582,Hungary,HUN
+I. Somogyi,2285,1987,HUN,2588,Hungary,HUN
+T. Bezdan,2280,1987,HUN,2617,Hungary,HUN
+P. Kopszorus,2280,1987,HUN,2665,Hungary,HUN
+Lovass,2280,1987,HUN,2674,Hungary,HUN
+Zso. Polgar,2280,1987,HUN,2698,Hungary,HUN
+Ja. Szabo,2280,1987,HUN,2717,Hungary,HUN
+I. Bokor,2275,1987,HUN,2738,Hungary,HUN
+A. Cseh,2275,1987,HUN,2746,Hungary,HUN
+J. Dobos,2275,1987,HUN,2748,Hungary,HUN
+J. Harmatosi,2275,1987,HUN,2763,Hungary,HUN
+S. Horvath,2275,1987,HUN,2765,Hungary,HUN
+A. Ivan,2275,1987,HUN,2768,Hungary,HUN
+P. Kamaras,2275,1987,HUN,2770,Hungary,HUN
+Kaposztas,2275,1987,HUN,2771,Hungary,HUN
+P. Kiss,2275,1987,HUN,2773,Hungary,HUN
+Z. Kovacs,2275,1987,HUN,2775,Hungary,HUN
+Sr.L. Szollosi,2275,1987,HUN,2819,Hungary,HUN
+J. Tabor,2275,1987,HUN,2820,Hungary,HUN
+J. Centgraf,2270,1987,HUN,2842,Hungary,HUN
+T. Csonkics,2270,1987,HUN,2846,Hungary,HUN
+Fabian,2270,1987,HUN,2855,Hungary,HUN
+I. Foldi,2270,1987,HUN,2856,Hungary,HUN
+Gy. Honfi,2270,1987,HUN,2871,Hungary,HUN
+G. Kadas,2270,1987,HUN,2876,Hungary,HUN
+D. Lovas,2270,1987,HUN,2888,Hungary,HUN
+L. Pacsay,2270,1987,HUN,2897,Hungary,HUN
+J. Papai,2270,1987,HUN,2898,Hungary,HUN
+Gy. Rabovszky,2270,1987,HUN,2907,Hungary,HUN
+B. Radnoti,2270,1987,HUN,2908,Hungary,HUN
+S. Rosta,2270,1987,HUN,2912,Hungary,HUN
+S. Rozsa,2270,1987,HUN,2914,Hungary,HUN
+Z. Varga,2270,1987,HUN,2933,Hungary,HUN
+S. Videki,2270,1987,HUN,2937,Hungary,HUN
+Czeripp,2265,1987,HUN,2967,Hungary,HUN
+T. Kulcsar,2265,1987,HUN,2997,Hungary,HUN
+B. Molnar,2265,1987,HUN,3012,Hungary,HUN
+I. Mufics,2265,1987,HUN,3015,Hungary,HUN
+Gy. Ondi,2265,1987,HUN,3019,Hungary,HUN
+F. Pasztor,2265,1987,HUN,3023,Hungary,HUN
+Szirmai,2265,1987,HUN,3041,Hungary,HUN
+L. Bekefi,2260,1987,HUN,3057,Hungary,HUN
+Glatt,2260,1987,HUN,3083,Hungary,HUN
+Zs. Makai,2260,1987,HUN,3117,Hungary,HUN
+I. Schrancz,2260,1987,HUN,3145,Hungary,HUN
+Z. Szabo,2260,1987,HUN,3157,Hungary,HUN
+E. Szurovszky,2260,1987,HUN,3158,Hungary,HUN
+L. Bako,2255,1987,HUN,3175,Hungary,HUN
+Honos,2255,1987,HUN,3214,Hungary,HUN
+Gy. Kende,2255,1987,HUN,3226,Hungary,HUN
+G. Szilagyi,2255,1987,HUN,3283,Hungary,HUN
+A. Bagonyai,2250,1987,HUN,3307,Hungary,HUN
+I. Borsi,2250,1987,HUN,3319,Hungary,HUN
+A. Budinszky,2250,1987,HUN,3321,Hungary,HUN
+E. Egerland,2250,1987,HUN,3331,Hungary,HUN
+J. Foldi,2250,1987,HUN,3336,Hungary,HUN
+Z. Fuesthy,2250,1987,HUN,3337,Hungary,HUN
+I. Kertesz,2250,1987,HUN,3363,Hungary,HUN
+Gy. Kluger,2250,1987,HUN,3364,Hungary,HUN
+G. Letay,2250,1987,HUN,3372,Hungary,HUN
+G. Portisch,2250,1987,HUN,3394,Hungary,HUN
+T. Szekeres,2250,1987,HUN,3413,Hungary,HUN
+I. Tornai,2250,1987,HUN,3416,Hungary,HUN
+S. Bakos,2245,1987,HUN,3433,Hungary,HUN
+I. Banhazi,2245,1987,HUN,3434,Hungary,HUN
+J. Cuibus,2245,1987,HUN,3458,Hungary,HUN
+O. Dobos,2245,1987,HUN,3467,Hungary,HUN
+J. Havasi,2245,1987,HUN,3482,Hungary,HUN
+G. Kadar,2245,1987,HUN,3488,Hungary,HUN
+O. Magyar,2245,1987,HUN,3508,Hungary,HUN
+V. Metaxasz,2245,1987,HUN,3518,Hungary,HUN
+J. Murin,2245,1987,HUN,3525,Hungary,HUN
+Cs. Szekely,2245,1987,HUN,3558,Hungary,HUN
+P. Szidon,2245,1987,HUN,3559,Hungary,HUN
+Z. Vancsura,2245,1987,HUN,3564,Hungary,HUN
+S. Bartha,2240,1987,HUN,3583,Hungary,HUN
+P. Kral,2240,1987,HUN,3625,Hungary,HUN
+J. Marton,2240,1987,HUN,3642,Hungary,HUN
+L. Monostori,2240,1987,HUN,3645,Hungary,HUN
+M.A. Porubszky-A,2240,1987,HUN,3651,Hungary,HUN
+P. Restas,2240,1987,HUN,3654,Hungary,HUN
+T. Sandor,2240,1987,HUN,3656,Hungary,HUN
+Z. Schepp,2240,1987,HUN,3659,Hungary,HUN
+J. Starosta,2240,1987,HUN,3667,Hungary,HUN
+I. Varaljai,2240,1987,HUN,3675,Hungary,HUN
+Peter Bauer,2235,1987,HUN,3689,Hungary,HUN
+K. Borloy,2235,1987,HUN,3694,Hungary,HUN
+L. Csuri,2235,1987,HUN,3700,Hungary,HUN
+G. Laczo,2235,1987,HUN,3731,Hungary,HUN
+I. Mullner,2235,1987,HUN,3744,Hungary,HUN
+J. Adok,2230,1987,HUN,3798,Hungary,HUN
+S. Barta,2230,1987,HUN,3808,Hungary,HUN
+J. Laszlo,2230,1987,HUN,3857,Hungary,HUN
+J. Morvay,2230,1987,HUN,3866,Hungary,HUN
+G. Pal,2230,1987,HUN,3875,Hungary,HUN
+Z. Plecsko,2230,1987,HUN,3878,Hungary,HUN
+O. Sergyan,2230,1987,HUN,3896,Hungary,HUN
+P. Gracs,2225,1987,HUN,3961,Hungary,HUN
+M. Gyurkovics,2225,1987,HUN,3963,Hungary,HUN
+F. Jenei,2225,1987,HUN,3972,Hungary,HUN
+M. Krajcsovits,2225,1987,HUN,3978,Hungary,HUN
+I. Poor,2225,1987,HUN,4003,Hungary,HUN
+A. Babits,2220,1987,HUN,4041,Hungary,HUN
+S. Fodre,2220,1987,HUN,4064,Hungary,HUN
+M. Grosch,2220,1987,HUN,4073,Hungary,HUN
+G. Heiligermann,2220,1987,HUN,4078,Hungary,HUN
+L. Istvandi,2220,1987,HUN,4085,Hungary,HUN
+Laszlo Kiss,2220,1987,HUN,4095,Hungary,HUN
+G. Knisch,2220,1987,HUN,4097,Hungary,HUN
+J. Kovacs,2220,1987,HUN,4099,Hungary,HUN
+Ervinne Nagy,2220,1987,HUN,4114,Hungary,HUN
+T. Nikovits,2220,1987,HUN,4115,Hungary,HUN
+A. Orosz,2220,1987,HUN,4116,Hungary,HUN
+L. Pesztericz,2220,1987,HUN,4118,Hungary,HUN
+J. Ruppaner,2220,1987,HUN,4129,Hungary,HUN
+I. Taskovits,2220,1987,HUN,4153,Hungary,HUN
+G.G. Toth,2220,1987,HUN,4157,Hungary,HUN
+Z. Zoldi,2220,1987,HUN,4172,Hungary,HUN
+A. Demeny,2215,1987,HUN,4189,Hungary,HUN
+Kapu,2215,1987,HUN,4223,Hungary,HUN
+M. Kovacs-Pinter,2215,1987,HUN,4226,Hungary,HUN
+I. Polyak,2215,1987,HUN,4252,Hungary,HUN
+J. Rigan,2215,1987,HUN,4255,Hungary,HUN
+Tokaji Nagi,2215,1987,HUN,4271,Hungary,HUN
+G. Baka,2210,1987,HUN,4289,Hungary,HUN
+R. Herendi,2210,1987,HUN,4324,Hungary,HUN
+R. Kas,2210,1987,HUN,4333,Hungary,HUN
+F. Katona,2210,1987,HUN,4334,Hungary,HUN
+L. Novak,2210,1987,HUN,4354,Hungary,HUN
+I. Presznyak,2210,1987,HUN,4369,Hungary,HUN
+Gy. Rezsek,2210,1987,HUN,4372,Hungary,HUN
+E. Salanki,2210,1987,HUN,4378,Hungary,HUN
+M. Agh,2205,1987,HUN,4414,Hungary,HUN
+G. Berenyi,2205,1987,HUN,4437,Hungary,HUN
+A. Egyed,2205,1987,HUN,4468,Hungary,HUN
+G. Hetenyi,2205,1987,HUN,4501,Hungary,HUN
+Peterne Velvart,2205,1987,HUN,4645,Hungary,HUN
+J. Pinter(Kurucsai),2190,1987,HUN,4678,Hungary,HUN
+E. Forgo,2175,1987,HUN,4692,Hungary,HUN
+I. Szalai,2165,1987,HUN,4716,Hungary,HUN
+Ju. Horvath,2145,1987,HUN,4754,Hungary,HUN
+S. Kereszturi,2140,1987,HUN,4761,Hungary,HUN
+E. Sziva,2140,1987,HUN,4766,Hungary,HUN
+E. Csom,2135,1987,HUN,4772,Hungary,HUN
+I. Kurucsai,2130,1987,HUN,4786,Hungary,HUN
+B. Kovats-Sax,2125,1987,HUN,4795,Hungary,HUN
+L. Karolny,2120,1987,HUN,4805,Hungary,HUN
+E. Karakas-Kerstesz,2110,1987,HUN,4827,Hungary,HUN
+Gy. Krizsan-Bilek,2100,1987,HUN,4841,Hungary,HUN
+Karolyne Honfi,2095,1987,HUN,4854,Hungary,HUN
+K. Jakus,2085,1987,HUN,4877,Hungary,HUN
+M. Kurucsai,2085,1987,HUN,4878,Hungary,HUN
+R. Zimmersmann,2085,1987,HUN,4890,Hungary,HUN
+H. Nagy,2075,1987,HUN,4908,Hungary,HUN
+A. Burjan,2070,1987,HUN,4916,Hungary,HUN
+B. Sinka,2070,1987,HUN,4926,Hungary,HUN
+L. Szaday,2070,1987,HUN,4929,Hungary,HUN
+A. Varga,2070,1987,HUN,4931,Hungary,HUN
+K. Zontek,2070,1987,HUN,4934,Hungary,HUN
+M. Nemeth,2065,1987,HUN,4945,Hungary,HUN
+E. Kovacs-Mathe,2060,1987,HUN,4956,Hungary,HUN
+K. Csom,2050,1987,HUN,4976,Hungary,HUN
+Sz. Szalay,2045,1987,HUN,5002,Hungary,HUN
+I. Zsogony,2045,1987,HUN,5004,Hungary,HUN
+Zs. Barta,2040,1987,HUN,5005,Hungary,HUN
+E. Finta,2040,1987,HUN,5007,Hungary,HUN
+M. Sebestyen,2040,1987,HUN,5015,Hungary,HUN
+E. Cynolter-Bogar,2035,1987,HUN,5023,Hungary,HUN
+E. Gencs,2030,1987,HUN,5037,Hungary,HUN
+A. Dombovari,2010,1987,HUN,5089,Hungary,HUN
+U. Andersson,2600,1987,SWE,12,Sweden,SWE
+L. Karlsson,2480,1987,SWE,179,Sweden,SWE
+T. Wedberg,2480,1987,SWE,188,Sweden,SWE
+H. Schussler,2470,1987,SWE,216,Sweden,SWE
+Th. Ernst,2465,1987,SWE,231,Sweden,SWE
+F. Hellers,2465,1987,SWE,233,Sweden,SWE
+M. Wiedenkeller,2460,1987,SWE,251,Sweden,SWE
+Akesson,2455,1987,SWE,253,Sweden,SWE
+P. Cramling,2455,1987,SWE,255,Sweden,SWE
+Renman,2455,1987,SWE,267,Sweden,SWE
+Ch. Bergstrom,2435,1987,SWE,370,Sweden,SWE
+J. Eslon,2425,1987,SWE,425,Sweden,SWE
+L.-A. Schneider,2425,1987,SWE,441,Sweden,SWE
+D. Cramling,2420,1987,SWE,457,Sweden,SWE
+J. Hector,2420,1987,SWE,463,Sweden,SWE
+A. Ornstein,2410,1987,SWE,552,Sweden,SWE
+Th. Welin,2400,1987,SWE,661,Sweden,SWE
+R. Ekstrom,2390,1987,SWE,717,Sweden,SWE
+M. Sjoberg,2390,1987,SWE,742,Sweden,SWE
+L. Degerman,2385,1987,SWE,762,Sweden,SWE
+B. Lindberg,2365,1987,SWE,1018,Sweden,SWE
+M. Andersson,2360,1987,SWE,1053,Sweden,SWE
+P. Bjarnehag,2355,1987,SWE,1110,Sweden,SWE
+Carleson,2355,1987,SWE,1112,Sweden,SWE
+R. Bator,2350,1987,SWE,1179,Sweden,SWE
+S. Cicak,2345,1987,SWE,1252,Sweden,SWE
+G. Johansson,2340,1987,SWE,1349,Sweden,SWE
+B. Ahlander,2335,1987,SWE,1395,Sweden,SWE
+J. Ingbrandt,2335,1987,SWE,1427,Sweden,SWE
+K. Kaiszauri,2335,1987,SWE,1431,Sweden,SWE
+P. Larsson,2335,1987,SWE,1434,Sweden,SWE
+P. Lichtenstein,2330,1987,SWE,1518,Sweden,SWE
+B. Svensson,2330,1987,SWE,1552,Sweden,SWE
+Berkell,2325,1987,SWE,1571,Sweden,SWE
+B. Hammar,2325,1987,SWE,1601,Sweden,SWE
+J. Johansson,2325,1987,SWE,1607,Sweden,SWE
+L.E. Petersson,2325,1987,SWE,1632,Sweden,SWE
+Ch. Hartman,2315,1987,SWE,1808,Sweden,SWE
+K. Setterqvist,2315,1987,SWE,1848,Sweden,SWE
+B. Andersson,2310,1987,SWE,1876,Sweden,SWE
+M. Carlson,2310,1987,SWE,1889,Sweden,SWE
+A. Ebenfelt,2305,1987,SWE,2021,Sweden,SWE
+E. Lundin,2305,1987,SWE,2058,Sweden,SWE
+B. Bengtsson,2300,1987,SWE,2105,Sweden,SWE
+Nordstrom,2300,1987,SWE,2180,Sweden,SWE
+S. Brynell,2295,1987,SWE,2238,Sweden,SWE
+R. Lekander,2290,1987,SWE,2422,Sweden,SWE
+R. Winsnes,2290,1987,SWE,2476,Sweden,SWE
+P.I. Helmertz,2285,1987,SWE,2527,Sweden,SWE
+A. Olsson,2285,1987,SWE,2565,Sweden,SWE
+Ostberg,2285,1987,SWE,2566,Sweden,SWE
+Thornblom,2285,1987,SWE,2593,Sweden,SWE
+L. Sandstrom,2275,1987,SWE,2802,Sweden,SWE
+A. Eriksson,2265,1987,SWE,2974,Sweden,SWE
+H. Friberg,2265,1987,SWE,2979,Sweden,SWE
+P. Lacko,2265,1987,SWE,3000,Sweden,SWE
+M. Svenn,2255,1987,SWE,3281,Sweden,SWE
+K. Engstrom,2250,1987,SWE,3332,Sweden,SWE
+J. Runnby,2250,1987,SWE,3399,Sweden,SWE
+M. Berg,2245,1987,SWE,3440,Sweden,SWE
+R. Wessman,2245,1987,SWE,3570,Sweden,SWE
+M. Eriksson,2240,1987,SWE,3604,Sweden,SWE
+Th. Marttala,2240,1987,SWE,3643,Sweden,SWE
+A. Villeneuve,2240,1987,SWE,3676,Sweden,SWE
+S. Winge,2240,1987,SWE,3680,Sweden,SWE
+J.-O. Lind,2235,1987,SWE,3737,Sweden,SWE
+A. Lundin,2235,1987,SWE,3738,Sweden,SWE
+M. Sixtensson,2225,1987,SWE,4014,Sweden,SWE
+A. Ziegler,2225,1987,SWE,4035,Sweden,SWE
+S.G. Samuelsson,2220,1987,SWE,4130,Sweden,SWE
+T. Andersson,2215,1987,SWE,4175,Sweden,SWE
+A. Fridh,2215,1987,SWE,4199,Sweden,SWE
+C. Holst,2215,1987,SWE,4214,Sweden,SWE
+M. Johansson,2215,1987,SWE,4220,Sweden,SWE
+Ljungquist,2215,1987,SWE,4229,Sweden,SWE
+M. Unander,2215,1987,SWE,4274,Sweden,SWE
+B. Borisova,2210,1987,SWE,4295,Sweden,SWE
+B. Borsova,2210,1987,SWE,4296,Sweden,SWE
+B. Pietrusiak,2210,1987,SWE,4364,Sweden,SWE
+N. Boaziz,2205,1987,SWE,4441,Sweden,SWE
+Ljungdahl,2205,1987,SWE,4530,Sweden,SWE
+J. Magnusson,2205,1987,SWE,4540,Sweden,SWE
+I. Schutz,2205,1987,SWE,4611,Sweden,SWE
+J. Dahlin,2170,1987,SWE,4701,Sweden,SWE
+Y. Seirawan,2595,1987,USA,15,United States,USA
+L.O. Alburt,2575,1987,USA,24,United States,USA
+L. Christiansen,2575,1987,USA,25,United States,USA
+Joel Benjamin,2565,1987,USA,34,United States,USA
+A.J. Miles,2565,1987,USA,36,United States,USA
+L. Kavalek,2560,1987,USA,40,United States,USA
+R. Dzindzichashvili,2540,1987,USA,56,United States,USA
+J.P. Fedorowicz,2535,1987,USA,67,United States,USA
+D. Gurevich,2535,1987,USA,69,United States,USA
+B. Gulko,2525,1987,USA,81,United States,USA
+Tarjan,2525,1987,USA,85,United States,USA
+M. Dlugy,2520,1987,USA,88,United States,USA
+R. Henley,2505,1987,USA,112,United States,USA
+S. Kudrin,2505,1987,USA,115,United States,USA
+N. De Firmian,2500,1987,USA,125,United States,USA
+A. Dozorets,2500,1987,USA,126,United States,USA
+W.S. Browne,2495,1987,USA,136,United States,USA
+R. Byrne,2495,1987,USA,137,United States,USA
+J.A. Peters,2495,1987,USA,144,United States,USA
+M. Wilder,2485,1987,USA,173,United States,USA
+B. Zuckerman,2480,1987,USA,190,United States,USA
+B. Kogan,2470,1987,USA,204,United States,USA
+A. Lein,2470,1987,USA,207,United States,USA
+W. Lombardy,2470,1987,USA,210,United States,USA
+E. Mednis,2470,1987,USA,212,United States,USA
+P. Benko,2460,1987,USA,242,United States,USA
+M.A. Rohde,2460,1987,USA,248,United States,USA
+K. Shirazi,2460,1987,USA,249,United States,USA
+V.J. Frias,2455,1987,USA,256,United States,USA
+S. Reshevsky,2455,1987,USA,268,United States,USA
+T. Taylor,2455,1987,USA,273,United States,USA
+P. Biyiasas,2450,1987,USA,277,United States,USA
+E. Meyer,2450,1987,USA,294,United States,USA
+N. Weinstein,2450,1987,USA,304,United States,USA
+V. Mccambridge,2445,1987,USA,323,United States,USA
+J.M. Bradford,2440,1987,USA,339,United States,USA
+L. Bass,2435,1987,USA,369,United States,USA
+J. Schroer,2435,1987,USA,384,United States,USA
+L. Kaufman,2430,1987,USA,399,United States,USA
+V.F. Zaltsman,2430,1987,USA,419,United States,USA
+J. Bonin,2425,1987,USA,422,United States,USA
+J. Rizzitano,2425,1987,USA,439,United States,USA
+A.F. Saidy,2425,1987,USA,440,United States,USA
+A. Bisguier,2420,1987,USA,454,United States,USA
+G. De Fotis,2420,1987,USA,459,United States,USA
+Kopec,2420,1987,USA,471,United States,USA
+D. London,2420,1987,USA,473,United States,USA
+J. Watson,2420,1987,USA,485,United States,USA
+J. Whitehead,2420,1987,USA,486,United States,USA
+J.W. Donaldson,2410,1987,USA,524,United States,USA
+A. Fishbein,2410,1987,USA,528,United States,USA
+I. Gurevich,2410,1987,USA,535,United States,USA
+Remlinger,2410,1987,USA,559,United States,USA
+D. Root,2410,1987,USA,560,United States,USA
+D. Strauss,2410,1987,USA,564,United States,USA
+S. Odendahl,2405,1987,USA,603,United States,USA
+K. Regan,2405,1987,USA,606,United States,USA
+L. Shamkovich,2405,1987,USA,608,United States,USA
+Soltis,2405,1987,USA,610,United States,USA
+M. Valvo,2405,1987,USA,614,United States,USA
+Sa. Joshi,2400,1987,USA,638,United States,USA
+R. Rowley,2400,1987,USA,648,United States,USA
+Ervin Nagy,2395,1987,USA,692,United States,USA
+M. Ginsburg,2390,1987,USA,721,United States,USA
+J. Kent,2390,1987,USA,726,United States,USA
+S. Jacobi,2385,1987,USA,773,United States,USA
+W. Shipman,2385,1987,USA,797,United States,USA
+L. Busquets,2380,1987,USA,816,United States,USA
+Delaune,2380,1987,USA,821,United States,USA
+N. Minev,2380,1987,USA,838,United States,USA
+P. Whitehead,2380,1987,USA,856,United States,USA
+P.G. Wolff,2380,1987,USA,857,United States,USA
+R. Blumenfeld,2375,1987,USA,867,United States,USA
+R. Costigan,2375,1987,USA,871,United States,USA
+J.A. Thinnsen,2375,1987,USA,909,United States,USA
+C. Blocker,2370,1987,USA,925,United States,USA
+C. Mar,2370,1987,USA,949,United States,USA
+P. Youngworth,2370,1987,USA,981,United States,USA
+T. Renna,2365,1987,USA,1030,United States,USA
+H. Truong,2365,1987,USA,1044,United States,USA
+A.A. Volovich,2360,1987,USA,1100,United States,USA
+E.C. Hall,2355,1987,USA,1126,United States,USA
+S. Rachels,2355,1987,USA,1152,United States,USA
+A. Sherzer,2355,1987,USA,1161,United States,USA
+K. Dehmelt,2350,1987,USA,1188,United States,USA
+E. Tangborn,2350,1987,USA,1233,United States,USA
+M. Yoffie,2350,1987,USA,1239,United States,USA
+K. Chubook,2345,1987,USA,1251,United States,USA
+B. Finegold,2345,1987,USA,1265,United States,USA
+D. Glueck,2345,1987,USA,1268,United States,USA
+O.M. Kaminsky,2345,1987,USA,1276,United States,USA
+C. Lakdawala,2345,1987,USA,1279,United States,USA
+J. Meyer,2345,1987,USA,1286,United States,USA
+J. Silman,2345,1987,USA,1304,United States,USA
+E.C. Winslow,2345,1987,USA,1317,United States,USA
+B. Baczynskyj,2340,1987,USA,1323,United States,USA
+R. Betza,2340,1987,USA,1326,United States,USA
+G. Rey,2340,1987,USA,1377,United States,USA
+M.A. Brooks,2335,1987,USA,1406,United States,USA
+B. Fernandez,2335,1987,USA,1416,United States,USA
+J. Gottesman,2335,1987,USA,1422,United States,USA
+W. Trosclair,2335,1987,USA,1465,United States,USA
+C.J. Brasket,2330,1987,USA,1482,United States,USA
+D. Edelman,2330,1987,USA,1494,United States,USA
+J. Kastner,2330,1987,USA,1511,United States,USA
+V. Rao,2330,1987,USA,1537,United States,USA
+R. Reynolds,2330,1987,USA,1539,United States,USA
+Ch. Schulien,2330,1987,USA,1544,United States,USA
+R. Gruchacz,2325,1987,USA,1600,United States,USA
+Hertan,2325,1987,USA,1603,United States,USA
+K. Larsen,2325,1987,USA,1616,United States,USA
+J. Readey,2325,1987,USA,1636,United States,USA
+S.E. Stoyko,2325,1987,USA,1647,United States,USA
+M. Zlotnikov,2325,1987,USA,1663,United States,USA
+M. Ardaman,2320,1987,USA,1666,United States,USA
+B. Belopolsky,2320,1987,USA,1669,United States,USA
+R. Chow,2320,1987,USA,1680,United States,USA
+M. Giles,2320,1987,USA,1696,United States,USA
+D.W. Griego,2320,1987,USA,1698,United States,USA
+A. Hoffmann,2320,1987,USA,1704,United States,USA
+G. Markzon,2320,1987,USA,1727,United States,USA
+A. Pollard,2320,1987,USA,1745,United States,USA
+M. Shahade,2320,1987,USA,1757,United States,USA
+D.E. Shapiro,2320,1987,USA,1758,United States,USA
+F. Thornally,2320,1987,USA,1767,United States,USA
+L. Van Meter,2320,1987,USA,1771,United States,USA
+A. Chow,2315,1987,USA,1792,United States,USA
+M. Meeres,2315,1987,USA,1827,United States,USA
+A.G. Savage,2315,1987,USA,1845,United States,USA
+B.L. Allen,2310,1987,USA,1874,United States,USA
+K. Burger,2310,1987,USA,1888,United States,USA
+I. Dahlberg,2310,1987,USA,1892,United States,USA
+A. Denker,2310,1987,USA,1895,United States,USA
+D. Durham,2310,1987,USA,1899,United States,USA
+J. Fang,2310,1987,USA,1902,United States,USA
+E.W. Formanek,2310,1987,USA,1907,United States,USA
+D. Levin,2310,1987,USA,1933,United States,USA
+G. Vitko,2310,1987,USA,1986,United States,USA
+D.D. Eckert,2305,1987,USA,2022,United States,USA
+L. Levy,2305,1987,USA,2053,United States,USA
+R. Sulman,2305,1987,USA,2087,United States,USA
+Ch.D. Adelman,2300,1987,USA,2100,United States,USA
+W. Conover,2300,1987,USA,2115,United States,USA
+J.N. Jacobs,2300,1987,USA,2144,United States,USA
+J. Kearns,2300,1987,USA,2150,United States,USA
+J. Litvinchuk,2300,1987,USA,2164,United States,USA
+O. Popovych,2300,1987,USA,2186,United States,USA
+Ch. Van Buskirk,2300,1987,USA,2208,United States,USA
+J. Barth,2295,1987,USA,2226,United States,USA
+K. Burnett,2295,1987,USA,2241,United States,USA
+Ch. Chase,2295,1987,USA,2243,United States,USA
+J. Curdo,2295,1987,USA,2246,United States,USA
+K. Dolgitser,2295,1987,USA,2251,United States,USA
+J. Maki,2295,1987,USA,2288,United States,USA
+Middleton,2295,1987,USA,2297,United States,USA
+D. Parsons,2295,1987,USA,2314,United States,USA
+E. Tate,2295,1987,USA,2342,United States,USA
+A.M. Akhsharumova,2290,1987,USA,2360,United States,USA
+R. Anderson,2290,1987,USA,2361,United States,USA
+H. Bogner,2290,1987,USA,2372,United States,USA
+O. Frenkel,2290,1987,USA,2390,United States,USA
+K. Tomkins,2290,1987,USA,2464,United States,USA
+L. Braun,2285,1987,USA,2493,United States,USA
+S.T. Colure,2285,1987,USA,2499,United States,USA
+Z. Harari,2285,1987,USA,2524,United States,USA
+J. Hillery,2285,1987,USA,2530,United States,USA
+L. Kaushansky,2285,1987,USA,2537,United States,USA
+P. Koploy,2285,1987,USA,2540,United States,USA
+I. Shtern,2285,1987,USA,2581,United States,USA
+J. Timm,2285,1987,USA,2594,United States,USA
+B. Alberston,2280,1987,USA,2607,United States,USA
+D. Jellison,2280,1987,USA,2659,United States,USA
+A. Karklins,2280,1987,USA,2664,United States,USA
+R. La Flair,2280,1987,USA,2668,United States,USA
+A. Lief,2280,1987,USA,2672,United States,USA
+R. Salgado,2280,1987,USA,2704,United States,USA
+D. Savereide,2280,1987,USA,2705,United States,USA
+I. Barlay,2275,1987,USA,2734,United States,USA
+T.G. Brown,2275,1987,USA,2742,United States,USA
+R. Dubisch,2275,1987,USA,2750,United States,USA
+R.B. Eberlein,2275,1987,USA,2752,United States,USA
+C. Haessler,2275,1987,USA,2761,United States,USA
+V. Kavnatsky,2275,1987,USA,2772,United States,USA
+K. Potts,2275,1987,USA,2793,United States,USA
+S.L. Ramos,2275,1987,USA,2797,United States,USA
+R. Schea,2275,1987,USA,2804,United States,USA
+M. Shibut,2275,1987,USA,2812,United States,USA
+R. Shocron,2275,1987,USA,2813,United States,USA
+M.A. Beelby,2270,1987,USA,2837,United States,USA
+Ch. Del Faro,2270,1987,USA,2849,United States,USA
+Kaner,2270,1987,USA,2877,United States,USA
+L. Kaplan,2270,1987,USA,2878,United States,USA
+D. Rubin,2270,1987,USA,2915,United States,USA
+R. Schain,2270,1987,USA,2917,United States,USA
+D.R. Wada,2270,1987,USA,2940,United States,USA
+Ch. Weldon,2270,1987,USA,2942,United States,USA
+V. Baja,2265,1987,USA,2950,United States,USA
+O. Chernin,2265,1987,USA,2963,United States,USA
+T.Q. Miller,2265,1987,USA,3010,United States,USA
+W.R. Orton,2265,1987,USA,3020,United States,USA
+T. Pellant,2265,1987,USA,3024,United States,USA
+C. Pilnick,2265,1987,USA,3029,United States,USA
+S. Wagman,2265,1987,USA,3046,United States,USA
+T. Weinberger,2265,1987,USA,3049,United States,USA
+J. Blackstone,2260,1987,USA,3061,United States,USA
+J. Cline,2260,1987,USA,3069,United States,USA
+D. Gogel,2260,1987,USA,3084,United States,USA
+S. Goregliad,2260,1987,USA,3085,United States,USA
+L. Klein,2260,1987,USA,3106,United States,USA
+T.W. Lunna,2260,1987,USA,3115,United States,USA
+P. Pelts,2260,1987,USA,3130,United States,USA
+P. Poschel,2260,1987,USA,3135,United States,USA
+V. Pupols,2260,1987,USA,3137,United States,USA
+D. Sertic,2260,1987,USA,3150,United States,USA
+J. Yedidia,2260,1987,USA,3167,United States,USA
+A. Feuerstein,2255,1987,USA,3194,United States,USA
+A. Hancu,2255,1987,USA,3207,United States,USA
+E. Martinovsky,2255,1987,USA,3240,United States,USA
+M. Ritter,2255,1987,USA,3265,United States,USA
+L.M. Rutkowski,2255,1987,USA,3268,United States,USA
+A. Samimi,2255,1987,USA,3269,United States,USA
+J. Thibault,2255,1987,USA,3287,United States,USA
+M. Tierney,2255,1987,USA,3288,United States,USA
+D. Younglove,2255,1987,USA,3301,United States,USA
+M. Calogridis,2250,1987,USA,3323,United States,USA
+D. Gertler,2250,1987,USA,3340,United States,USA
+B.F. Gibbons,2250,1987,USA,3341,United States,USA
+C. Harmon,2250,1987,USA,3347,United States,USA
+D. Kerman,2250,1987,USA,3362,United States,USA
+Leverett,2250,1987,USA,3373,United States,USA
+J.L. Waxman,2250,1987,USA,3423,United States,USA
+W. Batchelder,2245,1987,USA,3438,United States,USA
+B. Colias,2245,1987,USA,3455,United States,USA
+P. Cornelius,2245,1987,USA,3456,United States,USA
+D.W. Koval,2245,1987,USA,3496,United States,USA
+E. Liebowitz,2245,1987,USA,3501,United States,USA
+F. Lindsay,2245,1987,USA,3502,United States,USA
+S. Lower,2245,1987,USA,3505,United States,USA
+J. Massana,2245,1987,USA,3514,United States,USA
+M.A. Pinto,2245,1987,USA,3539,United States,USA
+S.J. Pozarek,2245,1987,USA,3541,United States,USA
+Th. Weissbein,2245,1987,USA,3568,United States,USA
+A. Zilberberg,2245,1987,USA,3573,United States,USA
+K.R. Clayton,2240,1987,USA,3596,United States,USA
+Th.J. Costigan,2240,1987,USA,3598,United States,USA
+M.J. Gatlin,2240,1987,USA,3609,United States,USA
+Greenberg,2240,1987,USA,3613,United States,USA
+D. Keck,2240,1987,USA,3621,United States,USA
+A. Metrick,2240,1987,USA,3644,United States,USA
+E. Schiller,2240,1987,USA,3660,United States,USA
+Tennant,2240,1987,USA,3671,United States,USA
+D. Barouty,2235,1987,USA,3687,United States,USA
+B. Ferguson,2235,1987,USA,3707,United States,USA
+Dav. Gliksman,2235,1987,USA,3717,United States,USA
+J. Lenchner,2235,1987,USA,3733,United States,USA
+W. Wharton,2235,1987,USA,3790,United States,USA
+Ch. Chabris,2230,1987,USA,3819,United States,USA
+Ch. Diebert,2230,1987,USA,3823,United States,USA
+J. Fong,2230,1987,USA,3831,United States,USA
+F. Frenkel,2230,1987,USA,3832,United States,USA
+R. Pahl,2230,1987,USA,3874,United States,USA
+G.M. Shure,2230,1987,USA,3897,United States,USA
+S. Subramanian,2230,1987,USA,3902,United States,USA
+A. Valdez,2230,1987,USA,3911,United States,USA
+E.J. Allen,2225,1987,USA,3920,United States,USA
+B. Baker,2225,1987,USA,3925,United States,USA
+M. Dandridge,2225,1987,USA,3940,United States,USA
+R. Ghica,2225,1987,USA,3957,United States,USA
+J. Goetze,2225,1987,USA,3958,United States,USA
+Klugman,2225,1987,USA,3976,United States,USA
+R. Zachowski,2225,1987,USA,4034,United States,USA
+H.B. Bradlow,2220,1987,USA,4048,United States,USA
+J. Feig,2220,1987,USA,4062,United States,USA
+R.J. Gross,2220,1987,USA,4074,United States,USA
+D.L. Peters,2220,1987,USA,4119,United States,USA
+W. Peterson,2220,1987,USA,4120,United States,USA
+L. Quigley,2220,1987,USA,4123,United States,USA
+B. Richards,2220,1987,USA,4126,United States,USA
+M. Tasev,2220,1987,USA,4152,United States,USA
+G. Waters,2220,1987,USA,4167,United States,USA
+J. Frankle,2215,1987,USA,4198,United States,USA
+D. Fritzinger,2215,1987,USA,4200,United States,USA
+J.F. Johnson,2215,1987,USA,4221,United States,USA
+K.E. Jones,2215,1987,USA,4222,United States,USA
+D. Larouche,2215,1987,USA,4228,United States,USA
+Matzner,2215,1987,USA,4237,United States,USA
+L.A. Mercuri,2215,1987,USA,4239,United States,USA
+R. Richard,2215,1987,USA,4254,United States,USA
+M. Saltzberg,2215,1987,USA,4259,United States,USA
+J. Stone,2215,1987,USA,4267,United States,USA
+W. Boctor,2210,1987,USA,4294,United States,USA
+K. Eng,2210,1987,USA,4312,United States,USA
+S. Kell,2210,1987,USA,4335,United States,USA
+B. Mccarthy,2210,1987,USA,4347,United States,USA
+Mengarini,2210,1987,USA,4348,United States,USA
+P. Moscatelli,2210,1987,USA,4350,United States,USA
+O. Podrazhanskaya,2210,1987,USA,4366,United States,USA
+J.L. Pope,2210,1987,USA,4368,United States,USA
+D. Sailer,2210,1987,USA,4376,United States,USA
+R.J. Szendroi,2210,1987,USA,4390,United States,USA
+S. Weinstock,2210,1987,USA,4404,United States,USA
+R.N. Bauer,2205,1987,USA,4435,United States,USA
+M. Fitzko,2205,1987,USA,4475,United States,USA
+E. Marchand,2205,1987,USA,4544,United States,USA
+G.A. Nute,2205,1987,USA,4573,United States,USA
+M. Spiegel,2205,1987,USA,4622,United States,USA
+D. Strenzwilk,2205,1987,USA,4623,United States,USA
+K. Thomas,2205,1987,USA,4632,United States,USA
+D.O. Teasley,2180,1987,USA,4687,United States,USA
+I. Aronoff,2165,1987,USA,4709,United States,USA
+R. Crotto,2135,1987,USA,4771,United States,USA
+E. Neely,2130,1987,USA,4788,United States,USA
+V. Frenkel,2120,1987,USA,4802,United States,USA
+R.I. Haring,2120,1987,USA,4803,United States,USA
+I. Izrailov,2120,1987,USA,4804,United States,USA
+Sh. Mistry-Kennedy,2120,1987,USA,4808,United States,USA
+G.K. Gresser,2100,1987,USA,4837,United States,USA
+I. Jezierska,2100,1987,USA,4840,United States,USA
+D. Gherghe,2080,1987,USA,4893,United States,USA
+C. Willis-Dodson,2080,1987,USA,4902,United States,USA
+A.W. Rudolph,2060,1987,USA,4960,United States,USA
+R.A. Donnelly,2050,1987,USA,4977,United States,USA
+D. Lanni,2040,1987,USA,5009,United States,USA
+G. Linn,2020,1987,USA,5066,United States,USA
+P.C. Ford,2005,1987,USA,5129,United States,USA
+Kir. Georgiev,2590,1987,BUL,16,Bulgaria,BGR
+V. Inkiov,2475,1987,BUL,194,Bulgaria,BGR
+P. Velikov,2475,1987,BUL,199,Bulgaria,BGR
+Kr. Georgiev,2470,1987,BUL,201,Bulgaria,BGR
+B. Andonov,2450,1987,BUL,275,Bulgaria,BGR
+N. Kirov,2450,1987,BUL,288,Bulgaria,BGR
+V. Dimitrov,2445,1987,BUL,313,Bulgaria,BGR
+E. Ermenkov,2445,1987,BUL,315,Bulgaria,BGR
+Padevsky,2445,1987,BUL,329,Bulgaria,BGR
+D. Donchev,2440,1987,BUL,340,Bulgaria,BGR
+S. Semkov,2440,1987,BUL,361,Bulgaria,BGR
+D. Lalev,2435,1987,BUL,378,Bulgaria,BGR
+T. Toshkov,2435,1987,BUL,386,Bulgaria,BGR
+Tringov,2435,1987,BUL,387,Bulgaria,BGR
+A. Kurtenkov,2430,1987,BUL,402,Bulgaria,BGR
+I. Radulov,2430,1987,BUL,412,Bulgaria,BGR
+V. Lukov,2425,1987,BUL,430,Bulgaria,BGR
+Kolarov,2420,1987,BUL,470,Bulgaria,BGR
+N. Spiridonov,2420,1987,BUL,478,Bulgaria,BGR
+L. Popov,2415,1987,BUL,508,Bulgaria,BGR
+A. Dimitrov,2400,1987,BUL,626,Bulgaria,BGR
+S. Danailov,2395,1987,BUL,669,Bulgaria,BGR
+Sa. Nikolov,2390,1987,BUL,736,Bulgaria,BGR
+J.N. Grigorov,2385,1987,BUL,768,Bulgaria,BGR
+I. Zlatilov,2385,1987,BUL,808,Bulgaria,BGR
+A. Kolev,2380,1987,BUL,833,Bulgaria,BGR
+P. Atanasov,2375,1987,BUL,864,Bulgaria,BGR
+P. Genov,2375,1987,BUL,878,Bulgaria,BGR
+Sp. Ivanov,2375,1987,BUL,890,Bulgaria,BGR
+E. Mollov,2375,1987,BUL,898,Bulgaria,BGR
+P. Peev,2375,1987,BUL,902,Bulgaria,BGR
+M. Popchev,2370,1987,BUL,961,Bulgaria,BGR
+V. Spasov,2370,1987,BUL,974,Bulgaria,BGR
+S. Bohosjan,2365,1987,BUL,990,Bulgaria,BGR
+M. Garkov,2365,1987,BUL,1001,Bulgaria,BGR
+Radev,2365,1987,BUL,1026,Bulgaria,BGR
+S. Simeonov,2360,1987,BUL,1095,Bulgaria,BGR
+J. Ajanski,2350,1987,BUL,1174,Bulgaria,BGR
+Prodanov,2350,1987,BUL,1224,Bulgaria,BGR
+K. Stefanov,2350,1987,BUL,1232,Bulgaria,BGR
+K. Angelov,2345,1987,BUL,1241,Bulgaria,BGR
+D. Dobrev,2345,1987,BUL,1259,Bulgaria,BGR
+St. Ivanov,2345,1987,BUL,1273,Bulgaria,BGR
+Karapchanski,2345,1987,BUL,1277,Bulgaria,BGR
+K. Dimitrov,2340,1987,BUL,1332,Bulgaria,BGR
+I. Dobrev,2340,1987,BUL,1333,Bulgaria,BGR
+P. Orev,2340,1987,BUL,1370,Bulgaria,BGR
+I. Donev,2330,1987,BUL,1492,Bulgaria,BGR
+Panbukchian,2330,1987,BUL,1532,Bulgaria,BGR
+V. Stanev,2330,1987,BUL,1549,Bulgaria,BGR
+O. Todorov,2330,1987,BUL,1555,Bulgaria,BGR
+B. Georgiev,2325,1987,BUL,1593,Bulgaria,BGR
+R. Tanev,2325,1987,BUL,1648,Bulgaria,BGR
+V. Antonov,2320,1987,BUL,1665,Bulgaria,BGR
+V. Bunis,2320,1987,BUL,1676,Bulgaria,BGR
+Ch. Chankov,2320,1987,BUL,1679,Bulgaria,BGR
+A. Dolmadjan,2320,1987,BUL,1688,Bulgaria,BGR
+Gerenski,2320,1987,BUL,1694,Bulgaria,BGR
+D. Pelitov,2320,1987,BUL,1738,Bulgaria,BGR
+P. Popov,2320,1987,BUL,1746,Bulgaria,BGR
+Z. Zahariev,2320,1987,BUL,1776,Bulgaria,BGR
+G. Atanasov,2315,1987,BUL,1782,Bulgaria,BGR
+H. Bachchevanski,2315,1987,BUL,1783,Bulgaria,BGR
+J. Ivanov,2315,1987,BUL,1810,Bulgaria,BGR
+R. Kostadinov,2315,1987,BUL,1820,Bulgaria,BGR
+K. Ninov,2315,1987,BUL,1834,Bulgaria,BGR
+V. Prahov,2315,1987,BUL,1838,Bulgaria,BGR
+I. Tiberkov,2315,1987,BUL,1859,Bulgaria,BGR
+A. Babev,2310,1987,BUL,1880,Bulgaria,BGR
+K. Balev,2310,1987,BUL,1881,Bulgaria,BGR
+Manolov,2310,1987,BUL,1938,Bulgaria,BGR
+Z. Zsekov,2310,1987,BUL,1992,Bulgaria,BGR
+G. Kjurkchiiski,2305,1987,BUL,2042,Bulgaria,BGR
+D. Lachev,2305,1987,BUL,2050,Bulgaria,BGR
+Mechkarov,2305,1987,BUL,2061,Bulgaria,BGR
+M. Voiska,2305,1987,BUL,2094,Bulgaria,BGR
+D. Pantaleev,2300,1987,BUL,2184,Bulgaria,BGR
+A. Kostadinov,2295,1987,BUL,2277,Bulgaria,BGR
+D. Slavov,2295,1987,BUL,2338,Bulgaria,BGR
+A. Angelov,2290,1987,BUL,2362,Bulgaria,BGR
+A. Delchev,2290,1987,BUL,2382,Bulgaria,BGR
+A. Lazarov,2290,1987,BUL,2421,Bulgaria,BGR
+Kaikamdzozov,2285,1987,BUL,2535,Bulgaria,BGR
+G. Latinov,2285,1987,BUL,2543,Bulgaria,BGR
+M. Tonchev,2285,1987,BUL,2595,Bulgaria,BGR
+T. Galunov,2280,1987,BUL,2640,Bulgaria,BGR
+A. Janachkov,2280,1987,BUL,2656,Bulgaria,BGR
+G. Mitev,2280,1987,BUL,2686,Bulgaria,BGR
+Lj. Nenkov,2280,1987,BUL,2690,Bulgaria,BGR
+D. Trifunov,2280,1987,BUL,2722,Bulgaria,BGR
+A.K. Tsvetkov,2280,1987,BUL,2723,Bulgaria,BGR
+S. Bonchev,2275,1987,BUL,2739,Bulgaria,BGR
+N. Dobren,2275,1987,BUL,2749,Bulgaria,BGR
+V. Vachev,2270,1987,BUL,2930,Bulgaria,BGR
+Kerchev,2265,1987,BUL,2988,Bulgaria,BGR
+N. Vasilev,2265,1987,BUL,3045,Bulgaria,BGR
+N. Zaikov,2265,1987,BUL,3050,Bulgaria,BGR
+R. Angelov,2260,1987,BUL,3055,Bulgaria,BGR
+Vl. Popov,2260,1987,BUL,3134,Bulgaria,BGR
+V. Georgiev,2255,1987,BUL,3199,Bulgaria,BGR
+A. Merdinjan,2255,1987,BUL,3243,Bulgaria,BGR
+B. Banchev,2250,1987,BUL,3309,Bulgaria,BGR
+B. Kuzev,2250,1987,BUL,3369,Bulgaria,BGR
+P. Liangov,2250,1987,BUL,3375,Bulgaria,BGR
+V. Trichkov,2250,1987,BUL,3417,Bulgaria,BGR
+Angelova-Chilinginov,2245,1987,BUL,3430,Bulgaria,BGR
+P. Arnaudov,2245,1987,BUL,3431,Bulgaria,BGR
+N. Dichev,2245,1987,BUL,3463,Bulgaria,BGR
+Lj. Dimitrov,2245,1987,BUL,3466,Bulgaria,BGR
+J. Gelemerov,2245,1987,BUL,3476,Bulgaria,BGR
+M. Gochev,2245,1987,BUL,3478,Bulgaria,BGR
+I. Janakiev,2245,1987,BUL,3485,Bulgaria,BGR
+S. Savova,2245,1987,BUL,3547,Bulgaria,BGR
+M. Stoinev,2245,1987,BUL,3556,Bulgaria,BGR
+S. Chachkarov,2240,1987,BUL,3594,Bulgaria,BGR
+R. Tachkov,2240,1987,BUL,3670,Bulgaria,BGR
+N. Nikov,2235,1987,BUL,3748,Bulgaria,BGR
+N. Noev,2235,1987,BUL,3749,Bulgaria,BGR
+A. Drumev,2225,1987,BUL,3943,Bulgaria,BGR
+St. Nikolov,2225,1987,BUL,3992,Bulgaria,BGR
+T. Tinkov,2225,1987,BUL,4022,Bulgaria,BGR
+G. Angelov,2220,1987,BUL,4040,Bulgaria,BGR
+G. Grandcharov,2220,1987,BUL,4072,Bulgaria,BGR
+Z. Gunev,2220,1987,BUL,4075,Bulgaria,BGR
+E. Ivanov,2215,1987,BUL,4217,Bulgaria,BGR
+H. Mlechev,2215,1987,BUL,4241,Bulgaria,BGR
+H. Srebrov,2215,1987,BUL,4265,Bulgaria,BGR
+D. Andreev,2210,1987,BUL,4286,Bulgaria,BGR
+N. Cheparinov,2210,1987,BUL,4301,Bulgaria,BGR
+P. Dimitrov,2210,1987,BUL,4307,Bulgaria,BGR
+M. Milanov,2210,1987,BUL,4349,Bulgaria,BGR
+Miron Pavlov,2210,1987,BUL,4361,Bulgaria,BGR
+Pernishki,2205,1987,BUL,4585,Bulgaria,BGR
+ Gocheva(Bojadgieva),2175,1987,BUL,4693,Bulgaria,BGR
+P. Jovkova-Draganova,2155,1987,BUL,4735,Bulgaria,BGR
+L. Nestorova-Petrova,2135,1987,BUL,4777,Bulgaria,BGR
+M. Petrova-K,2125,1987,BUL,4798,Bulgaria,BGR
+E. Peicheva,2115,1987,BUL,4818,Bulgaria,BGR
+T. Danova,2110,1987,BUL,4825,Bulgaria,BGR
+V. Krumova,2110,1987,BUL,4828,Bulgaria,BGR
+R. Genova(Tsvetkova),2100,1987,BUL,4835,Bulgaria,BGR
+R. Vitanova,2095,1987,BUL,4862,Bulgaria,BGR
+E. Zlatanova,2095,1987,BUL,4864,Bulgaria,BGR
+V. Peicheva,2080,1987,BUL,4897,Bulgaria,BGR
+V. Asenova,2075,1987,BUL,4904,Bulgaria,BGR
+Pavlovic,2070,1987,BUL,4923,Bulgaria,BGR
+D. Bratimirova,2065,1987,BUL,4935,Bulgaria,BGR
+M. Daskalova,2065,1987,BUL,4938,Bulgaria,BGR
+Shikova,2055,1987,BUL,4970,Bulgaria,BGR
+O. Raeva,2035,1987,BUL,5027,Bulgaria,BGR
+K. Aladjova,2030,1987,BUL,5029,Bulgaria,BGR
+J. Kolchakova,2025,1987,BUL,5053,Bulgaria,BGR
+N. Kalcheva,2015,1987,BUL,5077,Bulgaria,BGR
+J. Timman,2590,1987,NED,17,Netherlands,NLD
+J. Van der Wiel,2590,1987,NED,19,Netherlands,NLD
+G. Sosonko,2530,1987,NED,79,Netherlands,NLD
+P. Van der Sterren,2520,1987,NED,96,Netherlands,NLD
+M. Kuijf,2470,1987,NED,205,Netherlands,NLD
+G. Ligterink,2470,1987,NED,208,Netherlands,NLD
+P. Scheeren,2445,1987,NED,333,Netherlands,NLD
+Ree,2440,1987,NED,356,Netherlands,NLD
+C. Van Wijgerden,2430,1987,NED,417,Netherlands,NLD
+R. Douven,2425,1987,NED,424,Netherlands,NLD
+F.W.M. Borm,2420,1987,NED,455,Netherlands,NLD
+P.A. Boersma,2415,1987,NED,490,Netherlands,NLD
+F.A. Cuijpers,2410,1987,NED,521,Netherlands,NLD
+G.-J. De Boer,2410,1987,NED,523,Netherlands,NLD
+L. Pliester,2410,1987,NED,558,Netherlands,NLD
+J.S. De Wit,2405,1987,NED,582,Netherlands,NLD
+P. Gelpke,2405,1987,NED,585,Netherlands,NLD
+F. Kuijpers,2405,1987,NED,590,Netherlands,NLD
+Je. Piket,2405,1987,NED,604,Netherlands,NLD
+B. Enklaar,2400,1987,NED,628,Netherlands,NLD
+N. Cortlever,2395,1987,NED,668,Netherlands,NLD
+L. Riemersma,2395,1987,NED,701,Netherlands,NLD
+J.A.J. Van Mil,2395,1987,NED,705,Netherlands,NLD
+K. Langeweg,2390,1987,NED,731,Netherlands,NLD
+H. Bohm,2385,1987,NED,759,Netherlands,NLD
+P. Peelen,2385,1987,NED,790,Netherlands,NLD
+H. Cardon,2380,1987,NED,817,Netherlands,NLD
+M. Bosboom,2365,1987,NED,993,Netherlands,NLD
+R. Hartoch,2365,1987,NED,1007,Netherlands,NLD
+M. Piket,2365,1987,NED,1025,Netherlands,NLD
+J. Brenninkmeijer,2360,1987,NED,1059,Netherlands,NLD
+B. Carlier,2360,1987,NED,1060,Netherlands,NLD
+G. Welling,2360,1987,NED,1102,Netherlands,NLD
+G. Den Broeder,2355,1987,NED,1114,Netherlands,NLD
+P. Nieuwenhuis,2355,1987,NED,1145,Netherlands,NLD
+F. Nijboer,2350,1987,NED,1218,Netherlands,NLD
+A. Blees,2345,1987,NED,1245,Netherlands,NLD
+H. Grooten,2340,1987,NED,1341,Netherlands,NLD
+J. Van Baarle,2335,1987,NED,1466,Netherlands,NLD
+G.J. Ballon,2330,1987,NED,1477,Netherlands,NLD
+F. Van der Vliet,2330,1987,NED,1557,Netherlands,NLD
+R. Witt,2330,1987,NED,1561,Netherlands,NLD
+H. Janssen,2320,1987,NED,1711,Netherlands,NLD
+H.A. Bartels,2315,1987,NED,1784,Netherlands,NLD
+R. Timmer,2315,1987,NED,1861,Netherlands,NLD
+J. Body,2310,1987,NED,1884,Netherlands,NLD
+Happel,2310,1987,NED,1916,Netherlands,NLD
+C. Stehouwer,2310,1987,NED,1975,Netherlands,NLD
+G.J. Timmerman,2310,1987,NED,1981,Netherlands,NLD
+A. Van Dop,2310,1987,NED,1984,Netherlands,NLD
+Y. Volman,2310,1987,NED,1987,Netherlands,NLD
+Van Scheltinga,2305,1987,NED,2093,Netherlands,NLD
+R. Caessens,2300,1987,NED,2110,Netherlands,NLD
+F. Goldstern,2300,1987,NED,2129,Netherlands,NLD
+W. Heemskerk,2300,1987,NED,2137,Netherlands,NLD
+J. Marcus,2300,1987,NED,2171,Netherlands,NLD
+J. Vogel,2300,1987,NED,2212,Netherlands,NLD
+C. Becx,2295,1987,NED,2229,Netherlands,NLD
+T. De Jong,2295,1987,NED,2248,Netherlands,NLD
+Y. Visser,2295,1987,NED,2351,Netherlands,NLD
+R. Hofman,2290,1987,NED,2404,Netherlands,NLD
+E.G.J. Knoppert,2290,1987,NED,2417,Netherlands,NLD
+G. Pieterse,2290,1987,NED,2440,Netherlands,NLD
+J. Van Heste,2290,1987,NED,2466,Netherlands,NLD
+P. Van Voorthuijsen,2290,1987,NED,2467,Netherlands,NLD
+De Roode,2270,1987,NED,2847,Netherlands,NLD
+A. Schneiders,2270,1987,NED,2919,Netherlands,NLD
+Van De Oudeweet.A.,2270,1987,NED,2932,Netherlands,NLD
+F. Krudde,2265,1987,NED,2995,Netherlands,NLD
+H. Kuijf,2265,1987,NED,2996,Netherlands,NLD
+P. Bierenbroodspot,2260,1987,NED,3060,Netherlands,NLD
+M. Kremer,2260,1987,NED,3110,Netherlands,NLD
+Straat,2260,1987,NED,3156,Netherlands,NLD
+P. Tolk,2255,1987,NED,3289,Netherlands,NLD
+H. Kerkmeester,2245,1987,NED,3491,Netherlands,NLD
+K. Dekker,2240,1987,NED,3600,Netherlands,NLD
+L. Konings,2240,1987,NED,3624,Netherlands,NLD
+H. De Greef,2235,1987,NED,3703,Netherlands,NLD
+A De Savornin Lohman,2235,1987,NED,3704,Netherlands,NLD
+H. Vlam,2235,1987,NED,3787,Netherlands,NLD
+J. Van den Berg,2230,1987,NED,3913,Netherlands,NLD
+W. Van der Wijk,2230,1987,NED,3915,Netherlands,NLD
+M. Peek,2225,1987,NED,3998,Netherlands,NLD
+A. Van der Mije,2220,1987,NED,4159,Netherlands,NLD
+A.N. Roemersma,2210,1987,NED,4373,Netherlands,NLD
+G. Van Manen,2210,1987,NED,4396,Netherlands,NLD
+J. Voormans,2210,1987,NED,4401,Netherlands,NLD
+M.A. Wind,2210,1987,NED,4405,Netherlands,NLD
+Van der Ploe,2205,1987,NED,4641,Netherlands,NLD
+C. Bruinenberg,2175,1987,NED,4691,Netherlands,NLD
+C. Vreeken,2155,1987,NED,4741,Netherlands,NLD
+E. Belle,2140,1987,NED,4758,Netherlands,NLD
+F. Selmeier,2140,1987,NED,4764,Netherlands,NLD
+H. Van Parreren,2135,1987,NED,4782,Netherlands,NLD
+J. Harmsen,2125,1987,NED,4794,Netherlands,NLD
+Y. Nagel,2085,1987,NED,4881,Netherlands,NLD
+Van der Giessen,2045,1987,NED,5003,Netherlands,NLD
+M. Drewes,2035,1987,NED,5024,Netherlands,NLD
+P. Cameron,2030,1987,NED,5033,Netherlands,NLD
+C. Pluymert,2030,1987,NED,5040,Netherlands,NLD
+F. Heemskerk,2025,1987,NED,5052,Netherlands,NLD
+M. Van Elst,2005,1987,NED,5180,Netherlands,NLD
+E. Vazoura,2575,1987,GRE,29,Greece,GRC
+V. Kotronias,2440,1987,GRE,346,Greece,GRC
+G. Makropoulos,2440,1987,GRE,350,Greece,GRC
+S. Skembris,2400,1987,GRE,652,Greece,GRC
+P. Gesos,2375,1987,GRE,880,Greece,GRC
+E. Grivas,2375,1987,GRE,882,Greece,GRC
+N. Gavrilakis,2370,1987,GRE,935,Greece,GRC
+Kourkounakis,2350,1987,GRE,1208,Greece,GRC
+P. Frendzas,2330,1987,GRE,1499,Greece,GRC
+S. Porfiriadis,2330,1987,GRE,1534,Greece,GRC
+N. Skalkotas,2325,1987,GRE,1642,Greece,GRC
+K. Dimitriadis,2320,1987,GRE,1686,Greece,GRC
+N. Dedes,2310,1987,GRE,1893,Greece,GRC
+E. Pandavos,2310,1987,GRE,1954,Greece,GRC
+H. Pountzas,2310,1987,GRE,1959,Greece,GRC
+G. Dimitriadis,2305,1987,GRE,2017,Greece,GRC
+T. Lirindzakis,2305,1987,GRE,2057,Greece,GRC
+Ch. Gerogiannis,2300,1987,GRE,2126,Greece,GRC
+Ioakimidis,2300,1987,GRE,2142,Greece,GRC
+K. Georgandzis,2295,1987,GRE,2260,Greece,GRC
+I. Maris,2295,1987,GRE,2292,Greece,GRC
+P. Pandavos,2295,1987,GRE,2312,Greece,GRC
+Natsis,2290,1987,GRE,2433,Greece,GRC
+K. Vlahos,2290,1987,GRE,2469,Greece,GRC
+P. Sklavounos,2285,1987,GRE,2585,Greece,GRC
+G. Haliamanis,2280,1987,GRE,2649,Greece,GRC
+Kaloussis,2280,1987,GRE,2663,Greece,GRC
+Lazaridis,2280,1987,GRE,2670,Greece,GRC
+D. Hrisanthopoulos,2275,1987,GRE,2766,Greece,GRC
+A. Kofidis,2275,1987,GRE,2774,Greece,GRC
+A. Triantafillidis,2275,1987,GRE,2823,Greece,GRC
+Th. Liverios,2270,1987,GRE,2887,Greece,GRC
+A. Bogdanos,2265,1987,GRE,2959,Greece,GRC
+D. Delithanasis,2265,1987,GRE,2968,Greece,GRC
+K. Tsarouhas,2250,1987,GRE,3418,Greece,GRC
+P. Tsourinakis,2250,1987,GRE,3419,Greece,GRC
+L. Vizantidis,2250,1987,GRE,3421,Greece,GRC
+Amendola,2245,1987,GRE,3428,Greece,GRC
+S. Kofidis,2245,1987,GRE,3494,Greece,GRC
+Kokkinos,2245,1987,GRE,3495,Greece,GRC
+V. Liarokapis,2235,1987,GRE,3735,Greece,GRC
+D. Petrovikis,2235,1987,GRE,3758,Greece,GRC
+Trikaliotis,2235,1987,GRE,3784,Greece,GRC
+H. Bousios,2230,1987,GRE,3813,Greece,GRC
+K. Nikolaidis,2230,1987,GRE,3869,Greece,GRC
+N. Sideris,2230,1987,GRE,3898,Greece,GRC
+A.N. Karayanis,2225,1987,GRE,3974,Greece,GRC
+N. Mendrinos,2225,1987,GRE,3986,Greece,GRC
+K. Moutousis,2225,1987,GRE,3990,Greece,GRC
+D. Vandoros,2225,1987,GRE,4027,Greece,GRC
+A. Vragoteris,2225,1987,GRE,4029,Greece,GRC
+D. Alexakis,2220,1987,GRE,4038,Greece,GRC
+H. Avgerinos,2215,1987,GRE,4177,Greece,GRC
+P. Drepaniotis,2215,1987,GRE,4193,Greece,GRC
+D. Efstathiou,2215,1987,GRE,4194,Greece,GRC
+L. Georgiakakis,2215,1987,GRE,4202,Greece,GRC
+R. Hristopoulos,2215,1987,GRE,4215,Greece,GRC
+S. Ilandzis,2215,1987,GRE,4216,Greece,GRC
+N. Karapanos,2215,1987,GRE,4224,Greece,GRC
+Th. Alexandrou,2210,1987,GRE,4284,Greece,GRC
+N. Begnis,2210,1987,GRE,4293,Greece,GRC
+G. Efthimiatos,2210,1987,GRE,4311,Greece,GRC
+G. Fournarakos,2210,1987,GRE,4318,Greece,GRC
+E. Kondou,2210,1987,GRE,4338,Greece,GRC
+V. Tsarouhas,2210,1987,GRE,4394,Greece,GRC
+E. Gazis,2205,1987,GRE,4489,Greece,GRC
+A. Papastavropoulos,2205,1987,GRE,4580,Greece,GRC
+F. Kasioura,2080,1987,GRE,4896,Greece,GRC
+K. Nika,2065,1987,GRE,4946,Greece,GRC
+D. Taniskidou,2030,1987,GRE,5044,Greece,GRC
+A.-M. Botsari,2005,1987,GRE,5111,Greece,GRC
+A. Karali,2005,1987,GRE,5148,Greece,GRC
+B. Larsen,2565,1987,DEN,35,Denmark,DNK
+C. Hansen,2540,1987,DEN,60,Denmark,DNK
+J. Kristiansen,2480,1987,DEN,180,Denmark,DNK
+K. Rasmussen,2480,1987,DEN,186,Denmark,DNK
+E. Mortensen,2440,1987,DEN,351,Denmark,DNK
+E. Pedersen,2415,1987,DEN,506,Denmark,DNK
+J. Ost-Hansen,2410,1987,DEN,553,Denmark,DNK
+H. Danielsen,2405,1987,DEN,580,Denmark,DNK
+L.B. Hansen,2405,1987,DEN,588,Denmark,DNK
+O. Jakobsen,2400,1987,DEN,637,Denmark,DNK
+S. Fedder,2395,1987,DEN,675,Denmark,DNK
+B. Brinck-Claussen,2390,1987,DEN,711,Denmark,DNK
+S. Hamann,2385,1987,DEN,771,Denmark,DNK
+B. Kristensen,2385,1987,DEN,777,Denmark,DNK
+J. Sloth,2375,1987,DEN,907,Denmark,DNK
+K. Berg,2365,1987,DEN,988,Denmark,DNK
+Hoi,2355,1987,DEN,1133,Denmark,DNK
+S. Holm,2355,1987,DEN,1134,Denmark,DNK
+J.O. Fries-Nielsen,2350,1987,DEN,1194,Denmark,DNK
+L. Schandorff,2350,1987,DEN,1228,Denmark,DNK
+K. Pedersen,2345,1987,DEN,1295,Denmark,DNK
+T. Hutters,2335,1987,DEN,1426,Denmark,DNK
+G. Iskov,2330,1987,DEN,1505,Denmark,DNK
+K. Kristensen,2330,1987,DEN,1515,Denmark,DNK
+A. Poulsen,2330,1987,DEN,1535,Denmark,DNK
+N.J. Fries-Nielson,2325,1987,DEN,1587,Denmark,DNK
+P. Knudsen,2320,1987,DEN,1720,Denmark,DNK
+K. Schmidt,2320,1987,DEN,1754,Denmark,DNK
+J. Norgaard,2315,1987,DEN,1835,Denmark,DNK
+B. Sorensen,2315,1987,DEN,1853,Denmark,DNK
+P. Jorgensen,2310,1987,DEN,1922,Denmark,DNK
+M. Reinert,2310,1987,DEN,1962,Denmark,DNK
+Rosenlund,2310,1987,DEN,1965,Denmark,DNK
+O. Kroll,2305,1987,DEN,2047,Denmark,DNK
+M. Moe,2305,1987,DEN,2065,Denmark,DNK
+Hvenekilde,2295,1987,DEN,2272,Denmark,DNK
+C. Bank Frijs,2290,1987,DEN,2364,Denmark,DNK
+T. Sorensen,2290,1987,DEN,2455,Denmark,DNK
+J. Hartung-Nielsen,2285,1987,DEN,2525,Denmark,DNK
+B. Jacobsen,2285,1987,DEN,2532,Denmark,DNK
+K. Bjerring,2280,1987,DEN,2618,Denmark,DNK
+N. Hoiberg,2280,1987,DEN,2654,Denmark,DNK
+F. Petersen,2275,1987,DEN,2790,Denmark,DNK
+S. Clausen,2270,1987,DEN,2844,Denmark,DNK
+D. Andersen,2265,1987,DEN,2947,Denmark,DNK
+E. Brondum,2265,1987,DEN,2961,Denmark,DNK
+Th. Ochsner,2265,1987,DEN,3017,Denmark,DNK
+P. Auchenberg,2250,1987,DEN,3305,Denmark,DNK
+Rewitz,2250,1987,DEN,3397,Denmark,DNK
+H. Sorensen,2250,1987,DEN,3407,Denmark,DNK
+J. Nielsen,2245,1987,DEN,3527,Denmark,DNK
+Ch. Norregard,2245,1987,DEN,3529,Denmark,DNK
+P.E. Nielsen,2235,1987,DEN,3746,Denmark,DNK
+P. Andreasen,2230,1987,DEN,3803,Denmark,DNK
+V. Jensen,2230,1987,DEN,3844,Denmark,DNK
+N. Nilsson,2230,1987,DEN,3871,Denmark,DNK
+I. Andersen,2215,1987,DEN,4174,Denmark,DNK
+J. Knudsen,2215,1987,DEN,4225,Denmark,DNK
+A. Bang,2210,1987,DEN,4291,Denmark,DNK
+S. From,2205,1987,DEN,4477,Denmark,DNK
+A. Jensen,2205,1987,DEN,4509,Denmark,DNK
+T. Berg,2095,1987,DEN,4850,Denmark,DNK
+M. Theander,2040,1987,DEN,5019,Denmark,DNK
+M. Haahr,2035,1987,DEN,5025,Denmark,DNK
+J. Nogueiras,2565,1987,CUB,37,Cuba,CUB
+G. Garcia Gonzales,2495,1987,CUB,140,Cuba,CUB
+Am. Rodriguez,2495,1987,CUB,147,Cuba,CUB
+R. Vera,2470,1987,CUB,220,Cuba,CUB
+J. Armas,2455,1987,CUB,254,Cuba,CUB
+S. Garcia Martinez,2455,1987,CUB,257,Cuba,CUB
+J. Boudy,2450,1987,CUB,279,Cuba,CUB
+Rom. Hernandez,2445,1987,CUB,316,Cuba,CUB
+L. Ortega,2445,1987,CUB,328,Cuba,CUB
+R.W. Arencibia,2420,1987,CUB,451,Cuba,CUB
+M. Andres,2400,1987,CUB,618,Cuba,CUB
+J.L. Vilela,2400,1987,CUB,660,Cuba,CUB
+G. Estevez,2395,1987,CUB,674,Cuba,CUB
+G. Lebredo,2395,1987,CUB,686,Cuba,CUB
+Juan C. Fernandez,2390,1987,CUB,718,Cuba,CUB
+N.B. Pinal,2390,1987,CUB,738,Cuba,CUB
+L. Sieiro-Gonzalez,2390,1987,CUB,741,Cuba,CUB
+J.C. Diaz,2375,1987,CUB,875,Cuba,CUB
+R. Huerta,2370,1987,CUB,941,Cuba,CUB
+W. Sariego,2370,1987,CUB,969,Cuba,CUB
+Fi. Alvarez,2365,1987,CUB,983,Cuba,CUB
+J. Borges Mateos,2365,1987,CUB,992,Cuba,CUB
+A. Barreras,2335,1987,CUB,1398,Cuba,CUB
+A. Hernandez,2325,1987,CUB,1602,Cuba,CUB
+H. Pecorelli Garcia,2325,1987,CUB,1631,Cuba,CUB
+D.V. Buela,2320,1987,CUB,1675,Cuba,CUB
+S. Cuesta Navarro,2315,1987,CUB,1795,Cuba,CUB
+G. Keipo,2315,1987,CUB,1814,Cuba,CUB
+N. Velez,2315,1987,CUB,1865,Cuba,CUB
+R. Alonso,2310,1987,CUB,1875,Cuba,CUB
+B. Lugo,2310,1987,CUB,1936,Cuba,CUB
+L.E. Valdes,2310,1987,CUB,1983,Cuba,CUB
+H. Leyva,2305,1987,CUB,2054,Cuba,CUB
+A. Remon,2305,1987,CUB,2077,Cuba,CUB
+H. Elizart Cardenas,2300,1987,CUB,2120,Cuba,CUB
+P.J. Garcia,2300,1987,CUB,2123,Cuba,CUB
+L. Bueno-Perez,2290,1987,CUB,2376,Cuba,CUB
+J.R. Huergo,2290,1987,CUB,2406,Cuba,CUB
+J. Espinosa,2285,1987,CUB,2508,Cuba,CUB
+Jo.-J. Hernandez,2285,1987,CUB,2528,Cuba,CUB
+R. Machado,2285,1987,CUB,2549,Cuba,CUB
+J.M. Medina,2285,1987,CUB,2557,Cuba,CUB
+A. Rivera,2285,1987,CUB,2577,Cuba,CUB
+J.M. Cruz-Lima,2280,1987,CUB,2628,Cuba,CUB
+Je. Hernandez,2280,1987,CUB,2652,Cuba,CUB
+I. Herrera,2280,1987,CUB,2653,Cuba,CUB
+J. Triana,2280,1987,CUB,2721,Cuba,CUB
+W. Garcia,2275,1987,CUB,2757,Cuba,CUB
+J. Schwiep,2275,1987,CUB,2807,Cuba,CUB
+N. Gonzalez,2270,1987,CUB,2863,Cuba,CUB
+J. Hedman,2270,1987,CUB,2868,Cuba,CUB
+A. Valdes-Castillo,2270,1987,CUB,2931,Cuba,CUB
+A. Bueno,2265,1987,CUB,2962,Cuba,CUB
+G. Fernandez,2265,1987,CUB,2976,Cuba,CUB
+M. Medina,2265,1987,CUB,3008,Cuba,CUB
+A. Moreno,2265,1987,CUB,3013,Cuba,CUB
+R. Echevarria,2260,1987,CUB,3074,Cuba,CUB
+R. Fernandez,2260,1987,CUB,3076,Cuba,CUB
+Ferrera,2260,1987,CUB,3077,Cuba,CUB
+A. Gavilanes,2260,1987,CUB,3081,Cuba,CUB
+J.C. Perez,2260,1987,CUB,3132,Cuba,CUB
+A. Gomez,2250,1987,CUB,3342,Cuba,CUB
+C.A. Fernandez,2245,1987,CUB,3474,Cuba,CUB
+A. Lopez,2245,1987,CUB,3504,Cuba,CUB
+Mederos,2245,1987,CUB,3516,Cuba,CUB
+J. Suarez,2245,1987,CUB,3557,Cuba,CUB
+J.L. Subit,2240,1987,CUB,3668,Cuba,CUB
+L. Fuentes,2235,1987,CUB,3709,Cuba,CUB
+P. Mestre,2230,1987,CUB,3864,Cuba,CUB
+M. Cheviano,2225,1987,CUB,3935,Cuba,CUB
+H. Toirac,2220,1987,CUB,4156,Cuba,CUB
+J.A. Chacon,2215,1987,CUB,4183,Cuba,CUB
+A. De Armas,2215,1987,CUB,4187,Cuba,CUB
+P. Rodriguez,2215,1987,CUB,4257,Cuba,CUB
+J.D. Diaz,2210,1987,CUB,4306,Cuba,CUB
+P. Guerra,2210,1987,CUB,4322,Cuba,CUB
+A. Valton,2210,1987,CUB,4395,Cuba,CUB
+R. Alfonso,2205,1987,CUB,4417,Cuba,CUB
+R. Frometa,2205,1987,CUB,4478,Cuba,CUB
+Z. Frometa,2205,1987,CUB,4479,Cuba,CUB
+J. Herrera Perez,2205,1987,CUB,4500,Cuba,CUB
+F.J. Perez,2205,1987,CUB,4582,Cuba,CUB
+J.J. Perez,2205,1987,CUB,4583,Cuba,CUB
+R. Reynoso,2205,1987,CUB,4595,Cuba,CUB
+V. Ramon,2170,1987,CUB,4706,Cuba,CUB
+M. Palao,2145,1987,CUB,4757,Cuba,CUB
+T. Hernandez,2100,1987,CUB,4839,Cuba,CUB
+E. Leon,2100,1987,CUB,4842,Cuba,CUB
+M. Valdes,2095,1987,CUB,4861,Cuba,CUB
+L. Zamora,2060,1987,CUB,4963,Cuba,CUB
+R. Fandino,2045,1987,CUB,4996,Cuba,CUB
+V. Rodriguez,2030,1987,CUB,5041,Cuba,CUB
+S. Crespo,2005,1987,CUB,5118,Cuba,CUB
+O. Godoy,2005,1987,CUB,5139,Cuba,CUB
+S. Agdestein,2560,1987,NOR,39,Norway,NOR
+J.D. Tisdall,2475,1987,NOR,198,Norway,NOR
+K.J. Helmers,2465,1987,NOR,234,Norway,NOR
+L. Ogaard,2425,1987,NOR,436,Norway,NOR
+S. Heim,2410,1987,NOR,536,Norway,NOR
+B. Ostenstad,2400,1987,NOR,643,Norway,NOR
+Tiller,2400,1987,NOR,658,Norway,NOR
+T. Wibe,2370,1987,NOR,980,Norway,NOR
+S. Johannessen,2365,1987,NOR,1010,Norway,NOR
+E. Agdestein,2350,1987,NOR,1172,Norway,NOR
+E. Poulsson,2345,1987,NOR,1298,Norway,NOR
+P. Haugli,2340,1987,NOR,1343,Norway,NOR
+B. Diesen,2330,1987,NOR,1488,Norway,NOR
+Vinje(Gulbrandsen)a.,2325,1987,NOR,1655,Norway,NOR
+E. Gausel,2320,1987,NOR,1691,Norway,NOR
+Hatlebakk,2320,1987,NOR,1702,Norway,NOR
+O. Moen,2320,1987,NOR,1730,Norway,NOR
+R. Elseth,2305,1987,NOR,2023,Norway,NOR
+P.-O. Liabotro,2305,1987,NOR,2056,Norway,NOR
+P. Stigar,2300,1987,NOR,2201,Norway,NOR
+R. Bjerke,2295,1987,NOR,2232,Norway,NOR
+Ulrichsen,2295,1987,NOR,2348,Norway,NOR
+E. Kristiansen,2290,1987,NOR,2419,Norway,NOR
+Hoen,2285,1987,NOR,2531,Norway,NOR
+N. Grotnes,2280,1987,NOR,2646,Norway,NOR
+T.K. Scholseth,2280,1987,NOR,2708,Norway,NOR
+A. Lauvsnes,2275,1987,NOR,2778,Norway,NOR
+J. Jansson,2270,1987,NOR,2873,Norway,NOR
+Harestad,2265,1987,NOR,2982,Norway,NOR
+H. Gundersen,2255,1987,NOR,3206,Norway,NOR
+Th. Heiberg,2255,1987,NOR,3210,Norway,NOR
+T. Kristiansen,2255,1987,NOR,3229,Norway,NOR
+O. Bergstad,2240,1987,NOR,3585,Norway,NOR
+Ofstad,2240,1987,NOR,3649,Norway,NOR
+O. Knudsen,2230,1987,NOR,3850,Norway,NOR
+D. Lauvas,2230,1987,NOR,3859,Norway,NOR
+O. Andersen,2225,1987,NOR,3921,Norway,NOR
+E. Brekken,2225,1987,NOR,3931,Norway,NOR
+A. Semakoff,2220,1987,NOR,4139,Norway,NOR
+O. Brekke,2215,1987,NOR,4182,Norway,NOR
+E. Hoidahl,2215,1987,NOR,4213,Norway,NOR
+D. De Lange,2210,1987,NOR,4304,Norway,NOR
+B. Heggheim,2210,1987,NOR,4323,Norway,NOR
+Taksrud,2205,1987,NOR,4628,Norway,NOR
+I. Dahl,2045,1987,NOR,4994,Norway,NOR
+A. De Linde,2020,1987,NOR,5058,Norway,NOR
+M. Klingen,2005,1987,NOR,5151,Norway,NOR
+J.E. Granda Zuniga,2555,1987,PER,42,Peru,PER
+O. Rodriguez,2455,1987,PER,269,Peru,PER
+J. Reyes,2430,1987,PER,413,Peru,PER
+V. Vilchez,2220,1987,PER,4162,Peru,PER
+J. Garcia,2205,1987,PER,4487,Peru,PER
+D.H. Campora,2550,1987,ARG,45,Argentina,ARG
+C. Garcia Palermo,2530,1987,ARG,77,Argentina,ARG
+O. Panno,2515,1987,ARG,102,Argentina,ARG
+Quinteros,2490,1987,ARG,158,Argentina,ARG
+J. Bolbochan,2485,1987,ARG,162,Argentina,ARG
+J.H. Gomez Baillo,2450,1987,ARG,283,Argentina,ARG
+P. Ricardi,2430,1987,ARG,414,Argentina,ARG
+M. Tempone,2430,1987,ARG,416,Argentina,ARG
+J. Rubinetti,2415,1987,ARG,511,Argentina,ARG
+Rai. Garcia,2410,1987,ARG,530,Argentina,ARG
+G.F. Barbero,2405,1987,ARG,572,Argentina,ARG
+L. Bronstein,2400,1987,ARG,621,Argentina,ARG
+Schweber,2400,1987,ARG,651,Argentina,ARG
+J. Szmetan,2400,1987,ARG,657,Argentina,ARG
+T. Darcyl,2395,1987,ARG,670,Argentina,ARG
+C.E. Juarez,2390,1987,ARG,724,Argentina,ARG
+Paglilla,2390,1987,ARG,737,Argentina,ARG
+C. Guimard,2385,1987,ARG,770,Argentina,ARG
+M.A. Cid,2380,1987,ARG,819,Argentina,ARG
+H. De la Vega,2375,1987,ARG,873,Argentina,ARG
+R. Debarnot,2375,1987,ARG,874,Argentina,ARG
+J. Behrensen,2370,1987,ARG,921,Argentina,ARG
+G. Bianchi,2370,1987,ARG,923,Argentina,ARG
+O. Cuasnicu,2370,1987,ARG,932,Argentina,ARG
+J. Hase,2370,1987,ARG,939,Argentina,ARG
+R. Grinberg,2365,1987,ARG,1005,Argentina,ARG
+S. Giardelli,2360,1987,ARG,1064,Argentina,ARG
+R. Monier,2360,1987,ARG,1081,Argentina,ARG
+C.A. Martinez,2355,1987,ARG,1142,Argentina,ARG
+Palermo,2355,1987,ARG,1147,Argentina,ARG
+A. Roca,2355,1987,ARG,1154,Argentina,ARG
+G. Aguila,2350,1987,ARG,1173,Argentina,ARG
+H. Borghi,2350,1987,ARG,1183,Argentina,ARG
+G. Soppe,2350,1987,ARG,1230,Argentina,ARG
+D.R. Tovillas,2350,1987,ARG,1236,Argentina,ARG
+R. Casafus,2345,1987,ARG,1250,Argentina,ARG
+M. Leskovar,2345,1987,ARG,1282,Argentina,ARG
+S. Markeluk,2340,1987,ARG,1356,Argentina,ARG
+M. Varga,2340,1987,ARG,1387,Argentina,ARG
+A. Aparicio,2335,1987,ARG,1396,Argentina,ARG
+R. Gonzalez,2335,1987,ARG,1421,Argentina,ARG
+D. Piscicelli,2335,1987,ARG,1448,Argentina,ARG
+J. Rodriguez,2335,1987,ARG,1453,Argentina,ARG
+A. Sorin,2335,1987,ARG,1460,Argentina,ARG
+C.S. Slipak,2330,1987,ARG,1547,Argentina,ARG
+M. Studenetzky,2330,1987,ARG,1551,Argentina,ARG
+G. Mahia,2325,1987,ARG,1619,Argentina,ARG
+C.P. Boissonet,2320,1987,ARG,1671,Argentina,ARG
+R.D. D'Arruda,2320,1987,ARG,1683,Argentina,ARG
+C. Panzeri,2320,1987,ARG,1735,Argentina,ARG
+A. Hoffman,2315,1987,ARG,1809,Argentina,ARG
+H. Rossetto,2310,1987,ARG,1966,Argentina,ARG
+A. Anelli,2305,1987,ARG,1996,Argentina,ARG
+E. Biaggi,2305,1987,ARG,2004,Argentina,ARG
+F. Sanchez,2305,1987,ARG,2083,Argentina,ARG
+H. Garcia,2295,1987,ARG,2258,Argentina,ARG
+R. Lapicki,2295,1987,ARG,2284,Argentina,ARG
+Al. Rodriguez,2295,1987,ARG,2326,Argentina,ARG
+R. Servat,2295,1987,ARG,2333,Argentina,ARG
+R. Szmetan,2295,1987,ARG,2340,Argentina,ARG
+R. Wehbe,2295,1987,ARG,2352,Argentina,ARG
+A. Juarez,2290,1987,ARG,2411,Argentina,ARG
+C. Cranbourne,2285,1987,ARG,2501,Argentina,ARG
+M. Grynszpan,2285,1987,ARG,2520,Argentina,ARG
+V. Justo,2285,1987,ARG,2533,Argentina,ARG
+G. Malbran,2285,1987,ARG,2553,Argentina,ARG
+S. Negri,2285,1987,ARG,2563,Argentina,ARG
+J.F. Trincado,2285,1987,ARG,2597,Argentina,ARG
+D. Contin,2280,1987,ARG,2627,Argentina,ARG
+F. Ibanez,2280,1987,ARG,2655,Argentina,ARG
+D. Pacheco,2280,1987,ARG,2692,Argentina,ARG
+C. Potick,2280,1987,ARG,2699,Argentina,ARG
+J.C. Escandell,2275,1987,ARG,2755,Argentina,ARG
+C. Godoy,2275,1987,ARG,2759,Argentina,ARG
+R. Sabao,2275,1987,ARG,2801,Argentina,ARG
+C. Schwanek,2275,1987,ARG,2806,Argentina,ARG
+R. Garbarino,2270,1987,ARG,2860,Argentina,ARG
+B. Goldschmidt,2270,1987,ARG,2862,Argentina,ARG
+H. Olivera,2270,1987,ARG,2896,Argentina,ARG
+S. Macagno,2265,1987,ARG,3006,Argentina,ARG
+J. Perez Cascella,2265,1987,ARG,3026,Argentina,ARG
+E. Ramirez,2265,1987,ARG,3033,Argentina,ARG
+A. Zukerfeld,2265,1987,ARG,3053,Argentina,ARG
+A. Alpern,2260,1987,ARG,3054,Argentina,ARG
+P. Bonaldi,2260,1987,ARG,3063,Argentina,ARG
+E. Julia,2260,1987,ARG,3099,Argentina,ARG
+A. Pereira,2260,1987,ARG,3131,Argentina,ARG
+H. Restifa,2260,1987,ARG,3139,Argentina,ARG
+P. Zarnicki,2260,1987,ARG,3168,Argentina,ARG
+B. Altamirano,2255,1987,ARG,3172,Argentina,ARG
+M. Ballicora,2255,1987,ARG,3177,Argentina,ARG
+F. Casas,2255,1987,ARG,3183,Argentina,ARG
+R. Cristobal,2255,1987,ARG,3187,Argentina,ARG
+D. Elguezabal Varela,2255,1987,ARG,3191,Argentina,ARG
+F. Fiorito,2255,1987,ARG,3195,Argentina,ARG
+P. Glavina,2255,1987,ARG,3200,Argentina,ARG
+H. Perez-Garcia,2255,1987,ARG,3258,Argentina,ARG
+C. Bulcourf,2250,1987,ARG,3322,Argentina,ARG
+C. Schuster,2250,1987,ARG,3404,Argentina,ARG
+A. Barenbaum,2245,1987,ARG,3436,Argentina,ARG
+O. Bazan,2245,1987,ARG,3439,Argentina,ARG
+Luis Campos,2245,1987,ARG,3449,Argentina,ARG
+R. Hase,2245,1987,ARG,3481,Argentina,ARG
+S. Pla,2245,1987,ARG,3540,Argentina,ARG
+F. Trincado,2245,1987,ARG,3561,Argentina,ARG
+E. Zucotti,2245,1987,ARG,3574,Argentina,ARG
+H. Abramson,2240,1987,ARG,3575,Argentina,ARG
+C. Bielicki,2240,1987,ARG,3586,Argentina,ARG
+C. Grushka,2240,1987,ARG,3614,Argentina,ARG
+Jorge Fernandez,2235,1987,ARG,3708,Argentina,ARG
+J.C. Moreira,2235,1987,ARG,3743,Argentina,ARG
+T. Acosta,2230,1987,ARG,3797,Argentina,ARG
+R. Farah,2230,1987,ARG,3829,Argentina,ARG
+D. Rappa,2230,1987,ARG,3884,Argentina,ARG
+M. Reta,2225,1987,ARG,4007,Argentina,ARG
+Yedlin,2225,1987,ARG,4033,Argentina,ARG
+R. Bosco,2220,1987,ARG,4047,Argentina,ARG
+J.M. Carbone,2220,1987,ARG,4050,Argentina,ARG
+C. Galagovsky,2220,1987,ARG,4067,Argentina,ARG
+Ale. Iglesias,2220,1987,ARG,4082,Argentina,ARG
+J. Szafranek,2220,1987,ARG,4150,Argentina,ARG
+E. Di Clerico,2215,1987,ARG,4190,Argentina,ARG
+C. Pappier,2210,1987,ARG,4359,Argentina,ARG
+G. Llanos,2205,1987,ARG,4531,Argentina,ARG
+A. Piedra,2205,1987,ARG,4588,Argentina,ARG
+L. Burijovich,2065,1987,ARG,4936,Argentina,ARG
+C.N. Amura,2050,1987,ARG,4973,Argentina,ARG
+M. Cazon,2015,1987,ARG,5073,Argentina,ARG
+A. Vaschetti,2015,1987,ARG,5083,Argentina,ARG
+M. Rizzo,2005,1987,ARG,5172,Argentina,ARG
+H. Olafsson,2550,1987,ISL,47,Iceland,ISL
+J. Hjartarson,2545,1987,ISL,54,Iceland,ISL
+J. Arnason,2540,1987,ISL,55,Iceland,ISL
+M. Petursson,2535,1987,ISL,71,Iceland,ISL
+F. Olafsson,2485,1987,ISL,169,Iceland,ISL
+G. Sigurjonsson,2485,1987,ISL,171,Iceland,ISL
+K. Thorsteins,2445,1987,ISL,336,Iceland,ISL
+I. Asmundsson,2375,1987,ISL,862,Iceland,ISL
+J. Kristinsson,2360,1987,ISL,1075,Iceland,ISL
+S. Bjarnason,2355,1987,ISL,1109,Iceland,ISL
+H.H. Stefansson,2335,1987,ISL,1462,Iceland,ISL
+Th. Thorhallsson,2335,1987,ISL,1464,Iceland,ISL
+B. Jonasson,2330,1987,ISL,1506,Iceland,ISL
+E. Gudmundsson,2320,1987,ISL,1699,Iceland,ISL
+A.A. Gretarsson,2310,1987,ISL,1912,Iceland,ISL
+B. Jonsson,2310,1987,ISL,1921,Iceland,ISL
+D. Olaffson,2305,1987,ISL,2068,Iceland,ISL
+H. Angantysson,2300,1987,ISL,2103,Iceland,ISL
+B. Kristjansson,2295,1987,ISL,2279,Iceland,ISL
+Th. Thorsteinsson,2295,1987,ISL,2344,Iceland,ISL
+G. Gunnarsson,2290,1987,ISL,2395,Iceland,ISL
+D. Hansson,2290,1987,ISL,2400,Iceland,ISL
+R. Hardarson,2290,1987,ISL,2401,Iceland,ISL
+H. Karlsson,2290,1987,ISL,2412,Iceland,ISL
+B. Benedictsson,2285,1987,ISL,2489,Iceland,ISL
+A. Einarsson,2280,1987,ISL,2635,Iceland,ISL
+J. Agustsson,2275,1987,ISL,2732,Iceland,ISL
+G. Halldorsson,2275,1987,ISL,2762,Iceland,ISL
+A.T. Arnason,2270,1987,ISL,2833,Iceland,ISL
+M. Solmundarsson,2270,1987,ISL,2924,Iceland,ISL
+J.G. Vidarsson,2270,1987,ISL,2936,Iceland,ISL
+Br. Halldorsson,2260,1987,ISL,3087,Iceland,ISL
+A.O. Karason,2255,1987,ISL,3222,Iceland,ISL
+Th. Bergmann,2250,1987,ISL,3316,Iceland,ISL
+L. Johannesson,2250,1987,ISL,3354,Iceland,ISL
+T. Bjornsson,2245,1987,ISL,3442,Iceland,ISL
+G. Magnusson,2245,1987,ISL,3507,Iceland,ISL
+A.S. Karlsson,2235,1987,ISL,3726,Iceland,ISL
+Josteinsson,2230,1987,ISL,3845,Iceland,ISL
+O. Kristjansson,2230,1987,ISL,3853,Iceland,ISL
+H. Einarsson,2225,1987,ISL,3946,Iceland,ISL
+J. Fridjonsson,2220,1987,ISL,4065,Iceland,ISL
+K. Gudmundsson,2210,1987,ISL,4321,Iceland,ISL
+G. Thorsteinsdottir,2135,1987,ISL,4780,Iceland,ISL
+O. Threinsdottir,2070,1987,ISL,4930,Iceland,ISL
+S. Fridthjofsdottir,2005,1987,ISL,5132,Iceland,ISL
+K. Spraggett,2550,1987,CAN,51,Canada,CAN
+I.V. Ivanov,2510,1987,CAN,103,Canada,CAN
+R. Pelts,2430,1987,CAN,409,Canada,CAN
+Suttles,2420,1987,CAN,480,Canada,CAN
+D.A. Yanofsky,2420,1987,CAN,487,Canada,CAN
+I.T. Findlay,2410,1987,CAN,527,Canada,CAN
+L. Day,2390,1987,CAN,715,Canada,CAN
+J. Hebert,2390,1987,CAN,722,Canada,CAN
+Z. Vranesic,2380,1987,CAN,855,Canada,CAN
+Lipnowski,2375,1987,CAN,896,Canada,CAN
+Nickoloff,2375,1987,CAN,899,Canada,CAN
+R. Hamilton,2365,1987,CAN,1006,Canada,CAN
+Amos,2355,1987,CAN,1105,Canada,CAN
+G. Johnstone,2350,1987,CAN,1203,Canada,CAN
+B. Hartman,2340,1987,CAN,1342,Canada,CAN
+R. Morrison,2340,1987,CAN,1361,Canada,CAN
+R. Stone,2340,1987,CAN,1385,Canada,CAN
+Barbeau,2330,1987,CAN,1478,Canada,CAN
+H. Kaminker,2325,1987,CAN,1609,Canada,CAN
+F. Baragar,2320,1987,CAN,1668,Canada,CAN
+V. Puri,2315,1987,CAN,1839,Canada,CAN
+D. Allan,2310,1987,CAN,1873,Canada,CAN
+G. Levtchouk,2310,1987,CAN,1934,Canada,CAN
+R.D. Zuk,2310,1987,CAN,1993,Canada,CAN
+J. Horton,2305,1987,CAN,2036,Canada,CAN
+R. Hawkes,2300,1987,CAN,2136,Canada,CAN
+J. Berry,2295,1987,CAN,2230,Canada,CAN
+A. Kuznecov,2295,1987,CAN,2281,Canada,CAN
+G. Taylor,2295,1987,CAN,2343,Canada,CAN
+D. Ross,2290,1987,CAN,2448,Canada,CAN
+P. Dauvergne,2285,1987,CAN,2503,Canada,CAN
+N. Fullbrook,2285,1987,CAN,2512,Canada,CAN
+S. Bolduc,2280,1987,CAN,2619,Canada,CAN
+D. Hergott,2280,1987,CAN,2651,Canada,CAN
+Jauregui,2280,1987,CAN,2658,Canada,CAN
+H. Jung,2280,1987,CAN,2662,Canada,CAN
+T. O'Donnell,2280,1987,CAN,2691,Canada,CAN
+J.T. Pajak,2265,1987,CAN,3021,Canada,CAN
+J. Polacek,2265,1987,CAN,3030,Canada,CAN
+Macskasy,2260,1987,CAN,3116,Canada,CAN
+Dav. Roos,2260,1987,CAN,3141,Canada,CAN
+A. Kapstan,2255,1987,CAN,3221,Canada,CAN
+S. Boyd,2250,1987,CAN,3320,Canada,CAN
+R. South,2250,1987,CAN,3408,Canada,CAN
+K. Pacey,2245,1987,CAN,3531,Canada,CAN
+L. Williams,2240,1987,CAN,3679,Canada,CAN
+S. Kleinplatz,2235,1987,CAN,3728,Canada,CAN
+S. Ball,2230,1987,CAN,3807,Canada,CAN
+V. Dzera,2225,1987,CAN,3945,Canada,CAN
+D. Lavin,2225,1987,CAN,3981,Canada,CAN
+D. Filipovich,2220,1987,CAN,4063,Canada,CAN
+K. Gentes,2210,1987,CAN,4320,Canada,CAN
+F. Leveille,2210,1987,CAN,4342,Canada,CAN
+M. Schleifer,2210,1987,CAN,4382,Canada,CAN
+N. Shterenberg,2200,1987,CAN,4668,Canada,CAN
+C. Roos,2180,1987,CAN,4685,Canada,CAN
+S. Vujosevic,2095,1987,CAN,4863,Canada,CAN
+D. Mongeau,2020,1987,CAN,5067,Canada,CAN
+E. Torre,2540,1987,PHI,64,Philippines,PHL
+A. Yap,2450,1987,PHI,306,Philippines,PHL
+R. Mascarinas,2425,1987,PHI,433,Philippines,PHL
+R. Rodriguez,2405,1987,PHI,607,Philippines,PHL
+C. Ramayrat,2395,1987,PHI,699,Philippines,PHL
+R. Balinas,2380,1987,PHI,810,Philippines,PHL
+L. Chiong,2380,1987,PHI,818,Philippines,PHL
+E. Bernal,2355,1987,PHI,1108,Philippines,PHL
+R. De Guzman,2350,1987,PHI,1187,Philippines,PHL
+M. Micayabas,2345,1987,PHI,1287,Philippines,PHL
+P. Roca,2335,1987,PHI,1452,Philippines,PHL
+M. Maga,2330,1987,PHI,1521,Philippines,PHL
+R. Maninang,2330,1987,PHI,1522,Philippines,PHL
+E. Sevillano,2315,1987,PHI,1849,Philippines,PHL
+Jr. Antonio,2310,1987,PHI,1877,Philippines,PHL
+A. Pacis,2310,1987,PHI,1952,Philippines,PHL
+D. Ramos,2310,1987,PHI,1961,Philippines,PHL
+R. Reyes,2305,1987,PHI,2078,Philippines,PHL
+Cusi,2290,1987,PHI,2380,Philippines,PHL
+O. Cartagena,2280,1987,PHI,2623,Philippines,PHL
+Ch. Garma,2280,1987,PHI,2641,Philippines,PHL
+R. Toledo,2270,1987,PHI,2928,Philippines,PHL
+B. Villamayor,2260,1987,PHI,3163,Philippines,PHL
+O. Tan,2255,1987,PHI,3286,Philippines,PHL
+R. Magbanua,2245,1987,PHI,3506,Philippines,PHL
+E. Gloria,2220,1987,PHI,4070,Philippines,PHL
+B. Lagua,2205,1987,PHI,4522,Philippines,PHL
+A. Young,2205,1987,PHI,4650,Philippines,PHL
+G. Geneciran,2005,1987,PHI,5137,Philippines,PHL
+L. Lee,2005,1987,PHI,5154,Philippines,PHL
+Y. Gruenfeld,2535,1987,ISR,68,Israel,ISR
+L. Gutman,2530,1987,ISR,78,Israel,ISR
+A. Greenfeld,2515,1987,ISR,98,Israel,ISR
+Y. Murey,2505,1987,ISR,117,Israel,ISR
+N. Birnboim,2465,1987,ISR,225,Israel,ISR
+V. Liberzon,2450,1987,ISR,291,Israel,ISR
+E. Shvidler,2450,1987,ISR,301,Israel,ISR
+G. Rechlis,2445,1987,ISR,332,Israel,ISR
+I. Veinger,2440,1987,ISR,364,Israel,ISR
+Y. Bleiman,2425,1987,ISR,421,Israel,ISR
+M. Marantz,2420,1987,ISR,475,Israel,ISR
+Sh. Kagan,2410,1987,ISR,540,Israel,ISR
+Y. Kraidman,2410,1987,ISR,546,Israel,ISR
+L. Lederman,2405,1987,ISR,591,Israel,ISR
+R. Lev,2405,1987,ISR,592,Israel,ISR
+I. Manor,2390,1987,ISR,732,Israel,ISR
+N. Grinberg,2385,1987,ISR,769,Israel,ISR
+D. Bernstein,2380,1987,ISR,812,Israel,ISR
+Y. Afek,2360,1987,ISR,1052,Israel,ISR
+E. Lahav,2360,1987,ISR,1076,Israel,ISR
+V.L. Alterman,2350,1987,ISR,1175,Israel,ISR
+M. Peretz,2345,1987,ISR,1296,Israel,ISR
+M. Rozental,2345,1987,ISR,1301,Israel,ISR
+A. Gal,2340,1987,ISR,1338,Israel,ISR
+P. Shterenberg,2335,1987,ISR,1456,Israel,ISR
+R. Soffer,2335,1987,ISR,1459,Israel,ISR
+Kaldor,2330,1987,ISR,1508,Israel,ISR
+I. Vistinietzki,2330,1987,ISR,1558,Israel,ISR
+I. Gelfer,2325,1987,ISR,1592,Israel,ISR
+M. Kotliar,2325,1987,ISR,1614,Israel,ISR
+O. Bruk,2320,1987,ISR,1673,Israel,ISR
+E. Carmel,2320,1987,ISR,1678,Israel,ISR
+Romm,2320,1987,ISR,1750,Israel,ISR
+H. Elyoseph,2315,1987,ISR,1799,Israel,ISR
+Y. Kosashvili,2315,1987,ISR,1819,Israel,ISR
+I. Shrentzel,2315,1987,ISR,1850,Israel,ISR
+A. Friedman,2310,1987,ISR,1909,Israel,ISR
+M. Pasman,2310,1987,ISR,1956,Israel,ISR
+Z. Zabarski,2310,1987,ISR,1990,Israel,ISR
+Gransky,2300,1987,ISR,2130,Israel,ISR
+M. Idelstein,2300,1987,ISR,2141,Israel,ISR
+Y. Stepak,2300,1987,ISR,2200,Israel,ISR
+U. Zak,2300,1987,ISR,2219,Israel,ISR
+A. Avni,2295,1987,ISR,2222,Israel,ISR
+O. Comai,2295,1987,ISR,2244,Israel,ISR
+M. Shrentzel,2295,1987,ISR,2334,Israel,ISR
+M. Diker,2290,1987,ISR,2384,Israel,ISR
+M. Gradstein,2290,1987,ISR,2393,Israel,ISR
+D. Lepen,2290,1987,ISR,2424,Israel,ISR
+M. Cnaan,2285,1987,ISR,2498,Israel,ISR
+M. Kaganovski,2285,1987,ISR,2534,Israel,ISR
+I. Platt,2285,1987,ISR,2573,Israel,ISR
+Privman,2285,1987,ISR,2575,Israel,ISR
+V. Manievich,2280,1987,ISR,2678,Israel,ISR
+A. Ginsberger,2275,1987,ISR,2758,Israel,ISR
+A. Lavie,2275,1987,ISR,2779,Israel,ISR
+D. Gurman,2270,1987,ISR,2865,Israel,ISR
+A. Enoshi,2255,1987,ISR,3192,Israel,ISR
+Sh. Har-Zvi,2255,1987,ISR,3208,Israel,ISR
+U. Slutzkin,2255,1987,ISR,3277,Israel,ISR
+G. Bersutzki,2250,1987,ISR,3317,Israel,ISR
+L. Kristol,2250,1987,ISR,3367,Israel,ISR
+M. Bank,2245,1987,ISR,3435,Israel,ISR
+Z. Czesakov,2245,1987,ISR,3461,Israel,ISR
+Y. Mashian,2245,1987,ISR,3512,Israel,ISR
+M. Penzias,2245,1987,ISR,3534,Israel,ISR
+R. Shabtai,2245,1987,ISR,3552,Israel,ISR
+D. Barash,2240,1987,ISR,3580,Israel,ISR
+B. Gutkin,2240,1987,ISR,3616,Israel,ISR
+A. Magen,2240,1987,ISR,3637,Israel,ISR
+Y. Malinarski,2240,1987,ISR,3638,Israel,ISR
+D. Zaltz,2240,1987,ISR,3682,Israel,ISR
+Y. Sabi,2235,1987,ISR,3767,Israel,ISR
+C. Haas,2230,1987,ISR,3835,Israel,ISR
+Malachi,2230,1987,ISR,3863,Israel,ISR
+Sh. Dudakov,2225,1987,ISR,3944,Israel,ISR
+A. Ettinger,2225,1987,ISR,3947,Israel,ISR
+H. Volman,2225,1987,ISR,4028,Israel,ISR
+Y. Temanlis,2220,1987,ISR,4154,Israel,ISR
+L. Glaz,2215,1987,ISR,4205,Israel,ISR
+Heruttee,2210,1987,ISR,4325,Israel,ISR
+M. Karp,2210,1987,ISR,4332,Israel,ISR
+A. Mart,2210,1987,ISR,4345,Israel,ISR
+G. Leinov,2205,1987,ISR,4526,Israel,ISR
+M. Weiss,2080,1987,ISR,4901,Israel,ISR
+Ruzenblat-Z.P.,2010,1987,ISR,5097,Israel,ISR
+Sh. Vardi,2010,1987,ISR,5099,Israel,ISR
+E. Bernstein,2005,1987,ISR,5108,Israel,ISR
+I. Morovic F,2525,1987,CHI,82,Chile,CHL
+R. Cifuentes Parada,2490,1987,CHI,151,Chile,CHL
+J. Campos Moreno,2420,1987,CHI,456,Chile,CHL
+P. Donoso Velasco,2400,1987,CHI,627,Chile,CHL
+C. Silva Sanchez,2395,1987,CHI,703,Chile,CHL
+R. Araya,2390,1987,CHI,708,Chile,CHL
+H.E. Salazar Jacob,2390,1987,CHI,740,Chile,CHL
+M.R. Duarte,2350,1987,CHI,1190,Chile,CHL
+M. Abarca Aguirre,2340,1987,CHI,1320,Chile,CHL
+E. Rojas Sepulveda,2325,1987,CHI,1638,Chile,CHL
+D.A. Godoy,2310,1987,CHI,1911,Chile,CHL
+C. Montero-M,2300,1987,CHI,2177,Chile,CHL
+J. Rojas Sepulveda,2300,1987,CHI,2191,Chile,CHL
+Ch. Michel Yunis,2295,1987,CHI,2296,Chile,CHL
+R. Letelier,2290,1987,CHI,2425,Chile,CHL
+Baccelliere,2275,1987,CHI,2733,Chile,CHL
+Velasquez O.C.,2260,1987,CHI,3162,Chile,CHL
+Varas,2255,1987,CHI,3293,Chile,CHL
+L.F. Dobson Aguilar,2250,1987,CHI,3329,Chile,CHL
+R. Vazquez,2250,1987,CHI,3420,Chile,CHL
+J. Capo,2245,1987,CHI,3450,Chile,CHL
+E. Larrachea,2245,1987,CHI,3499,Chile,CHL
+M. Lopez,2240,1987,CHI,3635,Chile,CHL
+C. Zamora,2240,1987,CHI,3683,Chile,CHL
+P. Flores,2225,1987,CHI,3951,Chile,CHL
+E. Bombardiere Rosas,2220,1987,CHI,4045,Chile,CHL
+M.I. Araya Ibarra,2215,1987,CHI,4176,Chile,CHL
+J. Cortes Moyano,2210,1987,CHI,4303,Chile,CHL
+G.B. Arbunic Castro,2175,1987,CHI,4688,Chile,CHL
+I. Rogers,2525,1987,AUS,83,Australia,AUS
+D.K. Johansen,2410,1987,AUS,539,Australia,AUS
+G. Hjorth,2395,1987,AUS,678,Australia,AUS
+M. Chapman,2365,1987,AUS,996,Australia,AUS
+H.J. Barber,2355,1987,AUS,1107,Australia,AUS
+T. Hay,2355,1987,AUS,1127,Australia,AUS
+S.J. Solomon,2355,1987,AUS,1164,Australia,AUS
+D. Ferris,2335,1987,AUS,1417,Australia,AUS
+A. Flatow,2335,1987,AUS,1418,Australia,AUS
+M.L. Fuller,2330,1987,AUS,1500,Australia,AUS
+D. Mac Farlane,2330,1987,AUS,1520,Australia,AUS
+J.S. Purdy,2320,1987,AUS,1748,Australia,AUS
+C. Laird,2310,1987,AUS,1930,Australia,AUS
+J. Gil,2305,1987,AUS,2026,Australia,AUS
+A. Wohl,2300,1987,AUS,2217,Australia,AUS
+Ch. Depasquale,2290,1987,AUS,2383,Australia,AUS
+D.G. Hamilton,2290,1987,AUS,2397,Australia,AUS
+G. West,2280,1987,AUS,2730,Australia,AUS
+T.I. Shaw,2275,1987,AUS,2811,Australia,AUS
+A. Koelle,2265,1987,AUS,2993,Australia,AUS
+Co. Morris,2265,1987,AUS,3014,Australia,AUS
+Kerr,2260,1987,AUS,3103,Australia,AUS
+E. Basta,2245,1987,AUS,3437,Australia,AUS
+T. Reilly,2235,1987,AUS,3764,Australia,AUS
+Ch. Ghenzer,2215,1987,AUS,4204,Australia,AUS
+Ph. Viner,2210,1987,AUS,4399,Australia,AUS
+A. Slavotinek,2070,1987,AUS,4928,Australia,AUS
+C. Chua-Depasquale,2050,1987,AUS,4975,Australia,AUS
+J. Wright,2050,1987,AUS,4989,Australia,AUS
+Anne Martin,2025,1987,AUS,5054,Australia,AUS
+M. Mott-Mc Grath,2020,1987,AUS,5068,Australia,AUS
+N. Kellner,2015,1987,AUS,5078,Australia,AUS
+J. Clementi,2005,1987,AUS,5116,Australia,AUS
+M. Illescas Cordoba,2505,1987,ESP,113,Spain,ESP
+A. Martin Gonzalez,2465,1987,ESP,237,Spain,ESP
+J De la Villa Garcia,2450,1987,ESP,280,Spain,ESP
+J. Fernandez Garcia,2450,1987,ESP,282,Spain,ESP
+M. Rivas Pastor,2440,1987,ESP,357,Spain,ESP
+A. Romero Holmes,2440,1987,ESP,358,Spain,ESP
+Ochoa De Echaguen,2430,1987,ESP,407,Spain,ESP
+J. Magem Badals,2425,1987,ESP,431,Spain,ESP
+J. Diez Del Corral,2420,1987,ESP,461,Spain,ESP
+F. Gallego Eraso,2410,1987,ESP,529,Spain,ESP
+A. Bofill,2405,1987,ESP,576,Spain,ESP
+A. Pablo Marin,2395,1987,ESP,694,Spain,ESP
+R. Calvo Minguez,2390,1987,ESP,712,Spain,ESP
+L. Comas Fabrego,2385,1987,ESP,761,Spain,ESP
+J. Garcia-Padron,2385,1987,ESP,767,Spain,ESP
+J.C.R. Talavera,2385,1987,ESP,802,Spain,ESP
+J Hernando Pertierra,2380,1987,ESP,830,Spain,ESP
+F. Izeta,2380,1987,ESP,832,Spain,ESP
+Oltra Caurin,2380,1987,ESP,839,Spain,ESP
+J.A. Corral Blanco,2375,1987,ESP,870,Spain,ESP
+J.M. Gomez Esteban,2375,1987,ESP,881,Spain,ESP
+D.R. Alvarez Ibarra,2370,1987,ESP,919,Spain,ESP
+J.M. Bellon Lopez,2370,1987,ESP,922,Spain,ESP
+J. Pisa Ferrer,2370,1987,ESP,960,Spain,ESP
+J.C. Gil Reguera,2365,1987,ESP,1003,Spain,ESP
+M. Sion Castro,2365,1987,ESP,1037,Spain,ESP
+A. Medina-Garcia,2360,1987,ESP,1077,Spain,ESP
+Pomar,2355,1987,ESP,1151,Spain,ESP
+J. Garriga Nvalart,2350,1987,ESP,1195,Spain,ESP
+Menvielle L.A.,2350,1987,ESP,1216,Spain,ESP
+F.J. Sanz Alonso,2345,1987,ESP,1302,Spain,ESP
+F. Visier Segovia,2345,1987,ESP,1313,Spain,ESP
+F. Sanchez Guirado,2340,1987,ESP,1379,Spain,ESP
+S. Estremera Panos,2330,1987,ESP,1496,Spain,ESP
+C. Garcia Fernandez,2325,1987,ESP,1590,Spain,ESP
+R. Gonzalez-Maza,2325,1987,ESP,1598,Spain,ESP
+J. Coret Frasquet,2320,1987,ESP,1681,Spain,ESP
+E. Fernandez,2320,1987,ESP,1689,Spain,ESP
+B.J. Ayza,2310,1987,ESP,1879,Spain,ESP
+E. Palacios De la P,2310,1987,ESP,1953,Spain,ESP
+S. Pons,2310,1987,ESP,1958,Spain,ESP
+R. Montecatine,2305,1987,ESP,2066,Spain,ESP
+O. Leontxo-Garcia,2300,1987,ESP,2161,Spain,ESP
+J. De la Cruz Lopez,2295,1987,ESP,2249,Spain,ESP
+F.X. Minguell,2295,1987,ESP,2298,Spain,ESP
+J. Pares Vives,2295,1987,ESP,2313,Spain,ESP
+S. Beltran,2290,1987,ESP,2368,Spain,ESP
+V.M. Vehi Bach,2290,1987,ESP,2468,Spain,ESP
+R. Bordell Rosell,2285,1987,ESP,2492,Spain,ESP
+J.L. Cecilia Ortiz,2285,1987,ESP,2496,Spain,ESP
+X. Mateu,2285,1987,ESP,2555,Spain,ESP
+R. Barbera Estelles,2280,1987,ESP,2612,Spain,ESP
+J.M. Gil Gonzales,2280,1987,ESP,2643,Spain,ESP
+S. Serrano Marhuenda,2280,1987,ESP,2710,Spain,ESP
+G. Buxade Roca,2270,1987,ESP,2841,Spain,ESP
+O. Perez,2265,1987,ESP,3027,Spain,ESP
+J. Collado,2260,1987,ESP,3070,Spain,ESP
+C. Falcon Martin,2260,1987,ESP,3075,Spain,ESP
+G. Garcia Conesa,2260,1987,ESP,3080,Spain,ESP
+R. Gonzales Mateos,2255,1987,ESP,3203,Spain,ESP
+J. Ballester Sanz,2250,1987,ESP,3308,Spain,ESP
+E. Moyano Morales,2250,1987,ESP,3387,Spain,ESP
+N. Garcia,2235,1987,ESP,3712,Spain,ESP
+F.J. Munoz,2230,1987,ESP,3867,Spain,ESP
+M.P. Garcia-Padron,2225,1987,ESP,3955,Spain,ESP
+F. Gordero Montoya,2220,1987,ESP,4071,Spain,ESP
+J.J. Lloret Ramis,2220,1987,ESP,4108,Spain,ESP
+A. Rosich,2220,1987,ESP,4128,Spain,ESP
+L. Cuevas-Rodriguez,2215,1987,ESP,4186,Spain,ESP
+N.G. Deltell,2215,1987,ESP,4188,Spain,ESP
+A. Picanol,2210,1987,ESP,4363,Spain,ESP
+V. Polo,2210,1987,ESP,4367,Spain,ESP
+A. Diaz Sanz,2205,1987,ESP,4462,Spain,ESP
+F. Lopez Colon,2205,1987,ESP,4532,Spain,ESP
+F.J. Moyano,2205,1987,ESP,4562,Spain,ESP
+D. Riquelme Valero,2205,1987,ESP,4597,Spain,ESP
+P. Ferrer-Lucas,2120,1987,ESP,4801,Spain,ESP
+T. Canela,2100,1987,ESP,4834,Spain,ESP
+J. Gallego,2060,1987,ESP,4954,Spain,ESP
+A. Zapata,2505,1987,COL,121,Colombia,COL
+D.M. Rodriguez,2465,1987,COL,239,Colombia,COL
+Gild. Garcia,2440,1987,COL,343,Colombia,COL
+Maco A. Silva,2380,1987,COL,848,Colombia,COL
+D. Alzate,2365,1987,COL,984,Colombia,COL
+O. Castro,2365,1987,COL,995,Colombia,COL
+J.A. Gonzales,2360,1987,COL,1068,Colombia,COL
+C. Cuartas,2355,1987,COL,1113,Colombia,COL
+J.A. Gutierrez,2355,1987,COL,1124,Colombia,COL
+A. Agudelo,2340,1987,COL,1321,Colombia,COL
+R. Henao,2320,1987,COL,1703,Colombia,COL
+Marco Silva,2310,1987,COL,1972,Colombia,COL
+S. Gonzales,2305,1987,COL,2028,Colombia,COL
+Minaya,2305,1987,COL,2064,Colombia,COL
+La Rota,2295,1987,COL,2282,Colombia,COL
+A. Acosta,2285,1987,COL,2481,Colombia,COL
+R. Mendoza,2280,1987,COL,2683,Colombia,COL
+D. Betancourt,2265,1987,COL,2955,Colombia,COL
+B. De Greif,2255,1987,COL,3188,Colombia,COL
+L.A. Baquero,2240,1987,COL,3579,Colombia,COL
+L.B. Hoyos-Millan,2240,1987,COL,3619,Colombia,COL
+A. Ruiz,2230,1987,COL,3889,Colombia,COL
+Fr. Munoz,2215,1987,COL,4242,Colombia,COL
+Al. Garcia,2205,1987,COL,4485,Colombia,COL
+A. Lopez Trujillo,2205,1987,COL,4533,Colombia,COL
+A. Salazar,2090,1987,COL,4874,Colombia,COL
+I.D. Guggenberger,2080,1987,COL,4895,Colombia,COL
+E Gomez,2020,1987,COL,5059,Colombia,COL
+D. Perez,2005,1987,COL,5169,Colombia,COL
+V. Anand,2500,1987,IND,122,India,IND
+D. Barua,2450,1987,IND,276,India,IND
+D.V. Prasad,2425,1987,IND,438,India,IND
+A. Pavanasam,2395,1987,IND,696,India,IND
+P.M. Thipsay,2380,1987,IND,851,India,IND
+M. Aaron,2375,1987,IND,858,India,IND
+Ravisekhar,2370,1987,IND,964,India,IND
+Sahu,2365,1987,IND,1031,India,IND
+R. Singh,2365,1987,IND,1036,India,IND
+N.S. Babu,2355,1987,IND,1106,India,IND
+R.G. Hegde,2355,1987,IND,1128,India,IND
+Moh.R. Khan,2330,1987,IND,1512,India,IND
+S. Mitra,2330,1987,IND,1530,India,IND
+B. Shenoy,2330,1987,IND,1545,India,IND
+V. Koshy,2325,1987,IND,1613,India,IND
+P. Mithrakanth,2325,1987,IND,1625,India,IND
+Ravikumar,2320,1987,IND,1749,India,IND
+A.B. Vaidya,2320,1987,IND,1770,India,IND
+N.-K. Mishra,2315,1987,IND,1830,India,IND
+S. Nasir Ali,2315,1987,IND,1833,India,IND
+Sh.S. Tilak,2315,1987,IND,1860,India,IND
+R.S. Gupta,2310,1987,IND,1913,India,IND
+Natarajan,2310,1987,IND,1951,India,IND
+A.B. Meetei,2305,1987,IND,2062,India,IND
+T.N. Parameswaren,2305,1987,IND,2070,India,IND
+L. Ravi,2300,1987,IND,2190,India,IND
+M. Bhagwat,2295,1987,IND,2231,India,IND
+A.S. Awate,2285,1987,IND,2486,India,IND
+M. Hassan,2280,1987,IND,2650,India,IND
+R. Nagendra,2280,1987,IND,2689,India,IND
+J.C. Katdare,2270,1987,IND,2881,India,IND
+M.B. Muralidaran,2270,1987,IND,2893,India,IND
+A. Choudhry,2265,1987,IND,2964,India,IND
+M.J. Ismail,2265,1987,IND,2983,India,IND
+N.R. Anilkumar,2260,1987,IND,3056,India,IND
+H. Hassan,2260,1987,IND,3089,India,IND
+K. Murugan,2260,1987,IND,3123,India,IND
+K.V. Shantharam,2260,1987,IND,3151,India,IND
+P.M. Mohanty,2255,1987,IND,3250,India,IND
+H. Singla,2250,1987,IND,3405,India,IND
+A.K. Ghosh,2240,1987,IND,3610,India,IND
+B. Sathe,2240,1987,IND,3657,India,IND
+P. Gopalkrishna,2235,1987,IND,3719,India,IND
+B. Sharafuldin,2235,1987,IND,3779,India,IND
+R. Sridharan,2235,1987,IND,3782,India,IND
+M.T. Babur,2230,1987,IND,3806,India,IND
+S. Dave,2225,1987,IND,3941,India,IND
+S. Ganesan,2225,1987,IND,3954,India,IND
+T. Ohri,2225,1987,IND,3994,India,IND
+M. Suresh,2225,1987,IND,4018,India,IND
+G.B. Joshi,2220,1987,IND,4090,India,IND
+Th. Ravi,2220,1987,IND,4125,India,IND
+V.V. Sastru,2220,1987,IND,4131,India,IND
+K. Venkatesh,2220,1987,IND,4160,India,IND
+S. Manikandaswamy,2215,1987,IND,4233,India,IND
+A.K. Singh,2215,1987,IND,4262,India,IND
+S. Jayaprakash,2210,1987,IND,4329,India,IND
+R. Khadilkar,2210,1987,IND,4336,India,IND
+D.V. Ravi,2210,1987,IND,4371,India,IND
+A.G. Abhyankar,2165,1987,IND,4708,India,IND
+J. Khadilkar,2120,1987,IND,4806,India,IND
+V. Unni,2110,1987,IND,4829,India,IND
+P.V. Nirmala,2075,1987,IND,4910,India,IND
+K. Agrawal,2055,1987,IND,4964,India,IND
+S.R. Radha,2045,1987,IND,5000,India,IND
+J. Sankpal,2015,1987,IND,5081,India,IND
+J. Sunye-Neto,2500,1987,BRA,131,Brazil,BRA
+G. Milos,2485,1987,BRA,167,Brazil,BRA
+M. Paolozzi,2410,1987,BRA,555,Brazil,BRA
+R.A. Filguth,2405,1987,BRA,584,Brazil,BRA
+A.D. Castro,2390,1987,BRA,713,Brazil,BRA
+F. Trois,2390,1987,BRA,747,Brazil,BRA
+C. Braga,2370,1987,BRA,930,Brazil,BRA
+Gouveia,2370,1987,BRA,936,Brazil,BRA
+A. Segal,2370,1987,BRA,971,Brazil,BRA
+H. Van Riemsdijk,2350,1987,BRA,1237,Brazil,BRA
+L.J. Brito,2335,1987,BRA,1405,Brazil,BRA
+M. Asfora,2330,1987,BRA,1473,Brazil,BRA
+Resende,2325,1987,BRA,1637,Brazil,BRA
+S. Trindade,2325,1987,BRA,1651,Brazil,BRA
+H. Camara,2320,1987,BRA,1677,Brazil,BRA
+E. Limp,2320,1987,BRA,1724,Brazil,BRA
+H.A. Machado,2320,1987,BRA,1726,Brazil,BRA
+L. Loureiro,2310,1987,BRA,1935,Brazil,BRA
+R.Da S. Teixera,2305,1987,BRA,2091,Brazil,BRA
+E. Tsuboi,2300,1987,BRA,2206,Brazil,BRA
+C. Haro,2295,1987,BRA,2265,Brazil,BRA
+Ch. Man Yee,2295,1987,BRA,2289,Brazil,BRA
+Miranda,2295,1987,BRA,2300,Brazil,BRA
+A. Mascarenhas,2290,1987,BRA,2430,Brazil,BRA
+J.M.D. Toledo,2290,1987,BRA,2463,Brazil,BRA
+H.C. Dos Santos,2285,1987,BRA,2504,Brazil,BRA
+I. Souza,2285,1987,BRA,2589,Brazil,BRA
+L.N.M. Barreto,2280,1987,BRA,2614,Brazil,BRA
+P. Toth,2280,1987,BRA,2719,Brazil,BRA
+D. Van Riemsdijk,2280,1987,BRA,2724,Brazil,BRA
+C. Soares,2270,1987,BRA,2922,Brazil,BRA
+A.A. Correa,2265,1987,BRA,2966,Brazil,BRA
+H. Carvalho,2255,1987,BRA,3182,Brazil,BRA
+Lucena,2255,1987,BRA,3235,Brazil,BRA
+Dumont,2245,1987,BRA,3469,Brazil,BRA
+R.C. Gervasio,2245,1987,BRA,3477,Brazil,BRA
+H. Matsuura,2235,1987,BRA,3740,Brazil,BRA
+R. Araujo,2225,1987,BRA,3924,Brazil,BRA
+Masculo,2225,1987,BRA,3983,Brazil,BRA
+S.A. Farias,2210,1987,BRA,4315,Brazil,BRA
+P.S.C. Oliveira,2205,1987,BRA,4575,Brazil,BRA
+M.C. De Oliveira,2130,1987,BRA,4784,Brazil,BRA
+Ju. Chavez,2095,1987,BRA,4851,Brazil,BRA
+Jo. Chaves,2070,1987,BRA,4917,Brazil,BRA
+R. Ribeiro,2065,1987,BRA,4947,Brazil,BRA
+R. (F) Cardoso,2045,1987,BRA,4992,Brazil,BRA
+Jun Xu,2495,1987,CHN,150,China,CHN
+Qi Jingxuan,2490,1987,CHN,157,China,CHN
+Jiangchuan Ye,2480,1987,CHN,189,China,CHN
+Zunian Li,2450,1987,CHN,290,China,CHN
+Jinrong Liang,2415,1987,CHN,501,China,CHN
+Rongguang Ye,2375,1987,CHN,915,China,CHN
+W. Zhang,2355,1987,CHN,1171,China,CHN
+Ta Lin,2345,1987,CHN,1283,China,CHN
+She-Lan Liu,2325,1987,CHN,1618,China,CHN
+Shongjian Li,2300,1987,CHN,2163,China,CHN
+Yang-Feng An,2280,1987,CHN,2609,China,CHN
+Q. Sun,2220,1987,CHN,4148,China,CHN
+Xian Yang,2220,1987,CHN,4170,China,CHN
+Ming-Qien Wu,2215,1987,CHN,4280,China,CHN
+Zheng-Yuan Huang,2205,1987,CHN,4503,China,CHN
+Lan Chao,2090,1987,CHN,4866,China,CHN
+U. Adianto,2480,1987,INA,174,Indonesia,IDN
+H. Ardiansyah,2425,1987,INA,420,Indonesia,IDN
+E. Handoko,2415,1987,INA,497,Indonesia,IDN
+S. Sitanggang,2410,1987,INA,562,Indonesia,IDN
+Ro. Gunawan,2400,1987,INA,632,Indonesia,IDN
+N. Ginting,2365,1987,INA,1004,Indonesia,IDN
+S. Ginting,2355,1987,INA,1120,Indonesia,IDN
+Ru. Gunawan,2320,1987,INA,1700,Indonesia,IDN
+S. Mahmud,2310,1987,INA,1937,Indonesia,IDN
+H. Suradiradja,2305,1987,INA,2089,Indonesia,IDN
+S. Tedy,2300,1987,INA,2204,Indonesia,IDN
+C. Barus,2295,1987,INA,2227,Indonesia,IDN
+E.E. Miolo,2295,1987,INA,2299,Indonesia,IDN
+M. Sinulingga,2295,1987,INA,2337,Indonesia,IDN
+Hamdan,2285,1987,INA,2521,Indonesia,IDN
+S. Simanjuntak,2285,1987,INA,2583,Indonesia,IDN
+D. Juswanto,2260,1987,INA,3100,Indonesia,IDN
+A. Fauzi,2225,1987,INA,3948,Indonesia,IDN
+B. Iriaji,2205,1987,INA,4505,Indonesia,IDN
+D. Purba,2205,1987,INA,4591,Indonesia,IDN
+E. Tobing,2205,1987,INA,4635,Indonesia,IDN
+N. Wijaya,2090,1987,INA,4876,Indonesia,IDN
+T.D. Darmayanti,2015,1987,INA,5075,Indonesia,IDN
+U. Tamin,2005,1987,INA,5179,Indonesia,IDN
+C.J Widjajanti,2005,1987,INA,5186,Indonesia,IDN
+A. Haik,2470,1987,FRA,202,France,FRA
+O. Renet,2455,1987,FRA,266,France,FRA
+G. Miralles,2450,1987,FRA,295,France,FRA
+Meh. Sharif,2450,1987,FRA,300,France,FRA
+B. Kouatly,2440,1987,FRA,347,France,FRA
+P. Herb,2410,1987,FRA,538,France,FRA
+Leski,2410,1987,FRA,548,France,FRA
+G. Andruet,2405,1987,FRA,570,France,FRA
+V. Vaisman,2405,1987,FRA,613,France,FRA
+C. Adrian,2390,1987,FRA,707,France,FRA
+J.-L. Seret,2380,1987,FRA,847,France,FRA
+E. Prie,2370,1987,FRA,962,France,FRA
+L. Roos,2370,1987,FRA,966,France,FRA
+E. Bricard,2365,1987,FRA,994,France,FRA
+J.M. Jancu,2365,1987,FRA,1008,France,FRA
+S. Belkhodja,2360,1987,FRA,1056,France,FRA
+N. Giffard,2360,1987,FRA,1065,France,FRA
+Dan. Roos,2355,1987,FRA,1155,France,FRA
+M. Santo-Roman,2355,1987,FRA,1157,France,FRA
+J.-M. Dubois,2345,1987,FRA,1262,France,FRA
+J. Macles,2340,1987,FRA,1355,France,FRA
+D. Sellos,2340,1987,FRA,1381,France,FRA
+R. Viatte,2335,1987,FRA,1467,France,FRA
+L. Gachon,2330,1987,FRA,1501,France,FRA
+C. Jost,2330,1987,FRA,1507,France,FRA
+G.S. Scholz,2330,1987,FRA,1543,France,FRA
+R. Goldenberg,2325,1987,FRA,1597,France,FRA
+P. Meinsohn,2320,1987,FRA,1728,France,FRA
+Steczkowski,2320,1987,FRA,1760,France,FRA
+Ch. Bernard,2315,1987,FRA,1788,France,FRA
+Ch. Lecuyer,2310,1987,FRA,1931,France,FRA
+J.C. Letzelter,2310,1987,FRA,1932,France,FRA
+E. Birmingham,2300,1987,FRA,2107,France,FRA
+E. Neimann,2300,1987,FRA,2178,France,FRA
+Th. Manouck,2295,1987,FRA,2290,France,FRA
+Ch. Abravanel,2290,1987,FRA,2359,France,FRA
+P. Babault,2290,1987,FRA,2363,France,FRA
+C. Boutteville,2290,1987,FRA,2373,France,FRA
+J.-M. Degraeve,2290,1987,FRA,2381,France,FRA
+Ph. Guyot,2290,1987,FRA,2396,France,FRA
+C. Wagner,2290,1987,FRA,2472,France,FRA
+F. Vareille,2285,1987,FRA,2598,France,FRA
+J. Baudrier,2275,1987,FRA,2735,France,FRA
+Ph. Cerisier,2275,1987,FRA,2743,France,FRA
+F. Chevaldonnet,2275,1987,FRA,2744,France,FRA
+G. Grimberg,2275,1987,FRA,2760,France,FRA
+M. Apicella,2270,1987,FRA,2832,France,FRA
+P. Dussol,2270,1987,FRA,2853,France,FRA
+S. Luce,2265,1987,FRA,3004,France,FRA
+E. Boulard,2260,1987,FRA,3064,France,FRA
+M. Jachym,2260,1987,FRA,3096,France,FRA
+D. Levacic,2260,1987,FRA,3114,France,FRA
+R. Grizou,2255,1987,FRA,3205,France,FRA
+J. Lautier,2255,1987,FRA,3232,France,FRA
+A. Rogemont,2255,1987,FRA,3267,France,FRA
+S. Vincent,2255,1987,FRA,3295,France,FRA
+J.-M. Kappler,2250,1987,FRA,3359,France,FRA
+Puhm,2250,1987,FRA,3395,France,FRA
+P. Chomet,2245,1987,FRA,3452,France,FRA
+P. Dezan,2245,1987,FRA,3462,France,FRA
+F. Meinsohn,2245,1987,FRA,3517,France,FRA
+M. Benoit,2240,1987,FRA,3584,France,FRA
+D. Laclau,2240,1987,FRA,3627,France,FRA
+F. Schwicker,2240,1987,FRA,3663,France,FRA
+J. Sidhoum,2240,1987,FRA,3664,France,FRA
+Y. Hodot,2235,1987,FRA,3721,France,FRA
+A. Casa,2230,1987,FRA,3818,France,FRA
+G. Drogou,2230,1987,FRA,3825,France,FRA
+M. Ebalard,2230,1987,FRA,3826,France,FRA
+B. Kirsch,2230,1987,FRA,3849,France,FRA
+J.L. Roos,2230,1987,FRA,3886,France,FRA
+D. Teyssou,2230,1987,FRA,3906,France,FRA
+J.P. Boudre,2225,1987,FRA,3928,France,FRA
+D. Chevallier,2220,1987,FRA,4051,France,FRA
+J.-P. Mercier,2220,1987,FRA,4109,France,FRA
+G. Michalet,2220,1987,FRA,4110,France,FRA
+J.-L. Llapasset,2215,1987,FRA,4230,France,FRA
+G. Sobrecases,2215,1987,FRA,4263,France,FRA
+E. Dextre,2210,1987,FRA,4305,France,FRA
+A. Fayard,2210,1987,FRA,4316,France,FRA
+R.C. Frederick,2210,1987,FRA,4319,France,FRA
+Y. Lamorelle,2210,1987,FRA,4341,France,FRA
+S. Salus,2210,1987,FRA,4379,France,FRA
+A. Schall,2210,1987,FRA,4381,France,FRA
+L. Verat,2210,1987,FRA,4397,France,FRA
+R. Weill,2210,1987,FRA,4403,France,FRA
+Y. Berthelot,2205,1987,FRA,4440,France,FRA
+L. Nemety,2205,1987,FRA,4567,France,FRA
+J. Lebel-Arias,2150,1987,FRA,4747,France,FRA
+N. Tagnon,2150,1987,FRA,4751,France,FRA
+Ch. Flear,2130,1987,FRA,4785,France,FRA
+C. Winkler,2125,1987,FRA,4799,France,FRA
+M. Merlini-Cirovic,2085,1987,FRA,4879,France,FRA
+M. Dubois-Schall,2045,1987,FRA,4995,France,FRA
+I. Kientzler,2040,1987,FRA,5008,France,FRA
+M. Ruck-Petit,2030,1987,FRA,5042,France,FRA
+Evtouchenko-Boulogne,2005,1987,FRA,5123,France,FRA
+Wl. Schmidt,2470,1987,POL,215,Poland,POL
+M. Hawelko,2460,1987,POL,245,Poland,POL
+F. Borkowski,2450,1987,POL,278,Poland,POL
+R. Kuczynski,2450,1987,POL,289,Poland,POL
+J. Bany,2430,1987,POL,393,Poland,POL
+A. Maciejewski,2430,1987,POL,405,Poland,POL
+J. Przewoznik,2430,1987,POL,411,Poland,POL
+A. Sznapik,2425,1987,POL,444,Poland,POL
+J. Adamski,2420,1987,POL,450,Poland,POL
+P. Staniszewski,2420,1987,POL,479,Poland,POL
+K. Pytel,2415,1987,POL,509,Poland,POL
+P. Stempin,2415,1987,POL,513,Poland,POL
+Ig. Nowak,2410,1987,POL,551,Poland,POL
+Panczyk,2410,1987,POL,554,Poland,POL
+Skrobek,2410,1987,POL,563,Poland,POL
+K. Pinkas,2405,1987,POL,605,Poland,POL
+A. Kuligowski,2400,1987,POL,641,Poland,POL
+J. Pokojowczyk,2400,1987,POL,646,Poland,POL
+A. Sygulski,2400,1987,POL,656,Poland,POL
+S. Dejkalo,2395,1987,POL,671,Poland,POL
+M. Sarwinski,2395,1987,POL,702,Poland,POL
+M. Matlak,2390,1987,POL,733,Poland,POL
+H. Sobura,2390,1987,POL,743,Poland,POL
+Szymczak,2390,1987,POL,745,Poland,POL
+M. Zielinski,2390,1987,POL,751,Poland,POL
+J. Bielczyk,2385,1987,POL,757,Poland,POL
+H. Dobosz,2380,1987,POL,823,Poland,POL
+Schinzel,2380,1987,POL,845,Poland,POL
+Tomaszewski,2380,1987,POL,853,Poland,POL
+A. Cichocki,2375,1987,POL,869,Poland,POL
+Z. Jasnikowski,2375,1987,POL,891,Poland,POL
+H. Petryk,2370,1987,POL,959,Poland,POL
+W. Sapis,2370,1987,POL,968,Poland,POL
+K. Strzelecki,2370,1987,POL,976,Poland,POL
+Kostyra,2365,1987,POL,1013,Poland,POL
+Z. Ksieki,2365,1987,POL,1015,Poland,POL
+T. Rakowiecki,2365,1987,POL,1028,Poland,POL
+J.B. Bednarski,2360,1987,POL,1055,Poland,POL
+Z. Warwaszynski,2360,1987,POL,1101,Poland,POL
+Z. Sek,2355,1987,POL,1159,Poland,POL
+J. Woda,2355,1987,POL,1169,Poland,POL
+R. Bernard,2350,1987,POL,1180,Poland,POL
+J. Dybowski,2350,1987,POL,1191,Poland,POL
+A. Dzieniszewski,2350,1987,POL,1192,Poland,POL
+Luczak,2350,1987,POL,1212,Poland,POL
+Z. Doda,2345,1987,POL,1260,Poland,POL
+W. Janocha,2345,1987,POL,1274,Poland,POL
+Rosiak,2345,1987,POL,1300,Poland,POL
+K. Typek,2345,1987,POL,1308,Poland,POL
+Bugajski,2340,1987,POL,1330,Poland,POL
+L. Ostrowski,2340,1987,POL,1372,Poland,POL
+J. Pisulinski,2340,1987,POL,1373,Poland,POL
+J. Sendera,2340,1987,POL,1382,Poland,POL
+A. Sydor,2340,1987,POL,1386,Poland,POL
+K. Zolnierowicz,2340,1987,POL,1394,Poland,POL
+Z. Bojczuk,2335,1987,POL,1400,Poland,POL
+A. Brustman,2335,1987,POL,1407,Poland,POL
+J. Siekanski,2335,1987,POL,1457,Poland,POL
+J. Flis,2330,1987,POL,1498,Poland,POL
+Kruszynski,2330,1987,POL,1516,Poland,POL
+Mazul,2330,1987,POL,1527,Poland,POL
+D. Radziejewski,2330,1987,POL,1536,Poland,POL
+H. Twardon,2330,1987,POL,1556,Poland,POL
+J. Zyla,2330,1987,POL,1565,Poland,POL
+Z. Bator,2325,1987,POL,1569,Poland,POL
+T. Chachaj,2325,1987,POL,1578,Poland,POL
+B. Latas,2325,1987,POL,1617,Poland,POL
+T. Zoltek,2325,1987,POL,1664,Poland,POL
+T. Juroszek,2320,1987,POL,1713,Poland,POL
+G. Lukasiewicz,2320,1987,POL,1725,Poland,POL
+W. Swic,2320,1987,POL,1762,Poland,POL
+A. Szypulski,2320,1987,POL,1763,Poland,POL
+A. Czerwonski,2315,1987,POL,1796,Poland,POL
+J. Gralka,2315,1987,POL,1803,Poland,POL
+Kiedrowicz,2315,1987,POL,1816,Poland,POL
+S. Kornasiewicz,2315,1987,POL,1818,Poland,POL
+Szalajdewicz,2315,1987,POL,1855,Poland,POL
+L. Szkatula,2315,1987,POL,1856,Poland,POL
+G. Szmacinska,2315,1987,POL,1857,Poland,POL
+A. Adamski,2310,1987,POL,1871,Poland,POL
+W. Dobrzynski,2310,1987,POL,1897,Poland,POL
+Z. Kwiecien,2310,1987,POL,1929,Poland,POL
+R. Marszalek,2310,1987,POL,1942,Poland,POL
+M. Mazalon,2310,1987,POL,1943,Poland,POL
+K. Socha,2310,1987,POL,1973,Poland,POL
+B. Sygulski,2310,1987,POL,1977,Poland,POL
+C. Balicki,2305,1987,POL,2000,Poland,POL
+A. Bozek,2305,1987,POL,2008,Poland,POL
+M. Dybala,2305,1987,POL,2020,Poland,POL
+R. Grabczewski,2305,1987,POL,2029,Poland,POL
+Kostro,2305,1987,POL,2045,Poland,POL
+I. Kukic,2305,1987,POL,2048,Poland,POL
+P. Laszewicz,2305,1987,POL,2051,Poland,POL
+J. Rogalewicz,2305,1987,POL,2080,Poland,POL
+S. Sokolowski,2305,1987,POL,2086,Poland,POL
+A. Chochulski,2300,1987,POL,2113,Poland,POL
+Dudek,2300,1987,POL,2119,Poland,POL
+H. Erenska-Radzewska,2300,1987,POL,2121,Poland,POL
+J. Gdanski,2300,1987,POL,2124,Poland,POL
+P. Gdanski,2300,1987,POL,2125,Poland,POL
+Gieruszynski,2300,1987,POL,2127,Poland,POL
+R. Grossmann,2300,1987,POL,2131,Poland,POL
+Cz. Jadrzyk,2300,1987,POL,2145,Poland,POL
+M. Jaworski,2300,1987,POL,2147,Poland,POL
+A. Kocur,2300,1987,POL,2152,Poland,POL
+Kojder,2300,1987,POL,2153,Poland,POL
+Kubien,2300,1987,POL,2157,Poland,POL
+M. Leszner,2300,1987,POL,2162,Poland,POL
+K. Marszk,2300,1987,POL,2172,Poland,POL
+L. Weglarz,2300,1987,POL,2215,Poland,POL
+K. Wojton,2300,1987,POL,2218,Poland,POL
+R. Dabek,2295,1987,POL,2247,Poland,POL
+W. Ehrenfeucht,2295,1987,POL,2252,Poland,POL
+H. Fronczek,2295,1987,POL,2257,Poland,POL
+Hachaj,2295,1987,POL,2264,Poland,POL
+Krason,2295,1987,POL,2278,Poland,POL
+Prochownik,2295,1987,POL,2319,Poland,POL
+J. Rogowski,2295,1987,POL,2328,Poland,POL
+T. Tomalczyk,2295,1987,POL,2345,Poland,POL
+S. Witkowski,2295,1987,POL,2354,Poland,POL
+J. Wojcieszyn,2295,1987,POL,2356,Poland,POL
+T. Karpik,2290,1987,POL,2413,Poland,POL
+R. Kasperek,2290,1987,POL,2414,Poland,POL
+P. Sobolewski,2290,1987,POL,2454,Poland,POL
+A. Szymanski,2290,1987,POL,2459,Poland,POL
+M. Wiese-Jozwiak,2290,1987,POL,2474,Poland,POL
+T. Wiesniak,2290,1987,POL,2475,Poland,POL
+A. Grabowski,2285,1987,POL,2517,Poland,POL
+Klimaszewski,2285,1987,POL,2538,Poland,POL
+Kosciuk,2285,1987,POL,2541,Poland,POL
+M. Maciejewski,2285,1987,POL,2550,Poland,POL
+T. Malachowski,2285,1987,POL,2552,Poland,POL
+M. Bernat,2280,1987,POL,2616,Poland,POL
+Gizynski,2280,1987,POL,2644,Poland,POL
+A. Palosz,2280,1987,POL,2693,Poland,POL
+Sliwa,2280,1987,POL,2712,Poland,POL
+Szajna,2280,1987,POL,2718,Poland,POL
+S. Wach,2280,1987,POL,2728,Poland,POL
+P. Erenski,2275,1987,POL,2753,Poland,POL
+P. Kruza,2275,1987,POL,2777,Poland,POL
+Lokasto,2275,1987,POL,2781,Poland,POL
+K. Packo,2275,1987,POL,2787,Poland,POL
+F. Piechocki,2275,1987,POL,2791,Poland,POL
+M. Banaszek,2270,1987,POL,2834,Poland,POL
+B. Borysiak,2270,1987,POL,2839,Poland,POL
+R. Hass,2270,1987,POL,2867,Poland,POL
+A. Krainski,2270,1987,POL,2883,Poland,POL
+R. Maslanka,2270,1987,POL,2890,Poland,POL
+S. Persowski,2270,1987,POL,2899,Poland,POL
+A. Pieniazek,2270,1987,POL,2902,Poland,POL
+Cz. Socha,2270,1987,POL,2923,Poland,POL
+M. Bakalarz,2265,1987,POL,2951,Poland,POL
+S. Domagala,2265,1987,POL,2969,Poland,POL
+Drozd,2265,1987,POL,2971,Poland,POL
+J. Jankowski,2265,1987,POL,2986,Poland,POL
+W. Kadzinski,2265,1987,POL,2987,Poland,POL
+K. Knopik,2265,1987,POL,2991,Poland,POL
+E. Ledwon,2265,1987,POL,3001,Poland,POL
+Olszewski,2265,1987,POL,3018,Poland,POL
+W. Skora,2265,1987,POL,3035,Poland,POL
+M. Stypka,2265,1987,POL,3040,Poland,POL
+M. Ciszek,2260,1987,POL,3068,Poland,POL
+L. Gawarecki,2260,1987,POL,3082,Poland,POL
+Hanasz,2260,1987,POL,3088,Poland,POL
+R. Kaula,2260,1987,POL,3101,Poland,POL
+L. Kiersz,2260,1987,POL,3104,Poland,POL
+M. Kwiecinski,2260,1987,POL,3112,Poland,POL
+K. Marcinkowski,2260,1987,POL,3118,Poland,POL
+J. Markiewicz,2260,1987,POL,3119,Poland,POL
+M. Pejka,2260,1987,POL,3129,Poland,POL
+P. Przybylski,2260,1987,POL,3136,Poland,POL
+H. Seifert,2260,1987,POL,3148,Poland,POL
+E. Shlekis,2260,1987,POL,3152,Poland,POL
+R. Wolny,2260,1987,POL,3166,Poland,POL
+Andrzejewski,2255,1987,POL,3174,Poland,POL
+W. Balcerowski,2255,1987,POL,3176,Poland,POL
+J. Dobosz,2255,1987,POL,3189,Poland,POL
+R. Dors,2255,1987,POL,3190,Poland,POL
+L. Kawczynski,2255,1987,POL,3224,Poland,POL
+Manasterski,2255,1987,POL,3237,Poland,POL
+A. Ossowski,2255,1987,POL,3255,Poland,POL
+B. Serwinski,2255,1987,POL,3274,Poland,POL
+J. Skrzypczak,2255,1987,POL,3276,Poland,POL
+R. Suder,2255,1987,POL,3280,Poland,POL
+P. Symbor,2255,1987,POL,3282,Poland,POL
+K. Sznapik,2255,1987,POL,3284,Poland,POL
+Ziembinski,2255,1987,POL,3302,Poland,POL
+D. Barwinski,2250,1987,POL,3310,Poland,POL
+Jamroz,2250,1987,POL,3352,Poland,POL
+W. Jonczyk,2250,1987,POL,3355,Poland,POL
+B. Karnowski,2250,1987,POL,3360,Poland,POL
+M. Kolasinski,2250,1987,POL,3365,Poland,POL
+A. Kurlenda,2250,1987,POL,3368,Poland,POL
+T. Lipski,2250,1987,POL,3377,Poland,POL
+Listewnik,2250,1987,POL,3378,Poland,POL
+Z. Pioch,2250,1987,POL,3392,Poland,POL
+R. Sokolowski,2250,1987,POL,3406,Poland,POL
+Z. Cylwik,2245,1987,POL,3460,Poland,POL
+H. Janota,2245,1987,POL,3486,Poland,POL
+W. Kozlowski,2245,1987,POL,3497,Poland,POL
+M. Mannke,2245,1987,POL,3509,Poland,POL
+T. Maslowski,2245,1987,POL,3513,Poland,POL
+G. Probola,2245,1987,POL,3542,Poland,POL
+J. Widera,2245,1987,POL,3571,Poland,POL
+Z. Autowicz,2240,1987,POL,3578,Poland,POL
+T. Gorniak,2240,1987,POL,3611,Poland,POL
+W. Gryciuk,2240,1987,POL,3615,Poland,POL
+M. Liberus,2240,1987,POL,3633,Poland,POL
+M. Perdek,2240,1987,POL,3650,Poland,POL
+L. Radwan,2240,1987,POL,3653,Poland,POL
+Swierczewski,2240,1987,POL,3669,Poland,POL
+R. Bockowski,2235,1987,POL,3691,Poland,POL
+A. Cybulak,2235,1987,POL,3702,Poland,POL
+Kardys,2235,1987,POL,3725,Poland,POL
+D. Sowizdrzal,2235,1987,POL,3781,Poland,POL
+L. Wyrzykowski,2235,1987,POL,3792,Poland,POL
+Z. Bieganski,2230,1987,POL,3809,Poland,POL
+M. Figiel,2230,1987,POL,3830,Poland,POL
+T. Kaliszewski,2230,1987,POL,3848,Poland,POL
+B. Kuma,2230,1987,POL,3856,Poland,POL
+Lubienski,2230,1987,POL,3860,Poland,POL
+K. Posnik,2230,1987,POL,3882,Poland,POL
+W. Szumilo,2230,1987,POL,3905,Poland,POL
+D. Weider,2230,1987,POL,3917,Poland,POL
+Z. Wielecki,2230,1987,POL,3918,Poland,POL
+D. Fraczek,2225,1987,POL,3953,Poland,POL
+A. Kujawski,2225,1987,POL,3980,Poland,POL
+A. Masternak,2225,1987,POL,3984,Poland,POL
+H. Piskorz,2225,1987,POL,4001,Poland,POL
+E. Szydlowski,2225,1987,POL,4020,Poland,POL
+L. Bielinski,2220,1987,POL,4043,Poland,POL
+J. Ciechanski,2220,1987,POL,4052,Poland,POL
+Z. Czajka,2220,1987,POL,4055,Poland,POL
+K. Dlugosz,2220,1987,POL,4059,Poland,POL
+W. Jagodzinski,2220,1987,POL,4086,Poland,POL
+K. Jurkiewicz,2220,1987,POL,4091,Poland,POL
+A. Koziarski,2220,1987,POL,4100,Poland,POL
+R. Kwiecinski,2220,1987,POL,4102,Poland,POL
+K. Lenczewski,2220,1987,POL,4104,Poland,POL
+J. Ligeza,2220,1987,POL,4105,Poland,POL
+M. Mielczarski,2220,1987,POL,4111,Poland,POL
+K. Mielniczek,2220,1987,POL,4112,Poland,POL
+M. Morciszek,2220,1987,POL,4113,Poland,POL
+Z. Pyda,2220,1987,POL,4122,Poland,POL
+J. Stefaniak,2220,1987,POL,4145,Poland,POL
+A. Borchardt,2215,1987,POL,4181,Poland,POL
+M. Domosud,2215,1987,POL,4192,Poland,POL
+R. Grzelak,2215,1987,POL,4208,Poland,POL
+M. Jablonski,2215,1987,POL,4218,Poland,POL
+A. Jarzynski,2215,1987,POL,4219,Poland,POL
+Z. Sokol,2215,1987,POL,4264,Poland,POL
+A. Balun,2210,1987,POL,4290,Poland,POL
+W. Matkowski,2210,1987,POL,4346,Poland,POL
+Cz. Sajko,2210,1987,POL,4377,Poland,POL
+Z. Sienczewski,2210,1987,POL,4385,Poland,POL
+A. Trylski,2210,1987,POL,4393,Poland,POL
+Drelinkiewicz,2205,1987,POL,4465,Poland,POL
+D. Drzemicki,2205,1987,POL,4466,Poland,POL
+P. Dukaczewski,2205,1987,POL,4467,Poland,POL
+B. Fronczek,2205,1987,POL,4480,Poland,POL
+S. Kamys,2205,1987,POL,4514,Poland,POL
+B. Kulon,2205,1987,POL,4520,Poland,POL
+D. Lunkiewicz,2205,1987,POL,4535,Poland,POL
+Mackowiak,2205,1987,POL,4537,Poland,POL
+A. Modzelan,2205,1987,POL,4555,Poland,POL
+P. Piwowarczyk,2205,1987,POL,4589,Poland,POL
+M. Smoczynski,2205,1987,POL,4620,Poland,POL
+M. Szmyd,2205,1987,POL,4626,Poland,POL
+J. Jagodzinska,2200,1987,POL,4663,Poland,POL
+L. Leszner,2190,1987,POL,4676,Poland,POL
+B. Rzeczycka,2180,1987,POL,4686,Poland,POL
+Maziarka-J.H.,2175,1987,POL,4695,Poland,POL
+B. Kaczorowska,2170,1987,POL,4703,Poland,POL
+J. Strzalka,2170,1987,POL,4707,Poland,POL
+B. Sikora-Gizynska,2155,1987,POL,4739,Poland,POL
+I. Laszewska,2150,1987,POL,4746,Poland,POL
+E. Kaczmarek,2140,1987,POL,4760,Poland,POL
+I. Swiecik,2140,1987,POL,4765,Poland,POL
+J. Leszczynska,2130,1987,POL,4787,Poland,POL
+A. Fornal,2115,1987,POL,4813,Poland,POL
+Kasprzyk,2115,1987,POL,4814,Poland,POL
+A. Lissowska,2115,1987,POL,4817,Poland,POL
+H. Wesolowska,2115,1987,POL,4821,Poland,POL
+L. Turczynowicz,2090,1987,POL,4875,Poland,POL
+A. Domaradzka,2080,1987,POL,4892,Poland,POL
+B. Pytel,2075,1987,POL,4911,Poland,POL
+K. Radzikowska,2070,1987,POL,4925,Poland,POL
+H. Zboron,2070,1987,POL,4933,Poland,POL
+E. Sosnowska,2065,1987,POL,4949,Poland,POL
+E. Nagrocka,2055,1987,POL,4967,Poland,POL
+M. Szulnis,2050,1987,POL,4986,Poland,POL
+K. Sobierajewicz,2045,1987,POL,5001,Poland,POL
+J. Szymanska,2040,1987,POL,5018,Poland,POL
+B. Autowicz,2035,1987,POL,5021,Poland,POL
+E Brustman-Gawarecka,2035,1987,POL,5022,Poland,POL
+U. Nowik,2035,1987,POL,5026,Poland,POL
+B. Zietek,2030,1987,POL,5046,Poland,POL
+I. Glinska,2025,1987,POL,5050,Poland,POL
+Kowalska,2020,1987,POL,5064,Poland,POL
+L. Krzyzanowska,2020,1987,POL,5065,Poland,POL
+I. Baron (Dworaczek),2010,1987,POL,5088,Poland,POL
+T. Debowska,2005,1987,POL,5120,Poland,POL
+A. Litwinska,2005,1987,POL,5155,Poland,POL
+A. Stodulkiewicz,2005,1987,POL,5178,Poland,POL
+J. Klinger,2465,1987,AUT,236,Austria,AUT
+D. Sorm,2415,1987,AUT,512,Austria,AUT
+G. Danner,2405,1987,AUT,581,Austria,AUT
+K. Robatsch,2400,1987,AUT,647,Austria,AUT
+W. Wittmann,2400,1987,AUT,663,Austria,AUT
+F. Hoelzl,2390,1987,AUT,723,Austria,AUT
+A. Duer,2380,1987,AUT,824,Austria,AUT
+R. Hanel,2375,1987,AUT,883,Austria,AUT
+A. Herzog,2375,1987,AUT,885,Austria,AUT
+A. Dueckstein,2370,1987,AUT,933,Austria,AUT
+W. Pils,2360,1987,AUT,1090,Austria,AUT
+S. Wirius,2350,1987,AUT,1238,Austria,AUT
+H. Baumgartner,2340,1987,AUT,1325,Austria,AUT
+A. Fauland,2340,1987,AUT,1335,Austria,AUT
+H. Casagrande,2325,1987,AUT,1576,Austria,AUT
+E. Schoeppl,2325,1987,AUT,1641,Austria,AUT
+U. Steiner,2325,1987,AUT,1645,Austria,AUT
+E. Weinzettl,2320,1987,AUT,1775,Austria,AUT
+H. Eisterer,2315,1987,AUT,1798,Austria,AUT
+G. Miniboeck,2315,1987,AUT,1829,Austria,AUT
+P. Roth,2315,1987,AUT,1842,Austria,AUT
+A. Felsberger,2310,1987,AUT,1903,Austria,AUT
+Johann Fischer,2310,1987,AUT,1904,Austria,AUT
+K. Kargl,2305,1987,AUT,2039,Austria,AUT
+H.J. Singer,2305,1987,AUT,2085,Austria,AUT
+E. Swoboda,2305,1987,AUT,2090,Austria,AUT
+F. Hager,2300,1987,AUT,2133,Austria,AUT
+Hellmayr,2300,1987,AUT,2138,Austria,AUT
+L. Weiss,2300,1987,AUT,2216,Austria,AUT
+W. Braun,2295,1987,AUT,2235,Austria,AUT
+E. Brestian,2295,1987,AUT,2236,Austria,AUT
+H. Herndl,2295,1987,AUT,2268,Austria,AUT
+E. Reichmann,2295,1987,AUT,2323,Austria,AUT
+M. Hangweyrer,2290,1987,AUT,2399,Austria,AUT
+G. Kaspret,2290,1987,AUT,2415,Austria,AUT
+K. Opl,2290,1987,AUT,2437,Austria,AUT
+H. Titz,2290,1987,AUT,2462,Austria,AUT
+K. Petschar,2285,1987,AUT,2572,Austria,AUT
+K. Janetschek,2280,1987,AUT,2657,Austria,AUT
+H. Poettinger,2280,1987,AUT,2697,Austria,AUT
+F. Schuh,2280,1987,AUT,2709,Austria,AUT
+O. Vodep,2275,1987,AUT,2825,Austria,AUT
+W. Wilke,2275,1987,AUT,2828,Austria,AUT
+A. Druckenthaner,2270,1987,AUT,2852,Austria,AUT
+K. Grillitsch,2270,1987,AUT,2864,Austria,AUT
+W. Mikenda,2270,1987,AUT,2891,Austria,AUT
+H. Kummer,2265,1987,AUT,2998,Austria,AUT
+L. Kwatschewsky,2265,1987,AUT,2999,Austria,AUT
+F. Froeschl,2255,1987,AUT,3197,Austria,AUT
+W. Kubasta,2255,1987,AUT,3230,Austria,AUT
+R. Lendwai,2255,1987,AUT,3234,Austria,AUT
+F. Nagl,2255,1987,AUT,3254,Austria,AUT
+D. Pilz,2255,1987,AUT,3260,Austria,AUT
+M. Schlosser,2255,1987,AUT,3271,Austria,AUT
+Stoppel,2255,1987,AUT,3279,Austria,AUT
+G. Moser,2250,1987,AUT,3386,Austria,AUT
+M. Raffalt,2250,1987,AUT,3396,Austria,AUT
+F. Juraczka,2245,1987,AUT,3487,Austria,AUT
+R. Wurdits,2245,1987,AUT,3572,Austria,AUT
+A. Denk,2240,1987,AUT,3601,Austria,AUT
+L. Deutsch,2240,1987,AUT,3602,Austria,AUT
+F. Wiedermann,2240,1987,AUT,3678,Austria,AUT
+E. Liebhart,2235,1987,AUT,3736,Austria,AUT
+H. Niedermayr,2235,1987,AUT,3745,Austria,AUT
+M. Wach,2235,1987,AUT,3788,Austria,AUT
+H. Waller,2235,1987,AUT,3789,Austria,AUT
+J. Poecksteiner,2230,1987,AUT,3879,Austria,AUT
+M. Schumi,2230,1987,AUT,3895,Austria,AUT
+F. Steininger,2225,1987,AUT,4016,Austria,AUT
+A. Beni,2220,1987,AUT,4042,Austria,AUT
+D. Heilinger,2220,1987,AUT,4079,Austria,AUT
+G. Schrol,2220,1987,AUT,4135,Austria,AUT
+E. Schueller,2220,1987,AUT,4136,Austria,AUT
+R. Pesek,2215,1987,AUT,4249,Austria,AUT
+K. Enigl,2210,1987,AUT,4313,Austria,AUT
+K. Nickl,2210,1987,AUT,4352,Austria,AUT
+K. Patzl,2210,1987,AUT,4360,Austria,AUT
+H. Toefferl,2205,1987,AUT,4636,Austria,AUT
+H. Mira,2145,1987,AUT,4756,Austria,AUT
+M. Hennings,2045,1987,AUT,4997,Austria,AUT
+Ma. Horvath,2030,1987,AUT,5038,Austria,AUT
+F. Bauer,2005,1987,AUT,5106,Austria,AUT
+M. Duer,2005,1987,AUT,5122,Austria,AUT
+A. Hausner,2005,1987,AUT,5142,Austria,AUT
+K. Ladner,2005,1987,AUT,5152,Austria,AUT
+M. Ploner,2005,1987,AUT,5171,Austria,AUT
+M. Sisniega,2455,1987,MEX,271,Mexico,MEX
+D. Verduga,2435,1987,MEX,390,Mexico,MEX
+K. Frey,2430,1987,MEX,396,Mexico,MEX
+J. Aldrete,2400,1987,MEX,617,Mexico,MEX
+R. Espinosa Flores,2370,1987,MEX,934,Mexico,MEX
+Gi. Hernandez,2355,1987,MEX,1131,Mexico,MEX
+E. Hernandez,2340,1987,MEX,1346,Mexico,MEX
+M. Campos Lopez,2335,1987,MEX,1408,Mexico,MEX
+A. Campos-Ruiz,2335,1987,MEX,1409,Mexico,MEX
+G. Ruiz,2320,1987,MEX,1752,Mexico,MEX
+B. Castaneda,2315,1987,MEX,1791,Mexico,MEX
+Morales-M.H.,2315,1987,MEX,1831,Mexico,MEX
+G. Marquet,2310,1987,MEX,1941,Mexico,MEX
+M. Hurtado,2305,1987,MEX,2038,Mexico,MEX
+Pina,2305,1987,MEX,2072,Mexico,MEX
+G. Maass Garza,2300,1987,MEX,2167,Mexico,MEX
+R. Ocampo,2300,1987,MEX,2181,Mexico,MEX
+I. Martinez,2295,1987,MEX,2294,Mexico,MEX
+R. Navarro,2295,1987,MEX,2308,Mexico,MEX
+E. Barba,2290,1987,MEX,2365,Mexico,MEX
+Athala,2285,1987,MEX,2485,Mexico,MEX
+L.M. Floresvillar,2285,1987,MEX,2510,Mexico,MEX
+G. Russek,2280,1987,MEX,2703,Mexico,MEX
+J.M. Ramirez,2275,1987,MEX,2796,Mexico,MEX
+M. Herrera,2270,1987,MEX,2869,Mexico,MEX
+A. Maass Garza,2265,1987,MEX,3005,Mexico,MEX
+Palma,2265,1987,MEX,3022,Mexico,MEX
+De Winter,2250,1987,MEX,3327,Mexico,MEX
+J. Martin Del Campo,2250,1987,MEX,3384,Mexico,MEX
+A. Carrillo,2245,1987,MEX,3451,Mexico,MEX
+Godinez,2245,1987,MEX,3479,Mexico,MEX
+H. Maya,2245,1987,MEX,3515,Mexico,MEX
+Monroy,2245,1987,MEX,3522,Mexico,MEX
+J. Montanez-Alayola,2245,1987,MEX,3523,Mexico,MEX
+Leal,2240,1987,MEX,3629,Mexico,MEX
+B. Ramirez,2235,1987,MEX,3763,Mexico,MEX
+F. Campos,2230,1987,MEX,3816,Mexico,MEX
+J. Gonzales Mata,2225,1987,MEX,3960,Mexico,MEX
+Alf. Iglesias,2220,1987,MEX,4083,Mexico,MEX
+L. Dinner,2215,1987,MEX,4191,Mexico,MEX
+R. Martin Del Campo,2215,1987,MEX,4235,Mexico,MEX
+G. Medina,2215,1987,MEX,4238,Mexico,MEX
+F. Arjona Monforte,2205,1987,MEX,4430,Mexico,MEX
+S. Mendizo-Higuera,2205,1987,MEX,4551,Mexico,MEX
+H. Acevedo,2070,1987,MEX,4912,Mexico,MEX
+A. Campos De Ocampo,2020,1987,MEX,5057,Mexico,MEX
+L.M. Bedolla,2005,1987,MEX,5107,Mexico,MEX
+Y. Hernandez,2005,1987,MEX,5144,Mexico,MEX
+. Murshed,2450,1987,BAN,296,Bangladesh,BGD
+T. Rahman,2310,1987,BAN,1960,Bangladesh,BGD
+Z. Rahman,2295,1987,BAN,2321,Bangladesh,BGD
+Y. Hasan,2290,1987,BAN,2402,Bangladesh,BGD
+R. Amin,2280,1987,BAN,2608,Bangladesh,BGD
+R. Huque,2260,1987,BAN,3094,Bangladesh,BGD
+Al-Mahmud,2255,1987,BAN,3171,Bangladesh,BGD
+M.A. Dewan,2240,1987,BAN,3603,Bangladesh,BGD
+F. Ahmed,2235,1987,BAN,3685,Bangladesh,BGD
+J. Rahman,2235,1987,BAN,3762,Bangladesh,BGD
+M. Rahman,2215,1987,BAN,4253,Bangladesh,BGD
+M.F. Ali,2205,1987,BAN,4419,Bangladesh,BGD
+R. Hamid,2170,1987,BAN,4702,Bangladesh,BGD
+F. Braga,2445,1987,ITA,308,Italy,ITA
+S. Tatai,2425,1987,ITA,445,Italy,ITA
+S. Mariotti,2410,1987,ITA,549,Italy,ITA
+B. Toth,2385,1987,ITA,804,Italy,ITA
+Giacc. Vallifuoco,2385,1987,ITA,806,Italy,ITA
+G. Sanna,2375,1987,ITA,904,Italy,ITA
+F. Milocco,2370,1987,ITA,952,Italy,ITA
+A. Zichichi,2370,1987,ITA,982,Italy,ITA
+B. Belotti,2365,1987,ITA,987,Italy,ITA
+D. Blasco,2365,1987,ITA,989,Italy,ITA
+C. D'Amore,2365,1987,ITA,997,Italy,ITA
+M. Godena,2360,1987,ITA,1066,Italy,ITA
+M. Tirabassi,2360,1987,ITA,1097,Italy,ITA
+G. Gervasi,2350,1987,ITA,1197,Italy,ITA
+Iannacone,2345,1987,ITA,1272,Italy,ITA
+M. Lanzani,2345,1987,ITA,1281,Italy,ITA
+G. Castagnetta,2335,1987,ITA,1410,Italy,ITA
+M. Piccardo,2335,1987,ITA,1445,Italy,ITA
+E. Arlandi,2330,1987,ITA,1471,Italy,ITA
+I. Ceschia,2330,1987,ITA,1485,Italy,ITA
+M. Sibilio,2330,1987,ITA,1546,Italy,ITA
+De Eccher,2325,1987,ITA,1581,Italy,ITA
+P. Gagliardi,2325,1987,ITA,1588,Italy,ITA
+P. Passerotti,2320,1987,ITA,1736,Italy,ITA
+O. Tassi,2320,1987,ITA,1765,Italy,ITA
+M. Cocozza,2315,1987,ITA,1794,Italy,ITA
+Messa,2310,1987,ITA,1945,Italy,ITA
+C. Rossi,2310,1987,ITA,1967,Italy,ITA
+Grinza,2305,1987,ITA,2031,Italy,ITA
+G.A. Cecconi,2300,1987,ITA,2111,Italy,ITA
+R. Magrini,2300,1987,ITA,2168,Italy,ITA
+Micheli,2300,1987,ITA,2174,Italy,ITA
+A. Martorelli,2295,1987,ITA,2295,Italy,ITA
+Trabattoni,2295,1987,ITA,2346,Italy,ITA
+Giov. Vallifuoco,2295,1987,ITA,2349,Italy,ITA
+Rosino,2290,1987,ITA,2447,Italy,ITA
+F. Bellini,2285,1987,ITA,2488,Italy,ITA
+V. Bianco,2285,1987,ITA,2490,Italy,ITA
+R. Primavera,2285,1987,ITA,2574,Italy,ITA
+S. Sarno,2285,1987,ITA,2578,Italy,ITA
+F. Bellia,2280,1987,ITA,2615,Italy,ITA
+R. Mantovani,2280,1987,ITA,2680,Italy,ITA
+A. Steinfl,2280,1987,ITA,2716,Italy,ITA
+C. Barlocco,2270,1987,ITA,2835,Italy,ITA
+C. Evangelisti,2270,1987,ITA,2854,Italy,ITA
+S. Sartori,2270,1987,ITA,2916,Italy,ITA
+A. Drei,2265,1987,ITA,2970,Italy,ITA
+S. D'Apa,2260,1987,ITA,3071,Italy,ITA
+M. Pangrazzi,2260,1987,ITA,3128,Italy,ITA
+R. Andreoli,2255,1987,ITA,3173,Italy,ITA
+G. Coppini,2255,1987,ITA,3186,Italy,ITA
+G. Falchetta,2255,1987,ITA,3193,Italy,ITA
+V. Anceschi,2250,1987,ITA,3303,Italy,ITA
+F. Benedetti,2250,1987,ITA,3314,Italy,ITA
+M. Di Donna,2250,1987,ITA,3328,Italy,ITA
+Laco,2250,1987,ITA,3370,Italy,ITA
+F. Bruno,2245,1987,ITA,3445,Italy,ITA
+M. Fabbri,2245,1987,ITA,3472,Italy,ITA
+A. Rombaldoni,2245,1987,ITA,3545,Italy,ITA
+M. De Blasio,2240,1987,ITA,3599,Italy,ITA
+M. Cordara,2235,1987,ITA,3699,Italy,ITA
+E. Pernisco,2235,1987,ITA,3756,Italy,ITA
+Trincardi,2235,1987,ITA,3785,Italy,ITA
+M. Albano,2230,1987,ITA,3799,Italy,ITA
+N. Valdettaro,2230,1987,ITA,3910,Italy,ITA
+Valenti,2230,1987,ITA,3912,Italy,ITA
+R. Rivello,2225,1987,ITA,4009,Italy,ITA
+S. Simoli,2225,1987,ITA,4013,Italy,ITA
+M. Corgnati,2220,1987,ITA,4054,Italy,ITA
+E. Gallo,2220,1987,ITA,4068,Italy,ITA
+G. Rossi,2215,1987,ITA,4258,Italy,ITA
+C. Pantaleoni,2210,1987,ITA,4357,Italy,ITA
+E. Paoli,2210,1987,ITA,4358,Italy,ITA
+P. Vezzosi,2210,1987,ITA,4398,Italy,ITA
+R. Gramignani,2025,1987,ITA,5051,Italy,ITA
+G. Facchini,2005,1987,ITA,5124,Italy,ITA
+A. Paizis,2005,1987,ITA,5168,Italy,ITA
+Z. Franco,2440,1987,PAR,342,Paraguay,PRY
+R.C. Valiente,2325,1987,PAR,1653,Paraguay,PRY
+F. Santacruz,2320,1987,PAR,1753,Paraguay,PRY
+L. Patriarca,2290,1987,PAR,2438,Paraguay,PRY
+V. Riego Prieto,2235,1987,PAR,3765,Paraguay,PRY
+C. Gamarra Caseres,2215,1987,PAR,4201,Paraguay,PRY
+Leow,2435,1987,SIN,379,Singapore,SGP
+A. Chia,2400,1987,SIN,623,Singapore,SGP
+T. Tomalczyk,2355,1987,SIN,1166,Singapore,SGP
+Meng-Kong Wong,2345,1987,SIN,1318,Singapore,SGP
+Ch. Goh,2325,1987,SIN,1595,Singapore,SGP
+K.-S. Teo,2325,1987,SIN,1649,Singapore,SGP
+Meng-Leong Wong,2290,1987,SIN,2477,Singapore,SGP
+Ch.S. Chia,2280,1987,SIN,2625,Singapore,SGP
+Hoon-Cheng Lim,2280,1987,SIN,2673,Singapore,SGP
+Kum-Hong Koh,2270,1987,SIN,2882,Singapore,SGP
+Peng-Kong Chan,2260,1987,SIN,3066,Singapore,SGP
+I. Leong,2240,1987,SIN,3632,Singapore,SGP
+Giam,2235,1987,SIN,3715,Singapore,SGP
+K.L. Pang,2235,1987,SIN,3753,Singapore,SGP
+Tomasevic,2225,1987,SIN,4024,Singapore,SGP
+K.-Ch. Teo,2220,1987,SIN,4155,Singapore,SGP
+A. Ong,2215,1987,SIN,4246,Singapore,SGP
+D. Chong,2205,1987,SIN,4454,Singapore,SGP
+Chye-Lye Lim,2205,1987,SIN,4528,Singapore,SGP
+Kok-Ann Lim,2205,1987,SIN,4529,Singapore,SGP
+F. Muco,2435,1987,ALB,380,Albania,ALB
+Karkanaque,2375,1987,ALB,892,Albania,ALB
+Z. Sula,2365,1987,ALB,1040,Albania,ALB
+I. Seitaj,2320,1987,ALB,1755,Albania,ALB
+L. Quendro,2295,1987,ALB,2320,Albania,ALB
+A. Zadrima,2235,1987,ALB,3793,Albania,ALB
+S.-A. Saeed,2435,1987,UAE,383,United Arab Emirates,ARE
+N.A. Saeed,2350,1987,UAE,1227,United Arab Emirates,ARE
+Moh. Sharif,2255,1987,UAE,3275,United Arab Emirates,ARE
+H. Abdulla,2205,1987,UAE,4408,United Arab Emirates,ARE
+M. Abdulla,2205,1987,UAE,4409,United Arab Emirates,ARE
+M. Almoyni,2205,1987,UAE,4422,United Arab Emirates,ARE
+F. Alsharkan,2205,1987,UAE,4424,United Arab Emirates,ARE
+J. Wahib,2205,1987,UAE,4648,United Arab Emirates,ARE
+A. Karim,2005,1987,UAE,5149,United Arab Emirates,ARE
+F. Karim,2005,1987,UAE,5150,United Arab Emirates,ARE
+P. Motwani,2425,1987,SCO,435,United Kingdom,GBR
+M.L. Condie,2415,1987,SCO,492,United Kingdom,GBR
+C.A. Mcnab,2415,1987,SCO,504,United Kingdom,GBR
+R.M. Mckay,2395,1987,SCO,690,United Kingdom,GBR
+Pritchett,2385,1987,SCO,792,United Kingdom,GBR
+D.A. Holmes,2345,1987,SCO,1271,United Kingdom,GBR
+G. Morrison,2345,1987,SCO,1290,United Kingdom,GBR
+C.S.M. Thomson,2320,1987,SCO,1766,United Kingdom,GBR
+D.M. Bryson,2310,1987,SCO,1886,United Kingdom,GBR
+P. Jamieson,2300,1987,SCO,2146,United Kingdom,GBR
+T.J. Upton,2290,1987,SCO,2465,United Kingdom,GBR
+M.R. Burgess,2280,1987,SCO,2622,United Kingdom,GBR
+S.R. Mannion,2280,1987,SCO,2679,United Kingdom,GBR
+L. Blackstock,2265,1987,SCO,2957,United Kingdom,GBR
+A.J. Muir,2265,1987,SCO,3016,United Kingdom,GBR
+D.J. Findlay,2245,1987,SCO,3475,United Kingdom,GBR
+M.J. Freeman,2240,1987,SCO,3607,United Kingdom,GBR
+S.R. Gillam,2235,1987,SCO,3716,United Kingdom,GBR
+W. Buchanan,2230,1987,SCO,3815,United Kingdom,GBR
+R. Giulian,2095,1987,SCO,4853,United Kingdom,GBR
+A. Condie,2045,1987,SCO,4993,United Kingdom,GBR
+H. Milligan Scott,2010,1987,SCO,5093,United Kingdom,GBR
+L.G.P. Morrison,2010,1987,SCO,5095,United Kingdom,GBR
+A. Coull,2005,1987,SCO,5117,United Kingdom,GBR
+A. Mclure,2005,1987,SCO,5157,United Kingdom,GBR
+Liew,2415,1987,MAS,502,Malaysia,MYS
+E. Cheah,2290,1987,MAS,2378,Malaysia,MYS
+P. Long,2250,1987,MAS,3379,Malaysia,MYS
+V. Gregory,2245,1987,MAS,3480,Malaysia,MYS
+C. Madhavan,2240,1987,MAS,3636,Malaysia,MYS
+Soon-Keat Chia,2235,1987,MAS,3697,Malaysia,MYS
+T.-H. Tham,2235,1987,MAS,3783,Malaysia,MYS
+Hon Kah Seng,2225,1987,MAS,3967,Malaysia,MYS
+I. Si,2215,1987,MAS,4261,Malaysia,MYS
+Boon-Poh-Paul Foo,2210,1987,MAS,4317,Malaysia,MYS
+W. Karim,2210,1987,MAS,4331,Malaysia,MYS
+F. Chin,2205,1987,MAS,4452,Malaysia,MYS
+C. Lee,2205,1987,MAS,4524,Malaysia,MYS
+S.-H. Lee,2205,1987,MAS,4525,Malaysia,MYS
+A. Muzzafar,2205,1987,MAS,4565,Malaysia,MYS
+E.K.L. Ng,2205,1987,MAS,4568,Malaysia,MYS
+Eng-Chye Phuah,2205,1987,MAS,4587,Malaysia,MYS
+B.-K. Woo,2205,1987,MAS,4649,Malaysia,MYS
+A. Wong,2015,1987,MAS,5084,Malaysia,MYS
+Wai Ling Seto,2005,1987,MAS,5176,Malaysia,MYS
+V. Vimala,2005,1987,MAS,5184,Malaysia,MYS
+V.K. Yimala,2005,1987,MAS,5187,Malaysia,MYS
+N. Tumurhuyag,2415,1987,MGL,514,Mongolia,MNG
+P. Jigzhidsuren,2365,1987,MGL,1009,Mongolia,MNG
+C. Lhagvasuren,2350,1987,MGL,1211,Mongolia,MNG
+T. Ujtumen,2345,1987,MGL,1309,Mongolia,MNG
+Lhagva,2305,1987,MGL,2055,Mongolia,MNG
+L. Miagmasuren,2300,1987,MGL,2173,Mongolia,MNG
+Tumurbator,2255,1987,MGL,3291,Mongolia,MNG
+Ch. Hurelbator,2235,1987,MGL,3722,Mongolia,MNG
+C. Zundiu,2225,1987,MGL,4036,Mongolia,MNG
+L. Winants,2415,1987,BEL,518,Belgium,BEL
+J. Boey,2390,1987,BEL,710,Belgium,BEL
+M. Dutreeuw,2375,1987,BEL,877,Belgium,BEL
+W. Tonoli,2365,1987,BEL,1043,Belgium,BEL
+R. Meulders,2360,1987,BEL,1078,Belgium,BEL
+J. Roose,2350,1987,BEL,1226,Belgium,BEL
+P. De Jonghe,2345,1987,BEL,1257,Belgium,BEL
+J. Goormachtigh,2340,1987,BEL,1340,Belgium,BEL
+M. Jadoul,2340,1987,BEL,1348,Belgium,BEL
+R. Weemaes,2340,1987,BEL,1390,Belgium,BEL
+J. Bogaerts,2325,1987,BEL,1572,Belgium,BEL
+P. Moulin,2325,1987,BEL,1626,Belgium,BEL
+Deleyn,2320,1987,BEL,1685,Belgium,BEL
+A. Defize,2310,1987,BEL,1894,Belgium,BEL
+F. Cornelis,2305,1987,BEL,2014,Belgium,BEL
+R. Polaczek,2305,1987,BEL,2074,Belgium,BEL
+A. Denijs,2295,1987,BEL,2250,Belgium,BEL
+M. Geenen,2295,1987,BEL,2259,Belgium,BEL
+J. Tonoli,2285,1987,BEL,2596,Belgium,BEL
+D. Pergericht,2275,1987,BEL,2789,Belgium,BEL
+Beyen,2270,1987,BEL,2838,Belgium,BEL
+M. Lacrosse,2270,1987,BEL,2884,Belgium,BEL
+N. Bernard,2265,1987,BEL,2954,Belgium,BEL
+G. Cools,2265,1987,BEL,2965,Belgium,BEL
+D. Proost,2265,1987,BEL,3031,Belgium,BEL
+D. Luminet,2255,1987,BEL,3236,Belgium,BEL
+D. Van De Bourry,2255,1987,BEL,3292,Belgium,BEL
+Ph. Kerkhof,2245,1987,BEL,3490,Belgium,BEL
+Th. Penson,2245,1987,BEL,3533,Belgium,BEL
+H. Schumacher,2245,1987,BEL,3549,Belgium,BEL
+M. Van Herck,2240,1987,BEL,3673,Belgium,BEL
+D. Vanheirzeele,2240,1987,BEL,3674,Belgium,BEL
+R. Schuermans,2235,1987,BEL,3776,Belgium,BEL
+M. Daels,2230,1987,BEL,3821,Belgium,BEL
+Th. Huismann,2230,1987,BEL,3841,Belgium,BEL
+H. Van den Broeck,2230,1987,BEL,3914,Belgium,BEL
+M. Bonne,2225,1987,BEL,3927,Belgium,BEL
+M. Foguenne,2225,1987,BEL,3952,Belgium,BEL
+A. Mauquoy,2225,1987,BEL,3985,Belgium,BEL
+Y. Duhayon,2220,1987,BEL,4060,Belgium,BEL
+I. Maseyczik,2030,1987,BEL,5039,Belgium,BEL
+V. Caels,2005,1987,BEL,5112,Belgium,BEL
+G. Foulon,2005,1987,BEL,5131,Belgium,BEL
+Vandevoort,2005,1987,BEL,5181,Belgium,BEL
+J. Yrjola,2415,1987,FIN,519,Finland,FIN
+K. Valkesalmi,2390,1987,FIN,748,Finland,FIN
+A. Pyhala,2385,1987,FIN,793,Finland,FIN
+Rantanen,2385,1987,FIN,794,Finland,FIN
+H.M.J. Westerinen,2375,1987,FIN,914,Finland,FIN
+Raaste,2370,1987,FIN,963,Finland,FIN
+V. Maki,2365,1987,FIN,1020,Finland,FIN
+M. Kivisto,2355,1987,FIN,1136,Finland,FIN
+T.F. Binham,2350,1987,FIN,1182,Finland,FIN
+R. Nevanlinna,2340,1987,FIN,1365,Finland,FIN
+K.S. Ojanen,2340,1987,FIN,1369,Finland,FIN
+J. Paavilainen,2325,1987,FIN,1630,Finland,FIN
+H. Hurme,2320,1987,FIN,1707,Finland,FIN
+Kanko,2315,1987,FIN,1813,Finland,FIN
+J. Kekki,2315,1987,FIN,1815,Finland,FIN
+M. Henttinen,2300,1987,FIN,2139,Finland,FIN
+A. Hentunen,2295,1987,FIN,2267,Finland,FIN
+T. Pirttimaki,2295,1987,FIN,2317,Finland,FIN
+Turunen,2295,1987,FIN,2347,Finland,FIN
+A. Kujala,2285,1987,FIN,2542,Finland,FIN
+M. Lauren,2285,1987,FIN,2544,Finland,FIN
+R. Lehtivaara,2280,1987,FIN,2671,Finland,FIN
+M. Ebeling,2275,1987,FIN,2751,Finland,FIN
+E.E. Havansi,2275,1987,FIN,2764,Finland,FIN
+Kivipelto,2260,1987,FIN,3105,Finland,FIN
+Lehikoinen,2250,1987,FIN,3371,Finland,FIN
+A. Natri,2240,1987,FIN,3648,Finland,FIN
+K. Pulkkinen,2240,1987,FIN,3652,Finland,FIN
+P. Kauppala,2235,1987,FIN,3727,Finland,FIN
+H. Salo,2235,1987,FIN,3769,Finland,FIN
+P. Ojanen,2230,1987,FIN,3872,Finland,FIN
+H. Korhonen,2225,1987,FIN,3977,Finland,FIN
+Nykopp,2225,1987,FIN,3993,Finland,FIN
+K. Sorri,2225,1987,FIN,4015,Finland,FIN
+P. Kekki,2220,1987,FIN,4093,Finland,FIN
+G. Osterlund,2215,1987,FIN,4247,Finland,FIN
+T.W. Ristoja,2215,1987,FIN,4256,Finland,FIN
+S. Landry-Vurenpaa,2045,1987,FIN,4998,Finland,FIN
+U. Fogel,2005,1987,FIN,5128,Finland,FIN
+L. Laitinen,2005,1987,FIN,5153,Finland,FIN
+J. Paasikangas,2005,1987,FIN,5167,Finland,FIN
+A. Ker,2410,1987,NZL,541,New Zealand,NZL
+V. Small,2355,1987,NZL,1163,New Zealand,NZL
+O. Sarapu,2345,1987,NZL,1303,New Zealand,NZL
+R.G. Wade,2305,1987,NZL,2096,New Zealand,NZL
+Ph. Clemanse,2290,1987,NZL,2379,New Zealand,NZL
+P.A. Garbett,2285,1987,NZL,2513,New Zealand,NZL
+R.W. Smith,2285,1987,NZL,2586,New Zealand,NZL
+E. Green,2280,1987,NZL,2645,New Zealand,NZL
+J.D. Sarfati,2250,1987,NZL,3402,New Zealand,NZL
+M. Levene,2225,1987,NZL,3982,New Zealand,NZL
+P.W. Stuart,2225,1987,NZL,4017,New Zealand,NZL
+D. Gollogly,2215,1987,NZL,4206,New Zealand,NZL
+L.H. Cornford,2210,1987,NZL,4302,New Zealand,NZL
+R. Gibbons,2205,1987,NZL,4491,New Zealand,NZL
+P. Goffin,2205,1987,NZL,4493,New Zealand,NZL
+A. Love,2205,1987,NZL,4534,New Zealand,NZL
+F. Foster,2005,1987,NZL,5130,New Zealand,NZL
+J. Sievey,2005,1987,NZL,5177,New Zealand,NZL
+A. Antunes,2405,1987,POR,571,Portugal,PRT
+An.M. Fernandes,2400,1987,POR,631,Portugal,PRT
+L. Santos,2400,1987,POR,650,Portugal,PRT
+J.P. Santos,2355,1987,POR,1158,Portugal,PRT
+A. Frois,2345,1987,POR,1267,Portugal,PRT
+F. Silva,2345,1987,POR,1305,Portugal,PRT
+L. Galego,2335,1987,POR,1420,Portugal,PRT
+J. Pinheiro,2335,1987,POR,1447,Portugal,PRT
+Guimaraes,2295,1987,POR,2262,Portugal,PRT
+J.-M. Ribeiro,2290,1987,POR,2444,Portugal,PRT
+J. Cordovil,2285,1987,POR,2500,Portugal,PRT
+R.S. Pereira,2280,1987,POR,2695,Portugal,PRT
+J.F.A. Sequeira,2275,1987,POR,2810,Portugal,PRT
+J. Leonardo,2270,1987,POR,2885,Portugal,PRT
+A. Ferreira,2265,1987,POR,2977,Portugal,PRT
+F. Cary,2250,1987,POR,3324,Portugal,PRT
+R.D. Almeida,2240,1987,POR,3577,Portugal,PRT
+Al. Fernandes,2225,1987,POR,3950,Portugal,PRT
+J. Durao,2210,1987,POR,4310,Portugal,PRT
+A.P. Santos,2210,1987,POR,4380,Portugal,PRT
+I. Dos Santos,2005,1987,POR,5121,Portugal,PRT
+A. (F) Ferreira,2005,1987,POR,5126,Portugal,PRT
+Y.E. Liao,2405,1987,DOM,594,Dominican Republic,DOM
+J.D. Abreu,2385,1987,DOM,752,Dominican Republic,DOM
+R. Mateo,2385,1987,DOM,780,Dominican Republic,DOM
+M.T. Perez Nivar,2295,1987,DOM,2315,Dominican Republic,DOM
+E. Gonzales,2255,1987,DOM,3204,Dominican Republic,DOM
+J.M. Dominguez,2245,1987,DOM,3468,Dominican Republic,DOM
+M. Carrion,2230,1987,DOM,3817,Dominican Republic,DOM
+J. Lewis,2205,1987,DOM,4527,Dominican Republic,DOM
+S. Baez,2005,1987,DOM,5104,Dominican Republic,DOM
+A.E. Garcia,2005,1987,DOM,5135,Dominican Republic,DOM
+P. Guzman,2005,1987,DOM,5140,Dominican Republic,DOM
+E. Hazim,2005,1987,DOM,5143,Dominican Republic,DOM
+D. Canda,2400,1987,NCA,622,Nicaragua,NIC
+Mario Guevara,2350,1987,NCA,1199,Nicaragua,NIC
+J.L. Fonseca,2295,1987,NCA,2256,Nicaragua,NIC
+R. Pilarte,2295,1987,NCA,2316,Nicaragua,NIC
+C. Lau,2245,1987,NCA,3500,Nicaragua,NIC
+G. Landez,2240,1987,NCA,3628,Nicaragua,NIC
+D. Sirias,2220,1987,NCA,4142,Nicaragua,NIC
+C.S. Matamoros,2395,1987,ECU,689,Ecuador,ECU
+O. Yepez,2340,1987,ECU,1392,Ecuador,ECU
+G.P. Pazos,2335,1987,ECU,1444,Ecuador,ECU
+A. Moran,2320,1987,ECU,1732,Ecuador,ECU
+Camaton,2305,1987,ECU,2011,Ecuador,ECU
+B. Moran,2290,1987,ECU,2432,Ecuador,ECU
+R. Marquez,2250,1987,ECU,3383,Ecuador,ECU
+N. Garces,2235,1987,ECU,3711,Ecuador,ECU
+Idrovo,2225,1987,ECU,3971,Ecuador,ECU
+P. Bjazevic Montavo,2220,1987,ECU,4044,Ecuador,ECU
+L. Piasetski,2395,1987,LUX,697,Luxembourg,LUX
+Al. David,2375,1987,LUX,872,Luxembourg,LUX
+L.B. Rasmussen,2305,1987,LUX,2076,Luxembourg,LUX
+G. Haas,2280,1987,LUX,2647,Luxembourg,LUX
+Stull,2250,1987,LUX,3412,Luxembourg,LUX
+J. Feller,2205,1987,LUX,4473,Luxembourg,LUX
+H. Mossong,2205,1987,LUX,4560,Luxembourg,LUX
+Harsha Aturupane,2385,1987,SRI,753,Sri Lanka,LKA
+Harin. Aturupane,2320,1987,SRI,1667,Sri Lanka,LKA
+G.L. Wijesurija,2275,1987,SRI,2827,Sri Lanka,LKA
+V. Perera,2245,1987,SRI,3535,Sri Lanka,LKA
+R.L.W. Koggalage,2230,1987,SRI,3851,Sri Lanka,LKA
+A. Parakrama,2225,1987,SRI,3997,Sri Lanka,LKA
+S. Weeramantry,2225,1987,SRI,4032,Sri Lanka,LKA
+S. Eriyagama,2215,1987,SRI,4195,Sri Lanka,LKA
+I. Weerakoon,2215,1987,SRI,4279,Sri Lanka,LKA
+T.D.R. Peiris,2205,1987,SRI,4581,Sri Lanka,LKA
+J.G. Cooper,2380,1987,WLS,820,United Kingdom,GBR
+G.S. Botterill,2370,1987,WLS,928,United Kingdom,GBR
+A.H. Williams,2340,1987,WLS,1391,United Kingdom,GBR
+Rayner,2330,1987,WLS,1538,United Kingdom,GBR
+P.A. Lamford,2260,1987,WLS,3113,United Kingdom,GBR
+I.C. Jones,2250,1987,WLS,3356,United Kingdom,GBR
+P. Cunningham,2245,1987,WLS,3459,United Kingdom,GBR
+P. Richmond,2245,1987,WLS,3544,United Kingdom,GBR
+V. Kalinin,2235,1987,WLS,3724,United Kingdom,GBR
+Ch.F. Morris,2205,1987,WLS,4558,United Kingdom,GBR
+J. Garwell,2185,1987,WLS,4681,United Kingdom,GBR
+L. Powell,2025,1987,WLS,5055,United Kingdom,GBR
+D. Cooper,2015,1987,WLS,5074,United Kingdom,GBR
+G.D. James,2005,1987,WLS,5145,United Kingdom,GBR
+A.-A. Afifi,2375,1987,EGY,859,Egypt,EGY
+M.N. Abdel,2355,1987,EGY,1104,Egypt,EGY
+K. Mahdy,2355,1987,EGY,1140,Egypt,EGY
+M. Khaled,2325,1987,EGY,1611,Egypt,EGY
+T. Fatin,2315,1987,EGY,1800,Egypt,EGY
+A. Hamed,2310,1987,EGY,1915,Egypt,EGY
+M. Assem,2280,1987,EGY,2611,Egypt,EGY
+A. Kheir,2240,1987,EGY,3622,Egypt,EGY
+A. Yasseen,2240,1987,EGY,3681,Egypt,EGY
+F. Basta-Sohair,2005,1987,EGY,5105,Egypt,EGY
+S. Atalik,2375,1987,TUR,863,Turkey,TUR
+T. Yilmaz,2375,1987,TUR,916,Turkey,TUR
+Onat,2360,1987,TUR,1085,Turkey,TUR
+F. Oney,2350,1987,TUR,1220,Turkey,TUR
+S. Soylu,2345,1987,TUR,1306,Turkey,TUR
+C. Yurtseven,2335,1987,TUR,1469,Turkey,TUR
+A. Ulker,2320,1987,TUR,1769,Turkey,TUR
+C. Arduman,2285,1987,TUR,2483,Turkey,TUR
+F. Atakisi,2285,1987,TUR,2484,Turkey,TUR
+R. Asaturoglu,2280,1987,TUR,2610,Turkey,TUR
+C. Sel,2275,1987,TUR,2809,Turkey,TUR
+M. Bayramicli,2270,1987,TUR,2836,Turkey,TUR
+H. Yasin,2255,1987,TUR,3300,Turkey,TUR
+H. Han,2220,1987,TUR,4076,Turkey,TUR
+G. Yilmaz,2015,1987,TUR,5085,Turkey,TUR
+N. Cinar,2005,1987,TUR,5114,Turkey,TUR
+Mohd.I. Khan,2375,1987,PAK,894,Pakistan,PAK
+D. Butt,2345,1987,PAK,1249,Pakistan,PAK
+M. Lodhi,2295,1987,PAK,2287,Pakistan,PAK
+Sh. Mirza,2295,1987,PAK,2302,Pakistan,PAK
+T. Sarwar,2275,1987,PAK,2803,Pakistan,PAK
+S.-U. Zafar,2270,1987,PAK,2943,Pakistan,PAK
+Z. Farooqui,2265,1987,PAK,2975,Pakistan,PAK
+Mah. Khan,2265,1987,PAK,2989,Pakistan,PAK
+A. Chaudry,2260,1987,PAK,3067,Pakistan,PAK
+S.M. Husain,2250,1987,PAK,3350,Pakistan,PAK
+R. Butt,2245,1987,PAK,3448,Pakistan,PAK
+R. Ahmed,2240,1987,PAK,3576,Pakistan,PAK
+M. Waqar,2225,1987,PAK,4031,Pakistan,PAK
+M. Samuismani,2205,1987,PAK,4604,Pakistan,PAK
+B. Sher,2205,1987,PAK,4614,Pakistan,PAK
+Bouaziz,2370,1987,TUN,929,Tunisia,TUN
+M. Kaabi,2300,1987,TUN,2148,Tunisia,TUN
+N. Doghri,2270,1987,TUN,2851,Tunisia,TUN
+S. Hmadi,2260,1987,TUN,3090,Tunisia,TUN
+M. Zouaoui,2210,1987,TUN,4406,Tunisia,TUN
+J. Rodgaard,2370,1987,FAI,965,Faroe Islands,FRO
+L. Kristensen,2300,1987,FAI,2156,Faroe Islands,FRO
+G. Borg,2365,1987,MLT,991,Malta,MLT
+Lauri,2230,1987,MLT,3858,Malta,MLT
+Attard,2210,1987,MLT,4288,Malta,MLT
+B. Vella,2205,1987,MLT,4644,Malta,MLT
+K. Jhunjhnuwala,2360,1987,HKG,1072,Hong Kong,HKG
+L.-W. Luk,2300,1987,HKG,2166,Hong Kong,HKG
+R. Jhunjhnuwala,2260,1987,HKG,3098,Hong Kong,HKG
+N. Jhunjhnuwala,2255,1987,HKG,3219,Hong Kong,HKG
+A. Ashok,2250,1987,HKG,3304,Hong Kong,HKG
+Yu-Shuin Chen,2240,1987,HKG,3595,Hong Kong,HKG
+M. Kiernan,2205,1987,HKG,4517,Hong Kong,HKG
+F. Van Hasselt,2205,1987,HKG,4642,Hong Kong,HKG
+Guerra J.,2355,1987,VEN,1123,Venezuela,VEN
+Ant. Fernandez,2335,1987,VEN,1415,Venezuela,VEN
+A. Palacios,2335,1987,VEN,1443,Venezuela,VEN
+L. Schorr,2230,1987,VEN,3894,Venezuela,VEN
+J. Cuellar,2215,1987,VEN,4185,Venezuela,VEN
+Escalante,2205,1987,VEN,4470,Venezuela,VEN
+J.J. Perez,2205,1987,VEN,4584,Venezuela,VEN
+J.C. Urbaneja,2205,1987,VEN,4638,Venezuela,VEN
+L. Garcia,2005,1987,VEN,5136,Venezuela,VEN
+S. Ortega,2005,1987,VEN,5165,Venezuela,VEN
+M. Shadarevian,2355,1987,SYR,1160,Syria,SYR
+T. Catalan,2325,1987,SYR,1577,Syria,SYR
+I. Hakki,2315,1987,SYR,1807,Syria,SYR
+Beitar,2310,1987,SYR,1882,Syria,SYR
+E. Kassabe,2270,1987,SYR,2880,Syria,SYR
+A. Al-Khateeb,2265,1987,SYR,2946,Syria,SYR
+R. Abbasi,2005,1987,SYR,5101,Syria,SYR
+I. Al Akraa,2005,1987,SYR,5102,Syria,SYR
+W. Charpentier,2350,1987,CRC,1185,Costa Rica,CRI
+J. Gutierrez,2250,1987,CRC,3346,Costa Rica,CRI
+E. Chinchilla,2215,1987,CRC,4184,Costa Rica,CRI
+C. Araya,2205,1987,CRC,4429,Costa Rica,CRI
+F. Maynard,2205,1987,CRC,4549,Costa Rica,CRI
+J. Vaglio,2205,1987,CRC,4639,Costa Rica,CRI
+C.A. Juarez Flores,2340,1987,GUA,1350,Guatemala,GTM
+P. Rodas Martini,2295,1987,GUA,2325,Guatemala,GTM
+J.G. Juarez Flores,2225,1987,GUA,3973,Guatemala,GTM
+F. Batres,2210,1987,GUA,4292,Guatemala,GTM
+C.A. Reyes Najera,2205,1987,GUA,4594,Guatemala,GTM
+R. Juarez Flores,2005,1987,GUA,5147,Guatemala,GTM
+C. Mazariegos,2005,1987,GUA,5156,Guatemala,GTM
+Monterroso,2005,1987,GUA,5161,Guatemala,GTM
+M.J.L. Orr,2340,1987,IRL,1371,Ireland,IRL
+P. Carton,2290,1987,IRL,2377,Ireland,IRL
+E. Mcmahon,2290,1987,IRL,2431,Ireland,IRL
+Curtin,2280,1987,IRL,2630,Ireland,IRL
+J. Delaney,2280,1987,IRL,2632,Ireland,IRL
+D. Houston,2260,1987,IRL,3092,Ireland,IRL
+Ludgate,2250,1987,IRL,3380,Ireland,IRL
+Th. Clarke,2245,1987,IRL,3453,Ireland,IRL
+C. Barry,2235,1987,IRL,3688,Ireland,IRL
+Harding,2230,1987,IRL,3837,Ireland,IRL
+K. Hynes,2225,1987,IRL,3970,Ireland,IRL
+K. Allen,2220,1987,IRL,4039,Ireland,IRL
+Ph. Short,2220,1987,IRL,4141,Ireland,IRL
+Oshaughnes,2205,1987,IRL,4577,Ireland,IRL
+A. Delaney,2135,1987,IRL,4774,Ireland,IRL
+A. Cronin,2060,1987,IRL,4953,Ireland,IRL
+S. Connolly,2040,1987,IRL,5006,Ireland,IRL
+M. Osiochru,2005,1987,IRL,5166,Ireland,IRL
+Chaivichit,2332,1987,THA,1470,Thailand,THA
+Darakorn,2275,1987,THA,2747,Thailand,THA
+Sunthornpongsathorn,2270,1987,THA,2926,Thailand,THA
+N. Trisa-Ard,2270,1987,THA,2929,Thailand,THA
+A. Rittiphunyawong,2260,1987,THA,3140,Thailand,THA
+M. Kavakul,2255,1987,THA,3223,Thailand,THA
+P. Sinprayoon,2240,1987,THA,3665,Thailand,THA
+Fufuengmongkolk,2205,1987,THA,4481,Thailand,THA
+J. Berrocal,2320,1987,BOL,1670,Bolivia,BOL
+R. Chavez,2225,1987,BOL,3934,Bolivia,BOL
+G. Martinez,2205,1987,BOL,4548,Bolivia,BOL
+C. Saavedra,2205,1987,BOL,4601,Bolivia,BOL
+C. Van Tilbury,2310,1987,ISV,1985,US Virgin Islands,VIR
+R.J. Guillen,2305,1987,HON,2032,Honduras,HND
+D. Colindres,2205,1987,HON,4457,Honduras,HND
+I. Garcia,2205,1987,HON,4486,Honduras,HND
+C. Martinez,2205,1987,HON,4547,Honduras,HND
+H. Yuja,2205,1987,HON,4654,Honduras,HND
+R. Zamora,2205,1987,HON,4656,Honduras,HND
+I. Kurtic,2305,1987,URU,2049,Uruguay,URY
+M.B. Roselli,2305,1987,URU,2081,Uruguay,URY
+D. Rivera,2290,1987,URU,2445,Uruguay,URY
+A. Bauza,2250,1987,URU,3311,Uruguay,URY
+D. Izquierdo,2250,1987,URU,3351,Uruguay,URY
+Ricetto,2230,1987,URU,3885,Uruguay,URY
+J. Braso,2225,1987,URU,3930,Uruguay,URY
+Dienavorian,2220,1987,URU,4056,Uruguay,URY
+E. Almada,2205,1987,URU,4421,Uruguay,URY
+N. Birriel,2005,1987,URU,5109,Uruguay,URY
+I. De Los Santos,2005,1987,URU,5119,Uruguay,URY
+A. Garcia,2005,1987,URU,5134,Uruguay,URY
+R. Buckmire,2295,1987,BAR,2239,Barbados,BRB
+A. Chapman,2205,1987,BAR,4450,Barbados,BRB
+D. Dawson,2205,1987,BAR,4461,Barbados,BRB
+A. Rolston,2205,1987,BAR,4599,Barbados,BRB
+Grimaldi,2285,1987,ESA,2518,El Salvador,SLV
+B. Pineda,2225,1987,ESA,4000,El Salvador,SLV
+S. Infante,2205,1987,ESA,4504,El Salvador,SLV
+M. Velasquez,2205,1987,ESA,4643,El Salvador,SLV
+S. Le Blancq,2285,1987,GCI,2545,Guernsey,GGY
+T. Fulton,2205,1987,GCI,4482,Guernsey,GGY
+J. Hawes,2205,1987,GCI,4499,Guernsey,GGY
+Paniagua,2285,1987,PAN,2568,Panama,PAN
+B. Fabrega,2250,1987,PAN,3333,Panama,PAN
+S. Barraza,2205,1987,PAN,4432,Panama,PAN
+B. Barria,2205,1987,PAN,4433,Panama,PAN
+E. Fabrega,2205,1987,PAN,4471,Panama,PAN
+E. Ortiz,2205,1987,PAN,4576,Panama,PAN
+A.-E. Bammoune,2265,1987,ALG,2952,Algeria,DZA
+N.-E. Chaourar,2210,1987,ALG,4300,Algeria,DZA
+K. Sebih,2210,1987,ALG,4383,Algeria,DZA
+M. Benhadi,2205,1987,ALG,4436,Algeria,DZA
+A. Slimani,2205,1987,ALG,4618,Algeria,DZA
+A. Tilmatine,2205,1987,ALG,4634,Algeria,DZA
+J. Freyre,2260,1987,PUR,3078,Puerto Rico,PRI
+Moraza,2255,1987,PUR,3251,Puerto Rico,PRI
+L. Santa Torres,2230,1987,PUR,3891,Puerto Rico,PRI
+Nieves,2225,1987,PUR,3991,Puerto Rico,PRI
+A. Colon,2220,1987,PUR,4053,Puerto Rico,PRI
+L. Torres,2215,1987,PUR,4272,Puerto Rico,PRI
+R. Falcon,2210,1987,PUR,4314,Puerto Rico,PRI
+L. Munoz,2205,1987,PUR,4564,Puerto Rico,PRI
+J. Santa Torre,2205,1987,PUR,4605,Puerto Rico,PRI
+D. Borges,2005,1987,PUR,5110,Puerto Rico,PRI
+H. Figueroa,2005,1987,PUR,5127,Puerto Rico,PRI
+A. Martidis,2255,1987,CYP,3239,Cyprus,CYP
+A. Georgiou,2205,1987,CYP,4490,Cyprus,CYP
+K. Riza,2205,1987,CYP,4598,Cyprus,CYP
+A. Savva,2205,1987,CYP,4608,Cyprus,CYP
+M. Schinis,2205,1987,CYP,4610,Cyprus,CYP
+Ypsarides,2205,1987,CYP,4652,Cyprus,CYP
+S. Matthews,2255,1987,JAM,3241,Jamaica,JAM
+N. Fairclough,2205,1987,JAM,4472,Jamaica,JAM
+J. Powell,2205,1987,JAM,4590,Jamaica,JAM
+H. Anderson,2005,1987,JAM,5103,Jamaica,JAM
+C. Clarke,2005,1987,JAM,5115,Jamaica,JAM
+F. O'Connor,2005,1987,JAM,5163,Jamaica,JAM
+Raul Garcia,2250,1987,AND,3338,Andorra,AND
+V. Santamaria,2215,1987,AND,4260,Andorra,AND
+F. Rechi,2205,1987,AND,4593,Andorra,AND
+A. Hermiz,2250,1987,IRQ,3349,Iraq,IRQ
+Mahdi,2210,1987,IRQ,4344,Iraq,IRQ
+B.H. Abbas,2205,1987,IRQ,4407,Iraq,IRQ
+H.-M. Jasim,2205,1987,IRQ,4508,Iraq,IRQ
+A. Mohammed,2205,1987,IRQ,4556,Iraq,IRQ
+S.A. Sarsam,2205,1987,IRQ,4606,Iraq,IRQ
+N.M. Fati,2005,1987,IRQ,5125,Iraq,IRQ
+W. Frmesk,2005,1987,IRQ,5133,Iraq,IRQ
+D.M. Hanna,2005,1987,IRQ,5141,Iraq,IRQ
+J. Peyman,2005,1987,IRQ,5170,Iraq,IRQ
+M. Rian,2250,1987,MAR,3398,Morocco,MAR
+A.H. Abdullah,2220,1987,MAR,4037,Morocco,MAR
+K. Skalli,2205,1987,MAR,4617,Morocco,MAR
+S. Kanani,2245,1987,KEN,3489,Kenya,KEN
+R. Adai,2205,1987,KEN,4413,Kenya,KEN
+C. Chomu,2205,1987,KEN,4453,Kenya,KEN
+P. Gilruth,2200,1987,KEN,4662,Kenya,KEN
+N.E. Khechen,2245,1987,LIB,3492,Lebanon,LBN
+Loheac-A.F.,2240,1987,LIB,3634,Lebanon,LBN
+Sursock,2230,1987,LIB,3903,Lebanon,LBN
+Abichaaya,2205,1987,LIB,4410,Lebanon,LBN
+S. Kyriakides,2235,1987,ZIM,3730,Zimbabwe,ZWE
+J.M. Cochrane,2205,1987,ZIM,4456,Zimbabwe,ZWE
+B. Donnely,2205,1987,ZIM,4463,Zimbabwe,ZWE
+C. Garrard,2205,1987,ZIM,4488,Zimbabwe,ZWE
+C. Kuwaza,2205,1987,ZIM,4521,Zimbabwe,ZWE
+P. Thorne,2205,1987,ZIM,4633,Zimbabwe,ZWE
+E. Omuku,2225,1987,NGR,3996,Nigeria,NGA
+O. Agusto,2210,1987,NGR,4283,Nigeria,NGA
+T. Caiafas,2205,1987,NGR,4447,Nigeria,NGA
+T. Owosina,2205,1987,NGR,4579,Nigeria,NGA
+B.T. Rimawi,2225,1987,JOR,4008,Jordan,JOR
+H. Battikhi,2205,1987,JOR,4434,Jordan,JOR
+M. Bukhari,2205,1987,JOR,4444,Jordan,JOR
+Z. Kilani,2205,1987,JOR,4518,Jordan,JOR
+J. Jarecki,2220,1987,IVB,4088,British Virgin Islands,VGB
+V. Moore,2205,1987,IVB,4557,British Virgin Islands,VGB
+J. Lindeboom,2220,1987,SUR,4106,Suriname,SUR
+H. Chin A Lein,2205,1987,SUR,4451,Suriname,SUR
+R. Dos Ramos,2205,1987,SUR,4464,Suriname,SUR
+D. Gajadin,2205,1987,SUR,4483,Suriname,SUR
+D.J.E. Harris,2215,1987,BER,4209,Bermuda,BMU
+Bernschutz,2205,1987,BER,4439,Bermuda,BMU
+I. Cordon,2205,1987,BER,4460,Bermuda,BMU
+J. Tee,2205,1987,BER,4629,Bermuda,BMU
+H. Takemoto,2210,1987,JPN,4391,Japan,JPN
+H. Nishimura,2205,1987,JPN,4570,Japan,JPN
+K. Sasaki,2205,1987,JPN,4607,Japan,JPN
+S. Shintani,2205,1987,JPN,4615,Japan,JPN
+S. Sugaya,2205,1987,JPN,4624,Japan,JPN
+Tenjinbaya,2205,1987,JPN,4630,Japan,JPN
+N. Takemoto,2010,1987,JPN,5098,Japan,JPN
+E. Nakagawa,2005,1987,JPN,5162,Japan,JPN
+Abuchamala,2205,1987,PLE,4411,Palestine,PSE
+A. Mousa,2205,1987,PLE,4561,Palestine,PSE
+A. Taha,2205,1987,PLE,4627,Palestine,PSE
+H. Yuha,2205,1987,PLE,4653,Palestine,PSE
+A. Abumouza,2205,1987,QAT,4412,Qatar,QAT
+A. Mansouri,2205,1987,QAT,4543,Qatar,QAT
+A. Aigasra,2205,1987,BRN,4415,Bahrain,BHR
+K. Alawadhi,2205,1987,BRN,4416,Bahrain,BHR
+H. Khonji,2205,1987,BRN,4515,Bahrain,BHR
+A. Rasheed,2205,1987,BRN,4592,Bahrain,BHR
+I. Ali,2205,1987,BRU,4418,Brunei,BRN
+M.Z. Ali,2205,1987,BRU,4420,Brunei,BRN
+S.S. Alsharfi,2205,1987,YEM,4423,Yemen,YEM
+A. Aludary,2205,1987,YEM,4425,Yemen,YEM
+J.A. Haidrah,2205,1987,YEM,4496,Yemen,YEM
+H. Noaman,2205,1987,YEM,4572,Yemen,YEM
+M. Amer,2205,1987,LBA,4426,Libya,LBY
+N. El Kreni,2205,1987,LBA,4469,Libya,LBY
+A. Shabsh,2205,1987,LBA,4612,Libya,LBY
+J. Shahin,2205,1987,LBA,4613,Libya,LBY
+M. Andrade,2205,1987,ANG,4427,Angola,AGO
+J. Francisco,2205,1987,ANG,4476,Angola,AGO
+A. Jorge,2205,1987,ANG,4512,Angola,AGO
+A. Nascimento,2205,1987,ANG,4566,Angola,AGO
+Anquandah,2205,1987,GHA,4428,Ghana,GHA
+F. Asmah,2205,1987,GHA,4431,Ghana,GHA
+K. Busumtwi,2205,1987,GHA,4445,Ghana,GHA
+D. Bwanika,2205,1987,UGA,4446,Uganda,UGA
+J. Okoth,2205,1987,UGA,4574,Uganda,UGA
+W. Zabasajja,2205,1987,UGA,4655,Uganda,UGA
+M. Caruhana,2205,1987,MNC,4448,Monaco,MCO
+Y. Merqui,2205,1987,MNC,4552,Monaco,MCO
+M. Zapuzek,2205,1987,MNC,4657,Monaco,MCO
+Conejares,2205,1987,PNG,4458,Papua New Guinea,PNG
+H. Marko,2205,1987,PNG,4545,Papua New Guinea,PNG
+R. Perry,2205,1987,PNG,4586,Papua New Guinea,PNG
+J. Rush,2205,1987,PNG,4600,Papua New Guinea,PNG
+F. Gibson,2205,1987,BAH,4492,Bahamas,BHS
+G. Gueye,2205,1987,SEN,4495,Senegal,SEN
+D. Sakho,2205,1987,SEN,4602,Senegal,SEN
+F. Hamadto,2205,1987,SUD,4498,Sudan,SDN
+A. Osman,2205,1987,SUD,4578,Sudan,SDN
+S. Yousif,2205,1987,SUD,4651,Sudan,SDN
+M. Houna,2205,1987,MLI,4502,Mali,MLI
+A. Ly,2205,1987,MLI,4536,Mali,MLI
+O. Niono,2205,1987,MLI,4569,Mali,MLI
+A. Sy,2205,1987,MLI,4625,Mali,MLI
+A. Jallow,2205,1987,GAM,4507,Gambia,GMB
+M. Njie,2205,1987,GAM,4571,Gambia,GMB
+R. Jones,2205,1987,BOT,4511,Botswana,BWA
+G. Madikwe,2205,1987,BOT,4538,Botswana,BWA
+W. Kalunga,2205,1987,ZAM,4513,Zambia,ZMB
+M. Thole,2205,1987,ZAM,4631,Zambia,ZMB
+G. Laroche,2205,1987,HAI,4523,Haiti,HTI
+Martineau,2205,1987,HAI,4546,Haiti,HTI
+D. Medard,2205,1987,HAI,4550,Haiti,HTI
+G. Victor,2205,1987,HAI,4646,Haiti,HTI
+Magalotti,2205,1987,SMR,4539,San Marino,SMR
+E. Righi,2205,1987,SMR,4596,San Marino,SMR
+J. Mansoor,2205,1987,MRI,4541,Mauritius,MUS
+M. Mansoor,2205,1987,MRI,4542,Mauritius,MUS
+J. Singh,2205,1987,FIJ,4616,Fiji,FJI

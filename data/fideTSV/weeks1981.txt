@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 An. Karpov	2690	1981	USR	1	
 V. Kortchnoi	2650	1981	SUI	2	
 L. Portisch	2650	1981	HUN	3	
@@ -1341,7 +1341,7 @@ Mazul	2310	1981	POL	1339
 R. Meulders	2310	1981	BEL	1340	
 Micheli	2310	1981	ITA	1341	
 Monnard	2310	1981	FRA	1342	
-Ali,S. Nasir	2310	1981	IND	1343	
+AliS. Nasir	2310	1981	IND	1343	
 I. Novak	2310	1981	CSR	1344	
 M. Pasman	2310	1981	ISR	1345	
 J.C. Pigott	2310	1981	ENG	1346	

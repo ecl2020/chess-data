@@ -1,0 +1,916 @@
+Name,Rating,Year,Fed,Rank,name_FED,ISO3
+R. Fischer,2780,1975,USA,1,United States,USA
+R. Byrne,2600,1975,USA,14,United States,USA
+L. Kavalek,2555,1975,USA,30,United States,USA
+W.S. Browne,2550,1975,USA,31,United States,USA
+L.M. Evans,2530,1975,USA,50,United States,USA
+S. Reshevsky,2530,1975,USA,53,United States,USA
+W. Lombardy,2520,1975,USA,60,United States,USA
+P. Benko,2515,1975,USA,66,United States,USA
+L. Shamkovich,2505,1975,USA,80,United States,USA
+Tarjan,2480,1975,USA,117,United States,USA
+J. Grefe,2470,1975,USA,128,United States,USA
+N. Weinstein,2465,1975,USA,149,United States,USA
+E. Mednis,2455,1975,USA,168,United States,USA
+A. Bisguier,2445,1975,USA,192,United States,USA
+D. Byrne,2445,1975,USA,193,United States,USA
+L. Kaplan,2445,1975,USA,196,United States,USA
+K. Rogoff,2445,1975,USA,202,United States,USA
+A.F. Saidy,2445,1975,USA,203,United States,USA
+B. Zuckerman,2435,1975,USA,246,United States,USA
+Soltis,2430,1975,USA,266,United States,USA
+G. De Fotis,2425,1975,USA,274,United States,USA
+D. Ghizdavu,2425,1975,USA,277,United States,USA
+E.W. Formanek,2420,1975,USA,290,United States,USA
+K. Commons,2415,1975,USA,316,United States,USA
+O. Popovych,2405,1975,USA,375,United States,USA
+A. Feuerstein,2395,1975,USA,412,United States,USA
+A. Karklins,2395,1975,USA,418,United States,USA
+L. Christiansen,2390,1975,USA,439,United States,USA
+L. Kaufman,2390,1975,USA,448,United States,USA
+Rossolimo,2390,1975,USA,464,United States,USA
+W. Martz,2385,1975,USA,486,United States,USA
+Matera,2385,1975,USA,487,United States,USA
+C. Chellstorp,2380,1975,USA,505,United States,USA
+K. Smith,2370,1975,USA,573,United States,USA
+M.F. Stean,2370,1975,USA,577,United States,USA
+A. Dake,2360,1975,USA,612,United States,USA
+Gilden,2360,1975,USA,617,United States,USA
+E. Meyer,2340,1975,USA,725,United States,USA
+J.A. Peters,2335,1975,USA,754,United States,USA
+G. Kane,2330,1975,USA,776,United States,USA
+L. Levy,2330,1975,USA,782,United States,USA
+F. Thornally,2330,1975,USA,797,United States,USA
+S. Wagman,2325,1975,USA,825,United States,USA
+R. Martin,2320,1975,USA,838,United States,USA
+A. Denker,2310,1975,USA,879,United States,USA
+M. Diesen,2295,1975,USA,965,United States,USA
+P. Winston,2285,1975,USA,1018,United States,USA
+G.K. Gresser,2065,1975,USA,1391,United States,USA
+Karff,2060,1975,USA,1393,United States,USA
+Herstein,2035,1975,USA,1423,United States,USA
+Aaronson,1985,1975,USA,1451,United States,USA
+Donelly,1845,1975,USA,1513,United States,USA
+V. Kortchnoi,2665,1975,SUI,3,Switzerland,CHE
+W. Hug,2420,1975,SUI,292,Switzerland,CHE
+A. Lombard,2420,1975,SUI,296,Switzerland,CHE
+Luginbuhl,2400,1975,SUI,394,Switzerland,CHE
+R. Roth,2400,1975,SUI,403,Switzerland,CHE
+J. Kupper,2380,1975,SUI,520,Switzerland,CHE
+Vucenovic,2375,1975,SUI,544,Switzerland,CHE
+Glauser,2360,1975,SUI,618,Switzerland,CHE
+Huss,2360,1975,SUI,620,Switzerland,CHE
+Persitz,2345,1975,SUI,703,Switzerland,CHE
+Hohler,2335,1975,SUI,747,Switzerland,CHE
+Schaufelberger,2335,1975,SUI,758,Switzerland,CHE
+H. Wirthensohn,2330,1975,SUI,800,Switzerland,CHE
+E. Gereben,2325,1975,SUI,809,Switzerland,CHE
+E. Bhend,2315,1975,SUI,853,Switzerland,CHE
+Y. Mashian,2265,1975,SUI,1089,Switzerland,CHE
+Marthaler,2260,1975,SUI,1114,Switzerland,CHE
+P. Ammann,2250,1975,SUI,1135,Switzerland,CHE
+Walther,2245,1975,SUI,1169,Switzerland,CHE
+E. Goldberger,2230,1975,SUI,1205,Switzerland,CHE
+R. Ott,2225,1975,SUI,1229,Switzerland,CHE
+M. Keller,2190,1975,SUI,1315,Switzerland,CHE
+Nopfer,1995,1975,SUI,1450,Switzerland,CHE
+Wettstein,1830,1975,SUI,1520,Switzerland,CHE
+Lussy,1820,1975,SUI,1522,Switzerland,CHE
+L. Portisch,2635,1975,HUN,7,Hungary,HUN
+L. Szabo,2545,1975,HUN,35,Hungary,HUN
+I. Csom,2530,1975,HUN,49,Hungary,HUN
+Z. Ribli,2520,1975,HUN,62,Hungary,HUN
+A. Adorjan,2515,1975,HUN,64,Hungary,HUN
+Gy. Sax,2510,1975,HUN,76,Hungary,HUN
+I. Bilek,2495,1975,HUN,87,Hungary,HUN
+Gy.V. Forintos,2490,1975,HUN,94,Hungary,HUN
+G. Barcza,2460,1975,HUN,150,Hungary,HUN
+I. Farago,2460,1975,HUN,153,Hungary,HUN
+Karoly Honfi,2460,1975,HUN,155,Hungary,HUN
+L. Vadasz,2460,1975,HUN,162,Hungary,HUN
+L. Barczay,2445,1975,HUN,191,Hungary,HUN
+P. Dely,2445,1975,HUN,194,Hungary,HUN
+P. Szilagyi,2435,1975,HUN,243,Hungary,HUN
+E. Haag,2430,1975,HUN,255,Hungary,HUN
+L. Hazai,2420,1975,HUN,291,Hungary,HUN
+Ervin Nagy,2420,1975,HUN,298,Hungary,HUN
+F. Portisch,2420,1975,HUN,303,Hungary,HUN
+L. Liptay,2415,1975,HUN,322,Hungary,HUN
+J. Tompa,2415,1975,HUN,325,Hungary,HUN
+E. Varnusz,2415,1975,HUN,326,Hungary,HUN
+L. Lengyel,2410,1975,HUN,341,Hungary,HUN
+J. Pinter,2410,1975,HUN,348,Hungary,HUN
+Sapi,2410,1975,HUN,355,Hungary,HUN
+J. Pogats,2405,1975,HUN,374,Hungary,HUN
+Gy. Rajna,2405,1975,HUN,377,Hungary,HUN
+L. Eperjesi,2400,1975,HUN,384,Hungary,HUN
+Marosi,2400,1975,HUN,397,Hungary,HUN
+L. Navarovszky,2400,1975,HUN,399,Hungary,HUN
+I. Polgar,2395,1975,HUN,423,Hungary,HUN
+Pal Petran,2390,1975,HUN,460,Hungary,HUN
+J. Flesch,2385,1975,HUN,476,Hungary,HUN
+L.M. Kovacs,2385,1975,HUN,483,Hungary,HUN
+P. Lukacs,2385,1975,HUN,485,Hungary,HUN
+Szily,2375,1975,HUN,538,Hungary,HUN
+I. Somogyi,2370,1975,HUN,575,Hungary,HUN
+G. Szilagyi,2370,1975,HUN,580,Hungary,HUN
+Geszosz,2365,1975,HUN,592,Hungary,HUN
+Cs. Meleghegyi,2360,1975,HUN,625,Hungary,HUN
+J. Tabor,2355,1975,HUN,652,Hungary,HUN
+B. Sandor,2340,1975,HUN,732,Hungary,HUN
+Virag,2335,1975,HUN,762,Hungary,HUN
+Ortel,2330,1975,HUN,786,Hungary,HUN
+A. Ozsvath,2330,1975,HUN,787,Hungary,HUN
+Gy. Kluger,2320,1975,HUN,836,Hungary,HUN
+M. Ivanka-Budinsky,2310,1975,HUN,885,Hungary,HUN
+Hradeczky,2300,1975,HUN,939,Hungary,HUN
+Gasztonyi,2295,1975,HUN,966,Hungary,HUN
+Zs. Veroci-Petronic,2290,1975,HUN,997,Hungary,HUN
+Gy. Horvath,2280,1975,HUN,1031,Hungary,HUN
+I. Schrancz,2270,1975,HUN,1078,Hungary,HUN
+Sallay,2260,1975,HUN,1117,Hungary,HUN
+B. Perenyi,2255,1975,HUN,1130,Hungary,HUN
+B. Balogh,2250,1975,HUN,1136,Hungary,HUN
+P. Szekely,2250,1975,HUN,1152,Hungary,HUN
+J. Cuibus,2240,1975,HUN,1177,Hungary,HUN
+K. Muller,2230,1975,HUN,1214,Hungary,HUN
+Zs. Makai,2200,1975,HUN,1311,Hungary,HUN
+Karakas,2165,1975,HUN,1329,Hungary,HUN
+Porubszky-Angyalosin,2165,1975,HUN,1330,Hungary,HUN
+Gy. Krizsan-Bilek,2150,1975,HUN,1345,Hungary,HUN
+Mrs. Nagy,2110,1975,HUN,1364,Hungary,HUN
+Karolyne Honfi,2080,1975,HUN,1380,Hungary,HUN
+Csapo,2070,1975,HUN,1383,Hungary,HUN
+R. Kas,2070,1975,HUN,1386,Hungary,HUN
+E. Finta,2060,1975,HUN,1392,Hungary,HUN
+Karoly (Sillye),2060,1975,HUN,1394,Hungary,HUN
+L. Szaday,2030,1975,HUN,1426,Hungary,HUN
+T. Csonkics,2015,1975,HUN,1434,Hungary,HUN
+Langos,2005,1975,HUN,1441,Hungary,HUN
+P. Csatlos,1980,1975,HUN,1456,Hungary,HUN
+Geosch,1980,1975,HUN,1459,Hungary,HUN
+A. Dombovari,1970,1975,HUN,1468,Hungary,HUN
+Tokaji Nagi,1960,1975,HUN,1475,Hungary,HUN
+Cynolter,1930,1975,HUN,1491,Hungary,HUN
+Kubisch,1920,1975,HUN,1498,Hungary,HUN
+Jaszay,1895,1975,HUN,1504,Hungary,HUN
+Molnar,1890,1975,HUN,1506,Hungary,HUN
+B. Larsen,2625,1975,DEN,8,Denmark,DNK
+S. Hamann,2485,1975,DEN,106,Denmark,DNK
+O. Jakobsen,2435,1975,DEN,233,Denmark,DNK
+G. Iskov,2410,1975,DEN,336,Denmark,DNK
+K. Bjerring,2395,1975,DEN,408,Denmark,DNK
+H. Pedersen,2395,1975,DEN,422,Denmark,DNK
+B. Brinck-Claussen,2390,1975,DEN,434,Denmark,DNK
+S. Holm,2390,1975,DEN,447,Denmark,DNK
+B.R. Anderson,2380,1975,DEN,501,Denmark,DNK
+T. Bjerre,2380,1975,DEN,504,Denmark,DNK
+J. Sloth,2380,1975,DEN,526,Denmark,DNK
+J. Kristiansen,2370,1975,DEN,562,Denmark,DNK
+M. Moe,2365,1975,DEN,604,Denmark,DNK
+J. Ost-Hansen,2350,1975,DEN,675,Denmark,DNK
+U. Rath,2350,1975,DEN,677,Denmark,DNK
+Rosenlund,2345,1975,DEN,705,Denmark,DNK
+B. Jacobsen,2340,1975,DEN,718,Denmark,DNK
+Kolbak,2330,1975,DEN,778,Denmark,DNK
+F. Petersen,2330,1975,DEN,791,Denmark,DNK
+E. Brondum,2320,1975,DEN,830,Denmark,DNK
+S. Fedder,2315,1975,DEN,857,Denmark,DNK
+L. Moller,2315,1975,DEN,864,Denmark,DNK
+Norby,2310,1975,DEN,892,Denmark,DNK
+A. Jensen,2300,1975,DEN,941,Denmark,DNK
+B. Sorensen,2300,1975,DEN,956,Denmark,DNK
+Van Seeters,2295,1975,DEN,970,Denmark,DNK
+Hvenekilde,2245,1975,DEN,1164,Denmark,DNK
+P. Auchenberg,2225,1975,DEN,1224,Denmark,DNK
+O. Buch,2215,1975,DEN,1253,Denmark,DNK
+M. Haahr,2080,1975,DEN,1378,Denmark,DNK
+H. Mecking,2610,1975,BRA,12,Brazil,BRA
+A. Segal,2385,1975,BRA,494,Brazil,BRA
+H. Van Riemsdijk,2370,1975,BRA,583,Brazil,BRA
+H. Camara,2340,1975,BRA,713,Brazil,BRA
+German,2340,1975,BRA,716,Brazil,BRA
+Nobrega,2340,1975,BRA,727,Brazil,BRA
+Van Scheltinga,2325,1975,BRA,824,Brazil,BRA
+A. Rocha,2315,1975,BRA,868,Brazil,BRA
+F. Trois,2310,1975,BRA,901,Brazil,BRA
+P. Toth,2300,1975,BRA,959,Brazil,BRA
+R. Araujo,2280,1975,BRA,1020,Brazil,BRA
+Fiori,2280,1975,BRA,1027,Brazil,BRA
+H. Carvalho,2270,1975,BRA,1067,Brazil,BRA
+Dumont,2225,1975,BRA,1227,Brazil,BRA
+V. Chemin,2220,1975,BRA,1236,Brazil,BRA
+J. Sunye Neto,2205,1975,BRA,1306,Brazil,BRA
+R. Cardoso,2015,1975,BRA,1433,Brazil,BRA
+Moyses,2000,1975,BRA,1447,Brazil,BRA
+Snitkowski,1940,1975,BRA,1486,Brazil,BRA
+U. Andersson,2565,1975,SWE,25,Sweden,SWE
+M. Johansson,2430,1975,SWE,257,Sweden,SWE
+A. Ornstein,2430,1975,SWE,264,Sweden,SWE
+Ch. Niklasson,2425,1975,SWE,282,Sweden,SWE
+Bronstrom,2410,1975,SWE,331,Sweden,SWE
+Malmgren,2400,1975,SWE,396,Sweden,SWE
+Kinnmark,2385,1975,SWE,482,Sweden,SWE
+B. Jansson,2380,1975,SWE,514,Sweden,SWE
+L.-A. Schneider,2380,1975,SWE,525,Sweden,SWE
+J. Ivarsson,2375,1975,SWE,534,Sweden,SWE
+Olsson,2370,1975,SWE,566,Sweden,SWE
+E. Lundin,2360,1975,SWE,623,Sweden,SWE
+M. Wahlbohm,2355,1975,SWE,654,Sweden,SWE
+Fredriksson,2350,1975,SWE,664,Sweden,SWE
+H. Ek,2345,1975,SWE,692,Sweden,SWE
+J. Eslon,2345,1975,SWE,693,Sweden,SWE
+K. Kaiszauri,2345,1975,SWE,698,Sweden,SWE
+R. Lekander,2345,1975,SWE,700,Sweden,SWE
+L. Lijedahl,2325,1975,SWE,814,Sweden,SWE
+H. Akvist,2315,1975,SWE,852,Sweden,SWE
+Skold,2315,1975,SWE,869,Sweden,SWE
+Nordstrom,2310,1975,SWE,893,Sweden,SWE
+T. Wedberg,2305,1975,SWE,921,Sweden,SWE
+D. Hansson,2290,1975,SWE,984,Sweden,SWE
+Y. Stepak,2280,1975,SWE,1047,Sweden,SWE
+D. Uddenfeldt,2280,1975,SWE,1049,Sweden,SWE
+Ekenberg,2270,1975,SWE,1070,Sweden,SWE
+A. Fridh,2270,1975,SWE,1071,Sweden,SWE
+Krantz,2265,1975,SWE,1088,Sweden,SWE
+Josefsson,2260,1975,SWE,1105,Sweden,SWE
+Ljungquist,2250,1975,SWE,1145,Sweden,SWE
+P.I. Helmertz,2245,1975,SWE,1163,Sweden,SWE
+G. Dahlin,2215,1975,SWE,1255,Sweden,SWE
+Ljungdahl,2215,1975,SWE,1258,Sweden,SWE
+P. Karlsson,2205,1975,SWE,1299,Sweden,SWE
+Malmden,2120,1975,SWE,1355,Sweden,SWE
+B. Borisova,2085,1975,SWE,1372,Sweden,SWE
+J. Dahlin,2040,1975,SWE,1415,Sweden,SWE
+I. Svensson,2010,1975,SWE,1439,Sweden,SWE
+Haraldsson,1885,1975,SWE,1507,Sweden,SWE
+O. Panno,2545,1975,ARG,34,Argentina,ARG
+R. Sanguinetti,2530,1975,ARG,54,Argentina,ARG
+Najdorf,2510,1975,ARG,72,Argentina,ARG
+Quinteros,2505,1975,ARG,79,Argentina,ARG
+R. Grinberg,2460,1975,ARG,154,Argentina,ARG
+Rai. Garcia,2455,1975,ARG,167,Argentina,ARG
+J. Rubinetti,2440,1975,ARG,219,Argentina,ARG
+Schweber,2440,1975,ARG,222,Argentina,ARG
+H. Pilnik,2435,1975,ARG,238,Argentina,ARG
+J. Szmetan,2435,1975,ARG,244,Argentina,ARG
+J. Hase,2430,1975,ARG,256,Argentina,ARG
+H. Rossetto,2430,1975,ARG,265,Argentina,ARG
+J. Bolbochan,2420,1975,ARG,287,Argentina,ARG
+O. Cuasnicu,2410,1975,ARG,334,Argentina,ARG
+J. Emma,2405,1975,ARG,367,Argentina,ARG
+Palermo,2400,1975,ARG,400,Argentina,ARG
+R. Debarnot,2380,1975,ARG,506,Argentina,ARG
+Poch,2380,1975,ARG,524,Argentina,ARG
+Fraile,2370,1975,ARG,555,Argentina,ARG
+C. Garcia Palermo,2370,1975,ARG,556,Argentina,ARG
+Leski,2370,1975,ARG,564,Argentina,ARG
+F. Casas,2360,1975,ARG,608,Argentina,ARG
+H. De la Vega,2360,1975,ARG,613,Argentina,ARG
+H. Garcia,2360,1975,ARG,615,Argentina,ARG
+Pelikan,2360,1975,ARG,627,Argentina,ARG
+L. Bronstein,2355,1975,ARG,640,Argentina,ARG
+A. Foguelman,2350,1975,ARG,663,Argentina,ARG
+C.A. Martinez,2340,1975,ARG,724,Argentina,ARG
+Reinhardt,2325,1975,ARG,820,Argentina,ARG
+A. Aparicio,2320,1975,ARG,829,Argentina,ARG
+C.E. Juarez,2320,1975,ARG,834,Argentina,ARG
+Sumiacher,2315,1975,ARG,870,Argentina,ARG
+Brond,2310,1975,ARG,872,Argentina,ARG
+R. Ocampo,2305,1975,ARG,912,Argentina,ARG
+Steinbaum,2305,1975,ARG,917,Argentina,ARG
+Szlos,2305,1975,ARG,918,Argentina,ARG
+S. Giardelli,2300,1975,ARG,935,Argentina,ARG
+R. Hase,2300,1975,ARG,936,Argentina,ARG
+J. Morgado,2300,1975,ARG,945,Argentina,ARG
+O. Bazan,2290,1975,ARG,973,Argentina,ARG
+Rebizzo,2280,1975,ARG,1043,Argentina,ARG
+R. Sabao,2275,1975,ARG,1060,Argentina,ARG
+N. Lopez,2260,1975,ARG,1108,Argentina,ARG
+Marcussi,2260,1975,ARG,1112,Argentina,ARG
+C. Amado,2235,1975,ARG,1188,Argentina,ARG
+C. Bulcourf,2230,1975,ARG,1204,Argentina,ARG
+J.M. Carbone,2220,1975,ARG,1234,Argentina,ARG
+A. Anelli,2215,1975,ARG,1252,Argentina,ARG
+Castillo,2215,1975,ARG,1254,Argentina,ARG
+Kirchmayer,2210,1975,ARG,1281,Argentina,ARG
+F. Olafsson,2535,1975,ISL,44,Iceland,ISL
+G. Sigurjonsson,2475,1975,ISL,125,Iceland,ISL
+Th. Thorsteinsson,2410,1975,ISL,357,Iceland,ISL
+I. Asmundsson,2405,1975,ISL,362,Iceland,ISL
+O. Magnusson,2400,1975,ISL,395,Iceland,ISL
+I.R. Johannsson,2395,1975,ISL,415,Iceland,ISL
+B. Benedictsson,2375,1975,ISL,529,Iceland,ISL
+M. Solmundarsson,2370,1975,ISL,574,Iceland,ISL
+J. Thor,2370,1975,ISL,581,Iceland,ISL
+J. Kristinsson,2350,1975,ISL,670,Iceland,ISL
+Josteinsson,2345,1975,ISL,697,Iceland,ISL
+Bj. Sigurjonsson,2345,1975,ISL,708,Iceland,ISL
+Thorvaldsson,2340,1975,ISL,735,Iceland,ISL
+Thorbergsson,2320,1975,ISL,847,Iceland,ISL
+Toro Sanchez,2320,1975,ISL,848,Iceland,ISL
+G. Gunnarsson,2310,1975,ISL,883,Iceland,ISL
+B. Kristjansson,2300,1975,ISL,942,Iceland,ISL
+J. Fridjonsson,2290,1975,ISL,981,Iceland,ISL
+Br. Halldorsson,2290,1975,ISL,983,Iceland,ISL
+J.G. Jonsson,2285,1975,ISL,1007,Iceland,ISL
+Viglundsson,2285,1975,ISL,1017,Iceland,ISL
+S. Bjarnason,2235,1975,ISL,1190,Iceland,ISL
+Bj. Halldorsson,2230,1975,ISL,1206,Iceland,ISL
+Thorleifsson,2230,1975,ISL,1222,Iceland,ISL
+E. Gudmundsson,2225,1975,ISL,1228,Iceland,ISL
+Georgsson,2220,1975,ISL,1240,Iceland,ISL
+J. Diez Del Corral,2515,1975,ESP,67,Spain,ESP
+Pomar,2450,1975,ESP,184,Spain,ESP
+R. Toran Albero,2440,1975,ESP,227,Spain,ESP
+R. Calvo Minguez,2435,1975,ESP,231,Spain,ESP
+J.M. Bellon Lopez,2415,1975,ESP,314,Spain,ESP
+J. Fraguela Gil,2390,1975,ESP,445,Spain,ESP
+F. Visier Segovia,2375,1975,ESP,543,Spain,ESP
+Betancort C.J.,2360,1975,ESP,607,Spain,ESP
+Lac. Menvielle,2360,1975,ESP,626,Spain,ESP
+A. Medina,2345,1975,ESP,701,Spain,ESP
+E. Palacios,2330,1975,ESP,789,Spain,ESP
+J. Sanz,2320,1975,ESP,844,Spain,ESP
+A. Fernandez,2300,1975,ESP,931,Spain,ESP
+Pijuan,2285,1975,ESP,1013,Spain,ESP
+Bartrina,2280,1975,ESP,1022,Spain,ESP
+J. Dominguez Sanz,2265,1975,ESP,1084,Spain,ESP
+G.M. Ruiz,2260,1975,ESP,1116,Spain,ESP
+Merino,2255,1975,ESP,1128,Spain,ESP
+Pujol,2215,1975,ESP,1263,Spain,ESP
+Del Pino Garcia,2120,1975,ESP,1354,Spain,ESP
+P. Ferrer-Lucas,2075,1975,ESP,1381,Spain,ESP
+E. Torre,2515,1975,PHI,70,Philippines,PHL
+T. Cardoso,2410,1975,PHI,332,Philippines,PHL
+R. Rodriguez,2410,1975,PHI,352,Philippines,PHL
+R. Naranja,2385,1975,PHI,489,Philippines,PHL
+R. Balinas,2355,1975,PHI,637,Philippines,PHL
+S. Esitmo,2350,1975,PHI,661,Philippines,PHL
+Lontoc,2335,1975,PHI,751,Philippines,PHL
+Kaimo,2325,1975,PHI,811,Philippines,PHL
+Lobigas,2325,1975,PHI,815,Philippines,PHL
+R. De la Vega,2320,1975,PHI,832,Philippines,PHL
+Abella,2305,1975,PHI,905,Philippines,PHL
+R. Mascarinas,2305,1975,PHI,910,Philippines,PHL
+Bordonada,2300,1975,PHI,927,Philippines,PHL
+Badilles,2295,1975,PHI,961,Philippines,PHL
+E. De Castro,2285,1975,PHI,1001,Philippines,PHL
+L. Maninang,2255,1975,PHI,1127,Philippines,PHL
+V. Torre,2255,1975,PHI,1132,Philippines,PHL
+Aguilar,2235,1975,PHI,1187,Philippines,PHL
+C. Caturla,2220,1975,PHI,1235,Philippines,PHL
+I. Radulov,2510,1975,BUL,75,Bulgaria,BGR
+Padevsky,2480,1975,BUL,113,Bulgaria,BGR
+Tringov,2470,1975,BUL,137,Bulgaria,BGR
+L. Popov,2460,1975,BUL,161,Bulgaria,BGR
+M. Bobotsov,2440,1975,BUL,206,Bulgaria,BGR
+N. Spiridonov,2440,1975,BUL,224,Bulgaria,BGR
+N. Kirov,2435,1975,BUL,234,Bulgaria,BGR
+E. Ermenkov,2430,1975,BUL,254,Bulgaria,BGR
+N. Minev,2430,1975,BUL,261,Bulgaria,BGR
+V. Spasov,2430,1975,BUL,267,Bulgaria,BGR
+P. Peev,2425,1975,BUL,283,Bulgaria,BGR
+Kolarov,2415,1975,BUL,321,Bulgaria,BGR
+Pasev,2410,1975,BUL,347,Bulgaria,BGR
+G. Atanasov,2405,1975,BUL,363,Bulgaria,BGR
+S. Bohosjan,2405,1975,BUL,364,Bulgaria,BGR
+T. Iym,2405,1975,BUL,371,Bulgaria,BGR
+Kozarov,2380,1975,BUL,517,Bulgaria,BGR
+P. Orev,2370,1975,BUL,567,Bulgaria,BGR
+P. Velikov,2370,1975,BUL,584,Bulgaria,BGR
+Radev,2360,1975,BUL,630,Bulgaria,BGR
+Spirov,2360,1975,BUL,633,Bulgaria,BGR
+G. Daskalov,2355,1975,BUL,641,Bulgaria,BGR
+A. Babev,2350,1975,BUL,655,Bulgaria,BGR
+D. Dobrev,2350,1975,BUL,659,Bulgaria,BGR
+D. Pelitov,2350,1975,BUL,676,Bulgaria,BGR
+Karapchanski,2345,1975,BUL,699,Bulgaria,BGR
+Jankov,2340,1975,BUL,719,Bulgaria,BGR
+V. Inkiov,2335,1975,BUL,748,Bulgaria,BGR
+K. Angelov,2325,1975,BUL,802,Bulgaria,BGR
+P. Petrov,2325,1975,BUL,819,Bulgaria,BGR
+J. Ajanski,2320,1975,BUL,827,Bulgaria,BGR
+Prodanov,2315,1975,BUL,867,Bulgaria,BGR
+Sp. Ivanov,2310,1975,BUL,886,Bulgaria,BGR
+Mandrov,2310,1975,BUL,889,Bulgaria,BGR
+D. Pantaleev,2310,1975,BUL,894,Bulgaria,BGR
+Pipkov,2300,1975,BUL,949,Bulgaria,BGR
+P. Arnaudov,2280,1975,BUL,1021,Bulgaria,BGR
+Srebrov,2280,1975,BUL,1046,Bulgaria,BGR
+A. Merdinjan,2275,1975,BUL,1057,Bulgaria,BGR
+Stankov,2270,1975,BUL,1079,Bulgaria,BGR
+V. Antonov,2265,1975,BUL,1083,Bulgaria,BGR
+Kizov,2265,1975,BUL,1087,Bulgaria,BGR
+Sidjakov,2265,1975,BUL,1096,Bulgaria,BGR
+Konstantinov,2250,1975,BUL,1144,Bulgaria,BGR
+Slavkov,2250,1975,BUL,1150,Bulgaria,BGR
+S. Bonchev,2240,1975,BUL,1175,Bulgaria,BGR
+T. Lematchko,2240,1975,BUL,1180,Bulgaria,BGR
+Kerchev,2235,1975,BUL,1198,Bulgaria,BGR
+Milev,2230,1975,BUL,1213,Bulgaria,BGR
+Tomov,2230,1975,BUL,1223,Bulgaria,BGR
+Dragasevic-Georgieva,2170,1975,BUL,1326,Bulgaria,BGR
+ Gocheva(Bojadgieva),2160,1975,BUL,1333,Bulgaria,BGR
+V. Asenova,2155,1975,BUL,1338,Bulgaria,BGR
+Kruger,2070,1975,BUL,1387,Bulgaria,BGR
+Trojanska,2060,1975,BUL,1397,Bulgaria,BGR
+P. Jovkova-Draganova,2050,1975,BUL,1406,Bulgaria,BGR
+Shikova,2040,1975,BUL,1419,Bulgaria,BGR
+Todorova,2040,1975,BUL,1421,Bulgaria,BGR
+Petrova,2030,1975,BUL,1425,Bulgaria,BGR
+Tashcian,2000,1975,BUL,1448,Bulgaria,BGR
+Dimova,1980,1975,BUL,1457,Bulgaria,BGR
+Brichikova,1970,1975,BUL,1466,Bulgaria,BGR
+Mihailova,1970,1975,BUL,1469,Bulgaria,BGR
+L. Nestorova-Petrova,1970,1975,BUL,1470,Bulgaria,BGR
+Kaleva,1900,1975,BUL,1503,Bulgaria,BGR
+Dimitrova,1860,1975,BUL,1510,Bulgaria,BGR
+Kalaianova,1840,1975,BUL,1514,Bulgaria,BGR
+Nedelcheva,1820,1975,BUL,1523,Bulgaria,BGR
+Chapkunova,1805,1975,BUL,1526,Bulgaria,BGR
+J. Timman,2510,1975,NED,77,Netherlands,NLD
+J. Donner,2485,1975,NED,103,Netherlands,NLD
+Ree,2470,1975,NED,134,Netherlands,NLD
+G. Sosonko,2470,1975,NED,135,Netherlands,NLD
+F. Kuijpers,2445,1975,NED,199,Netherlands,NLD
+C. Zuidema,2445,1975,NED,204,Netherlands,NLD
+H. Bouwmeester,2420,1975,NED,288,Netherlands,NLD
+B. Enklaar,2410,1975,NED,335,Netherlands,NLD
+K. Langeweg,2410,1975,NED,339,Netherlands,NLD
+N. Cortlever,2405,1975,NED,365,Netherlands,NLD
+J. Marcus,2395,1975,NED,421,Netherlands,NLD
+Scholl,2385,1975,NED,493,Netherlands,NLD
+T. Timman,2385,1975,NED,496,Netherlands,NLD
+R. Hartoch,2375,1975,NED,533,Netherlands,NLD
+G. Ligterink,2365,1975,NED,602,Netherlands,NLD
+D.D. Van Geet,2350,1975,NED,685,Netherlands,NLD
+A. Van Dop,2340,1975,NED,736,Netherlands,NLD
+P.A. Boersma,2335,1975,NED,739,Netherlands,NLD
+Van Reek,2335,1975,NED,760,Netherlands,NLD
+Vogel,2335,1975,NED,763,Netherlands,NLD
+Kramer,2330,1975,NED,779,Netherlands,NLD
+Barendregt,2325,1975,NED,803,Netherlands,NLD
+J. Van Baarle,2320,1975,NED,850,Netherlands,NLD
+F. Van der Vliet,2320,1975,NED,851,Netherlands,NLD
+R. Dieks,2305,1975,NED,908,Netherlands,NLD
+L. Jongsma,2305,1975,NED,909,Netherlands,NLD
+A. Van der Mije,2305,1975,NED,920,Netherlands,NLD
+H. Bohm,2300,1975,NED,926,Netherlands,NLD
+Krabbe,2290,1975,NED,986,Netherlands,NLD
+G. Van den Berg,2290,1975,NED,995,Netherlands,NLD
+P. Van der Weide,2290,1975,NED,996,Netherlands,NLD
+Knol,2280,1975,NED,1036,Netherlands,NLD
+L. Prins,2265,1975,NED,1094,Netherlands,NLD
+N. Bloch,2260,1975,NED,1100,Netherlands,NLD
+R. Witt,2260,1975,NED,1121,Netherlands,NLD
+Nijdam,2215,1975,NED,1260,Netherlands,NLD
+C. Baljon,2210,1975,NED,1272,Netherlands,NLD
+C. Vreeken,2160,1975,NED,1337,Netherlands,NLD
+Van der Giessen,2070,1975,NED,1389,Netherlands,NLD
+I. Janssen,2055,1975,NED,1400,Netherlands,NLD
+R. Timmer,2050,1975,NED,1409,Netherlands,NLD
+F. Heemskerk,2025,1975,NED,1427,Netherlands,NLD
+De Graaf,2020,1975,NED,1428,Netherlands,NLD
+Tuk,2020,1975,NED,1431,Netherlands,NLD
+C. Bruinenberg,2015,1975,NED,1432,Netherlands,NLD
+E. Belle,1935,1975,NED,1488,Netherlands,NLD
+J. Mulder,1935,1975,NED,1490,Netherlands,NLD
+Haak,1870,1975,NED,1508,Netherlands,NLD
+R. Keene,2505,1975,ENG,78,United Kingdom,GBR
+W. Hartston,2475,1975,ENG,120,United Kingdom,GBR
+J. Horner,2450,1975,ENG,180,United Kingdom,GBR
+A. Miles,2435,1975,ENG,236,United Kingdom,GBR
+Penrose,2420,1975,ENG,301,United Kingdom,GBR
+M.J. Basman,2395,1975,ENG,406,United Kingdom,GBR
+R. Webb,2385,1975,ENG,500,United Kingdom,GBR
+A.J. Whiteley,2380,1975,ENG,527,United Kingdom,GBR
+R. Bellin,2375,1975,ENG,528,United Kingdom,GBR
+Ji. Nun,2375,1975,ENG,536,United Kingdom,GBR
+R. Eales,2370,1975,ENG,553,United Kingdom,GBR
+J. Speelman,2370,1975,ENG,576,United Kingdom,GBR
+Holloway,2365,1975,ENG,593,United Kingdom,GBR
+P. Clarke,2350,1975,ENG,658,United Kingdom,GBR
+B. Eley,2340,1975,ENG,715,United Kingdom,GBR
+J. Littlewood,2340,1975,ENG,723,United Kingdom,GBR
+B. Cafferty,2335,1975,ENG,741,United Kingdom,GBR
+M. Haygarth,2335,1975,ENG,746,United Kingdom,GBR
+M.J. Franklin,2325,1975,ENG,806,United Kingdom,GBR
+Knox,2320,1975,ENG,837,United Kingdom,GBR
+Corden,2315,1975,ENG,855,United Kingdom,GBR
+D. Friedgood,2310,1975,ENG,881,United Kingdom,GBR
+Perkins,2300,1975,ENG,947,United Kingdom,GBR
+Mestelj.,2290,1975,ENG,988,United Kingdom,GBR
+C. Crouch,2285,1975,ENG,1000,United Kingdom,GBR
+P. Griffiths,2285,1975,ENG,1003,United Kingdom,GBR
+Saverymuttu,2280,1975,ENG,1045,United Kingdom,GBR
+De Veauce,2270,1975,ENG,1068,United Kingdom,GBR
+J. Carleton,2250,1975,ENG,1139,United Kingdom,GBR
+Hartston (F),2250,1975,ENG,1142,United Kingdom,GBR
+P.A. Sunnucks,2075,1975,ENG,1382,United Kingdom,GBR
+J. Wright,2070,1975,ENG,1390,United Kingdom,GBR
+E. Pritchard,2060,1975,ENG,1396,United Kingdom,GBR
+Caldwell,2050,1975,ENG,1403,United Kingdom,GBR
+O. Chataway,2050,1975,ENG,1404,United Kingdom,GBR
+Sh. Jackson,2030,1975,ENG,1424,United Kingdom,GBR
+A.E. Clarke,1970,1975,ENG,1467,United Kingdom,GBR
+I. Rogers,1865,1975,ENG,1509,United Kingdom,GBR
+Galtsmith-Clarke,1800,1975,ENG,1528,United Kingdom,GBR
+S. Mariotti,2495,1975,ITA,90,Italy,ITA
+S. Tatai,2455,1975,ITA,175,Italy,ITA
+R. Cosulich,2430,1975,ITA,252,Italy,ITA
+M. Paolozzi,2380,1975,ITA,522,Italy,ITA
+B. Toth,2375,1975,ITA,540,Italy,ITA
+Micheli,2335,1975,ITA,753,Italy,ITA
+A. Zichichi,2330,1975,ITA,801,Italy,ITA
+R. Cappello,2310,1975,ITA,874,Italy,ITA
+G. Cappello,2285,1975,ITA,998,Italy,ITA
+Porreca,2285,1975,ITA,1014,Italy,ITA
+R. Primavera,2275,1975,ITA,1059,Italy,ITA
+E. Paoli,2270,1975,ITA,1076,Italy,ITA
+Contedini,2260,1975,ITA,1101,Italy,ITA
+Beggi,2250,1975,ITA,1138,Italy,ITA
+Trincardi,2250,1975,ITA,1154,Italy,ITA
+G. Primavera,2240,1975,ITA,1184,Italy,ITA
+Nestler,2220,1975,ITA,1245,Italy,ITA
+Valenti,2215,1975,ITA,1268,Italy,ITA
+Capece,2205,1975,ITA,1290,Italy,ITA
+G. Garcia Gonzales,2485,1975,CUB,105,Cuba,CUB
+S. Garcia Martinez,2445,1975,CUB,195,Cuba,CUB
+A. Rodriguez,2435,1975,CUB,239,Cuba,CUB
+Juan C. Fernandez,2415,1975,CUB,319,Cuba,CUB
+Rom. Hernandez,2395,1975,CUB,414,Cuba,CUB
+J. Rodriguez,2390,1975,CUB,463,Cuba,CUB
+A. Barreras,2380,1975,CUB,502,Cuba,CUB
+E. Jimenez,2375,1975,CUB,535,Cuba,CUB
+A. Valdes-Castillo,2375,1975,CUB,542,Cuba,CUB
+E. Cobo Arteaga,2370,1975,CUB,551,Cuba,CUB
+J. Boudy,2355,1975,CUB,639,Cuba,CUB
+G. Lebredo,2355,1975,CUB,646,Cuba,CUB
+J.C. Diaz,2345,1975,CUB,691,Cuba,CUB
+J.L. Vilela,2335,1975,CUB,761,Cuba,CUB
+G. Estevez,2330,1975,CUB,770,Cuba,CUB
+L. Ortega,2330,1975,CUB,785,Cuba,CUB
+N.B. Pinal,2315,1975,CUB,865,Cuba,CUB
+Jo.J. Hernandez,2310,1975,CUB,884,Cuba,CUB
+B. Rakic-Serjanc,2310,1975,CUB,897,Cuba,CUB
+J. Triana,2310,1975,CUB,900,Cuba,CUB
+W. Garcia,2300,1975,CUB,932,Cuba,CUB
+C.A. Fernandez,2290,1975,CUB,979,Cuba,CUB
+Junco,2290,1975,CUB,985,Cuba,CUB
+Mederos,2285,1975,CUB,1010,Cuba,CUB
+Soler,2285,1975,CUB,1015,Cuba,CUB
+D. Ramos,2280,1975,CUB,1042,Cuba,CUB
+Gilb. Garcia,2260,1975,CUB,1102,Cuba,CUB
+Trujillo,2255,1975,CUB,1133,Cuba,CUB
+Pelaez,2230,1975,CUB,1216,Cuba,CUB
+Padron,2215,1975,CUB,1262,Cuba,CUB
+V. Liberzon,2485,1975,ISR,107,Israel,ISR
+Y. Kraidman,2460,1975,ISR,158,Israel,ISR
+Y. Bleiman,2455,1975,ISR,163,Israel,ISR
+Radashkovich,2440,1975,ISR,217,Israel,ISR
+A. Balshan,2435,1975,ISR,229,Israel,ISR
+S. Kagan,2420,1975,ISR,295,Israel,ISR
+M. Czerniak,2390,1975,ISR,441,Israel,ISR
+L. Lederman,2390,1975,ISR,453,Israel,ISR
+S. Friedman,2385,1975,ISR,477,Israel,ISR
+Kaldor,2370,1975,ISR,561,Israel,ISR
+M. Peretz,2370,1975,ISR,569,Israel,ISR
+G. Richter,2370,1975,ISR,571,Israel,ISR
+A. Kushnir,2365,1975,ISR,601,Israel,ISR
+A. Mart,2350,1975,ISR,673,Israel,ISR
+Porat,2345,1975,ISR,704,Israel,ISR
+Z. Domnitz,2335,1975,ISR,743,Israel,ISR
+I. Gelfer,2325,1975,ISR,808,Israel,ISR
+U. Geller,2310,1975,ISR,882,Israel,ISR
+Romm,2305,1975,ISR,914,Israel,ISR
+O. Podrazhanskaya,2160,1975,ISR,1335,Israel,ISR
+Nudelman,2050,1975,ISR,1407,Israel,ISR
+L. Gal,2040,1975,ISR,1416,Israel,ISR
+Rabinovitsch,1830,1975,ISR,1519,Israel,ISR
+H.M.J. Westerinen,2475,1975,FIN,126,Finland,FIN
+Rantanen,2410,1975,FIN,350,Finland,FIN
+Poutiainen,2395,1975,FIN,424,Finland,FIN
+H. Hurme,2370,1975,FIN,558,Finland,FIN
+Venalainen,2360,1975,FIN,635,Finland,FIN
+Saren,2350,1975,FIN,678,Finland,FIN
+Maki-Mantan,2330,1975,FIN,783,Finland,FIN
+K. Ojanen,2325,1975,FIN,818,Finland,FIN
+Nykopp,2320,1975,FIN,840,Finland,FIN
+K. Sorri,2310,1975,FIN,899,Finland,FIN
+Kanko,2230,1975,FIN,1209,Finland,FIN
+Raaste,2200,1975,FIN,1313,Finland,FIN
+Vuorenpaa,1955,1975,FIN,1477,Finland,FIN
+Tuomainen,1805,1975,FIN,1527,Finland,FIN
+Zwaig,2475,1975,NOR,127,Norway,NOR
+L. Ogaard,2460,1975,NOR,160,Norway,NOR
+S. Johannessen,2410,1975,NOR,337,Norway,NOR
+E. Poulsson,2410,1975,NOR,349,Norway,NOR
+E. Kristiansen,2400,1975,NOR,390,Norway,NOR
+O. Hjertenes,2370,1975,NOR,557,Norway,NOR
+T. Wibe,2370,1975,NOR,585,Norway,NOR
+O. Sande,2365,1975,NOR,605,Norway,NOR
+Harestad,2350,1975,NOR,667,Norway,NOR
+Hoen,2350,1975,NOR,669,Norway,NOR
+Ulrichsen,2350,1975,NOR,684,Norway,NOR
+S. Heim,2345,1975,NOR,695,Norway,NOR
+A.V. Gulbrandsen,2335,1975,NOR,745,Norway,NOR
+D. De Lange,2300,1975,NOR,929,Norway,NOR
+Hatlebakk,2275,1975,NOR,1055,Norway,NOR
+H. Gundersen,2260,1975,NOR,1103,Norway,NOR
+Y. Barda,2240,1975,NOR,1173,Norway,NOR
+K.J. Helmers,2235,1975,NOR,1196,Norway,NOR
+Ofstad,2230,1975,NOR,1215,Norway,NOR
+O. Moen,2210,1975,NOR,1282,Norway,NOR
+Folling,2200,1975,NOR,1309,Norway,NOR
+Matijasevic,1930,1975,NOR,1493,Norway,NOR
+Woodhams,2470,1975,AUS,139,Australia,AUS
+R.M. Jamieson,2420,1975,AUS,294,Australia,AUS
+M.L. Fuller,2400,1975,AUS,385,Australia,AUS
+T.I. Shaw,2370,1975,AUS,572,Australia,AUS
+D.G. Hamilton,2285,1975,AUS,1004,Australia,AUS
+A. Flatow,2280,1975,AUS,1028,Australia,AUS
+Mcgrath,2010,1975,AUS,1436,Australia,AUS
+N. Kellner,1930,1975,AUS,1492,Australia,AUS
+W. Schmidt,2465,1975,POL,148,Poland,POL
+J.B. Bednarski,2425,1975,POL,271,Poland,POL
+K. Pytel,2420,1975,POL,304,Poland,POL
+J. Adamski,2415,1975,POL,310,Poland,POL
+A. Filipowicz,2405,1975,POL,368,Poland,POL
+R. Grabczewski,2395,1975,POL,413,Poland,POL
+A. Sydor,2395,1975,POL,429,Poland,POL
+Z. Doda,2390,1975,POL,442,Poland,POL
+Kostro,2390,1975,POL,450,Poland,POL
+Szymczak,2390,1975,POL,467,Poland,POL
+R. Bernard,2380,1975,POL,503,Poland,POL
+A. Maciejewski,2380,1975,POL,521,Poland,POL
+W. Balcerowski,2365,1975,POL,587,Poland,POL
+R. Marszalek,2350,1975,POL,672,Poland,POL
+Schinzel,2350,1975,POL,681,Poland,POL
+S. Witkowski,2345,1975,POL,711,Poland,POL
+T. Zoltek,2345,1975,POL,712,Poland,POL
+A. Kuligowski,2340,1975,POL,721,Poland,POL
+Dobrynski,2330,1975,POL,769,Poland,POL
+K. Pinkas,2330,1975,POL,793,Poland,POL
+K. Sznapik,2330,1975,POL,796,Poland,POL
+Mazul,2325,1975,POL,816,Poland,POL
+Drozd,2320,1975,POL,833,Poland,POL
+J. Pokojowczyk,2315,1975,POL,866,Poland,POL
+Manasterski,2310,1975,POL,888,Poland,POL
+Potedtiniec,2310,1975,POL,896,Poland,POL
+B. Pietrusiak,2300,1975,POL,948,Poland,POL
+R. Grossmann,2290,1975,POL,982,Poland,POL
+Th. Pioch,2280,1975,POL,1040,Poland,POL
+Ig. Nowak,2275,1975,POL,1058,Poland,POL
+Kruszynski,2270,1975,POL,1074,Poland,POL
+Jambor,2260,1975,POL,1104,Poland,POL
+Luczynowicz,2260,1975,POL,1109,Poland,POL
+Pilot,2245,1975,POL,1167,Poland,POL
+Pojedzimiec,2230,1975,POL,1217,Poland,POL
+K. Radzikowska,2160,1975,POL,1336,Poland,POL
+H. Erenska-Radzewska,2155,1975,POL,1339,Poland,POL
+Szota,2120,1975,POL,1357,Poland,POL
+W. Litmanowicz,2115,1975,POL,1359,Poland,POL
+Jurczynska,2090,1975,POL,1370,Poland,POL
+Kasprzyk,2045,1975,POL,1412,Poland,POL
+Riabchonok,2005,1975,POL,1442,Poland,POL
+Kowalska,2000,1975,POL,1446,Poland,POL
+Hellwig,1980,1975,POL,1461,Poland,POL
+Scholl,1975,1975,POL,1465,Poland,POL
+Dembecka,1945,1975,POL,1482,Poland,POL
+V. Kupreichik,2460,1975,CAN,159,Canada,CAN
+Suttles,2440,1975,CAN,226,Canada,CAN
+P. Biyiasas,2430,1975,CAN,248,Canada,CAN
+Z. Vranesic,2430,1975,CAN,269,Canada,CAN
+Amos,2415,1975,CAN,312,Canada,CAN
+D.A. Yanofsky,2415,1975,CAN,329,Canada,CAN
+Lipnowski,2400,1975,CAN,393,Canada,CAN
+L. Piasetski,2360,1975,CAN,629,Canada,CAN
+D. Allan,2355,1975,CAN,636,Canada,CAN
+L. Day,2335,1975,CAN,742,Canada,CAN
+L. Witt,2325,1975,CAN,826,Canada,CAN
+C. Coudari,2295,1975,CAN,964,Canada,CAN
+Selick,2275,1975,CAN,1061,Canada,CAN
+R.D. Zuk,2260,1975,CAN,1122,Canada,CAN
+J. Berry,2240,1975,CAN,1174,Canada,CAN
+Nurmi,2240,1975,CAN,1183,Canada,CAN
+Vujosevic,2115,1975,CAN,1362,Canada,CAN
+Demers,1950,1975,CAN,1478,Canada,CAN
+K. Robatsch,2455,1975,AUT,173,Austria,AUT
+A. Dueckstein,2430,1975,AUT,253,Austria,AUT
+Prameshuber,2395,1975,AUT,425,Austria,AUT
+H. Holaszek,2385,1975,AUT,479,Austria,AUT
+Rohrl,2385,1975,AUT,490,Austria,AUT
+W. Strobel,2365,1975,AUT,606,Austria,AUT
+K. Janetschek,2355,1975,AUT,643,Austria,AUT
+T. Hay,2350,1975,AUT,668,Austria,AUT
+Stoppel,2335,1975,AUT,759,Austria,AUT
+Watzka,2310,1975,AUT,904,Austria,AUT
+Madden-Pope,2260,1975,AUT,1110,Austria,AUT
+A. Beni,2210,1975,AUT,1273,Austria,AUT
+Dora,2210,1975,AUT,1275,Austria,AUT
+H. Zoebisch,2210,1975,AUT,1286,Austria,AUT
+A. Hausner,1980,1975,AUT,1460,Austria,AUT
+Samt,1950,1975,AUT,1481,Austria,AUT
+Kattinger,1895,1975,AUT,1505,Austria,AUT
+A. O'Kelly,2445,1975,BEL,201,Belgium,BEL
+J. Boey,2430,1975,BEL,249,Belgium,BEL
+B. De Bruycker,2370,1975,BEL,552,Belgium,BEL
+F. Cornelis,2310,1975,BEL,876,Belgium,BEL
+Beyen,2280,1975,BEL,1024,Belgium,BEL
+M. Bonne,2255,1975,BEL,1123,Belgium,BEL
+Wostin,2250,1975,BEL,1158,Belgium,BEL
+Dunkelblum,2240,1975,BEL,1178,Belgium,BEL
+W. Muller,2440,1975,ALB,215,Albania,ALB
+Adhami,2335,1975,ALB,737,Albania,ALB
+Pustina,2300,1975,ALB,952,Albania,ALB
+Vila,2300,1975,ALB,960,Albania,ALB
+Omari,2215,1975,ALB,1261,Albania,ALB
+O. Rodriguez,2435,1975,PER,240,Peru,PER
+Pesantes,2330,1975,PER,790,Peru,PER
+Quinones,2320,1975,PER,843,Peru,PER
+T. Vasquez,2265,1975,PER,1098,Peru,PER
+Villasante,2260,1975,PER,1120,Peru,PER
+A.H. Williams,2415,1975,WLS,328,United Kingdom,GBR
+G.S. Botterill,2400,1975,WLS,383,United Kingdom,GBR
+Hutchings,2330,1975,WLS,774,United Kingdom,GBR
+J.G. Cooper,2310,1975,WLS,875,United Kingdom,GBR
+I.C. Jones,2210,1975,WLS,1280,United Kingdom,GBR
+Trevelyan,2205,1975,WLS,1307,United Kingdom,GBR
+J.-L. Seret,2410,1975,FRA,356,France,FRA
+M. Todorcevic,2395,1975,FRA,430,France,FRA
+J. Macles,2360,1975,FRA,624,France,FRA
+Puhm,2300,1975,FRA,951,France,FRA
+S. Zinser,2295,1975,FRA,972,France,FRA
+Bessenay,2280,1975,FRA,1023,France,FRA
+A. Haik,2280,1975,FRA,1030,France,FRA
+Raizman,2280,1975,FRA,1041,France,FRA
+M. Benoit,2270,1975,FRA,1065,France,FRA
+Preissmann,2265,1975,FRA,1093,France,FRA
+J.C. Letzelter,2240,1975,FRA,1181,France,FRA
+Huguet,2235,1975,FRA,1197,France,FRA
+F. Meinsohn,2220,1975,FRA,1243,France,FRA
+M. Merlini-Cirovic,2020,1975,FRA,1430,France,FRA
+C. Cuartas,2405,1975,COL,366,Colombia,COL
+O. Castro,2360,1975,COL,609,Colombia,COL
+M. Cuellar Gacharna,2360,1975,COL,611,Colombia,COL
+L. Garcia,2360,1975,COL,616,Colombia,COL
+B. De Greif,2345,1975,COL,690,Colombia,COL
+Gild. Garcia,2330,1975,COL,771,Colombia,COL
+J. Alzate,2320,1975,COL,828,Colombia,COL
+J.A. Gutierrez,2315,1975,COL,859,Colombia,COL
+A. Agudelo,2300,1975,COL,922,Colombia,COL
+Minaya,2300,1975,COL,944,Colombia,COL
+F. Munoz,2280,1975,COL,1039,Colombia,COL
+R. Henao,2270,1975,COL,1072,Colombia,COL
+L. Sanchez,2260,1975,COL,1118,Colombia,COL
+F. Lopez,2250,1975,COL,1146,Colombia,COL
+De Caro,1920,1975,COL,1496,Colombia,COL
+Pritchett,2390,1975,SCO,462,United Kingdom,GBR
+L. Blackstock,2345,1975,SCO,689,United Kingdom,GBR
+Mcgrillen,2335,1975,SCO,752,United Kingdom,GBR
+D. Levy,2325,1975,SCO,813,United Kingdom,GBR
+P. Jamieson,2300,1975,SCO,940,United Kingdom,GBR
+G. Bonner,2275,1975,SCO,1052,United Kingdom,GBR
+Holt,2230,1975,SCO,1208,United Kingdom,GBR
+Denman,2205,1975,SCO,1293,United Kingdom,GBR
+C. Sanchez,2385,1975,VEN,492,Venezuela,VEN
+S. Diaz,2270,1975,VEN,1069,Venezuela,VEN
+Caro,2235,1975,VEN,1192,Venezuela,VEN
+Guerra J.,2235,1975,VEN,1195,Venezuela,VEN
+Gamboa,2220,1975,VEN,1238,Venezuela,VEN
+T. Ujtumen,2385,1975,MGL,497,Mongolia,MNG
+Tumurbator,2375,1975,MGL,541,Mongolia,MNG
+Laghkva,2325,1975,MGL,812,Mongolia,MNG
+Niamdorzi,2310,1975,MGL,891,Mongolia,MNG
+G. Brodeur,2295,1975,MGL,962,Mongolia,MNG
+Jigjigsuren,2285,1975,MGL,1006,Mongolia,MNG
+J. Zotkin,2270,1975,MGL,1082,Mongolia,MNG
+Hulgana,2085,1975,MGL,1374,Mongolia,MNG
+Handsuren,2080,1975,MGL,1379,Mongolia,MNG
+P. Donoso Velasco,2380,1975,CHI,508,Chile,CHL
+Jauregui,2355,1975,CHI,644,Chile,CHL
+C. Silva Sanchez,2355,1975,CHI,651,Chile,CHL
+R. Letelier,2350,1975,CHI,671,Chile,CHL
+Stekel,2350,1975,CHI,683,Chile,CHL
+C. Velasquez,2350,1975,CHI,686,Chile,CHL
+D.A. Godoy,2345,1975,CHI,694,Chile,CHL
+S. Cordova Valle,2320,1975,CHI,831,Chile,CHL
+Orpinas,2320,1975,CHI,841,Chile,CHL
+Melhuish,2310,1975,CHI,890,Chile,CHL
+J. Belmonte,2300,1975,CHI,923,Chile,CHL
+M. Carvalho,2285,1975,CHI,999,Chile,CHL
+Zuniga Rivera,2285,1975,CHI,1019,Chile,CHL
+E. Larrain Cadais,2280,1975,CHI,1037,Chile,CHL
+Ader,2270,1975,CHI,1063,Chile,CHL
+Baccelliere,2210,1975,CHI,1271,Chile,CHL
+M. Hassan,2380,1975,IND,513,India,IND
+T.N. Parameswaren,2310,1975,IND,895,India,IND
+M. Aaron,2240,1975,IND,1172,India,IND
+W.S. Kan,2380,1975,HKG,515,Hong Kong,HKG
+Kroon,2370,1975,RSA,563,South Africa,ZAF
+De Villiers,2310,1975,RSA,878,South Africa,ZAF
+Korostensky,2235,1975,RSA,1199,South Africa,ZAF
+Suwuh,2370,1975,INA,578,Indonesia,IDN
+M. Sinulingga,2340,1975,INA,734,Indonesia,IDN
+H. Ardiansyah,2330,1975,INA,764,Indonesia,IDN
+H. Suradiradja,2320,1975,INA,846,Indonesia,IDN
+Damanik,2310,1975,INA,877,Indonesia,IDN
+Turalakev,2310,1975,INA,902,Indonesia,IDN
+A. Bachtiar,2305,1975,INA,906,Indonesia,IDN
+M. Wotulo,2295,1975,INA,971,Indonesia,IDN
+Sampouw,2290,1975,INA,991,Indonesia,IDN
+B. Sinka,2050,1975,INA,1408,Indonesia,IDN
+O. Yepez,2370,1975,ECU,586,Ecuador,ECU
+D. Verduga,2250,1975,ECU,1156,Ecuador,ECU
+Camaton,2235,1975,ECU,1191,Ecuador,ECU
+N. Garces,2220,1975,ECU,1239,Ecuador,ECU
+T. Yepez,2215,1975,ECU,1270,Ecuador,ECU
+K. Harandi,2360,1975,IRI,619,Iran,IRN
+Sharif,2345,1975,IRI,706,Iran,IRN
+M.-A. Sawadkuhi,2325,1975,IRI,821,Iran,IRN
+K. Shirazi,2275,1975,IRI,1062,Iran,IRN
+T. Tomalczyk,2360,1975,SIN,634,Singapore,SGP
+Leow,2280,1975,SIN,1038,Singapore,SGP
+Kok-Ann Lim,2230,1975,SIN,1211,Singapore,SGP
+K.L. Pang,2220,1975,SIN,1246,Singapore,SGP
+Giam,2210,1975,SIN,1278,Singapore,SGP
+Chee-Seng Chia,2205,1975,SIN,1291,Singapore,SGP
+Choong,2205,1975,SIN,1292,Singapore,SGP
+R. Belkadi,2350,1975,TUN,656,Tunisia,TUN
+Bouaziz,2350,1975,TUN,657,Tunisia,TUN
+Teboudi,2270,1975,TUN,1081,Tunisia,TUN
+Drira,2215,1975,TUN,1256,Tunisia,TUN
+Lagha,2205,1975,TUN,1300,Tunisia,TUN
+J. Durao,2350,1975,POR,660,Portugal,PRT
+F. Silva,2325,1975,POR,822,Portugal,PRT
+J. Cordovil,2280,1975,POR,1025,Portugal,PRT
+L. Santos,2270,1975,POR,1077,Portugal,PRT
+R. Ribeiro,2255,1975,POR,1131,Portugal,PRT
+Z. Farooqui,2350,1975,PAK,662,Pakistan,PAK
+Butt,2275,1975,PAK,1053,Pakistan,PAK
+I. Ahmad,2250,1975,PAK,1134,Pakistan,PAK
+N. Ahmad,2220,1975,PAK,1232,Pakistan,PAK
+R.G. Wade,2350,1975,NZL,687,New Zealand,NZL
+O. Sarapu,2320,1975,NZL,845,New Zealand,NZL
+Sutton,2290,1975,NZL,993,New Zealand,NZL
+E. Green,2265,1975,NZL,1085,New Zealand,NZL
+A. Carpinter,2245,1975,NZL,1160,New Zealand,NZL
+Fairhurst,2205,1975,NZL,1295,New Zealand,NZL
+Siaperas,2345,1975,GRE,707,Greece,GRC
+N. Gavrilakis,2300,1975,GRE,933,Greece,GRC
+L. Vizantiadis,2280,1975,GRE,1051,Greece,GRC
+N. Skalkotas,2250,1975,GRE,1149,Greece,GRC
+Balaskas,2245,1975,GRE,1159,Greece,GRC
+Fappas,2245,1975,GRE,1161,Greece,GRC
+Trikaliotis,2215,1975,GRE,1267,Greece,GRC
+M. Campos Lopez,2340,1975,MEX,714,Mexico,MEX
+K. Frey,2280,1975,MEX,1029,Mexico,MEX
+Lara,2260,1975,MEX,1107,Mexico,MEX
+R. Ocampo,2245,1975,MEX,1166,Mexico,MEX
+Escondrillas,2235,1975,MEX,1193,Mexico,MEX
+Campos,1810,1975,MEX,1524,Mexico,MEX
+Onat,2340,1975,TUR,728,Turkey,TUR
+Suer,2265,1975,TUR,1097,Turkey,TUR
+Bilyap,2260,1975,TUR,1099,Turkey,TUR
+D. Uzman,2235,1975,TUR,1201,Turkey,TUR
+Erozbek,2210,1975,TUR,1277,Turkey,TUR
+Olgag,2205,1975,TUR,1303,Turkey,TUR
+P. Henry,2330,1975,IRL,773,Ireland,IRL
+Cox,2315,1975,IRL,856,Ireland,IRL
+Moles,2295,1975,IRL,967,Ireland,IRL
+Littleton,2275,1975,IRL,1056,Ireland,IRL
+Ludgate,2255,1975,IRL,1125,Ireland,IRL
+Cassidy,2250,1975,IRL,1140,Ireland,IRL
+Heidenfeld,2230,1975,IRL,1207,Ireland,IRL
+O'Siochru,1850,1975,IRL,1511,Ireland,IRL
+Noonan,1810,1975,IRL,1525,Ireland,IRL
+R. Schneider,2310,1975,LUX,898,Luxembourg,LUX
+Stull,2260,1975,LUX,1119,Luxembourg,LUX
+J. Feller,2205,1975,LUX,1296,Luxembourg,LUX
+Rovira,2295,1975,CRC,968,Costa Rica,CRI
+A. Colon,2290,1975,PUR,976,Puerto Rico,PRI
+Fryre,2235,1975,PUR,1194,Puerto Rico,PRI
+Moraza,2205,1975,PUR,1302,Puerto Rico,PRI
+Castellon,1830,1975,PUR,1517,Puerto Rico,PRI
+Juliao,2280,1975,DOM,1034,Dominican Republic,DOM
+C. Delgado,2250,1975,DOM,1141,Dominican Republic,DOM
+Belliard,2235,1975,DOM,1189,Dominican Republic,DOM
+E. Gonzales,2205,1975,DOM,1297,Dominican Republic,DOM
+Maiztequi,2255,1975,URU,1126,Uruguay,URY
+J. Bademian,2205,1975,URU,1288,Uruguay,URY
+Ricetto,2205,1975,URU,1304,Uruguay,URY
+Miyasaka,2250,1975,JPN,1147,Japan,JPN
+Maeda,1935,1975,JPN,1489,Japan,JPN
+S. Tatai,1850,1975,JPN,1512,Japan,JPN
+L. Torres,2250,1975,CHN,1153,China,CHN
+Saracelo,2240,1975,CHN,1186,China,CHN
+F. Loheac-Amoun,2230,1975,LIB,1212,Lebanon,LBN
+Sursock,2230,1975,LIB,1220,Lebanon,LBN
+R. Thomas,2210,1975,LIB,1285,Lebanon,LBN
+Rifa,2230,1975,SYR,1218,Syria,SYR
+H. Camilleri,2210,1975,MLT,1274,Malta,MLT
+Aliaga,2205,1975,BOL,1287,Bolivia,BOL
+Fabrega,2205,1975,PAN,1294,Panama,PAN
+Midjord,2205,1975,FAI,1301,Faroe Islands,FRO
+Cellario,1820,1975,MNC,1521,Monaco,MCO

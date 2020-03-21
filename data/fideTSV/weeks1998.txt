@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 Gary Kasparov	2825	1998	RUS	1	
 Vladimir Kramnik	2790	1998	RUS	2	
 Viswanathan Anand	2770	1998	IND	3	

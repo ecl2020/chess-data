@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 Gary Kasparov	2805	1995	RUS	1	
 Robert J Fischer	2780	1995	USA	2	
 Anatoly Karpov	2765	1995	RUS	3	
@@ -9185,7 +9185,7 @@ Jan Christensen	2240	1995	DEN	9183
 Kenneth R Clayton	2240	1995	USA	9184	
 David Coleman	2240	1995	ENG	9185	
 Enrique Conejo	2240	1995	USA	9186	
-Thomas, J Costigan	2240	1995	USA	9187	
+Thomas J Costigan	2240	1995	USA	9187	
 Santiago Cuesta Navarro	2240	1995	CUB	9188	
 Janos Cuibus	2240	1995	HUN	9189	
 Bianor.da.Silva Dantas	2240	1995	BRA	9190	

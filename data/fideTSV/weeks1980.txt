@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 An. Karpov	2725	1980	USR	1	
 Tal	2705	1980	USR	2	
 V. Kortchnoi	2695	1980	SUI	3	

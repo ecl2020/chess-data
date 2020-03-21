@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 An. Karpov	2705	1979	USR	1	
 V. Kortchnoi	2695	1979	SUI	2	
 L. Portisch	2640	1979	HUN	3	

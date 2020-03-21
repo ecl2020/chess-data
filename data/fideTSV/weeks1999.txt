@@ -1,4 +1,4 @@
-Name	Rating	Year	Rank	Fed
+Name	Rating	Year	Fed	Rank
 Gary Kasparov	2812	1999	RUS	1	
 Viswanathan Anand	2784	1999	IND	2	
 Robert J Fischer	2780	1999	USA	3	
@@ -11657,7 +11657,7 @@ David Coleman	2240	1999	ENG	11655
 Thomas Sean Colure	2240	1999	USA	11656	
 Enrique Conejo	2240	1999	USA	11657	
 Jorge Corradine	2240	1999	COL	11658	
-Thomas, J Costigan	2240	1999	USA	11659	
+Thomas J Costigan	2240	1999	USA	11659	
 Santiago Cuesta Navarro	2240	1999	CUB	11660	
 Janos Cuibus	2240	1999	HUN	11661	
 Petru Culcear	2240	1999	ROM	11662	
@@ -18914,7 +18914,7 @@ Maricela Palao	2175	1999	CUB	18912
 Jozsef Papp	2175	1999	HUN	18913	
 Varde Parag	2175	1999	IND	18914	
 Radoja Pavlik	2175	1999	YUG	18915	
-Jos, Perdomo Abad	2175	1999	ESP	18916	
+Jos Perdomo Abad	2175	1999	ESP	18916	
 Christian Peter	2175	1999	GER	18917	
 Eric Thierry Petit	2175	1999	FRA	18918	
 Arthur Petrosian	2175	1999	ARM	18919	
