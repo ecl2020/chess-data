@@ -37,12 +37,13 @@ function makemap() {
                 .enter()
                 .append("path")
                 .attr("d", path)
+                .attr("id", 'world-map')
                 .style("fill", function (d) {
                     return colors(d.properties.AREA)
                 })
                 .on('mouseover', function (d) {
                     tooltip.text(d.properties.NAME)
-                    console.log(d.properties.NAME)
+                    mapHighlight()
                 })
                 .on('mousemove', function (d) {
                     tooltip.transition()
@@ -58,10 +59,20 @@ function makemap() {
                         .style("opacity", 0);
                 })
         })
+}
 
-    d3.csv("https://raw.githubusercontent.com/ecl2020/chess-data/master/data/FIDE/jan1975fed.csv",
+function updateSlider() {
+    var year = document.getElementById('yearRange').value
+    var output = document.getElementById('demo')
+    output.innerHTML = year
+    d3.csv("https://raw.githubusercontent.com/ecl2020/chess-data/master/data/weeks_data/" + String(year) + "withISO.txt",
         function (error, data) {
             if (error) throw console.error(error)
             console.log(data[0])
         })
+}
+
+function mapHighlight(){
+    var svg = document.getElementById('world-map')
+    svg.selectAll("path").enter().style("fill", 'red')
 }
