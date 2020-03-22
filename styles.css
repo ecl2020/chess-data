@@ -233,3 +233,7 @@ ul {
     white-space: nowrap;
     cursor: pointer;
 }
+
+.highlighted-country{
+    fill: #13294B
+}

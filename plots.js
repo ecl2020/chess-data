@@ -485,15 +485,15 @@ function pages(current) {
         i++
     }
     if (current != "hist") {
-        x[i].innerHTML = '<a href="' + "./pages/fide_hist.html" + '">' + "Historic FIDE Ratings" + '</a>';
+        x[i].innerHTML = '<a href="' + "./fide_hist.html" + '">' + "Historic FIDE Ratings" + '</a>';
         i++
     }
     if (current != "edo") {
-        x[i].innerHTML = '<a href="' + "./pages/edopage.html" + '">' + "Edo Page" + '</a>';
+        x[i].innerHTML = '<a href="' + "./edopage.html" + '">' + "Edo Page" + '</a>';
         i++
     }
     if (current != "cmr") {
-        x[i].innerHTML = '<a href="' + "./pages/cmrpage.html" + '">' + "CMR" + '</a>';
+        x[i].innerHTML = '<a href="' + "./cmrpage.html" + '">' + "CMR" + '</a>';
     }
 }
 
