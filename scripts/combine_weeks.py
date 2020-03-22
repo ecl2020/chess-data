@@ -7,7 +7,7 @@ for i in range(1975, 2001):
     # open a file to put some year's data in
     weeks = io.open("./data/fideTSV/weeks{}.txt".format(i), "w", encoding="utf-8")
     # write the header so d3 can read it in
-    weeks.write("Name" + "\t" + "Rating" + "\t" + "Year" + "\t" + "Rank" + "\t" + "Fed" + "\n")
+    weeks.write("Name" + "\t" + "Rating" + "\t" + "Year" + "\t" + "Fed" + "\t" + "Rank" + "\n")
     # open each file
     lines = io.open("./data/ratings_lists/{}-01.TXT".format(i), "r").readlines()
     # ignore the header
@@ -21,6 +21,9 @@ for i in range(1975, 2001):
             first = name[re.search(", *", name).end():]
             last = name[0:name.find(",")]
             name = first + " " + last
+            # some names have more than one comma :(
+            while "," in name:
+                name = name.replace(",", "")
         # capture the rating
         rating = player[re.search("[^\d]\d{4}[^\d]", player).start() + 1:re.search("[^\d]\d{4}[^\d]", player).start() + 5]
         # get the year

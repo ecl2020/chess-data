@@ -2,7 +2,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Edo Rating Explorer</title>
+    <title>Chessmetrics Explorer</title>
     <link rel="stylesheet" href="./styles.css" />
     <!-- For jquery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -20,11 +20,15 @@
         </tr>
     </table>
     <!-- <h1>Plots</h1> -->
-    <script>pages("edo")</script>
+    <script>pages("cmr")</script>
+    <!-- <p>
+            Explore the Chessmetrics ratings compiled by Jeff Sonas. 
+            This is an interactive plot using only data from January of each year. 
+        </p> -->
     <div class="full-page" id="container">
         <div class='interact' id="user-input">
             <script>
-                var address = "https://raw.githubusercontent.com/ecl2020/chess-data/master/data/edo.txt"
+                var address = "https://raw.githubusercontent.com/ecl2020/chess-data/master/data/cmr.txt"
             </script>
             <input type="number" min=1 value="10" id="nValue", class="rank-input">
             <input type="text" id="searchName" onkeyup="searchPlayer('' + address + '')"
