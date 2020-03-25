@@ -14,9 +14,9 @@
 <body>
     <table id="myTable" class='page-table'>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td class='page-cell'></td>
+            <td class='page-cell'></td>
+            <td class='page-cell'></td>
         </tr>
     </table>
     <!-- <h1>Plots</h1> -->
@@ -26,6 +26,16 @@
             This is an interactive plot using only data from January of each year. 
         </p> -->
     <div class="full-page" id="container">
+        <div class='description'>
+            <p> Jeff Sonas' <strong> Chessmetrics performance rating </strong>uses tournament and match results to calculate ratings 
+                for players interpolated throughout each year. Check out a more in-depth explanation
+                <a href="http://www.chessmetrics.com/cm/CM2/HistoricalRatings.asp?Params=" >on his website</a> </p>
+            <p>
+                This page uses his January ratings from each year, 1843-2005. You can change the rank in the top left to show 
+                more or fewer players on the chart. Then, hover over a point to show some statistics, search for a specific player, 
+                or save players for more direct comparison.
+            </p>
+        </div>
         <div class='interact' id="user-input">
             <script>
                 var address = "https://raw.githubusercontent.com/ecl2020/chess-data/master/data/cmr.txt"

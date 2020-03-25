@@ -37,12 +37,24 @@ a:active {
     color: blue;
 }
 
+p {
+    margin-left: 5%;
+    margin-right: 5%;
+    line-height: 15px;
+}
 
 .page-table {
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
     height: 50px;
+}
+
+.page-cell {
+    width: 25%;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-align: center;
 }
 
 td {
@@ -236,4 +248,12 @@ ul {
 
 .highlighted-country{
     fill: #13294B
+}
+
+.yaxis {
+    font-family: 'Courier';
+}
+
+.xaxis {
+    font-family: 'Courier';
 }

@@ -588,8 +588,8 @@ function sortBy(id) {
                 rows[i].classList.add('even')
             }
         }
-        else{
-            if (rows[i].getElementsByClassName("saved-player row even")){
+        else {
+            if (rows[i].getElementsByClassName("saved-player row even")) {
                 rows[i].classList.remove('even')
                 rows[i].classList.add('odd')
             }

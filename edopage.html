@@ -14,14 +14,24 @@
 <body>
     <table id="myTable" class='page-table'>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td class='page-cell'></td>
+            <td class='page-cell'></td>
+            <td class='page-cell'></td>
         </tr>
     </table>
     <!-- <h1>Plots</h1> -->
     <script>pages("edo")</script>
     <div class="full-page" id="container">
+        <div class='description'>
+            <p> Rod Edwards' <strong> Edo rating method </strong>modifies Arpad Elo's original method of rating chess players 
+                by taking into account each player's own changing skill level over time. Check out a more in-depth explanation
+                <a href="http://www.edochess.ca/Edo.explanation.html" >on his website</a> </p>
+            <p>
+                This page uses his January ratings from each year, 1809-1928. You can change the rank in the top left to show 
+                more or fewer players on the chart. Then, hover over a point to show some statistics, search for a specific player, 
+                or save players for more direct comparison.
+            </p>
+        </div>
         <div class='interact' id="user-input">
             <script>
                 var address = "https://raw.githubusercontent.com/ecl2020/chess-data/master/data/edo.txt"
