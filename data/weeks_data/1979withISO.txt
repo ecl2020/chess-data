@@ -1,4 +1,321 @@
 Name,Rating,Year,Fed,Rank,name_FED,ISO3
+An. Karpov,2705,1979,RUS,1,Russia,RUS
+B. Spassky,2640,1979,RUS,4,Russia,RUS
+L. Polugaevsky,2625,1979,RUS,5,Russia,RUS
+Tal,2615,1979,RUS,8,Russia,RUS
+T. Petrosian,2610,1979,RUS,9,Russia,RUS
+Y. Balashov,2600,1979,RUS,10,Russia,RUS
+A. Beliavsky,2595,1979,RUS,12,Russia,RUS
+I. Dorfman,2595,1979,RUS,13,Russia,RUS
+B. Gulko,2585,1979,RUS,20,Russia,RUS
+V. Tukmakov,2575,1979,RUS,21,Russia,RUS
+R. Vaganian,2570,1979,RUS,22,Russia,RUS
+G.P. Kuzmin,2565,1979,RUS,24,Russia,RUS
+V. Cseshkovsky,2560,1979,RUS,26,Russia,RUS
+O. Romanishin,2560,1979,RUS,29,Russia,RUS
+V. Smyslov,2560,1979,RUS,30,Russia,RUS
+E. Vasiukov,2560,1979,RUS,31,Russia,RUS
+D. Bronstein,2555,1979,RUS,32,Russia,RUS
+E.P. Geller,2550,1979,RUS,34,Russia,RUS
+R. Kholmov,2550,1979,RUS,35,Russia,RUS
+N. Krogius,2550,1979,RUS,36,Russia,RUS
+Savon,2550,1979,RUS,37,Russia,RUS
+V.K. Bagirov,2545,1979,RUS,39,Russia,RUS
+A. Kochiyev,2545,1979,RUS,40,Russia,RUS
+E. Sveshnikov,2545,1979,RUS,44,Russia,RUS
+G. Kuprejanov,2540,1979,RUS,47,Russia,RUS
+T. Georgadze,2535,1979,RUS,50,Russia,RUS
+A.S. Suetin,2535,1979,RUS,53,Russia,RUS
+E. Gufeld,2530,1979,RUS,54,Russia,RUS
+Gen. Timoshchenko,2530,1979,RUS,57,Russia,RUS
+M.I. Dvorietzky,2525,1979,RUS,61,Russia,RUS
+A. Gipslis,2525,1979,RUS,62,Russia,RUS
+V.S. Zhidkov,2520,1979,RUS,70,Russia,RUS
+L.O. Alburt,2515,1979,RUS,71,Russia,RUS
+Y.L. Averbakh,2515,1979,RUS,72,Russia,RUS
+A.S. Lutikov,2515,1979,RUS,75,Russia,RUS
+S. Palatnik,2515,1979,RUS,77,Russia,RUS
+M. Taimanov,2510,1979,RUS,86,Russia,RUS
+B. Gurgenidze,2505,1979,RUS,88,Russia,RUS
+Mark Tseitlin,2505,1979,RUS,90,Russia,RUS
+Mikh. Tseitlin,2505,1979,RUS,91,Russia,RUS
+L.G. Zaitseva,2505,1979,RUS,92,Russia,RUS
+S. Makarichev,2500,1979,RUS,96,Russia,RUS
+Ney,2500,1979,RUS,97,Russia,RUS
+N. Rashkovsky,2500,1979,RUS,99,Russia,RUS
+S. Dolmatov,2495,1979,RUS,103,Russia,RUS
+Y. Klovan,2490,1979,RUS,113,Russia,RUS
+A. Yusupov,2490,1979,RUS,116,Russia,RUS
+I. Zeitlin,2490,1979,RUS,117,Russia,RUS
+V.I. Zhuravliov,2490,1979,RUS,118,Russia,RUS
+O. Dementiev,2485,1979,RUS,120,Russia,RUS
+A.N. Panchenko,2485,1979,RUS,124,Russia,RUS
+K.A. Grigorian,2480,1979,RUS,130,Russia,RUS
+A. Mikhalchishin,2480,1979,RUS,131,Russia,RUS
+L. Psakhis,2480,1979,RUS,132,Russia,RUS
+Shpilker,2480,1979,RUS,134,Russia,RUS
+J.E. Vatnikov,2480,1979,RUS,135,Russia,RUS
+K. Lerner,2475,1979,RUS,140,Russia,RUS
+Y. Zaharov,2475,1979,RUS,145,Russia,RUS
+A. Zakharov,2475,1979,RUS,146,Russia,RUS
+V. Chekhov,2470,1979,RUS,148,Russia,RUS
+A. Kotov,2470,1979,RUS,149,Russia,RUS
+V. Osnos,2470,1979,RUS,152,Russia,RUS
+Razuvaev,2470,1979,RUS,153,Russia,RUS
+O.L. Chernikov,2465,1979,RUS,160,Russia,RUS
+A. Kapengut,2465,1979,RUS,164,Russia,RUS
+V.I. Karasev,2465,1979,RUS,165,Russia,RUS
+B. Vladimirov,2465,1979,RUS,169,Russia,RUS
+G. Zaitshik,2465,1979,RUS,172,Russia,RUS
+V.Z. Faibisovich,2460,1979,RUS,177,Russia,RUS
+A. Kharitonov,2460,1979,RUS,184,Russia,RUS
+A. Lukin,2460,1979,RUS,185,Russia,RUS
+Shereshevsky,2460,1979,RUS,189,Russia,RUS
+V. Varlamov,2460,1979,RUS,193,Russia,RUS
+Y. Anikaev,2455,1979,RUS,196,Russia,RUS
+O. Averkin,2455,1979,RUS,198,Russia,RUS
+Platonov,2455,1979,RUS,203,Russia,RUS
+N.R. Zilberman,2455,1979,RUS,206,Russia,RUS
+V. Kondratiev,2450,1979,RUS,212,Russia,RUS
+Menakov,2450,1979,RUS,213,Russia,RUS
+E. Mochalov,2450,1979,RUS,214,Russia,RUS
+Podgaets,2450,1979,RUS,217,Russia,RUS
+A. Yermolinsky,2450,1979,RUS,219,Russia,RUS
+S.N. Yuferov,2450,1979,RUS,220,Russia,RUS
+V.N. Kozlov,2445,1979,RUS,226,Russia,RUS
+V. Peresypkin,2445,1979,RUS,230,Russia,RUS
+Petkevich,2445,1979,RUS,231,Russia,RUS
+E. Vladimirov,2445,1979,RUS,241,Russia,RUS
+V.S. Antoshin,2440,1979,RUS,242,Russia,RUS
+O.I. Dziuban,2440,1979,RUS,244,Russia,RUS
+Z. Lanka,2440,1979,RUS,249,Russia,RUS
+A. Malevinsky,2440,1979,RUS,254,Russia,RUS
+V. Korensky,2435,1979,RUS,267,Russia,RUS
+Kuindsky,2435,1979,RUS,268,Russia,RUS
+E. Magerramov,2435,1979,RUS,269,Russia,RUS
+A. Novopashin,2435,1979,RUS,271,Russia,RUS
+Peltz,2435,1979,RUS,273,Russia,RUS
+N. Popov,2435,1979,RUS,276,Russia,RUS
+Rusakov,2435,1979,RUS,278,Russia,RUS
+E. Stoliar,2435,1979,RUS,279,Russia,RUS
+G.K. Borisenko,2430,1979,RUS,286,Russia,RUS
+E. Bukhman,2430,1979,RUS,287,Russia,RUS
+Y. Estrin,2430,1979,RUS,292,Russia,RUS
+Gutop,2430,1979,RUS,297,Russia,RUS
+A. Petrosian,2430,1979,RUS,302,Russia,RUS
+E. Ubilava,2430,1979,RUS,314,Russia,RUS
+A.A. Vitolinsh,2430,1979,RUS,315,Russia,RUS
+B.A. Zlotnik,2430,1979,RUS,316,Russia,RUS
+A.V. Cherepkov,2425,1979,RUS,321,Russia,RUS
+Mikadze,2425,1979,RUS,329,Russia,RUS
+E. Mnatsakanian,2425,1979,RUS,330,Russia,RUS
+V. Moiseev,2425,1979,RUS,331,Russia,RUS
+Reshko,2425,1979,RUS,333,Russia,RUS
+Shashin,2425,1979,RUS,335,Russia,RUS
+V.S. Zheliandinov,2425,1979,RUS,338,Russia,RUS
+B. Bilunov,2420,1979,RUS,343,Russia,RUS
+V.K. Doroshkievich,2420,1979,RUS,348,Russia,RUS
+Mechitov,2420,1979,RUS,358,Russia,RUS
+N. Mishuchkov,2420,1979,RUS,361,Russia,RUS
+Rybarska,2420,1979,RUS,369,Russia,RUS
+Shmit,2420,1979,RUS,372,Russia,RUS
+S. Sokolov,2420,1979,RUS,374,Russia,RUS
+Veselovsky,2420,1979,RUS,376,Russia,RUS
+V. Didishko,2415,1979,RUS,383,Russia,RUS
+I.V. Ivanov,2415,1979,RUS,389,Russia,RUS
+A. Kakageldyev,2415,1979,RUS,391,Russia,RUS
+H. Karner,2415,1979,RUS,392,Russia,RUS
+B. Katalymov,2415,1979,RUS,393,Russia,RUS
+Vl. Muratov,2415,1979,RUS,398,Russia,RUS
+V. Tierentiev,2415,1979,RUS,401,Russia,RUS
+Aingorn,2410,1979,RUS,403,Russia,RUS
+V. Chebanenko,2410,1979,RUS,411,Russia,RUS
+V. Gusev,2410,1979,RUS,416,Russia,RUS
+Tuzovsky,2410,1979,RUS,437,Russia,RUS
+V.V. Vorotnikov,2410,1979,RUS,439,Russia,RUS
+A. Donchenko,2405,1979,RUS,449,Russia,RUS
+N. Gaprindashvili,2405,1979,RUS,453,Russia,RUS
+Ab. Khassin,2405,1979,RUS,462,Russia,RUS
+V. Kirpichnikov,2405,1979,RUS,463,Russia,RUS
+Pukshansky,2405,1979,RUS,472,Russia,RUS
+V. Baikov,2400,1979,RUS,479,Russia,RUS
+A.J. Butnoris,2400,1979,RUS,481,Russia,RUS
+O. Donchenko,2400,1979,RUS,486,Russia,RUS
+A. Godes,2400,1979,RUS,491,Russia,RUS
+L. Gofstein,2400,1979,RUS,492,Russia,RUS
+F. Ignatiev,2400,1979,RUS,496,Russia,RUS
+Kochner,2400,1979,RUS,498,Russia,RUS
+B. Kogan,2400,1979,RUS,499,Russia,RUS
+G. Makarov,2400,1979,RUS,501,Russia,RUS
+M. Ruderfer,2400,1979,RUS,509,Russia,RUS
+Rytov,2400,1979,RUS,510,Russia,RUS
+M. Yudovich,2400,1979,RUS,517,Russia,RUS
+S. Gorelov,2395,1979,RUS,530,Russia,RUS
+A.V. Ivanov,2395,1979,RUS,535,Russia,RUS
+A. Kosikov,2395,1979,RUS,537,Russia,RUS
+Y. Shabanov,2395,1979,RUS,546,Russia,RUS
+Shvedchikov,2395,1979,RUS,547,Russia,RUS
+Sturua,2395,1979,RUS,548,Russia,RUS
+Uusi,2395,1979,RUS,550,Russia,RUS
+Vooremaa,2395,1979,RUS,551,Russia,RUS
+L.D. Zaid,2395,1979,RUS,553,Russia,RUS
+G. Agzamov,2390,1979,RUS,555,Russia,RUS
+Y. Kotkov,2390,1979,RUS,571,Russia,RUS
+A. Machulsky,2390,1979,RUS,575,Russia,RUS
+Semeniuk,2390,1979,RUS,584,Russia,RUS
+E. Chaplinsky,2385,1979,RUS,596,Russia,RUS
+A. Fershter,2385,1979,RUS,603,Russia,RUS
+Kivlan,2385,1979,RUS,607,Russia,RUS
+A. Vaiser,2385,1979,RUS,618,Russia,RUS
+Begun,2380,1979,RUS,622,Russia,RUS
+M.G. Chiburdanidze,2380,1979,RUS,625,Russia,RUS
+D. Losev,2380,1979,RUS,636,Russia,RUS
+Nisman,2380,1979,RUS,639,Russia,RUS
+V.L. Alterman,2375,1979,RUS,653,Russia,RUS
+V. Bykov,2375,1979,RUS,658,Russia,RUS
+A.M. Kremenietsky,2375,1979,RUS,669,Russia,RUS
+A. Morgulov,2375,1979,RUS,672,Russia,RUS
+Purev,2375,1979,RUS,681,Russia,RUS
+Simkin,2375,1979,RUS,682,Russia,RUS
+Vorobets,2375,1979,RUS,685,Russia,RUS
+O. Pavlenko,2370,1979,RUS,713,Russia,RUS
+A.I. Petrushin,2370,1979,RUS,716,Russia,RUS
+Taborov,2370,1979,RUS,731,Russia,RUS
+A. Veingold,2370,1979,RUS,732,Russia,RUS
+Kirilov,2365,1979,RUS,752,Russia,RUS
+N. Kopylov,2365,1979,RUS,754,Russia,RUS
+L.A. Belov,2360,1979,RUS,778,Russia,RUS
+M.A. Berkovich,2360,1979,RUS,779,Russia,RUS
+Dommes,2360,1979,RUS,785,Russia,RUS
+A. Frolov,2360,1979,RUS,788,Russia,RUS
+Kokkinos,2360,1979,RUS,794,Russia,RUS
+Shestakov,2360,1979,RUS,807,Russia,RUS
+Shumpiuk,2360,1979,RUS,808,Russia,RUS
+Vakulienko,2360,1979,RUS,814,Russia,RUS
+N. Gerasimov,2355,1979,RUS,830,Russia,RUS
+O. Kaminsky,2355,1979,RUS,839,Russia,RUS
+I. Polovodin,2355,1979,RUS,850,Russia,RUS
+Pripis,2355,1979,RUS,852,Russia,RUS
+Rutman,2355,1979,RUS,855,Russia,RUS
+Suchanov,2355,1979,RUS,858,Russia,RUS
+V.V. Zhelnin,2355,1979,RUS,861,Russia,RUS
+R. Kimelfeld,2345,1979,RUS,915,Russia,RUS
+N. Alexandria,2340,1979,RUS,930,Russia,RUS
+A. Genin,2340,1979,RUS,941,Russia,RUS
+N. Kagan,2340,1979,RUS,950,Russia,RUS
+V.A. Kozlov,2340,1979,RUS,956,Russia,RUS
+V. Petrienko,2340,1979,RUS,973,Russia,RUS
+Tolonen,2340,1979,RUS,983,Russia,RUS
+V. Akopian,2335,1979,RUS,987,Russia,RUS
+A. Filipenko,2335,1979,RUS,998,Russia,RUS
+Bakhchevansky,2330,1979,RUS,1027,Russia,RUS
+Av. Bykhovsky,2330,1979,RUS,1029,Russia,RUS
+A. Hermlin,2330,1979,RUS,1037,Russia,RUS
+Loifenfeld,2330,1979,RUS,1043,Russia,RUS
+V. Heuer,2325,1979,RUS,1080,Russia,RUS
+A. Lukovnikov,2325,1979,RUS,1088,Russia,RUS
+B. Malisov,2320,1979,RUS,1137,Russia,RUS
+E. Mukhin,2320,1979,RUS,1142,Russia,RUS
+Ruban,2320,1979,RUS,1148,Russia,RUS
+F.I. Sideif-Sade,2320,1979,RUS,1154,Russia,RUS
+Sternberg,2320,1979,RUS,1155,Russia,RUS
+A. Bangiev,2315,1979,RUS,1161,Russia,RUS
+Chalikian,2315,1979,RUS,1164,Russia,RUS
+A. Georgadze,2315,1979,RUS,1166,Russia,RUS
+Goljak,2315,1979,RUS,1168,Russia,RUS
+Stopkin,2315,1979,RUS,1189,Russia,RUS
+I. Foigel,2310,1979,RUS,1210,Russia,RUS
+Gorchakov,2310,1979,RUS,1217,Russia,RUS
+Pokhla,2310,1979,RUS,1247,Russia,RUS
+Goberman,2305,1979,RUS,1267,Russia,RUS
+Bukhtin,2300,1979,RUS,1298,Russia,RUS
+Domuls,2300,1979,RUS,1309,Russia,RUS
+Tiulin,2300,1979,RUS,1344,Russia,RUS
+Veremeichik,2300,1979,RUS,1350,Russia,RUS
+E.B. Akhmilovskaya,2295,1979,RUS,1356,Russia,RUS
+V. Borisov,2295,1979,RUS,1359,Russia,RUS
+A. Buslaev,2290,1979,RUS,1393,Russia,RUS
+E. Fatalibekova,2290,1979,RUS,1398,Russia,RUS
+Fedorov,2290,1979,RUS,1399,Russia,RUS
+K. Kaunas,2290,1979,RUS,1402,Russia,RUS
+J. Pavlyuttin,2285,1979,RUS,1445,Russia,RUS
+Simovic,2285,1979,RUS,1448,Russia,RUS
+Goldstein,2280,1979,RUS,1474,Russia,RUS
+O. Kalinin,2280,1979,RUS,1482,Russia,RUS
+Klimenok,2280,1979,RUS,1484,Russia,RUS
+I.S. Levitina,2280,1979,RUS,1490,Russia,RUS
+Privakov,2280,1979,RUS,1496,Russia,RUS
+N. Bakulin,2275,1979,RUS,1509,Russia,RUS
+Krijy,2275,1979,RUS,1523,Russia,RUS
+Smirnov,2275,1979,RUS,1534,Russia,RUS
+A. Faas,2270,1979,RUS,1550,Russia,RUS
+Kalascan,2270,1979,RUS,1558,Russia,RUS
+Klidzeis,2270,1979,RUS,1559,Russia,RUS
+Labutin,2270,1979,RUS,1561,Russia,RUS
+C. Luik,2270,1979,RUS,1565,Russia,RUS
+Lutzkan,2270,1979,RUS,1566,Russia,RUS
+P. Kondratiev,2265,1979,RUS,1600,Russia,RUS
+V. Kozlovskaya,2265,1979,RUS,1601,Russia,RUS
+M. Litinskaya-Shul,2265,1979,RUS,1603,Russia,RUS
+Slutzky,2265,1979,RUS,1613,Russia,RUS
+E.D. Epstein,2260,1979,RUS,1629,Russia,RUS
+Maranz,2260,1979,RUS,1644,Russia,RUS
+Turikov,2260,1979,RUS,1662,Russia,RUS
+Avtukhov,2255,1979,RUS,1670,Russia,RUS
+Klimavichus,2255,1979,RUS,1686,Russia,RUS
+Radomsky,2255,1979,RUS,1693,Russia,RUS
+Asbjornsson,2250,1979,RUS,1705,Russia,RUS
+G. Magnusson,2250,1979,RUS,1737,Russia,RUS
+Mariasin,2250,1979,RUS,1738,Russia,RUS
+M. Ranniku,2250,1979,RUS,1744,Russia,RUS
+A.A. Volovich,2250,1979,RUS,1758,Russia,RUS
+R.I. Bilunova,2240,1979,RUS,1801,Russia,RUS
+N. Ioseliani,2240,1979,RUS,1809,Russia,RUS
+L. Saunina,2235,1979,RUS,1853,Russia,RUS
+R. Barstatis,2230,1979,RUS,1864,Russia,RUS
+Mkrtycian,2230,1979,RUS,1896,Russia,RUS
+Ragialis,2230,1979,RUS,1905,Russia,RUS
+Shahsavar,2230,1979,RUS,1909,Russia,RUS
+Katishonok,2225,1979,RUS,1933,Russia,RUS
+Mulenko,2220,1979,RUS,1972,Russia,RUS
+L.A. Tsifanskaya,2220,1979,RUS,1985,Russia,RUS
+V. Borisenko,2215,1979,RUS,1990,Russia,RUS
+Grinfeld,2215,1979,RUS,1998,Russia,RUS
+S. Mednikova,2215,1979,RUS,2005,Russia,RUS
+Minsker,2215,1979,RUS,2007,Russia,RUS
+K. Skegina,2215,1979,RUS,2015,Russia,RUS
+B. Orlov,2210,1979,RUS,2056,Russia,RUS
+A. Kislova,2205,1979,RUS,2086,Russia,RUS
+A. Mikenas,2205,1979,RUS,2093,Russia,RUS
+T.V. Morosova,2195,1979,RUS,2121,Russia,RUS
+Sammula,2195,1979,RUS,2122,Russia,RUS
+T. Belova,2190,1979,RUS,2123,Russia,RUS
+Ignatieva,2190,1979,RUS,2125,Russia,RUS
+O.S. Pedko,2190,1979,RUS,2126,Russia,RUS
+Shjerbina,2190,1979,RUS,2127,Russia,RUS
+Kostina,2185,1979,RUS,2128,Russia,RUS
+Kristnic,2180,1979,RUS,2132,Russia,RUS
+N.D. Gurieli,2175,1979,RUS,2134,Russia,RUS
+Ostrovskaia,2170,1979,RUS,2136,Russia,RUS
+L. Lubarskaya,2165,1979,RUS,2137,Russia,RUS
+N. Titorenko,2160,1979,RUS,2140,Russia,RUS
+Tsereteli,2160,1979,RUS,2141,Russia,RUS
+T. Zatulovskaya,2160,1979,RUS,2142,Russia,RUS
+T.V. Fomina,2150,1979,RUS,2147,Russia,RUS
+T. Kobaidze,2150,1979,RUS,2149,Russia,RUS
+Muslimova,2135,1979,RUS,2156,Russia,RUS
+W. Belavenets,2130,1979,RUS,2157,Russia,RUS
+Golovei,2130,1979,RUS,2159,Russia,RUS
+L. Piarnpuu,2110,1979,RUS,2176,Russia,RUS
+Hugashvili,2095,1979,RUS,2190,Russia,RUS
+Makarycheva Ostrovsk,2090,1979,RUS,2195,Russia,RUS
+N.V. Alekhina,2085,1979,RUS,2197,Russia,RUS
+Kakabadze,2085,1979,RUS,2200,Russia,RUS
+Koloyartseva,2065,1979,RUS,2220,Russia,RUS
+T. Popova,2050,1979,RUS,2231,Russia,RUS
+Samaganova,2040,1979,RUS,2246,Russia,RUS
+Bachrech,2010,1979,RUS,2271,Russia,RUS
+M. Zereteli,1950,1979,RUS,2348,Russia,RUS
 V. Kortchnoi,2695,1979,SUI,2,Switzerland,CHE
 W. Hug,2460,1979,SUI,179,Switzerland,CHE
 Partos,2420,1979,SUI,363,Switzerland,CHE

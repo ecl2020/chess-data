@@ -65,7 +65,6 @@ function makemap() {
                         .style("top", (d3.event.pageY + 20) + "px");
                 })
                 .on('click', function (d) {
-                    // countryPlot(d) 
                     let newSvg = d3.select("body").append("svg")
                         .attr("width", 960)
                         .attr("height", 450)
@@ -77,6 +76,7 @@ function makemap() {
                         .enter()
                         .append("path")
                         .attr("d", path)
+                    // countryPlot(d)
                 })
                 .on("mouseout", function (d) {
                     d3.select(this).style("fill", function (d) {
@@ -92,24 +92,24 @@ function makemap() {
         })
 }
 
-// function countryPlot(country) {
-//     // using the Eckert III projection
-//     var projection = d3.geoEckert3()
-//     // clipping out Antarctica and some of the Pacific
-//     projection.clipExtent([[70, 0], [960, 400]])
-//     // .scale(0.5)
-//     // .translate([width / 2, height / 2])
-//     var path = d3.geoPath().projection(projection)
-//     console.log(country)
-//     let newSvg = document.getElementById('countrySVG')
-//     console.log(newSvg)
-//     newSvg
-//         .selectAll("path")
-//         .data(country.features)
-//         .enter()
-//         .append("path")
-//         .attr("d", path)
-// }
+function countryPlot(country) {
+    // using the Eckert III projection
+    var projection = d3.geoEckert3()
+    // clipping out Antarctica and some of the Pacific
+    projection.clipExtent([[70, 0], [960, 400]])
+    // .scale(0.5)
+    // .translate([width / 2, height / 2])
+    var path = d3.geoPath().projection(projection)
+    console.log(country)
+    let newSvg = document.getElementById('countrySVG')
+    console.log(newSvg)
+    newSvg
+        .selectAll("path")
+        .data(country.features)
+        .enter()
+        .append("path")
+        .attr("d", path)
+}
 
 function updateSlider() {
     var year = document.getElementById('yearRange').value

@@ -1,4 +1,370 @@
 Name,Rating,Year,Fed,Rank,name_FED,ISO3
+G. Kasparov,2710,1984,RUS,1,Russia,RUS
+An. Karpov,2700,1984,RUS,2,Russia,RUS
+R. Vaganian,2630,1984,RUS,6,Russia,RUS
+Tal,2620,1984,RUS,9,Russia,RUS
+L. Polugaevsky,2615,1984,RUS,11,Russia,RUS
+B. Spassky,2615,1984,RUS,12,Russia,RUS
+V. Smyslov,2600,1984,RUS,16,Russia,RUS
+T. Petrosian,2580,1984,RUS,18,Russia,RUS
+O. Romanishin,2580,1984,RUS,19,Russia,RUS
+G. Agzamov,2570,1984,RUS,22,Russia,RUS
+A. Yusupov,2570,1984,RUS,25,Russia,RUS
+A. Beliavsky,2565,1984,RUS,26,Russia,RUS
+E.P. Geller,2560,1984,RUS,29,Russia,RUS
+V. Tukmakov,2550,1984,RUS,34,Russia,RUS
+S. Lputian,2540,1984,RUS,38,Russia,RUS
+Y. Balashov,2535,1984,RUS,41,Russia,RUS
+V. Chekhov,2535,1984,RUS,42,Russia,RUS
+L. Psakhis,2535,1984,RUS,43,Russia,RUS
+S. Dolmatov,2525,1984,RUS,45,Russia,RUS
+I. Dorfman,2515,1984,RUS,57,Russia,RUS
+E. Sveshnikov,2515,1984,RUS,62,Russia,RUS
+M. Taimanov,2515,1984,RUS,63,Russia,RUS
+V. Cseshkovsky,2505,1984,RUS,68,Russia,RUS
+G.P. Kuzmin,2505,1984,RUS,70,Russia,RUS
+Razuvaev,2500,1984,RUS,79,Russia,RUS
+T. Georgadze,2495,1984,RUS,86,Russia,RUS
+S. Makarichev,2495,1984,RUS,90,Russia,RUS
+A. Sokolov,2495,1984,RUS,93,Russia,RUS
+O. Dementiev,2490,1984,RUS,97,Russia,RUS
+E. Vladimirov,2490,1984,RUS,104,Russia,RUS
+V.K. Bagirov,2485,1984,RUS,106,Russia,RUS
+V. Didishko,2485,1984,RUS,108,Russia,RUS
+S.I. Dvoirys,2485,1984,RUS,109,Russia,RUS
+J. Ehlvest,2485,1984,RUS,111,Russia,RUS
+V.N. Gavrikov,2485,1984,RUS,114,Russia,RUS
+A. Gipslis,2485,1984,RUS,115,Russia,RUS
+K. Lerner,2485,1984,RUS,117,Russia,RUS
+V.P. Malaniuk,2485,1984,RUS,118,Russia,RUS
+E. Gufeld,2480,1984,RUS,124,Russia,RUS
+V. Kupreichik,2480,1984,RUS,127,Russia,RUS
+A. Mikhalchishin,2480,1984,RUS,128,Russia,RUS
+A. Chernin,2475,1984,RUS,131,Russia,RUS
+V.S. Eingorn,2475,1984,RUS,132,Russia,RUS
+Gen. Timoshchenko,2475,1984,RUS,142,Russia,RUS
+A. Vaiser,2475,1984,RUS,143,Russia,RUS
+V.V. Vorotnikov,2475,1984,RUS,145,Russia,RUS
+B. Gulko,2470,1984,RUS,149,Russia,RUS
+B. Gurgenidze,2470,1984,RUS,150,Russia,RUS
+P. Korzubov,2470,1984,RUS,152,Russia,RUS
+A. Lukin,2470,1984,RUS,155,Russia,RUS
+A. Petrosian,2470,1984,RUS,157,Russia,RUS
+N. Rashkovsky,2470,1984,RUS,158,Russia,RUS
+E. Ubilava,2470,1984,RUS,162,Russia,RUS
+A. Vyzmanavin,2470,1984,RUS,163,Russia,RUS
+G. Zaitshik,2470,1984,RUS,164,Russia,RUS
+Y.L. Averbakh,2465,1984,RUS,166,Russia,RUS
+O. Averkin,2465,1984,RUS,167,Russia,RUS
+R. Kholmov,2465,1984,RUS,171,Russia,RUS
+A.A. Vitolinsh,2465,1984,RUS,181,Russia,RUS
+Y. Anikaev,2460,1984,RUS,183,Russia,RUS
+Z. Azmayparashvili,2460,1984,RUS,184,Russia,RUS
+O.L. Chernikov,2460,1984,RUS,186,Russia,RUS
+E. Pigusov,2460,1984,RUS,194,Russia,RUS
+A. Shneider,2460,1984,RUS,196,Russia,RUS
+E. Vasiukov,2460,1984,RUS,199,Russia,RUS
+L. Yudasin,2460,1984,RUS,201,Russia,RUS
+V.S. Zhidkov,2460,1984,RUS,202,Russia,RUS
+A. Kapengut,2455,1984,RUS,209,Russia,RUS
+A. Kharitonov,2455,1984,RUS,210,Russia,RUS
+A. Kochiyev,2455,1984,RUS,212,Russia,RUS
+V. Osnos,2455,1984,RUS,214,Russia,RUS
+S. Palatnik,2455,1984,RUS,215,Russia,RUS
+B. Vladimirov,2455,1984,RUS,220,Russia,RUS
+B. Kogan,2450,1984,RUS,228,Russia,RUS
+Ney,2450,1984,RUS,230,Russia,RUS
+A.N. Panchenko,2450,1984,RUS,231,Russia,RUS
+Podgaets,2450,1984,RUS,232,Russia,RUS
+Sturua,2450,1984,RUS,235,Russia,RUS
+An. Bykhovsky,2445,1984,RUS,241,Russia,RUS
+S. Gorelov,2445,1984,RUS,246,Russia,RUS
+E. Kengis,2445,1984,RUS,249,Russia,RUS
+I. Polovodin,2445,1984,RUS,256,Russia,RUS
+Savon,2445,1984,RUS,259,Russia,RUS
+P. Kondratiev,2440,1984,RUS,275,Russia,RUS
+Petkevich,2440,1984,RUS,279,Russia,RUS
+V. Salov,2440,1984,RUS,284,Russia,RUS
+D. Bronstein,2435,1984,RUS,293,Russia,RUS
+V.A. Kozlov,2435,1984,RUS,300,Russia,RUS
+E. Mnatsakanian,2435,1984,RUS,304,Russia,RUS
+Al. Khassin,2430,1984,RUS,329,Russia,RUS
+Y. Klovan,2430,1984,RUS,330,Russia,RUS
+E. Magerramov,2430,1984,RUS,332,Russia,RUS
+A. Veingold,2430,1984,RUS,340,Russia,RUS
+S.N. Yuferov,2430,1984,RUS,342,Russia,RUS
+A.V. Cherepkov,2425,1984,RUS,347,Russia,RUS
+L. Eolian,2425,1984,RUS,351,Russia,RUS
+V.Z. Faibisovich,2425,1984,RUS,352,Russia,RUS
+A.V. Ivanov,2425,1984,RUS,354,Russia,RUS
+L. Oll,2425,1984,RUS,357,Russia,RUS
+M. Gurevich,2420,1984,RUS,384,Russia,RUS
+A. Kosikov,2420,1984,RUS,389,Russia,RUS
+Maiorov,2420,1984,RUS,392,Russia,RUS
+Mikadze,2420,1984,RUS,395,Russia,RUS
+E. Mochalov,2420,1984,RUS,396,Russia,RUS
+I.A. Novikov,2420,1984,RUS,399,Russia,RUS
+A.I. Petrushin,2420,1984,RUS,401,Russia,RUS
+A. Yermolinsky,2420,1984,RUS,414,Russia,RUS
+P. Zarubin,2420,1984,RUS,415,Russia,RUS
+B.A. Zlotnik,2420,1984,RUS,416,Russia,RUS
+O.I. Dziuban,2415,1984,RUS,421,Russia,RUS
+H. Karner,2415,1984,RUS,432,Russia,RUS
+V.N. Kozlov,2415,1984,RUS,433,Russia,RUS
+Shereshevsky,2415,1984,RUS,442,Russia,RUS
+A.J. Butnoris,2410,1984,RUS,451,Russia,RUS
+A.M. Kremenietsky,2410,1984,RUS,462,Russia,RUS
+A.S. Lutikov,2410,1984,RUS,464,Russia,RUS
+A. Malevinsky,2410,1984,RUS,465,Russia,RUS
+Mariasin,2410,1984,RUS,466,Russia,RUS
+Y.N. Popov,2410,1984,RUS,471,Russia,RUS
+V.M. Arbakov,2405,1984,RUS,476,Russia,RUS
+K.A. Grigorian,2405,1984,RUS,484,Russia,RUS
+A.S. Suetin,2405,1984,RUS,508,Russia,RUS
+N.I. Andrianov,2400,1984,RUS,509,Russia,RUS
+Kotz,2400,1984,RUS,520,Russia,RUS
+I.A. Zaitsev,2400,1984,RUS,539,Russia,RUS
+N.R. Zilberman,2400,1984,RUS,541,Russia,RUS
+I. Glek,2395,1984,RUS,553,Russia,RUS
+L. Gofstein,2395,1984,RUS,554,Russia,RUS
+D. Kaiumov,2395,1984,RUS,558,Russia,RUS
+K.N. Aseev,2390,1984,RUS,585,Russia,RUS
+A. Huzman,2390,1984,RUS,598,Russia,RUS
+G. Kaidanov,2390,1984,RUS,601,Russia,RUS
+A. Kudrashov,2390,1984,RUS,606,Russia,RUS
+Vl. Muratov,2390,1984,RUS,611,Russia,RUS
+M. Ruderfer,2390,1984,RUS,618,Russia,RUS
+R.N. Vasiliev,2390,1984,RUS,627,Russia,RUS
+Vooremaa,2390,1984,RUS,628,Russia,RUS
+L.A. Belov,2385,1984,RUS,636,Russia,RUS
+M.G. Chiburdanidze,2385,1984,RUS,639,Russia,RUS
+A. Glianietz,2385,1984,RUS,643,Russia,RUS
+A. Novopashin,2385,1984,RUS,649,Russia,RUS
+Y. Shabanov,2385,1984,RUS,655,Russia,RUS
+Shashin,2385,1984,RUS,656,Russia,RUS
+L. Yurtaev,2385,1984,RUS,661,Russia,RUS
+V. Baikov,2380,1984,RUS,663,Russia,RUS
+B. Kantsler,2380,1984,RUS,680,Russia,RUS
+Semeniuk,2380,1984,RUS,698,Russia,RUS
+Shpilker,2380,1984,RUS,699,Russia,RUS
+D. Gedevanishvili,2375,1984,RUS,711,Russia,RUS
+V.I. Karasev,2375,1984,RUS,722,Russia,RUS
+A. Zakharov,2375,1984,RUS,741,Russia,RUS
+N. Alexandria,2370,1984,RUS,743,Russia,RUS
+A. Filipenko,2370,1984,RUS,756,Russia,RUS
+Nisman,2370,1984,RUS,768,Russia,RUS
+Uusi,2370,1984,RUS,779,Russia,RUS
+V.I. Zilberstein,2370,1984,RUS,786,Russia,RUS
+S. Arkhipov,2365,1984,RUS,788,Russia,RUS
+A.R. Bitman,2365,1984,RUS,790,Russia,RUS
+A. Kuzmin,2365,1984,RUS,808,Russia,RUS
+Z. Lanka,2365,1984,RUS,809,Russia,RUS
+V. Loginov,2365,1984,RUS,811,Russia,RUS
+Taborov,2365,1984,RUS,829,Russia,RUS
+A. Donchenko,2360,1984,RUS,843,Russia,RUS
+V. Gusev,2360,1984,RUS,847,Russia,RUS
+M.A. Berkovich,2355,1984,RUS,874,Russia,RUS
+Goljak,2355,1984,RUS,884,Russia,RUS
+A. Kakageldyev,2355,1984,RUS,889,Russia,RUS
+V. Kuporosov,2355,1984,RUS,895,Russia,RUS
+Malczev,2355,1984,RUS,898,Russia,RUS
+Peshina,2355,1984,RUS,905,Russia,RUS
+F.I. Sideif-Sade,2355,1984,RUS,916,Russia,RUS
+S. Smagin,2355,1984,RUS,919,Russia,RUS
+L.D. Zaid,2355,1984,RUS,927,Russia,RUS
+Butorin,2350,1984,RUS,933,Russia,RUS
+M. Nepomnishay,2350,1984,RUS,961,Russia,RUS
+V. Varlamov,2350,1984,RUS,979,Russia,RUS
+Scher,2345,1984,RUS,1014,Russia,RUS
+A. Yunieyv,2345,1984,RUS,1021,Russia,RUS
+G. Georgadze,2340,1984,RUS,1038,Russia,RUS
+Taruffi,2340,1984,RUS,1061,Russia,RUS
+Tuzovsky,2340,1984,RUS,1064,Russia,RUS
+V.V. Zhelnin,2340,1984,RUS,1070,Russia,RUS
+K. Agapov,2335,1984,RUS,1071,Russia,RUS
+V. Bykov,2335,1984,RUS,1079,Russia,RUS
+L. Kaplun,2335,1984,RUS,1098,Russia,RUS
+N. Gaprindashvili,2330,1984,RUS,1143,Russia,RUS
+A. Guseinov,2330,1984,RUS,1150,Russia,RUS
+I. Naumkin,2325,1984,RUS,1226,Russia,RUS
+W. Serrano,2325,1984,RUS,1239,Russia,RUS
+S. Kalinichev,2320,1984,RUS,1277,Russia,RUS
+Shestakov,2320,1984,RUS,1304,Russia,RUS
+A. Deev,2315,1984,RUS,1328,Russia,RUS
+S. Galakhov,2310,1984,RUS,1382,Russia,RUS
+G. Pres,2310,1984,RUS,1416,Russia,RUS
+V.S. Antoshin,2305,1984,RUS,1440,Russia,RUS
+Dommes,2305,1984,RUS,1456,Russia,RUS
+S.T. Pinchuk,2305,1984,RUS,1496,Russia,RUS
+A. Tavadian,2305,1984,RUS,1509,Russia,RUS
+E.B. Akhmilovskaya,2300,1984,RUS,1522,Russia,RUS
+S. Birjukov,2300,1984,RUS,1525,Russia,RUS
+A. Genin,2300,1984,RUS,1536,Russia,RUS
+B. Itkis,2300,1984,RUS,1551,Russia,RUS
+R. Korsunsky,2300,1984,RUS,1557,Russia,RUS
+V. Ivanov,2295,1984,RUS,1618,Russia,RUS
+O. Karpeshov,2295,1984,RUS,1620,Russia,RUS
+F. Levin,2295,1984,RUS,1633,Russia,RUS
+A.V. Lisenko,2295,1984,RUS,1634,Russia,RUS
+B. Nevednichy,2295,1984,RUS,1640,Russia,RUS
+M.V. Novikov,2295,1984,RUS,1641,Russia,RUS
+A. Shmirin,2295,1984,RUS,1655,Russia,RUS
+N. Ioseliani,2290,1984,RUS,1702,Russia,RUS
+Kokkinos,2290,1984,RUS,1706,Russia,RUS
+E. Barkovsky,2285,1984,RUS,1755,Russia,RUS
+Meshkov,2285,1984,RUS,1805,Russia,RUS
+Bagaturov,2280,1984,RUS,1845,Russia,RUS
+S. Ionov,2280,1984,RUS,1877,Russia,RUS
+M. Litinskaya-Shul,2280,1984,RUS,1889,Russia,RUS
+Romanchenko,2280,1984,RUS,1908,Russia,RUS
+Vetemaa,2280,1984,RUS,1917,Russia,RUS
+T. Vakhidov,2275,1984,RUS,1994,Russia,RUS
+Slutzky,2270,1984,RUS,2088,Russia,RUS
+Bakhchevansky,2265,1984,RUS,2111,Russia,RUS
+P. Gaprindashvili,2265,1984,RUS,2131,Russia,RUS
+Mamatov,2265,1984,RUS,2159,Russia,RUS
+V. Shishkov,2265,1984,RUS,2183,Russia,RUS
+S. Kishnev,2260,1984,RUS,2256,Russia,RUS
+Via. Agzamov,2255,1984,RUS,2322,Russia,RUS
+G. Bogdanovici,2255,1984,RUS,2329,Russia,RUS
+A. Chistiakov,2255,1984,RUS,2332,Russia,RUS
+Survila,2255,1984,RUS,2405,Russia,RUS
+V. Levchenkov,2250,1984,RUS,2470,Russia,RUS
+I.S. Levitina,2245,1984,RUS,2562,Russia,RUS
+Y. Dokhoian,2240,1984,RUS,2640,Russia,RUS
+Ruban,2240,1984,RUS,2699,Russia,RUS
+Sabirov,2240,1984,RUS,2702,Russia,RUS
+V. Shushpanov,2240,1984,RUS,2711,Russia,RUS
+V. Leonidov,2235,1984,RUS,2764,Russia,RUS
+Trofimov,2235,1984,RUS,2808,Russia,RUS
+D. Zilberstein,2235,1984,RUS,2818,Russia,RUS
+Kveinis,2230,1984,RUS,2874,Russia,RUS
+N.D. Gurieli,2225,1984,RUS,2971,Russia,RUS
+Kalinsky,2220,1984,RUS,3082,Russia,RUS
+R. Dautov,2215,1984,RUS,3161,Russia,RUS
+B. Asanov,2210,1984,RUS,3240,Russia,RUS
+Gagarin,2210,1984,RUS,3264,Russia,RUS
+L.K. Semenova,2210,1984,RUS,3305,Russia,RUS
+J. Zotkin,2210,1984,RUS,3322,Russia,RUS
+Khropov,2205,1984,RUS,3384,Russia,RUS
+Ostrovsky,2200,1984,RUS,3503,Russia,RUS
+K. Skegina,2195,1984,RUS,3527,Russia,RUS
+L.A. Tsifanskaya,2180,1984,RUS,3530,Russia,RUS
+N. Ruchieva,2170,1984,RUS,3534,Russia,RUS
+R.I. Bilunova,2165,1984,RUS,3535,Russia,RUS
+T.M Chekhova-Kostina,2160,1984,RUS,3538,Russia,RUS
+M. Lazarevic,2160,1984,RUS,3541,Russia,RUS
+M. Zereteli,2155,1984,RUS,3543,Russia,RUS
+M. Ranniku,2145,1984,RUS,3545,Russia,RUS
+E.D. Epstein,2140,1984,RUS,3546,Russia,RUS
+Hugashvili,2140,1984,RUS,3547,Russia,RUS
+L.G. Zaitseva,2140,1984,RUS,3548,Russia,RUS
+O.S. Pedko,2135,1984,RUS,3549,Russia,RUS
+I. Ostry,2130,1984,RUS,3551,Russia,RUS
+T. Rubzova,2130,1984,RUS,3553,Russia,RUS
+L. Saunina,2130,1984,RUS,3554,Russia,RUS
+N.V. Alekhina,2120,1984,RUS,3560,Russia,RUS
+T.V. Fomina,2120,1984,RUS,3561,Russia,RUS
+S. Matveeva,2120,1984,RUS,3564,Russia,RUS
+Mulenko,2120,1984,RUS,3565,Russia,RUS
+L.L. Muchnik,2110,1984,RUS,3574,Russia,RUS
+E. Fatalibekova,2105,1984,RUS,3578,Russia,RUS
+T.E. Kasoshvili,2105,1984,RUS,3580,Russia,RUS
+T. Zatulovskaya,2105,1984,RUS,3583,Russia,RUS
+Z. Lelchuk,2100,1984,RUS,3587,Russia,RUS
+K. Melashvili,2100,1984,RUS,3588,Russia,RUS
+Grinfeld,2095,1984,RUS,3591,Russia,RUS
+E Belova-Bistriakova,2090,1984,RUS,3596,Russia,RUS
+R. Eidelson,2090,1984,RUS,3597,Russia,RUS
+T. Minogina,2090,1984,RUS,3601,Russia,RUS
+L. Piarnpuu,2085,1984,RUS,3608,Russia,RUS
+Popivoda,2085,1984,RUS,3609,Russia,RUS
+E. Stupina,2085,1984,RUS,3610,Russia,RUS
+N. Titorenko,2085,1984,RUS,3611,Russia,RUS
+I. Chelushkina,2080,1984,RUS,3613,Russia,RUS
+I. Eruslanova,2080,1984,RUS,3614,Russia,RUS
+Z. Kahabrishvili,2080,1984,RUS,3615,Russia,RUS
+Makarycheva Ostrovsk,2080,1984,RUS,3618,Russia,RUS
+T.V. Morosova,2080,1984,RUS,3619,Russia,RUS
+N.S. Zubova,2080,1984,RUS,3621,Russia,RUS
+K. Arakhamia,2070,1984,RUS,3626,Russia,RUS
+V. Kozlovskaya,2070,1984,RUS,3628,Russia,RUS
+L. Lubarskaya,2070,1984,RUS,3630,Russia,RUS
+T. Zagorskaya,2070,1984,RUS,3632,Russia,RUS
+E. Rosentalis,2065,1984,RUS,3636,Russia,RUS
+E.V. Bistrikova,2060,1984,RUS,3639,Russia,RUS
+L. Kulikova,2060,1984,RUS,3644,Russia,RUS
+Sternina,2060,1984,RUS,3648,Russia,RUS
+I. Yudasina,2060,1984,RUS,3650,Russia,RUS
+I. Bezyk,2055,1984,RUS,3652,Russia,RUS
+M.G. Zaitseva,2055,1984,RUS,3658,Russia,RUS
+A. Bykovsky,2050,1984,RUS,3660,Russia,RUS
+Polnarieva,2050,1984,RUS,3665,Russia,RUS
+G.N. Strutinskaya,2050,1984,RUS,3667,Russia,RUS
+T. Zivaeva,2050,1984,RUS,3668,Russia,RUS
+V. Baranova,2045,1984,RUS,3670,Russia,RUS
+Lopatina,2045,1984,RUS,3672,Russia,RUS
+Meskhi,2045,1984,RUS,3673,Russia,RUS
+T.N. Pudkova,2045,1984,RUS,3675,Russia,RUS
+E. Khorovets,2040,1984,RUS,3679,Russia,RUS
+E. Sedina,2040,1984,RUS,3683,Russia,RUS
+Fokina,2035,1984,RUS,3687,Russia,RUS
+Ignatieva,2035,1984,RUS,3689,Russia,RUS
+T. Skripova,2035,1984,RUS,3691,Russia,RUS
+K. Baginskaite,2030,1984,RUS,3692,Russia,RUS
+I. Son,2030,1984,RUS,3696,Russia,RUS
+O. Golubeva,2025,1984,RUS,3698,Russia,RUS
+E. Alieva,2020,1984,RUS,3703,Russia,RUS
+E. Balashova,2020,1984,RUS,3704,Russia,RUS
+M. Kinsingo(Sammul),2020,1984,RUS,3708,Russia,RUS
+V. Artamonova,2005,1984,RUS,3725,Russia,RUS
+R. Kartanaite,2005,1984,RUS,3730,Russia,RUS
+C.C. Bachareva,2000,1984,RUS,3735,Russia,RUS
+T. Bogumil,2000,1984,RUS,3736,Russia,RUS
+Chhaidze,2000,1984,RUS,3738,Russia,RUS
+Priedite,2000,1984,RUS,3739,Russia,RUS
+L. Dubilevskaya,1990,1984,RUS,3748,Russia,RUS
+Lagvilava,1990,1984,RUS,3752,Russia,RUS
+S. Mednikova,1985,1984,RUS,3764,Russia,RUS
+Meshjerina,1985,1984,RUS,3765,Russia,RUS
+G. Sakhatova,1985,1984,RUS,3768,Russia,RUS
+T. Belova,1980,1984,RUS,3770,Russia,RUS
+T.V. Voronova,1980,1984,RUS,3774,Russia,RUS
+E. Fakhirova,1975,1984,RUS,3777,Russia,RUS
+Hasanova,1975,1984,RUS,3780,Russia,RUS
+T. Kobaidze,1975,1984,RUS,3781,Russia,RUS
+Kantorovich,1970,1984,RUS,3795,Russia,RUS
+Semina,1965,1984,RUS,3813,Russia,RUS
+N. Umanskaia,1965,1984,RUS,3814,Russia,RUS
+L. Borisova,1955,1984,RUS,3828,Russia,RUS
+N. Agababian,1950,1984,RUS,3838,Russia,RUS
+Donchenko,1950,1984,RUS,3840,Russia,RUS
+N. Sheveleva,1950,1984,RUS,3842,Russia,RUS
+Jneva,1945,1984,RUS,3845,Russia,RUS
+S. Struchkova,1945,1984,RUS,3848,Russia,RUS
+V. Domkute,1940,1984,RUS,3850,Russia,RUS
+N. Putjatina,1940,1984,RUS,3858,Russia,RUS
+Moiseeva,1930,1984,RUS,3880,Russia,RUS
+E. Titova,1930,1984,RUS,3883,Russia,RUS
+Goldman,1920,1984,RUS,3898,Russia,RUS
+L. Ogloblina,1915,1984,RUS,3912,Russia,RUS
+Tverskaya,1910,1984,RUS,3928,Russia,RUS
+N. Botvinnik,1890,1984,RUS,3979,Russia,RUS
+A. Shestoperova,1890,1984,RUS,3985,Russia,RUS
+L. Kalashnikova,1880,1984,RUS,3999,Russia,RUS
+E. Kharkova,1880,1984,RUS,4000,Russia,RUS
+Matiushina,1880,1984,RUS,4002,Russia,RUS
+Goldina,1875,1984,RUS,4009,Russia,RUS
+Mangrjan,1875,1984,RUS,4013,Russia,RUS
+Nevednichaia,1875,1984,RUS,4015,Russia,RUS
+Tungalag,1875,1984,RUS,4018,Russia,RUS
+I. Absianidze,1870,1984,RUS,4020,Russia,RUS
+E. Gavrilova,1865,1984,RUS,4032,Russia,RUS
+Bludova,1860,1984,RUS,4041,Russia,RUS
+L. Khropova,1825,1984,RUS,4099,Russia,RUS
+L. Negrustueva,1825,1984,RUS,4102,Russia,RUS
+Sarkisova,1815,1984,RUS,4113,Russia,RUS
+Kureeva,1810,1984,RUS,4118,Russia,RUS
 V. Kortchnoi,2635,1984,SUI,3,Switzerland,CHE
 W. Hug,2435,1984,SUI,298,Switzerland,CHE
 Partos,2425,1984,SUI,358,Switzerland,CHE
