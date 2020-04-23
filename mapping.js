@@ -54,8 +54,15 @@ function makemap() {
                 })
                 .on('mouseover', function (d) {
                     d3.select(this).style('fill', 'orange')
+                    let text = ""
+                    if (d.stats.playerCount > 0){
+                        text = d.properties.NAME + ": " + d.stats.playerCount + " players." + " Top Player: " + d.stats.ratingName + ", " + d.stats.rating
+                    }
+                    else{
+                        text = d.properties.NAME + ": No Players"
+                    }
                     tooltip
-                        .text(d.properties.NAME + ": " + d.stats.playerCount + " players")
+                        .text(text)
                 })
                 .on('mousemove', function (d) {
                     tooltip.transition()
@@ -64,19 +71,10 @@ function makemap() {
                         .style("left", (d3.event.pageX - 20) + "px")
                         .style("top", (d3.event.pageY + 20) + "px");
                 })
-                .on('click', function (d) {
-                    let newSvg = d3.select("body").append("svg")
-                        .attr("width", 960)
-                        .attr("height", 450)
-                        .attr('id', 'countrySVG')
-                    console.log(newSvg)
-                    newSvg.append("g")
-                        .selectAll("path")
-                        .data(d.features)
-                        .enter()
-                        .append("path")
-                        .attr("d", path)
-                    // countryPlot(d)
+                .on('click', async function (d) {
+                    let stat = await getData(year, d.properties.ISO3)
+                    // console.log(stat.ratingName)
+                    countryPlot(year, d)
                 })
                 .on("mouseout", function (d) {
                     d3.select(this).style("fill", function (d) {
@@ -92,23 +90,14 @@ function makemap() {
         })
 }
 
-function countryPlot(country) {
-    // using the Eckert III projection
-    var projection = d3.geoEckert3()
-    // clipping out Antarctica and some of the Pacific
-    projection.clipExtent([[70, 0], [960, 400]])
-    // .scale(0.5)
-    // .translate([width / 2, height / 2])
-    var path = d3.geoPath().projection(projection)
-    console.log(country)
-    let newSvg = document.getElementById('countrySVG')
-    console.log(newSvg)
-    newSvg
-        .selectAll("path")
-        .data(country.features)
-        .enter()
-        .append("path")
-        .attr("d", path)
+async function countryPlot(year, country) {
+    let data = await getAllData(year, country.properties.ISO3)
+    console.log(data)
+    var text = country.properties.NAME + data[0].Name + data[0].Rating
+    var newpa = document.createElement("p")
+    var node = document.createTextNode(text)
+    newpa.appendChild(node)
+    document.body.append(newpa)
 }
 
 function updateSlider() {
@@ -124,7 +113,6 @@ function getData(year, country) {
         return new Promise(resolve => resolve(calculate(dataCache[year], country)))
     }
     else {
-        console.log("mist catch")
         return new Promise(resolve => {
             d3.csv("https://raw.githubusercontent.com/ecl2020/chess-data/master/data/weeks_data/" + String(year) + "withISO.txt",
                 function (error, data) {
@@ -134,6 +122,27 @@ function getData(year, country) {
                 })
         })
     }
+}
+
+let allCache = {}
+function getAllData(year, country) {
+    if (allCache[country]) {
+        return allCache[country];
+        // return new Promise(()=> {return allCache[country]})
+    }
+    return new Promise(() => {
+        for (let i = 1975; i < 2001; i++) {
+            d3.csv("https://raw.githubusercontent.com/ecl2020/chess-data/master/data/weeks_data/" + String(year) + "withISO.txt",
+                function (error, data) {
+                    if (error) throw console.error(error)
+                    let focus = data.filter(function (d) {
+                        return d.ISO3 == country
+                    })
+                    allCache[country] = focus
+                })
+            return allCache[country]
+        }
+    })
 }
 
 function calculate(data, country) {
